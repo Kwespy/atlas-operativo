@@ -1,0 +1,2 @@
+
+OB_002_Compresión_Por_Perdida_de_Resolucion

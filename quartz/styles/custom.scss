@@ -1,3 +1,25 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+/* Limpieza visual Atlas Operativo */
+
+/* Oculta el título automático de Quartz para evitar duplicación con el H1 de las notas */
+.article-title,
+h1.article-title {
+  display: none !important;
+}
+
+/* Oculta breadcrumbs tipo Home > 01_OPERACIONES > ... */
+.breadcrumb-container,
+.breadcrumbs,
+nav.breadcrumb-container {
+  display: none !important;
+}
+
+/* Opcional: oculta fecha y tiempo de lectura */
+.content-meta,
+p.content-meta {
+  display: none !important;
+}
+
