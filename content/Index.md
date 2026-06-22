@@ -28,6 +28,9 @@ Ahí entra el pintor híbrido: observa, selecciona, repite, detiene o continúa 
 - [[01_OPERACIONES/Captura_Recaptura_Transferencia/OB_011_Scanner_Portatil/011_FICHA/OB_011_Scanner_Portatil|OB_011_Scanner_Portatil]]
   Trabaja en: Formal · Crisis: Alta · Funciona: SI
 
+- [[01_OPERACIONES/Captura_Recaptura_Transferencia/OB_014_Fotografia_Termoimpresion/014_FICHA/OB_014_Fotografia_Termoimpresion|OB_014_Fotografia_Termoimpresion]]
+  Trabaja en: Formal · Crisis: Alta · Funciona: NO
+
 
 ### Color Tono Registro
 
