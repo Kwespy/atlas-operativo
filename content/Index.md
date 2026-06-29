@@ -72,4 +72,10 @@ Ahí entra el pintor híbrido: observa, selecciona, repite, detiene o continúa 
 
 - [[01_OPERACIONES/Superposicion_Espacio_Ambigüedad_Perceptiva/OB_012_Escala_y_Espacio/012_FICHA/OB_012_Escala_y_Espacio|OB_012_Escala_y_Espacio]]
   Trabaja en: Formal · Crisis: Alta · Funciona: SI
+
+
+### Traducción Reconstrucción de la imagen
+
+- [[01_OPERACIONES/Traducción_Reconstrucción_de_la_imagen/OB_015_Imagen_descrita_Fragmentada_Reconstruida/015_FICHA/OB_015_Imgen_descrita_Fragmentada_Reconstruida|OB_015_Imgen_descrita_Fragmentada_Reconstruida]]
+  Trabaja en: Formal · Crisis: Baja · Funciona: NO
 <!-- OPERACIONES_AUTO_END -->
