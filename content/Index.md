@@ -17,65 +17,59 @@ Ahí entra el pintor híbrido: observa, selecciona, repite, detiene o continúa 
 ## OPERACIONES  
   
 <!-- OPERACIONES_AUTO_START -->
-### Captura Recaptura Transferencia
+### Captura Materializacion
 
-- [[01_OPERACIONES/Captura_Recaptura_Transferencia/OB_001_Fotografia_de_pantalla/001_FICHA/OB_001_Fotografia_de_pantalla|OB_001 — Fotografía de pantalla]]
+- [[01_OPERACIONES/Captura_Materializacion/OB_001_Fotografia_de_pantalla/001_FICHA/OB_001_Fotografia_de_pantalla|OB_001 — Fotografía de pantalla]]
   Trabaja en: Formal · Crisis: Alta · Funciona: SI
 
-- [[01_OPERACIONES/Captura_Recaptura_Transferencia/OB_003_Impresion y Scaner degenerativo/003_FICHA/OB_003_Impresion y Scaner degenerativo|OB_003_Impresion y Scaner degenerativo]]
+- [[01_OPERACIONES/Captura_Materializacion/OB_003_Impresion y Scaner degenerativo/003_FICHA/OB_003_Impresion y Scaner degenerativo|OB_003_Impresion y Scaner degenerativo]]
   Trabaja en: Formal · Crisis: Baja · Funciona: SI
 
-- [[01_OPERACIONES/Captura_Recaptura_Transferencia/OB_011_Scanner_Portatil/011_FICHA/OB_011_Scanner_Portatil|OB_011_Scanner_Portatil]]
+- [[01_OPERACIONES/Captura_Materializacion/OB_011_Scanner_Portatil/011_FICHA/OB_011_Scanner_Portatil|OB_011_Scanner_Portatil]]
   Trabaja en: Formal · Crisis: Alta · Funciona: SI
 
-- [[01_OPERACIONES/Captura_Recaptura_Transferencia/OB_014_Fotografia_Termoimpresion/014_FICHA/OB_014_Fotografia_Termoimpresion|OB_014_Fotografia_Termoimpresion]]
+- [[01_OPERACIONES/Captura_Materializacion/OB_014_Fotografia_Termoimpresion/014_FICHA/OB_014_Fotografia_Termoimpresion|OB_014_Fotografia_Termoimpresion]]
   Trabaja en: Formal · Crisis: Alta · Funciona: NO
 
 
-### Color Tono Registro
+### Traduccion Sistemas Representación
 
-- [[01_OPERACIONES/Color_Tono_Registro/OB_004_Separación_canales_RGB/004_FICHA/OB_004_Separación canales RGB|OB_004_Separación canales RGB]]
-  Trabaja en: Estetico · Crisis: Media · Funciona: Forzandola
-
-- [[01_OPERACIONES/Color_Tono_Registro/OB_005_Desplazamiento_Exposicion/005_FICHA/OB_005_Desplazamiento_Exposicion|OB_005_Desplazamiento_Exposicion]]
-  Trabaja en: Estetico · Crisis: Media · Funciona: SI
-
-- [[01_OPERACIONES/Color_Tono_Registro/OB_010_Posterizacion/010_FICHA/OB_010_Posterizacion|OB_010_Posterizacion]]
-  Trabaja en: Estetico · Crisis: Baja · Funciona: NO Forzandola
+- [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_015_Imagen_descrita_Fragmentada_Reconstruida/015_FICHA/OB_015_Imgen_descrita_Fragmentada_Reconstruida|OB_015_Imgen_descrita_Fragmentada_Reconstruida]]
+  Trabaja en: Formal · Crisis: Baja · Funciona: NO
 
 
-### Interfaz Maquina Cuerpo
+### Transformacion Algoritmica
 
-- [[01_OPERACIONES/Interfaz_Maquina_Cuerpo/OB_009_Pintura_Digital/009_FICHA/OB_009_Pintura_Digital|OB_009_Pintura_Digital]]
-  Trabaja en: Estetico · Crisis: Media · Funciona: SI
-
-
-### Resolucion Perdida Interferencia
-
-- [[01_OPERACIONES/Resolucion_Perdida_Interferencia/OB_002_Perdida_de_Resolucion/002_FICHA/OB_002_Compresión_Por_Perdida_de_Resolucion|OB_002 — Compresión_Por_Perdida_de_Resolucion]]
+- [[01_OPERACIONES/Transformacion_Algoritmica/OB_002_Perdida_de_Resolucion/002_FICHA/OB_002_Compresión_Por_Perdida_de_Resolucion|OB_002 — Compresión_Por_Perdida_de_Resolucion]]
   Trabaja en: Formal · Crisis: Media · Funciona: SI
 
-- [[01_OPERACIONES/Resolucion_Perdida_Interferencia/OB_008_Slicing_Reordenamiento/008_FICHA/OB_008_Slicing_Reordenamiento|OB_008_Slicing_Reordenamiento]]
-  Trabaja en: Estetico · Crisis: Alta · Funciona: NO
+- [[01_OPERACIONES/Transformacion_Algoritmica/OB_004_Separación_canales_RGB/004_FICHA/OB_004_Separación canales RGB|OB_004_Separación canales RGB]]
+  Trabaja en: Estetico · Crisis: Media · Funciona: Forzandola
 
-- [[01_OPERACIONES/Resolucion_Perdida_Interferencia/OB_013_Video_Compresion_Saturacion/013_FICHA/OB_013_Video_Compresion_Correcion_Color|OB_013_Video_Compresion_Saturacion]]
-  Trabaja en: Formal · Crisis: Alta · Funciona: SI
+- [[01_OPERACIONES/Transformacion_Algoritmica/OB_005_Desplazamiento_Exposicion/005_FICHA/OB_005_Desplazamiento_Exposicion|OB_005_Desplazamiento_Exposicion]]
+  Trabaja en: Estetico · Crisis: Media · Funciona: SI
 
-
-### Superposicion Espacio Ambigüedad Perceptiva
-
-- [[01_OPERACIONES/Superposicion_Espacio_Ambigüedad_Perceptiva/OB_006_Superposicion_Escala_Multiple/006_FICHA/OB_006_Superposicion_Escala_Multiple|OB_006_Superposicion_Escala_Multiple]]
+- [[01_OPERACIONES/Transformacion_Algoritmica/OB_006_Superposicion_Escala_Multiple/006_FICHA/OB_006_Superposicion_Escala_Multiple|OB_006_Superposicion_Escala_Multiple]]
   Trabaja en: Estetico · Crisis: Baja · Funciona: SI
 
-- [[01_OPERACIONES/Superposicion_Espacio_Ambigüedad_Perceptiva/OB_007_Logica_AND-OR-XOR/007_FICHA/OB_007_Logica_AND-OR-XOR|OB_007_Logica_AND-OR-XOR]]
+- [[01_OPERACIONES/Transformacion_Algoritmica/OB_007_Logica_AND-OR-XOR/007_FICHA/OB_007_Logica_AND-OR-XOR|OB_007_Logica_AND-OR-XOR]]
   Trabaja en: Estetico · Crisis: Alta · Funciona: NO
 
-- [[01_OPERACIONES/Superposicion_Espacio_Ambigüedad_Perceptiva/OB_012_Escala_y_Espacio/012_FICHA/OB_012_Escala_y_Espacio|OB_012_Escala_y_Espacio]]
+- [[01_OPERACIONES/Transformacion_Algoritmica/OB_008_Slicing_Reordenamiento/008_FICHA/OB_008_Slicing_Reordenamiento|OB_008_Slicing_Reordenamiento]]
+  Trabaja en: Estetico · Crisis: Alta · Funciona: NO
+
+- [[01_OPERACIONES/Transformacion_Algoritmica/OB_009_Pintura_Digital/009_FICHA/OB_009_Pintura_Digital|OB_009_Pintura_Digital]]
+  Trabaja en: Estetico · Crisis: Media · Funciona: SI
+
+- [[01_OPERACIONES/Transformacion_Algoritmica/OB_010_Posterizacion/010_FICHA/OB_010_Posterizacion|OB_010_Posterizacion]]
+  Trabaja en: Estetico · Crisis: Baja · Funciona: NO Forzandola
+
+- [[01_OPERACIONES/Transformacion_Algoritmica/OB_012_Escala_y_Espacio/012_FICHA/OB_012_Escala_y_Espacio|OB_012_Escala_y_Espacio]]
   Trabaja en: Formal · Crisis: Alta · Funciona: SI
 
+- [[01_OPERACIONES/Transformacion_Algoritmica/OB_013_Video_Compresion_Saturacion/013_FICHA/OB_013_Video_Compresion_Correcion_Color|OB_013_Video_Compresion_Saturacion]]
+  Trabaja en: Formal · Crisis: Alta · Funciona: SI
 
-### Traducción Reconstrucción de la imagen
-
-- [[01_OPERACIONES/Traducción_Reconstrucción_de_la_imagen/OB_015_Imagen_descrita_Fragmentada_Reconstruida/015_FICHA/OB_015_Imgen_descrita_Fragmentada_Reconstruida|OB_015_Imgen_descrita_Fragmentada_Reconstruida]]
-  Trabaja en: Formal · Crisis: Baja · Funciona: NO
+- [[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_FICHA/OB_016_Desplazamiento_por_franjas|OB_016_Desplazamiento_por_franjas]]
+  Trabaja en: Estetico · Crisis: Media · Funciona: SI
 <!-- OPERACIONES_AUTO_END -->

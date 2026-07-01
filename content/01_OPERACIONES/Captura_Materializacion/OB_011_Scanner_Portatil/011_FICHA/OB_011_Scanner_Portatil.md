@@ -51,40 +51,40 @@ Se escaneo con el escaner portatel el objeto primer para tratar un reconocimient
 ## 4. Secuencia visual
 
 ### Step 01
-![[OB011_step01.jpg|200]]
+![[OB011_step01.JPG|200]]
 
 ### Step 02
-![[OB011_step02.jpg|200]]
+![[OB011_step02.JPG|200]]
 
 ### Step 03
-![[OB011_step03.jpg|200]]
+![[OB011_step03.JPG|200]]
 
 ### Step 04
-![[OB011_step04.jpg|200]]
+![[OB011_step04.JPG|200]]
 
 ### Step 05
-![[OB011_step05.jpg|200]]
+![[OB011_step05.JPG|200]]
 
 ### Step 06
-![[OB011_step06.jpg|200]]
+![[OB011_step06.JPG|200]]
 
 ### Step 07
-![[OB011_step07.jpg|200]]
+![[OB011_step07.JPG|200]]
 
 ### Step 08
-![[OB011_step08.jpg|200]]
+![[OB011_step08.JPG|200]]
 
 ### Step 09
-![[OB011_step09.jpg|200]]
+![[OB011_step09.JPG|200]]
 
 ### Step 10
-![[OB011_step10.jpg|200]]
+![[OB011_step10.JPG|200]]
 
 ### Step 11
-![[OB011_step11.jpg|200]]
+![[OB011_step11.JPG|200]]
 
 ### Step 12
-![[OB011_step12.jpg|200]]
+![[OB011_step12.JPG|200]]
 
 
 ---
