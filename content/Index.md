@@ -4,11 +4,15 @@ title: Atlas Operativo
 
 # Atlas Operativo
 
-Este Atlas reúne operaciones visuales desarrolladas dentro de una investigación sobre pintura híbrida, fricción técnica y producción de imagen. No presenta obras terminadas, sino pruebas donde la imagen es desviada, recapturada, comprimida, degradada o transformada hasta empezar a perder estabilidad.
+El Atlas Operativo reúne operaciones técnicas diseñadas para investigar cómo una imagen cambia al ser sometida a distintos regímenes de transformación.
 
-Cada operación trabaja con imágenes técnicas —pantallas, archivos digitales, video, cámaras, compresión, recaptura— junto a procedimientos pictóricos, para llevarlas hacia una zona de crisis: un momento fronterizo entre legibilidad e ilegibilidad, entre reconocimiento y pérdida.
+Cada operación funciona como un experimento. En lugar de producir una obra terminada, busca observar cómo una transformación específica modifica la estructura visual de la imagen y qué crisis perceptivas aparecen durante ese proceso.
 
-Ahí entra el pintor híbrido: observa, selecciona, repite, detiene o continúa la operación. La pintura aparece entonces como una forma de decisión, una manera de leer cuándo la imagen deja de funcionar solo como archivo o representación y empieza a actuar como materia pictórica: color, contorno, ruido, superficie, figura y fondo en tensión.
+Las operaciones se organizan según cuatro regímenes de transformación: transformación algorítmica, captura y materialización, traducción entre sistemas de representación e intervención material directa. Cada régimen agrupa procedimientos diferentes, pero unidos por un mismo principio de transformación.
+
+El objetivo del Atlas es construir un repertorio operativo que permita comparar, documentar y seleccionar transformaciones capaces de llevar la imagen hacia estados de inestabilidad, donde forma, color, contorno, espacio, reconocimiento y percepción dejan de comportarse de manera estable.
+
+El Atlas no es una colección de obras, sino una herramienta metodológica para desarrollar una práctica de pintura híbrida basada en la experimentación sistemática con imágenes.
 
 
 ------------------
