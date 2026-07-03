@@ -44,6 +44,9 @@ El Atlas no es una colección de obras, sino una herramienta metodológica para 
 - [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_015_Imagen_descrita_Fragmentada_Reconstruida/015_FICHA/OB_015_Imagen_descrita_Fragmentada_Reconstruida|OB_015_Imagen_descrita_Fragmentada_Reconstruida]]
   Trabaja en: Formal · Crisis: Baja · Funciona: NO
 
+- [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_018_Traduccion_a_Matriz_ASCII/018_FICHA/OB_018_Traduccion_a_Matriz_ASCII|OB_018_Traduccion_a_Matriz_ASCII]]
+  Trabaja en: Formal · Crisis: Media · Funciona: SI
+
 
 ### Transformacion Algoritmica
 
