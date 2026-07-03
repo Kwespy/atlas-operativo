@@ -8,7 +8,7 @@ Estado:: [[Terminada]]
 ## 1. Datos de la operación
 
 **Número interno:** OB_006_Superposicion_Escala_Multiple  
-**Familia operativa:** [[00_Lista_Superposicion_Espacio_Ambigüedad_Perceptiva]]  
+**Régimen operativo:** [[Lista_Transformacion_Algoritmica]]  
 **Imagen de origen:**  Fotografia tomada del natural
 
 **Descripción operativa:**  
@@ -19,12 +19,12 @@ Pendiente.
 ## 2. Herramientas y procedimiento
 
 **Herramientas / medio:**  
-- 
+- Photoshop
 - 
 - 
 
 **Procedimiento técnico:**  
-1. 
+1. Copiar y pegar sucesivamente la imagen input
 2. 
 3. 
 4. 
@@ -35,7 +35,7 @@ Pendiente.
 ## 3. Variables
 
 **Variables controladas:**  
-- 
+- El diagrama de la composición
 - 
 - 
 

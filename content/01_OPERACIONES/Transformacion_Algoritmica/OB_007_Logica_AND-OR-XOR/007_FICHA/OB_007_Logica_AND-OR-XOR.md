@@ -8,7 +8,7 @@ Estado:: [[Terminada]]
 ## 1. Datos de la operación
 
 **Número interno:** OB_007_Logica_AND-OR-XOR
-**Familia operativa:** [[00_Lista_Superposicion_Espacio_Ambigüedad_Perceptiva]]
+**Régimen operativo:** [[Lista_Transformacion_Algoritmica]]
 
 **Imagen de origen:**  
 Fotografía del natural

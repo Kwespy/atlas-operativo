@@ -35,10 +35,13 @@ El Atlas no es una colección de obras, sino una herramienta metodológica para 
 - [[01_OPERACIONES/Captura_Materializacion/OB_014_Fotografia_Termoimpresion/014_FICHA/OB_014_Fotografia_Termoimpresion|OB_014_Fotografia_Termoimpresion]]
   Trabaja en: Formal · Crisis: Alta · Funciona: NO
 
+- [[01_OPERACIONES/Captura_Materializacion/OB_017_Captura_con_Obstruccion/017_FICHA/OB_017_Captura_con_Obstruccion|OB_017_Captura_con_Obstruccion]]
+  Trabaja en: Formal · Crisis: Alta · Funciona: SI
+
 
 ### Traduccion Sistemas Representación
 
-- [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_015_Imagen_descrita_Fragmentada_Reconstruida/015_FICHA/OB_015_Imgen_descrita_Fragmentada_Reconstruida|OB_015_Imgen_descrita_Fragmentada_Reconstruida]]
+- [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_015_Imagen_descrita_Fragmentada_Reconstruida/015_FICHA/OB_015_Imagen_descrita_Fragmentada_Reconstruida|OB_015_Imagen_descrita_Fragmentada_Reconstruida]]
   Trabaja en: Formal · Crisis: Baja · Funciona: NO
 
 

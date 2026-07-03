@@ -8,7 +8,7 @@ Estado:: [[Terminada]]
 ## 1. Datos de la operación
 
 **Número interno:** OB_005  
-**Familia operativa:** [[OB_005_Desplazamiento_Exposicion]]  
+**Régimen operativo:** [[Lista_Transformacion_Algoritmica]]  
 **Imagen de origen:**  Fotogafia del natural
 
 **Descripción operativa:**  

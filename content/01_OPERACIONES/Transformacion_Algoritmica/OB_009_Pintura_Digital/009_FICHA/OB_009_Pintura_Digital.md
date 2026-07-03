@@ -8,7 +8,7 @@ Estado:: [[Terminada]]
 ## 1. Datos de la operación
 
 **Número interno:** OB_OB_009_Pintura_Digital
-**Familia operativa:** [[00_Lista_Interfaz_Maquina_Cuerpo]]  
+**Régimen operativo:** [[Lista_Transformacion_Algoritmica]]  
 **Imagen de origen:**  Representación del natural
 
 **Descripción operativa:**  

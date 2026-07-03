@@ -8,7 +8,7 @@ Estado:: [[Terminada]]
 ## 1. Datos de la operación
 
 **Número interno:** OB_002  
-**Familia operativa:** [[00_Lista_Resolucion_Perdida_Interferencia|Resolución y perdida]]  
+**Régimen operativo:** [[Lista_Transformacion_Algoritmica]]  
 **Imagen de origen:**  Fotografía tomada del natural
 
 **Descripción operativa:**  

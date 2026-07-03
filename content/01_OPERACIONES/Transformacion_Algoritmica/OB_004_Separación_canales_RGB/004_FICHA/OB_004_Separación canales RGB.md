@@ -6,7 +6,7 @@ Estado:: [[Terminada]]
 ## 1. Datos de la operación
 
 **Número interno:** OB_004
-**Familia operativa:** [[00_Lista_Color_Tono_Registro]]  
+**Régimen operativo:** [[Lista_Transformacion_Algoritmica]]  
 **Imagen de origen:**  Fotografía del natural
 
 **Descripción operativa:**  

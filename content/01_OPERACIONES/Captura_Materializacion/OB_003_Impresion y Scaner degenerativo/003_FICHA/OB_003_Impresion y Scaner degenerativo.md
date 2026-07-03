@@ -7,7 +7,7 @@ Estado:: [[Terminada]]
 ## 1. Datos de la operación
 
 **Número interno:** OB_003_
-**Familia operativa:** [[00_Lista_Captura_Recaptura_Transferencia]]  
+**Régimen operativo:** [[Lista_Captura_Materializacion]]  
 **Imagen de origen:**  Fotografía tomada del natural
 
 **Descripción operativa:**  

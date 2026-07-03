@@ -1,4 +1,4 @@
-# OB_015_Imgen_descrita_Fragmentada_Reconstruida
+# OB_015_Imagen_descrita_Fragmentada_Reconstruida
 
 ## Estado
 Estado:: [[Terminada]]
@@ -8,7 +8,7 @@ Estado:: [[Terminada]]
 ## 1. Datos de la operación
 
 **Número interno:** OB_15 
-**Familia operativa:** [[00_Lista_Traducción_Reconstrucción_de_la_imagen]]  
+**Régimen operativo:** [[Lista_Traduccion_Sistemas_Representacion]]  
 **Imagen de origen:**  Fotografía del natural
 
 **Descripción operativa:**  
