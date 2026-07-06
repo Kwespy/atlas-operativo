@@ -57,28 +57,28 @@ Prompt: Genera una imagen usando únicamente el siguiente texto desordenado como
 ![[OB015_input.jpg|200]]
 
 ### Step 01
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step01.jpg|200]]
+![[OB015_step01|200]]
 
 ### Step 02
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step02.jpg|200]]
+![[OB015_step02.jpg|200]]
 
 ### Step 03
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step03.jpg|200]]
+![[OB015_step03.jpg|200]]
 
 ### Step 04
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step04.jpg|200]]
+![[OB015_step04.jpg|200]]
 
 ### Step 05
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step05.jpg|200]]
+![[OB015_step05.jpg|200]]
 
 ### Step 06
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step06.jpg|200]]
+![[OB015_step06.jpg|200]]
 
 ### Step 07
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step07.jpg|200]]
+![[OB015_step07.jpg|200]]
 
 ### Step 08
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step08.jpg|200]]
+![[OB015_step08.jpg|200]]
 
 
 ---
