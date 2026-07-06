@@ -332,9 +332,10 @@ Seleccion:: [[Combinable]] / [[Guardar]]
 
 ### Referente artístico posible
 
-Referente:: [[Jacqueline Humphries]], [[Liz Deschenes]]
-
+Referente:: [[Jacqueline Humphries]], [[Liz Deschenes]], [[Christiane Baumgartner]]
 **Obras posibles:**  
 - [Jacqueline Humphries](https://www.artsy.net/artwork/jacqueline-humphries-1)
 
 - [Liz Deschenes](https://whitney.org/collection/works/40395)
+- [Christiane Baumgartner — Transall](https://www.google.com/search?q=Christiane+Baumgartner+%E2%80%94+Transall&sca_esv=4b04a474141781e0&rlz=1C5CHFA_enPT1033PT1033&udm=2&biw=948&bih=915&sxsrf=APpeQnt81iRuk1w4-gMrONJgAzvfpFjBzA%3A1783360128257&ei=gOpLatujD8iFi-gPpfWTsAY&ved=0ahUKEwjb482Xzr6VAxXIwgIHHaX6BGYQ4dUDCBE&oq=Christiane+Baumgartner+%E2%80%94+Transall&gs_lp=Egtnd3Mtd2l6LWltZyIjQ2hyaXN0aWFuZSBCYXVtZ2FydG5lciDigJQgVHJhbnNhbGxIy4YDUOf9Aljn_QJwBXgAkAEAmAFkoAFkqgEDMC4xuAEMyAEA-AEC-AEBmAIAoAIAmAMAiAYBkgcAoAcMsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz-img#sv=CAMSURoyKhBlLWFxNmFwblUzTDE2cllNMg5hcTZhcG5VM0wxNnJZTToOaWlPa2ZYU0taRDBfNk0gBCoXCgFzEhBlLWFxNmFwblUzTDE2cllNGAEwARgHIOnEzYoJSggQARgBIAEoAQ)
+
