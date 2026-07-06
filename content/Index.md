@@ -6,23 +6,21 @@ title: Atlas Operativo
 
 El Atlas Operativo reúne operaciones técnicas diseñadas para investigar cómo una imagen cambia al ser sometida a distintos regímenes de transformación.
 
-Cada operación funciona como un experimento que busca observar cómo una transformación específica modifica tanto la estructura visual de la imagen como su modo de existencia.
-
 Las operaciones se organizan según cuatro regímenes de transformación:
 
-**Transformación algorítmica.** Operaciones realizadas mediante software, modelos generativos, compresión, automatización o procesamiento computacional. La imagen se modifica a través de reglas, cálculos, parámetros o sistemas que reorganizan su información visual.
+**TRANSFORMACIÓN ALGORÍTMICA** 
+Operaciones realizadas mediante software, modelos generativos, compresión, automatización o procesamiento computacional. La imagen se modifica a través de reglas, cálculos, parámetros o sistemas que reorganizan su información visual.
 
-**Captura y materialización.** Operaciones en las que una imagen es recapturada, impresa, escaneada, fotografiada o trasladada entre dispositivos y superficies. Cada cambio de soporte introduce pérdidas, interferencias, variaciones materiales y nuevas condiciones de visibilidad.
+**CAPTURA Y MATERIALIZACIÓN** 
+Operaciones en las que una imagen es recapturada, impresa, escaneada, fotografiada o trasladada entre dispositivos y superficies. Cada cambio de soporte introduce pérdidas, interferencias, variaciones materiales y nuevas condiciones de visibilidad.
 
-**Traducción entre sistemas de representación.** Operaciones que desplazan una imagen entre distintos lenguajes o formas de codificación, como imagen, texto, dato, instrucción, diagrama o imagen generada. La transformación ocurre en el paso entre sistemas que no conservan de manera equivalente la información original.
+**TRADUCCIÓN ENTRE SISTEMAS DE REPRESENTACIÓN** 
+Operaciones que desplazan una imagen entre distintos lenguajes o formas de codificación, como imagen, texto, dato, instrucción, diagrama o imagen generada. La transformación ocurre en el paso entre sistemas que no conservan de manera equivalente la información original.
 
-**Intervención material directa.** Operaciones realizadas físicamente sobre la imagen, su soporte o su superficie mediante pintura, dibujo, recorte, superposición, borrado, pliegue, transferencia o manipulación manual. La transformación incorpora la acción corporal, la materia y la resistencia del soporte.
+**INTERVENCIÓN MATERIAL DIRECTA** 
+Operaciones realizadas físicamente sobre la imagen, su soporte o su superficie mediante pintura, dibujo, recorte, superposición, borrado, pliegue, transferencia o manipulación manual. La transformación incorpora la acción corporal, la materia y la resistencia del soporte.
 
-Cada régimen agrupa procedimientos diferentes, unidos por el desplazamiento de la imagen entre dispositivos, lenguajes, soportes e informaciones de procedimiento.
-
-El objetivo del Atlas es construir un repertorio operativo que permita comparar, documentar y seleccionar transformaciones capaces de llevar la imagen hacia estados de inestabilidad. En estos estados pueden entrar en crisis su forma, color, contorno, espacio, reconocimiento y percepción, pero también su condición como imagen: qué información conserva, cómo circula, qué sistema la procesa y bajo qué forma vuelve a aparecer.
-
-El Atlas es una herramienta metodológica para el desarrollo de una práctica de pintura híbrida basada en la experimentación sistemática con imágenes y en la observación de sus transformaciones visuales, materiales y operativas.
+El objetivo del Atlas es construir un repertorio operativo que permita comparar, documentar y seleccionar transformaciones capaces de llevar la imagen hacia estados de inestabilidad. En estos estados pueden entrar en crisis su forma, color, contorno, espacio, reconocimiento y percepción, pero también su condición como imagen: qué información comunica, cómo circula, qué sistema la procesa y bajo qué forma vuelve a aparecer.
 
 Frente a tecnologías orientadas a estabilizar, optimizar y hacer reconocibles las imágenes, el Atlas utiliza la transformación como una forma de abrirlas a nuevas preguntas, relaciones y posibilidades de producción.
 
