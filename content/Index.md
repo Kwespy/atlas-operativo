@@ -4,6 +4,8 @@ title: Atlas Operativo
 
 # Atlas Operativo
 
+El Atlas Operativo reúne operaciones técnicas diseñadas para investigar cómo una imagen cambia al ser sometida a distintos regímenes de transformación.
+
 Cada operación funciona como un experimento que busca observar cómo una transformación específica modifica tanto la estructura visual de la imagen como su modo de existencia.
 
 Las operaciones se organizan según cuatro regímenes de transformación:
@@ -23,7 +25,6 @@ El objetivo del Atlas es construir un repertorio operativo que permita comparar,
 El Atlas es una herramienta metodológica para el desarrollo de una práctica de pintura híbrida basada en la experimentación sistemática con imágenes y en la observación de sus transformaciones visuales, materiales y operativas.
 
 Frente a tecnologías orientadas a estabilizar, optimizar y hacer reconocibles las imágenes, el Atlas utiliza la transformación como una forma de abrirlas a nuevas preguntas, relaciones y posibilidades de producción.
-
 
 ------------------
 
