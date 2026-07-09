@@ -62,6 +62,9 @@ Frente a tecnologías orientadas a estabilizar, optimizar y hacer reconocibles l
 - [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_018_Traduccion_a_Matriz_ASCII/018_FICHA/OB_018_Traduccion_a_Matriz_ASCII|OB_018_Traduccion_a_Matriz_ASCII]]
   Trabaja en: Formal · Crisis: Media · Funciona: SI
 
+- [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_020_Matriz_Topografica/020_FICHA/OB_020_Matriz_Topografica|OB_020_Matriz_Topografica]]
+  Trabaja en: Formal · Crisis: Media · Funciona: SI
+
 
 ### Transformacion Algoritmica
 

@@ -12,7 +12,7 @@ Estado:: [[Pendiente]] [[Proceso]] [[Terminada]]
 **Imagen de origen:**  Imagen fotografiada pasada a Matriz Tonal
 
 **Descripción operativa:**  
-Imagen Raster se convierte en reticula tonal, reticula de 128x95 de 64 tonos.
+Imagen Raster se convierte en retícula tonal, retícula de 128x95 de 64 tonos.
 Los números de tonos se van intercambiando.
 
 ---
@@ -35,7 +35,7 @@ Los números de tonos se van intercambiando.
 
 ## 3. Variables
 
-Los tonos que se intercambian controladamente, hay una decisión pictórica en ello
+Los tonos que se intercambian controladamente, hay una decisión pictórica en ello. La cantidad de celdas y tamaño en la retícula.
 
 ---
 
