@@ -107,7 +107,9 @@ Pendiente.
 
 
 **Criterio:**  
-Pendiente.
+
+### Step 10
+![[OB023_step10.png]]
 
 ---
 
