@@ -26,28 +26,28 @@ Se crea un script para que cree linead topograficas segun volumen.
 ## 4. Secuencia visual
 
 ### Imagen inicial
-![[Input_001.jpg|200]]
+![[Input_001.jpg.webp|200]]
 
 ### Step 01
 ![[OB020_step01.png|200]]
 
 ### Step 02
-![[OB020_step02.png|200]]
+![[OB020_step02.png.webp|200]]
 
 ### Step 03
-![[OB020_step03.png|200]]
+![[OB020_step03.png.webp|200]]
 
 ### Step 04
-![[OB020_step04.png|200]]
+![[OB020_step04.png.webp|200]]
 
 ### Step 05
-![[OB020_step05.png|200]]
+![[OB020_step05.png.webp|200]]
 
 ### Step 06
-![[OB020_step06.png|200]]
+![[OB020_step06.png.webp|200]]
 
 ### Step 07
-![[OB020_step07.png|200]]
+![[OB020_step07.png.webp|200]]
 
 
 ---
@@ -58,13 +58,13 @@ Se crea un script para que cree linead topograficas segun volumen.
 
 
 ### Step 04
-![[OB020_step04.png]]
+![[OB020_step04.png.webp]]
 
 ### Crisis / umbral según mi percepción
 
 
 ### Step 05
-![[OB020_step05.png]]
+![[OB020_step05.png.webp]]
 
 ---
 

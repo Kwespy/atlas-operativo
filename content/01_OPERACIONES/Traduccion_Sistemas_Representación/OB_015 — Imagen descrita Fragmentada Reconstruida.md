@@ -59,31 +59,31 @@ Prompt: Genera una imagen usando únicamente el siguiente texto desordenado como
 ## 4. Secuencia visual
 
 ### Imagen inicial
-![[OB015_input.jpg|200]]
+![[OB015_input.jpg.webp|200]]
 
 ### Step 01
 ![[OB015_step01|200]]
 
 ### Step 02
-![[OB015_step02.jpg|200]]
+![[OB015_step02.jpg.webp.webp|200]]
 
 ### Step 03
-![[OB015_step03.jpg|200]]
+![[OB015_step03.jpg.webp.webp|200]]
 
 ### Step 04
-![[OB015_step04.jpg|200]]
+![[OB015_step04.jpg.webp.webp|200]]
 
 ### Step 05
-![[OB015_step05.jpg|200]]
+![[OB015_step05.jpg.webp.webp|200]]
 
 ### Step 06
-![[OB015_step06.jpg|200]]
+![[OB015_step06.jpg.webp.webp|200]]
 
 ### Step 07
-![[OB015_step07.jpg|200]]
+![[OB015_step07.jpg.webp.webp|200]]
 
 ### Step 08
-![[OB015_step08.jpg|200]]
+![[OB015_step08.jpg.webp.webp|200]]
 
 
 ---
@@ -93,13 +93,13 @@ Prompt: Genera una imagen usando únicamente el siguiente texto desordenado como
 ### Crisis / umbral según lectura asistida por IA / ChatGPT
 
 ### Step 08
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step08.jpg]]
+![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step08.jpg.webp.webp]]
 
 ### Crisis / umbral según mi percepción
 
 
 ### Step 07
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step07.jpg]]
+![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step07.jpg.webp.webp]]
 
 
 ---

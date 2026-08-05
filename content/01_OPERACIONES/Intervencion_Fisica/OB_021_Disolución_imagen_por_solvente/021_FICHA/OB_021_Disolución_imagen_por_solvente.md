@@ -41,37 +41,37 @@ El movimiento y azar del liquido. En que color la acetona va a actuar.
 ## 4. Secuencia visual
 
 ### Imagen inicial
-![[Input_001.jpg|200]]
+![[Input_001.jpg.webp|200]]
 
 ### Step 01
-![[OB021_step01.png|200]]
+![[OB021_step01.png.webp|200]]
 
 ### Step 02
-![[OB021_step02.png|200]]
+![[OB021_step02.png.webp|200]]
 
 ### Step 03
-![[OB021_step03.png|200]]
+![[OB021_step03.png.webp|200]]
 
 ### Step 04
-![[OB021_step04.png|200]]
+![[OB021_step04.png.webp|200]]
 
 ### Step 05
-![[OB021_step05.png|200]]
+![[OB021_step05.png.webp|200]]
 
 ### Step 06
-![[OB021_step06.png|200]]
+![[OB021_step06.png.webp|200]]
 
 ### Step 07
-![[OB021_step07.png|200]]
+![[OB021_step07.png.webp|200]]
 
 ### Step 08
-![[OB021_step08.png|200]]
+![[OB021_step08.png.webp|200]]
 
 ### Step 09
-![[OB021_step09.png|200]]
+![[OB021_step09.png.webp|200]]
 
 ### Step 10
-![[OB021_step10.png|200]]
+![[OB021_step10.png.webp|200]]
 
 
 ---
@@ -83,7 +83,7 @@ El movimiento y azar del liquido. En que color la acetona va a actuar.
 
 **Criterio:**  
 
-![[OB021_step07.png]]
+![[OB021_step07.png.webp]]
 
 
 ### Crisis / umbral según mi percepción
@@ -91,7 +91,7 @@ El movimiento y azar del liquido. En que color la acetona va a actuar.
 
 **Criterio:**  
 
-![[OB021_step09.png]]
+![[OB021_step09.png.webp]]
 
 ---
 

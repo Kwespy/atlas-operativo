@@ -50,7 +50,7 @@ Fotografía raster → cuantización tonal → matriz de caracteres → visualiz
 ## 4. Secuencia visual
 
 ### Imagen inicial
-![[Input_001.jpg|200]]
+![[Input_001.jpg.webp|200]]
 
 ### Step 01
 ![[OB018_step01.png|200]]

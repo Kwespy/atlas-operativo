@@ -58,37 +58,37 @@ Imprimir imagen luego escanear la impresión, repetir el proceso.
 ![[OB003_input.jpg|200]]
 
 ### Step 01
-![[OB003_Step01.jpg|200]]
+![[OB003_Step01.jpg.webp|200]]
 
 ### Step 02
-![[OB003_Step02.jpg|200]]
+![[OB003_Step02.jpg.webp|200]]
 
 ### Step 03
-![[OB003_Step03.jpg|200]]
+![[OB003_Step03.jpg.webp|200]]
 
 ### Step 04
-![[OB003_Step04.jpg|200]]
+![[OB003_Step04.jpg.webp|200]]
 
 ### Step 05
-![[OB003_Step05.jpg|200]]
+![[OB003_Step05.jpg.webp|200]]
 
 ### Step 06
-![[OB003_Step06.jpg|200]]
+![[OB003_Step06.jpg.webp|200]]
 
 ### Step 07
-![[OB003_Step07.jpg|200]]
+![[OB003_Step07.jpg.webp|200]]
 
 ### Step 08
-![[OB003_Step08.jpg|200]]
+![[OB003_Step08.jpg.webp|200]]
 
 ### Step 09
-![[OB003_Step09.jpg|200]]
+![[OB003_Step09.jpg.webp|200]]
 
 ### Step 10
-![[OB003_Step10.jpg|200]]
+![[OB003_Step10.jpg.webp|200]]
 
 ### Step 11
-![[OB003_Step11.jpg|200]]
+![[OB003_Step11.jpg.webp|200]]
 
 
 ---
@@ -98,11 +98,11 @@ Imprimir imagen luego escanear la impresión, repetir el proceso.
 ### Crisis / umbral según lectura asistida por IA / ChatGPT
 
 
-![[OB003_Step09.jpg]]
+![[OB003_Step09.jpg.webp]]
 
 ### Crisis / umbral según mi percepción
 
-![[OB003_Step07.jpg]]
+![[OB003_Step07.jpg.webp]]
 
 
 ---

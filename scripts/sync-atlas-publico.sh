@@ -63,6 +63,9 @@ find "$PUBLICO" \
 find "$PUBLICO" -name ".DS_Store" -delete
 find "$PUBLICO" -name "*.pyc" -delete
 
+echo "2.5. Optimizando imágenes para la web..."
+node "$QUARTZ/scripts/optimizar-imagenes-web.mjs" "$PUBLICO" "$QUARTZ/.image-cache"
+
 echo "3. Copiando ATLAS_WEB_PUBLICO hacia Quartz/content..."
 
 mkdir -p "$QUARTZ/content"

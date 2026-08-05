@@ -52,43 +52,43 @@ Con la app freeform de Ipone se representa rapidamente el objeto desde el natura
 ![[OB009_input.jpg|200]]
 
 ### Step 01
-![[OB009_Step01.jpg|200]]
+![[OB009_Step01.jpg.webp|200]]
 
 ### Step 02
-![[OB009_Step02.jpg|200]]
+![[OB009_Step02.jpg.webp|200]]
 
 ### Step 03
-![[OB009_Step03.jpg|200]]
+![[OB009_Step03.jpg.webp|200]]
 
 ### Step 04
-![[OB009_Step04.jpg|200]]
+![[OB009_Step04.jpg.webp|200]]
 
 ### Step 05
-![[OB009_Step05.jpg|200]]
+![[OB009_Step05.jpg.webp|200]]
 
 ### Step 06
-![[OB009_Step06.jpg|200]]
+![[OB009_Step06.jpg.webp|200]]
 
 ### Step 07
-![[OB009_Step07.jpg|200]]
+![[OB009_Step07.jpg.webp|200]]
 
 ### Step 08
-![[OB009_Step08.jpg|200]]
+![[OB009_Step08.jpg.webp|200]]
 
 ### Step 09
-![[OB009_Step09.jpg|200]]
+![[OB009_Step09.jpg.webp|200]]
 
 ### Step 10
-![[OB009_Step10.jpg|200]]
+![[OB009_Step10.jpg.webp|200]]
 
 ### Step 11
-![[OB009_Step11.jpg|200]]
+![[OB009_Step11.jpg.webp|200]]
 
 ### Step 12
-![[OB009_Step12.jpg|200]]
+![[OB009_Step12.jpg.webp|200]]
 
 ### Step 13
-![[OB009_Step13.jpg|200]]
+![[OB009_Step13.jpg.webp|200]]
 
 ---
 
@@ -97,12 +97,12 @@ Con la app freeform de Ipone se representa rapidamente el objeto desde el natura
 ### Crisis / umbral según lectura asistida por IA / ChatGPT
 
 
-![[OB009_Step05.jpg]]
+![[OB009_Step05.jpg.webp]]
 
 ### Crisis / umbral según mi percepción
 
 
-![[OB009_Step05.jpg]]
+![[OB009_Step05.jpg.webp]]
 
 ---
 

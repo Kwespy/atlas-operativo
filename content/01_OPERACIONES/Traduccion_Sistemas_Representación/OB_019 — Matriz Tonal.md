@@ -50,40 +50,40 @@ Los tonos que se intercambian controladamente, hay una decisión pictórica en e
 ![[OB019_input.png|200]]
 
 ### Step 01
-![[OB019_step01.png|200]]
+![[OB019_step01.png.webp|200]]
 
 ### Step 02
-![[OB019_step02.png|200]]
+![[OB019_step02.png.webp|200]]
 
 ### Step 03
-![[OB019_step03.png|200]]
+![[OB019_step03.png.webp|200]]
 
 ### Step 04
-![[OB019_step04.png|200]]
+![[OB019_step04.png.webp|200]]
 
 ### Step 05
-![[OB019_step05.png|200]]
+![[OB019_step05.png.webp|200]]
 
 ### Step 06
-![[OB019_step06.png|200]]
+![[OB019_step06.png.webp|200]]
 
 ### Step 07
-![[OB019_step07.png|200]]
+![[OB019_step07.png.webp|200]]
 
 ### Step 08
-![[OB019_step08.png|200]]
+![[OB019_step08.png.webp|200]]
 
 ### Step 09
-![[OB019_step09.png|200]]
+![[OB019_step09.png.webp|200]]
 
 ### Step 10
-![[OB019_step10.png|200]]
+![[OB019_step10.png.webp|200]]
 
 ### Step 11
-![[OB019_step11.png|200]]
+![[OB019_step11.png.webp|200]]
 
 ### Step 12
-![[OB019_step12.png|200]]
+![[OB019_step12.png.webp|200]]
 
 
 ---
@@ -94,13 +94,13 @@ Los tonos que se intercambian controladamente, hay una decisión pictórica en e
 
 
 ### Step 08
-![[OB019_step08.png]]
+![[OB019_step08.png.webp]]
 
 ### Crisis / umbral según mi percepción
 
 
 ### Step 10
-![[OB019_step10.png]]
+![[OB019_step10.png.webp]]
 
 ---
 
