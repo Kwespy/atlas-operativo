@@ -82,6 +82,7 @@ rm -f "$QUARTZ/content/operaciones.md"
 echo "5. Generando Index automático..."
 
 cd "$QUARTZ"
+node scripts/generate-listas-regimenes.mjs
 node scripts/generate-operaciones.mjs
 
 echo "6. Construyendo sitio estático..."
