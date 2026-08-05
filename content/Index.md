@@ -48,10 +48,16 @@ Frente a tecnologías orientadas a estabilizar, optimizar y hacer reconocibles l
   Trabaja en: Formal · Crisis: Alta · Funciona: SI
 
 
-### Traduccion Sistemas Representación
+### Intervencion Fisica
 
-- [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_019_Matriz_Tonal/019_FICHA/OB_019_Matriz_Tonal|OB___ — Nombre de la operación]]
-  Trabaja en: Formal · Crisis: Alta · Funciona: SI
+- [[01_OPERACIONES/Intervencion_Fisica/OB_023_Agua_y_Tinta/023_FICHA/OB_023_Agua_y_Tinta|OB___ — Nombre de la operación]]
+  Trabaja en: Estetico / Formal · Crisis: Baja / Media / Alta · Funciona: SI / NO
+
+- [[01_OPERACIONES/Intervencion_Fisica/OB_021_Disolución_imagen_por_solvente/021_FICHA/OB_021_Disolución_imagen_por_solvente|OB_021  — Disolución_imagen_por_solvente]]
+  Trabaja en: Formal · Crisis: Media · Funciona: SI
+
+
+### Traduccion Sistemas Representación
 
 - [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_015_Imagen_descrita_Fragmentada_Reconstruida/015_FICHA/OB_015_Imagen_descrita_Fragmentada_Reconstruida|OB_015_Imagen_descrita_Fragmentada_Reconstruida]]
   Trabaja en: Formal · Crisis: Baja · Funciona: NO
@@ -62,8 +68,14 @@ Frente a tecnologías orientadas a estabilizar, optimizar y hacer reconocibles l
 - [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_018_Traduccion_a_Matriz_ASCII/018_FICHA/OB_018_Traduccion_a_Matriz_ASCII|OB_018_Traduccion_a_Matriz_ASCII]]
   Trabaja en: Formal · Crisis: Media · Funciona: SI
 
+- [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_019_Matriz_Tonal/019_FICHA/OB_019_Matriz_Tonal|OB_019_Matriz_Tonal]]
+  Trabaja en: Formal · Crisis: Alta · Funciona: SI
+
 - [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_020_Matriz_Topografica/020_FICHA/OB_020_Matriz_Topografica|OB_020_Matriz_Topografica]]
   Trabaja en: Formal · Crisis: Media · Funciona: SI
+
+- [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_022_Matriz_CMYK/022_FICHA/OB_022_Matriz_CMYK|OB_022_Matriz_CMYK]]
+  Trabaja en: Estetico Formal · Crisis: Media · Funciona: SI
 
 
 ### Transformacion Algoritmica

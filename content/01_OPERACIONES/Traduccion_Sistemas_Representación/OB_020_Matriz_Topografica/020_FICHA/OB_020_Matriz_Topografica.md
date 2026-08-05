@@ -12,7 +12,7 @@ Estado:: [[Terminada]]
 **Imagen de origen:**  Fotografia
 
 **Descripción operativa:**  
-Se crea un script para que cree linea topograficas segun volumen.
+Se crea un script para que cree linead topograficas segun volumen.
 
 ---
 
