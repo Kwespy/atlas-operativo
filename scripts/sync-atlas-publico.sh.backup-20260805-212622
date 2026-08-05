@@ -82,8 +82,6 @@ rm -f "$QUARTZ/content/operaciones.md"
 echo "5. Generando Index automático..."
 
 cd "$QUARTZ"
-node scripts/generate-notas-directas.mjs
-
 node scripts/generate-listas-regimenes.mjs
 node scripts/generate-operaciones.mjs
 
