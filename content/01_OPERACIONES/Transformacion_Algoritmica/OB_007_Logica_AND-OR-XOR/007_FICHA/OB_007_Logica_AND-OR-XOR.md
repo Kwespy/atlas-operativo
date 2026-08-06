@@ -54,19 +54,19 @@ Prompt a Chatgpt que vaya operando la foto con logica AND-OR-XOR hasta que la fo
 ![[OB007_input.jpg|200]]
 
 ### Step 01
-![[OB007_step01.png.webp|200]]
+![[OB007_step01.png|200]]
 
 ### Step 02
-![[OB007_step02.png.webp|200]]
+![[OB007_step02.png|200]]
 
 ### Step 03
-![[OB007_step03.png.webp|200]]
+![[OB007_step03.png|200]]
 
 ### Step 04
-![[OB007_step04.png.webp|200]]
+![[OB007_step04.png|200]]
 
 ### Step 05
-![[OB007_step05.png.webp|200]]
+![[OB007_step05.png|200]]
 
 ---
 
@@ -75,11 +75,11 @@ Prompt a Chatgpt que vaya operando la foto con logica AND-OR-XOR hasta que la fo
 ### Crisis / umbral según lectura asistida por IA / ChatGPT
 
 
-![[OB007_step03.png.webp]]
+![[OB007_step03.png]]
 
 ### Crisis / umbral según mi percepción
 
-![[OB007_step02.png.webp]]
+![[OB007_step02.png]]
 
 ---
 

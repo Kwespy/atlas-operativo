@@ -45,85 +45,85 @@ Se convierte la imagen a CMYK, se genera una retícula de puntos para cada canal
 ## 4. Secuencia visual
 
 ### Imagen inicial
-![[Input_001.jpg.webp|200]]
+![[Input_001.jpg|200]]
 
 ### Step 01
-![[OB022_step01.png.webp|200]]
+![[OB022_step01.png|200]]
 
 ### Step 02
-![[OB022_step02.png.webp|200]]
+![[OB022_step02.png|200]]
 
 ### Step 03
-![[OB022_step03.png.webp|200]]
+![[OB022_step03.png|200]]
 
 ### Step 04
-![[OB022_step04.png.webp|200]]
+![[OB022_step04.png|200]]
 
 ### Step 05
-![[OB022_step05.png.webp|200]]
+![[OB022_step05.png|200]]
 
 ### Step 06
-![[OB022_step06.png.webp|200]]
+![[OB022_step06.png|200]]
 
 ### Step 07
-![[OB022_step07.png.webp|200]]
+![[OB022_step07.png|200]]
 
 ### Step 08
-![[OB022_step08.png.webp|200]]
+![[OB022_step08.png|200]]
 
 ### Step 09
-![[OB022_step09.png.webp|200]]
+![[OB022_step09.png|200]]
 
 ### Step 10
-![[OB022_step10.png.webp|200]]
+![[OB022_step10.png|200]]
 
 ### Step 11
-![[OB022_step11.png.webp|200]]
+![[OB022_step11.png|200]]
 
 ### Step 12
-![[OB022_step12.png.webp|200]]
+![[OB022_step12.png|200]]
 
 ### Step 13
-![[OB022_step13.png.webp|200]]
+![[OB022_step13.png|200]]
 
 ### Step 14
-![[OB022_step14.png.webp|200]]
+![[OB022_step14.png|200]]
 
 ### Step 15
-![[OB022_step15.png.webp|200]]
+![[OB022_step15.png|200]]
 
 ### Step 16
-![[OB022_step16.png.webp|200]]
+![[OB022_step16.png|200]]
 
 ### Step 17
-![[OB022_step17.png.webp|200]]
+![[OB022_step17.png|200]]
 
 ### Step 18
-![[OB022_step18.png.webp|200]]
+![[OB022_step18.png|200]]
 
 ### Step 19
-![[OB022_step19.png.webp|200]]
+![[OB022_step19.png|200]]
 
 ### Step 20
-![[OB022_step20.png.webp|200]]
+![[OB022_step20.png|200]]
 
 ### Step 21
-![[OB022_step21.png.webp|200]]
+![[OB022_step21.png|200]]
 
 ### Step 22
-![[OB022_step23.png.webp|200]]
+![[OB022_step23.png|200]]
 
 ### Step 23
-![[OB022_step24.png.webp|200]]
+![[OB022_step24.png|200]]
 
 ### Step 24
-![[OB022_step25.png.webp|200]]
+![[OB022_step25.png|200]]
 
 ### Step 25
-![[OB022_step26.png.webp|200]]
+![[OB022_step26.png|200]]
 
 ### Step 26
-![[OB022_step27.png.webp|200]]
+![[OB022_step27.png|200]]
 
 
 ---
@@ -136,10 +136,10 @@ Se convierte la imagen a CMYK, se genera una retícula de puntos para cada canal
 **Criterio:**  
 
 ### Step 25
-![[OB022_step26.png.webp]]
+![[OB022_step26.png]]
 
 ### Step 11
-![[OB022_step11.png.webp]]
+![[OB022_step11.png]]
 
 ### Crisis / umbral según mi percepción
 
@@ -147,10 +147,10 @@ Se convierte la imagen a CMYK, se genera una retícula de puntos para cada canal
 **Criterio:**  
 
 ### Step 24
-![[OB022_step25.png.webp]]
+![[OB022_step25.png]]
 
 ### Step 09
-![[OB022_step09.png.webp]]
+![[OB022_step09.png]]
 
 ---
 

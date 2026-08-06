@@ -49,43 +49,43 @@ Pendiente.
 ## 4. Secuencia visual
 
 ### Imagen inicial
-![[Input_001.jpg.webp|200]]
+![[Input_001.jpg|200]]
 
 ### Step 01
-![[OB006_step01.jpg.webp|200]]
+![[OB006_step01.jpg|200]]
 
 ### Step 02
-![[OB006_step02.jpg.webp|200]]
+![[OB006_step02.jpg|200]]
 
 ### Step 03
-![[OB006_step03.jpg.webp|200]]
+![[OB006_step03.jpg|200]]
 
 ### Step 04
-![[OB006_step04.jpg.webp|200]]
+![[OB006_step04.jpg|200]]
 
 ### Step 05
-![[OB006_step05.jpg.webp|200]]
+![[OB006_step05.jpg|200]]
 
 ### Step 06
-![[OB006_step06.jpg.webp|200]]
+![[OB006_step06.jpg|200]]
 
 ### Step 07
-![[OB006_step07.jpg.webp|200]]
+![[OB006_step07.jpg|200]]
 
 ### Step 08
-![[OB006_step08.jpg.webp|200]]
+![[OB006_step08.jpg|200]]
 
 ### Step 09
-![[OB006_step09.jpg.webp|200]]
+![[OB006_step09.jpg|200]]
 
 ### Step 10
-![[OB006_step10.jpg.webp|200]]
+![[OB006_step10.jpg|200]]
 
 ### Step 11
-![[OB006_step11.jpg.webp|200]]
+![[OB006_step11.jpg|200]]
 
 ### Step 12
-![[OB006_step12.jpg.webp|200]]
+![[OB006_step12.jpg|200]]
 
 
 
@@ -96,12 +96,12 @@ Pendiente.
 ### Crisis / umbral según lectura asistida por IA / ChatGPT
 
 
-![[OB006_step10.jpg.webp]]
+![[OB006_step10.jpg]]
 
 ### Crisis / umbral según mi percepción
 
 
-![[OB006_step12.jpg.webp]]
+![[OB006_step12.jpg]]
 
 ---
 

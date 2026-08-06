@@ -49,49 +49,49 @@ Con una cámara instantánea de impresión térmica, se captura el objeto y se v
 ## 4. Secuencia visual
 
 ### Imagen inicial
-![[Input_014.jpg.webp|200]]
+![[Input_014.jpg|200]]
 
 ### Step 01
-![[OB014_step01.jpg.webp|200]]
+![[OB014_step01.jpg|200]]
 
 ### Step 02
-![[OB014_step02.jpg.webp|200]]
+![[OB014_step02.jpg|200]]
 
 ### Step 03
-![[OB014_step03.jpg.webp|200]]
+![[OB014_step03.jpg|200]]
 
 ### Step 04
-![[OB014_step04.jpg.webp|200]]
+![[OB014_step04.jpg|200]]
 
 ### Step 05
-![[OB014_step05.jpg.webp|200]]
+![[OB014_step05.jpg|200]]
 
 ### Step 06
-![[OB014_step06.jpg.webp|200]]
+![[OB014_step06.jpg|200]]
 
 ### Step 07
-![[OB014_step07.jpg.webp|200]]
+![[OB014_step07.jpg|200]]
 
 ### Step 08
-![[OB014_step08.jpg.webp|200]]
+![[OB014_step08.jpg|200]]
 
 ### Step 09
-![[OB014_step09.jpg.webp|200]]
+![[OB014_step09.jpg|200]]
 
 ### Step 10
-![[OB014_step10.jpg.webp|200]]
+![[OB014_step10.jpg|200]]
 
 ### Step 11
-![[OB014_step11.jpg.webp|200]]
+![[OB014_step11.jpg|200]]
 
 ### Step 12
-![[OB014_step12.jpg.webp|200]]
+![[OB014_step12.jpg|200]]
 
 ### Step 13
-![[OB014_step13.jpg.webp|200]]
+![[OB014_step13.jpg|200]]
 
 ### Step 14
-![[OB014_step14.jpg.webp|200]]
+![[OB014_step14.jpg|200]]
 
 ---
 
@@ -101,13 +101,13 @@ Con una cámara instantánea de impresión térmica, se captura el objeto y se v
 
 
 ### Step 05
-![[OB014_step05.jpg.webp]]
+![[OB014_step05.jpg]]
 
 ### Crisis / umbral según mi percepción
 
 
 ### Step 11
-![[OB014_step11.jpg.webp]]
+![[OB014_step11.jpg]]
 
 ---
 

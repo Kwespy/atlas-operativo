@@ -50,34 +50,34 @@ Las formas que componen la imagen se distribuyen y escalan dentro de la imagen.
 ## 4. Secuencia visual
 
 ### Imagen inicial
-![[Input_001.jpg.webp|200]]
+![[Input_001.jpg|200]]
 
 ### Step 01
-![[OB012_step01.jpg.webp|200]]
+![[OB012_step01.jpg|200]]
 
 ### Step 02
-![[OB012_step02.jpg.webp|200]]
+![[OB012_step02.jpg|200]]
 
 ### Step 03
-![[OB012_step03.jpg.webp|200]]
+![[OB012_step03.jpg|200]]
 
 ### Step 04
-![[OB012_step04.jpg.webp|200]]
+![[OB012_step04.jpg|200]]
 
 ### Step 05
-![[OB012_step05.jpg.webp|200]]
+![[OB012_step05.jpg|200]]
 
 ### Step 06
-![[OB012_step06.jpg.webp|200]]
+![[OB012_step06.jpg|200]]
 
 ### Step 07
-![[OB012_step07.jpg.webp|200]]
+![[OB012_step07.jpg|200]]
 
 ### Step 08
-![[OB012_step08.jpg.webp|200]]
+![[OB012_step08.jpg|200]]
 
 ### Step 09
-![[OB012_step09.jpg.webp|200]]
+![[OB012_step09.jpg|200]]
 
 
 
@@ -88,11 +88,11 @@ Las formas que componen la imagen se distribuyen y escalan dentro de la imagen.
 ### Crisis / umbral según lectura asistida por IA / ChatGPT
 
 
-![[OB012_step07.jpg.webp]]
+![[OB012_step07.jpg]]
 
 ### Crisis / umbral según mi percepción
 
-![[OB012_step04.jpg.webp]]
+![[OB012_step04.jpg]]
 
 ---
 
