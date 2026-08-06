@@ -4,7 +4,7 @@ title: Atlas Operativo
 
 # Atlas Operativo
 
-El Atlas Operativo reúne operaciones técnicas diseñadas para investigar cómo una imagen cambia al ser sometida a distintos regímenes de transformación.
+El Atlas Operativo reúne procesos operativos diseñados para investigar cómo una imagen técnica se desestabiliza al ser sometida a distintos regímenes de transformación.
 
 Las operaciones se organizan según cuatro regímenes de transformación:
 
@@ -20,7 +20,10 @@ Operaciones que desplazan una imagen entre distintos lenguajes o formas de codif
 **INTERVENCIÓN MATERIAL DIRECTA** 
 Operaciones realizadas físicamente sobre la imagen, su soporte o su superficie mediante pintura, dibujo, recorte, superposición, borrado, pliegue, transferencia o manipulación manual. La transformación incorpora la acción corporal, la materia y la resistencia del soporte.
 
-El objetivo del Atlas es construir un repertorio operativo que permita comparar, documentar y seleccionar transformaciones capaces de llevar la imagen hacia estados de inestabilidad. En estos estados pueden entrar en crisis su forma, color, contorno, espacio, reconocimiento y percepción, pero también su condición como imagen: qué información comunica, cómo circula, qué sistema la procesa y bajo qué forma vuelve a aparecer.
+
+----
+
+El objetivo del Atlas es construir un repertorio operativo que permita comparar, documentar y seleccionar transformaciones capaces de conducir la imagen hacia estados abiertos y productivos, interrumpiendo configuraciones visuales ya codificadas y abriendo nuevas experiencias perceptivas y distintos modos de construcción de imagen. En estos estados pueden entrar en crisis su forma, color, contorno, espacio, reconocimiento y percepción, pero también su propia condición como imagen: qué información comunica, cómo circula, qué sistema la procesa y bajo qué forma vuelve a aparecer.
 
 Frente a tecnologías orientadas a estabilizar, optimizar y hacer reconocibles las imágenes, el Atlas utiliza la transformación como una forma de abrirlas a nuevas preguntas, relaciones y posibilidades de producción.
 
@@ -50,11 +53,11 @@ Frente a tecnologías orientadas a estabilizar, optimizar y hacer reconocibles l
 
 ### Intervencion Fisica
 
-- [[01_OPERACIONES/Intervencion_Fisica/OB_023_Agua_y_Tinta/023_FICHA/OB_023_Agua_y_Tinta|OB___ — Nombre de la operación]]
-  Trabaja en: Estetico / Formal · Crisis: Baja / Media / Alta · Funciona: SI / NO
-
 - [[01_OPERACIONES/Intervencion_Fisica/OB_021_Disolución_imagen_por_solvente/021_FICHA/OB_021_Disolución_imagen_por_solvente|OB_021  — Disolución_imagen_por_solvente]]
   Trabaja en: Formal · Crisis: Media · Funciona: SI
+
+- [[01_OPERACIONES/Intervencion_Fisica/OB_023_Agua_y_Tinta/023_FICHA/OB_023_Agua_y_Tinta|OB_023 — Agua_y_Tinta]]
+  Trabaja en: Estetico · Crisis: Media · Funciona: SI ]
 
 
 ### Traduccion Sistemas Representación
