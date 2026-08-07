@@ -46,8 +46,6 @@ jobs:
       - name: Install dependencies
         run: npm ci --include=optional
 
-      - name: Install Sharp for Linux
-        run: npm install --no-save --package-lock=false --include=optional --os=linux --cpu=x64 sharp
 
       - name: Install Quartz plugins
         run: npx quartz plugin install
