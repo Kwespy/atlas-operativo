@@ -248,6 +248,8 @@ echo "7. Generando índices..."
 
 cd "$QUARTZ"
 
+node scripts/generate-notas-directas.mjs
+node scripts/generate-listas-regimenes.mjs
 node scripts/generate-operaciones.mjs
 
 echo "8. Construyendo la web..."
