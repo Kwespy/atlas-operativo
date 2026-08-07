@@ -54,34 +54,34 @@ En photoshop a la imagen se le sube exposicion y se le baja
 ## 4. Secuencia visual
 
 ### Imagen inicial
-![[Input_001.jpg|200]]
+![[Input_001.jpg.webp|200]]
 
 ### Step 01
-![[OB005_step01.jpg|200]]
+![[OB005_step01.jpg.webp|200]]
 
 ### Step 02
-![[OB005_step02.jpg|200]]
+![[OB005_step02.jpg.webp|200]]
 
 ### Step 03
-![[OB005_step03.jpg|200]]
+![[OB005_step03.jpg.webp|200]]
 
 ### Step 04
-![[OB005_step04.jpg|200]]
+![[OB005_step04.jpg.webp|200]]
 
 ### Step 05
-![[OB005_step05.jpg|200]]
+![[OB005_step05.jpg.webp|200]]
 
 ### Step 06
-![[OB005_step06.jpg|200]]
+![[OB005_step06.jpg.webp|200]]
 
 ### Step 07
-![[OB005_step07.jpg|200]]
+![[OB005_step07.jpg.webp|200]]
 
 ### Step 08
-![[OB005_step08.jpg|200]]
+![[OB005_step08.jpg.webp|200]]
 
 ### Step 09
-![[OB005_step09.jpg|200]]
+![[OB005_step09.jpg.webp|200]]
 
 ---
 
@@ -90,18 +90,18 @@ En photoshop a la imagen se le sube exposicion y se le baja
 ### Crisis / umbral según lectura asistida por IA / ChatGPT
 
 
-![[OB005_step08.jpg]]
+![[OB005_step08.jpg.webp]]
 
-![[OB005_step04.jpg|697]]
+![[OB005_step04.jpg.webp|697]]
 
 
 
 ### Crisis / umbral según mi percepción
 
 
-![[OB005_step07.jpg]]
+![[OB005_step07.jpg.webp]]
 
-![[OB005_step03.jpg]]
+![[OB005_step03.jpg.webp]]
 
 ---
 

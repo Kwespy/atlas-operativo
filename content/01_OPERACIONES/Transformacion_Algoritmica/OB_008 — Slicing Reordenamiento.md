@@ -59,28 +59,28 @@ Se ocupo la fotografia con un prompt en Chatgpt para que hiciera la operacion Sl
 ![[OB008_input.jpg|200]]
 
 ### Step 01
-![[OB008_step01.png|200]]
+![[OB008_step01.png.webp|200]]
 
 ### Step 02
-![[OB008_step02.png|200]]
+![[OB008_step02.png.webp|200]]
 
 ### Step 03
-![[OB008_step03.png|200]]
+![[OB008_step03.png.webp|200]]
 
 ### Step 04
-![[OB008_step04.png|200]]
+![[OB008_step04.png.webp|200]]
 
 ### Step 05
-![[OB008_step05.png|200]]
+![[OB008_step05.png.webp|200]]
 
 ### Step 06
-![[OB008_step06.png|200]]
+![[OB008_step06.png.webp|200]]
 
 ### Step 07
-![[OB008_step07.png|200]]
+![[OB008_step07.png.webp|200]]
 
 ### Step 08
-![[OB008_step08.png|200]]
+![[OB008_step08.png.webp|200]]
 
 ---
 
@@ -88,11 +88,11 @@ Se ocupo la fotografia con un prompt en Chatgpt para que hiciera la operacion Sl
 
 ### Crisis / umbral según lectura asistida por IA / ChatGPT
 
-![[OB008_step04.png]]
+![[OB008_step04.png.webp]]
 
 ### Crisis / umbral según mi percepción
 
-![[OB008_step02.png]]
+![[OB008_step02.png.webp]]
 
 ---
 

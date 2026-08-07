@@ -54,28 +54,28 @@ Se posteriza para que la cantidad de colores de la foto baje. La imagen no entra
 ## 4. Secuencia visual
 
 ### Imagen inicial
-![[Input_001.jpg|200]]
+![[Input_001.jpg.webp|200]]
 
 ### Step 01
-![[OB010_step01.jpg|200]]
+![[OB010_step01.jpg.webp|200]]
 
 ### Step 02
-![[OB010_step02.jpg|200]]
+![[OB010_step02.jpg.webp|200]]
 
 ### Step 03
-![[OB010_step03.jpg|200]]
+![[OB010_step03.jpg.webp|200]]
 
 ### Step 04
-![[OB010_step04.jpg|200]]
+![[OB010_step04.jpg.webp|200]]
 
 ### Step 05
-![[OB010_step05.jpg|200]]
+![[OB010_step05.jpg.webp|200]]
 
 ### Step 06
-![[OB010_step06.jpg|200]]
+![[OB010_step06.jpg.webp|200]]
 
 ### Step 07
-![[OB010_step07.jpg|200]]
+![[OB010_step07.jpg.webp|200]]
 
 
 ---
@@ -85,12 +85,12 @@ Se posteriza para que la cantidad de colores de la foto baje. La imagen no entra
 ### Crisis / umbral según lectura asistida por IA / ChatGPT
 
 
-![[OB010_step05.jpg]
+![[OB010_step05.jpg.webp]
 
 ### Crisis / umbral según mi percepción
 
 
-![[OB010_step07.jpg]]
+![[OB010_step07.jpg.webp]]
 
 ---
 

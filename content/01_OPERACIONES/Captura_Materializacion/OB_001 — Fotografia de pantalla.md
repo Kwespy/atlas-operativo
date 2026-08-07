@@ -63,232 +63,232 @@ Recapturar una imagen desde la pantalla del computador, haciendo circular la ima
 ![[OB001_input.jpg|200]]
 
 ### Step 01
-![[OB001_step01.jpg|200]]
+![[OB001_step01.jpg.webp|200]]
 
 ### Step 02
-![[OB001_step02.jpg|200]]
+![[OB001_step02.jpg.webp|200]]
 
 ### Step 03
-![[OB001_step03.jpg|200]]
+![[OB001_step03.jpg.webp|200]]
 
 ### Step 04
-![[OB001_step04.jpg|200]]
+![[OB001_step04.jpg.webp|200]]
 
 ### Step 05
-![[OB001_step05.jpg|200]]
+![[OB001_step05.jpg.webp|200]]
 
 ### Step 06
-![[OB001_step06.jpg|200]]
+![[OB001_step06.jpg.webp|200]]
 
 ### Step 07
-![[OB001_step07.jpg|200]]
+![[OB001_step07.jpg.webp|200]]
 
 ### Step 08
-![[OB001_step08.jpg|200]]
+![[OB001_step08.jpg.webp|200]]
 
 ### Step 09
-![[OB001_step09.jpg|200]]
+![[OB001_step09.jpg.webp|200]]
 
 ### Step 10
-![[OB001_step10.jpg|200]]
+![[OB001_step10.jpg.webp|200]]
 
 ### Step 11
-![[OB001_step11.jpg|200]]
+![[OB001_step11.jpg.webp|200]]
 
 ### Step 12
-![[OB001_step12.jpg|200]]
+![[OB001_step12.jpg.webp|200]]
 
 ### Step 13
-![[OB001_step13.jpg|200]]
+![[OB001_step13.jpg.webp|200]]
 
 ### Step 14
-![[OB001_step14.jpg|200]]
+![[OB001_step14.jpg.webp|200]]
 
 ### Step 15
-![[OB001_step15.jpg|200]]
+![[OB001_step15.jpg.webp|200]]
 
 ### Step 16
-![[OB001_step16.jpg|200]]
+![[OB001_step16.jpg.webp|200]]
 
 ### Step 17
-![[OB001_step17.jpg|200]]
+![[OB001_step17.jpg.webp|200]]
 
 ### Step 18
-![[OB001_step18.jpg|200]]
+![[OB001_step18.jpg.webp|200]]
 
 ### Step 19
-![[OB001_step19.jpg|200]]
+![[OB001_step19.jpg.webp|200]]
 
 ### Step 20
-![[OB001_step20.jpg|200]]
+![[OB001_step20.jpg.webp|200]]
 
 ### Step 21
-![[OB001_step21.jpg|200]]
+![[OB001_step21.jpg.webp|200]]
 
 ### Step 22
-![[OB001_step22.jpg|200]]
+![[OB001_step22.jpg.webp|200]]
 
 ### Step 23
-![[OB001_step23.jpg|200]]
+![[OB001_step23.jpg.webp|200]]
 
 ### Step 24
-![[OB001_step24.jpg|200]]
+![[OB001_step24.jpg.webp|200]]
 
 ### Step 25
-![[OB001_step25.jpg|200]]
+![[OB001_step25.jpg.webp|200]]
 
 ### Step 26
-![[OB001_step26.jpg|200]]
+![[OB001_step26.jpg.webp|200]]
 
 ### Step 27
-![[OB001_step27.jpg|200]]
+![[OB001_step27.jpg.webp|200]]
 
 ### Step 28
-![[OB001_step28.jpg|200]]
+![[OB001_step28.jpg.webp|200]]
 
 ### Step 29
-![[OB001_step29.jpg|200]]
+![[OB001_step29.jpg.webp|200]]
 
 ### Step 30
-![[OB001_step30.jpg|200]]
+![[OB001_step30.jpg.webp|200]]
 
 ### Step 31
-![[OB001_step31.jpg|200]]
+![[OB001_step31.jpg.webp|200]]
 
 ### Step 32
-![[OB001_step32.jpg|200]]
+![[OB001_step32.jpg.webp|200]]
 
 ### Step 33
-![[OB001_step33.jpg|200]]
+![[OB001_step33.jpg.webp|200]]
 
 ### Step 34
-![[OB001_step34.jpg|200]]
+![[OB001_step34.jpg.webp|200]]
 
 ### Step 35
-![[OB001_step35.jpg|200]]
+![[OB001_step35.jpg.webp|200]]
 
 ### Step 36
-![[OB001_step36.jpg|200]]
+![[OB001_step36.jpg.webp|200]]
 
 ### Step 37
-![[OB001_step37.jpg|200]]
+![[OB001_step37.jpg.webp|200]]
 
 ### Step 38
-![[OB001_step38.jpg|200]]
+![[OB001_step38.jpg.webp|200]]
 
 ### Step 39
-![[OB001_step39.jpg|200]]
+![[OB001_step39.jpg.webp|200]]
 
 ### Step 40
-![[OB001_step40.jpg|200]]
+![[OB001_step40.jpg.webp|200]]
 
 ### Step 41
-![[OB001_step41.jpg|200]]
+![[OB001_step41.jpg.webp|200]]
 
 ### Step 42
-![[OB001_step42.jpg|200]]
+![[OB001_step42.jpg.webp|200]]
 
 ### Step 43
-![[OB001_step43.jpg|200]]
+![[OB001_step43.jpg.webp|200]]
 
 ### Step 44
-![[OB001_step44.jpg|200]]
+![[OB001_step44.jpg.webp|200]]
 
 ### Step 45
-![[OB001_step45.jpg|200]]
+![[OB001_step45.jpg.webp|200]]
 
 ### Step 46
-![[OB001_step46.jpg|200]]
+![[OB001_step46.jpg.webp|200]]
 
 ### Step 47
-![[OB001_step47.jpg|200]]
+![[OB001_step47.jpg.webp|200]]
 
 ### Step 48
-![[OB001_step48.jpg|200]]
+![[OB001_step48.jpg.webp|200]]
 
 ### Step 49
-![[OB001_step49.jpg|200]]
+![[OB001_step49.jpg.webp|200]]
 
 ### Step 50
-![[OB001_step50.jpg|200]]
+![[OB001_step50.jpg.webp|200]]
 
 ### Step 51
-![[OB001_step51.jpg|200]]
+![[OB001_step51.jpg.webp|200]]
 
 ### Step 52
-![[OB001_step52.jpg|200]]
+![[OB001_step52.jpg.webp|200]]
 
 ### Step 53
-![[OB001_step53.jpg|200]]
+![[OB001_step53.jpg.webp|200]]
 
 ### Step 54
-![[OB001_step54.jpg|200]]
+![[OB001_step54.jpg.webp|200]]
 
 ### Step 55
-![[OB001_step55.jpg|200]]
+![[OB001_step55.jpg.webp|200]]
 
 ### Step 56
-![[OB001_step56.jpg|200]]
+![[OB001_step56.jpg.webp|200]]
 
 ### Step 57
-![[OB001_step57.jpg|200]]
+![[OB001_step57.jpg.webp|200]]
 
 ### Step 58
-![[OB001_step58.jpg|200]]
+![[OB001_step58.jpg.webp|200]]
 
 ### Step 59
-![[OB001_step59.jpg|200]]
+![[OB001_step59.jpg.webp|200]]
 
 ### Step 60
-![[OB001_step60.jpg|200]]
+![[OB001_step60.jpg.webp|200]]
 
 ### Step 61
-![[OB001_step61.jpg|200]]
+![[OB001_step61.jpg.webp|200]]
 
 ### Step 62
-![[OB001_step62.jpg|200]]
+![[OB001_step62.jpg.webp|200]]
 
 ### Step 63
-![[OB001_step63.jpg|200]]
+![[OB001_step63.jpg.webp|200]]
 
 ### Step 64
-![[OB001_step64.jpg|200]]
+![[OB001_step64.jpg.webp|200]]
 
 ### Step 65
-![[OB001_step65.jpg|200]]
+![[OB001_step65.jpg.webp|200]]
 
 ### Step 66
-![[OB001_step66.jpg|200]]
+![[OB001_step66.jpg.webp|200]]
 
 ### Step 67
-![[OB001_step67.jpg|200]]
+![[OB001_step67.jpg.webp|200]]
 
 ### Step 68
-![[OB001_step68.jpg|200]]
+![[OB001_step68.jpg.webp|200]]
 
 ### Step 69
-![[OB001_step69.jpg|200]]
+![[OB001_step69.jpg.webp|200]]
 
 ### Step 70
-![[OB001_step70.jpg|200]]
+![[OB001_step70.jpg.webp|200]]
 
 ### Step 71
-![[OB001_step71.jpg|200]]
+![[OB001_step71.jpg.webp|200]]
 
 ### Step 72
-![[OB001_step72.jpg|200]]
+![[OB001_step72.jpg.webp|200]]
 
 ### Step 73
-![[OB001_step73.jpg|200]]
+![[OB001_step73.jpg.webp|200]]
 
 ### Step 74
-![[OB001_step74.jpg|200]]
+![[OB001_step74.jpg.webp|200]]
 
 ### Step 75
-![[OB001_step75.jpg|200]]
+![[OB001_step75.jpg.webp|200]]
 
 ### Step 76
-![[OB001_step76.jpg|200]]
+![[OB001_step76.jpg.webp|200]]
 
 
 ---
@@ -296,13 +296,13 @@ Recapturar una imagen desde la pantalla del computador, haciendo circular la ima
 ## 4. Selección visual
 
 ### Crisis/Umbral según lectura asistida por IA / ChatGPT
-![[OB001_step38.jpg|300]]
+![[OB001_step38.jpg.webp|300]]
 
 ### Crisis/Umbral según mi percepción
-![[OB001_step49.jpg|300]]
+![[OB001_step49.jpg.webp|300]]
 
 ### Exceso/Ruptura
-![[OB001_step76.jpg|300]]
+![[OB001_step76.jpg.webp|300]]
 
 ## 5. Crisis y lectura formal-perceptiva
 

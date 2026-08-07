@@ -233,7 +233,34 @@ find "$PUBLICO" \
 find "$PUBLICO" -name ".DS_Store" -delete
 find "$PUBLICO" -name "*.pyc" -delete
 
-echo "6. Copiando hacia Quartz/content..."
+
+echo "6. Optimizando imágenes de la COPIA PÚBLICA..."
+
+# SEGURIDAD: jamás ejecutar el optimizador sobre ATLAS_OPERATIVO
+if [ "$PUBLICO" = "$ORIGEN" ]; then
+  echo "ERROR DE SEGURIDAD: PUBLICO y ORIGEN son la misma carpeta."
+  exit 1
+fi
+
+CACHE_IMAGENES="$BASE/ATLAS_WEB_IMAGE_CACHE"
+
+echo "Original protegido:"
+echo "  $ORIGEN"
+echo ""
+echo "Carpeta que SÍ será optimizada:"
+echo "  $PUBLICO"
+echo ""
+
+node "$QUARTZ/scripts/optimizar-imagenes-web.mjs" \
+  "$PUBLICO" \
+  "$CACHE_IMAGENES"
+
+echo ""
+echo "Optimización terminada."
+echo "ATLAS_OPERATIVO NO fue modificado."
+
+
+echo "7. Copiando hacia Quartz/content..."
 
 mkdir -p "$QUARTZ/content"
 
