@@ -52,6 +52,23 @@ jobs:
       - name: Install Quartz plugins
         run: npx quartz plugin install
 
+      - name: Repair Quartz community utils
+        run: |
+          if [ ! -f node_modules/@quartz-community/utils/dist/index.js ]; then
+            echo "Repairing @quartz-community/utils..."
+            rm -rf /tmp/quartz-utils
+            git init /tmp/quartz-utils
+            git -C /tmp/quartz-utils remote add origin https://github.com/quartz-community/utils.git
+            git -C /tmp/quartz-utils fetch --depth 1 origin e09d8b0bbccb46073b23c00affaf3e40a2c3b0c4
+            git -C /tmp/quartz-utils checkout --detach FETCH_HEAD
+
+            mkdir -p node_modules/@quartz-community/utils/dist
+            cp -R /tmp/quartz-utils/dist/. node_modules/@quartz-community/utils/dist/
+          fi
+
+          test -f node_modules/@quartz-community/utils/dist/index.js
+          echo "Quartz utils OK"
+
       - name: Build Quartz
         run: npx quartz build
 
