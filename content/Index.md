@@ -95,12 +95,6 @@ Frente a tecnologías orientadas a estabilizar, optimizar y hacer reconocibles l
 - [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_018_Matriz_ASCII/018_FICHA/OB_018_Matriz_ASCII|OB_018_Matriz_ASCII]]
   Trabaja en: Formal · Crisis: Media · Funciona: SI
 
-- [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_018 — Traduccion a Matriz ASCII|OB_018_Traduccion_a_Matriz_ASCII]]
-  Trabaja en: Formal · Crisis: Media · Funciona: SI
-
-- [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_018_Traduccion_a_Matriz_ASCII/018_FICHA/OB_018_Traduccion_a_Matriz_ASCII|OB_018_Traduccion_a_Matriz_ASCII]]
-  Trabaja en: Formal · Crisis: Media · Funciona: SI
-
 - [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_019 — Matriz Tonal|OB_019_Matriz_Tonal]]
   Trabaja en: Formal · Crisis: Alta · Funciona: SI
 
@@ -187,4 +181,10 @@ Frente a tecnologías orientadas a estabilizar, optimizar y hacer reconocibles l
 
 - [[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_FICHA/OB_016_Desplazamiento_por_franjas|OB_016_Desplazamiento_por_franjas]]
   Trabaja en: Estetico · Crisis: Media · Funciona: SI
+
+- [[01_OPERACIONES/Transformacion_Algoritmica/OB_024 — Reconstrucción parches erróneos|OB_024_Reconstrucción_parches_erróneos]]
+  Trabaja en: [Formal] · Crisis: [Media] · Funciona: [SI]
+
+- [[01_OPERACIONES/Transformacion_Algoritmica/OB_024_Reconstrucción_parches_erróneos/024_FICHA/OB_024_Reconstrucción_parches_erróneos|OB_024_Reconstrucción_parches_erróneos]]
+  Trabaja en: [Formal] · Crisis: [Media] · Funciona: [SI]
 <!-- OPERACIONES_AUTO_END -->

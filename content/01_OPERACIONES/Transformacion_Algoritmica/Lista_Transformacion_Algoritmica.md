@@ -10,5 +10,6 @@
 - [[OB_012_Escala_y_Espacio/012_FICHA/OB_012_Escala_y_Espacio|OB_012_Escala_y_Espacio]]
 - [[OB_013_Video_Compresion_Saturacion/013_FICHA/OB_013_Video_Compresion_Correcion_Color|OB_013_Video_Compresion_Saturacion]]
 - [[OB_016_Desplazamiento_por_franjas/016_FICHA/OB_016_Desplazamiento_por_franjas|OB_016_Desplazamiento_por_franjas]]
+- [[OB_024_Reconstrucción_parches_erróneos/024_FICHA/OB_024_Reconstrucción_parches_erróneos|OB_024_Reconstrucción_parches_erróneos]]
 <!-- AUTO-LISTA-REGIMEN:END -->
 
