@@ -5,18 +5,18 @@ lang: en
 ---
 
 ## Status
-Status::  [[Terminada|Terminada]]
+Status::  [[Terminada|Finished]]
 
 ---
 
 ## 1. Operation Data
 
 **Internal number:** OB_000 + OB_000
-**Operational regime:** [[Lista_Combinaciones|Lista Combinaciones]]  
-**Source image:**  Digital Photography
+**Operational regime:** [[Lista_Combinaciones|Combinations List]]  
+**Source image:** Digital Photography
 
 **Operational description:**  
-The script groups neighboring pixels with similar RGB values and increases their saturation according to the size and presence of each group, progressively pushing the image toward a legibility crisis.
+The script groups neighboring pixels with similar RGB values and increases their saturation according to the size and presence of each group, progressively driving the image toward a crisis of legibility.
 
 ---
 
@@ -33,9 +33,9 @@ The script groups neighboring pixels with similar RGB values and increases their
 ## 3. Variables
 
 **Controlled variables:**  
-- Number of divisions or RGB *bins*.
+- Number of divisions or RGB bins.
 - Minimum size of pixel groups.
-- Saturation intensity and degree of unification among similar colors.
+- Saturation intensity and degree of unification between similar colors.
 
 **Uncontrolled / accidental variables:**  
 
@@ -153,9 +153,9 @@ The initial color distribution and proximity between pixels in the source image,
 ## 6. Crisis and Formal-Perceptual Reading
 
 
-**Where the crisis occurs and the operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support:**
+**Where the crisis occurs and the operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-Saturation begins to dominate over the original information: contours weaken, some figure and ground areas become confused, and the landscape remains at an intermediate point between recognition and abstraction. **Color** is the main element causing the loss of legibility, while the digital support remains unchanged.
+Saturation begins to dominate over the original information: contours weaken, certain figure and ground areas become confused, and the landscape remains at an intermediate point between recognition and abstraction. **Color** is the main element causing the loss of legibility, while the digital support remains unchanged.
 
 
 ---
@@ -165,27 +165,27 @@ Saturation begins to dominate over the original information: contours weaken, so
 
 **Operation notes / what I learned:**  
 
-This operation produces a pictorial result and does not feel like a completely digital operation.
-A script can be built following a logic and can be articulated to be more complex and have a more complex logic as well.
+This operation yields a pictorial result and does not feel like a fully digital operation.
+A script can be built following a logic and it can be articulated to be more complex and have a more complex logic as well.
 
 
-**Estado_final:** 
-Works:: [[SI|SI]] 
+**Final_status:** 
+Works:: [[SI|YES]] 
 
-**Como destruye la imagen:** 
+**How it destroys the image:** 
 Works_on::  [[Formal|Formal]] 
 
-**Nivel y Riqueza de crisis:** 
-Crisis::  [[Alta|Alta]]
+**Level and Richness of crisis:** 
+Crisis::  [[Alta|High]]
 
-**Decisión:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]] / [[Tesis|Tesis]]
+**Decision:** 
+Selection:: [[Combinable|Combinable]] / [[Guardar|Save]] / [[Tesis|Thesis]]
 
 ---
 
-### Possible Artistic Reference
+### Potential Artistic Reference
 
-Referente:: [[Vincent van Gogh|Vincent van Gogh]], [[Andre Derain|Andre Derain]], [[Maurice de Vlaminck|Maurice de Vlaminck]], [[Ernst Ludwig Kirchner|Ernst Ludwig Kirchner]], [[Daniel Richter|Daniel Richter]],
+Reference:: [[Vincent van Gogh|Vincent van Gogh]], [[Andre Derain|Andre Derain]], [[Maurice de Vlaminck|Maurice de Vlaminck]], [[Ernst Ludwig Kirchner|Ernst Ludwig Kirchner]], [[Daniel Richter|Daniel Richter]],
 
 **Possible works:**  
 - [Vincent van Gogh - The Olive Trees. ](https://www.google.com/search?q=Vincent+van+Gogh.+The+Olive+Trees.+Saint+R%C3%A9my&sca_esv=0ab4c29f2e17ee32&udm=2&biw=1274&bih=892&sxsrf=APpeQnvnlWvshezjNKuhM0WYLOMXWM1W7g%3A1786550174533&ei=npd8auiCIKC8xc8PgvXDaQ&ved=0ahUKEwjoyZqEupuWAxUgXvEDHYL6MA0Q4dUDCBE&uact=5&oq=Vincent+van+Gogh.+The+Olive+Trees.+Saint+R%C3%A9my&gs_lp=Egtnd3Mtd2l6LWltZyIuVmluY2VudCB2YW4gR29naC4gVGhlIE9saXZlIFRyZWVzLiBTYWludCBSw6lteTIEEAAYHkjtL1ChDVieLnAFeACQAQCYAXSgAcACqgEDMS4yuAEDyAEA-AEB-AECmAIHoAL1AcICBxAjGMkCGCfCAgoQABiABBiKBRhDwgIGEAAYBxgewgIFEAAYgASYAwCIBgGSBwM2LjGgB8EHsgcDMS4xuAfaAcIHBTEuMC42yAccgAgB&sclient=gws-wiz-img)

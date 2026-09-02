@@ -5,35 +5,35 @@ lang: en
 # OB_020_Matriz_Topografica
 
 ## Status
-Status:: [[Terminada|Terminada]]
+Status:: [[Terminada|Finished]]
 
 ---
 
-## 1. Operation Data
+## 1. Operation data
 
 **Internal number:** OB_20  
 **Operational regime:** [[Lista_Traduccion_Sistemas_Representacion|Lista Traduccion Sistemas Representacion]]  
 **Source image:**  Photograph
 
 **Operational description:**  
-A script is created to generate topographic lines based on volume.
+A script is created to generate topographical lines according to volume.
 
 ---
 
-## 2. Tools, Procedure and Variables
+## 2. Tools, procedure, and Variables
 
- A script is created that first recognizes the sphere and then the background. The variables are the number of lines used to create the image volume. It is not possible to control where the lines will pass.
+ A script is created that first recognizes the sphere and then the background. The variables are the number of lines used to create the volume of the image. It is not possible to control where the lines will pass.
 
 
 ---
 
-## 4. Visual Sequence
+## 4. Visual sequence
 
 ### Initial image
 ![[Input_001.jpg.webp|200]]
 
 ### Step 01
-![[OB020_step01.png|200]]
+![[OB020_step01.png.webp|200]]
 
 ### Step 02
 ![[OB020_step02.png.webp|200]]
@@ -56,7 +56,7 @@ A script is created to generate topographic lines based on volume.
 
 ---
 
-## 5. Visual Selection
+## 5. Visual selection
 
 ### Crisis / threshold according to AI-assisted reading / ChatGPT
 
@@ -72,21 +72,21 @@ A script is created to generate topographic lines based on volume.
 
 ---
 
-## 6. Crisis and Formal-Perceptual Reading
+## 6. Crisis and formal-perceptual reading
 
 **The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-The crisis is due to the amount of lines; the form, contour, and their relationship with the background are gradually lost. Color disappears, working only on the form.
+The crisis is due to the amount of lines; the form, contour, and its relationship with the background are gradually lost. Color disappears, and only form is worked on.
 
 
 
 ---
 
-## 7. Final Evaluation and Artistic Reference
+## 7. Final evaluation and artistic reference
 
 
 **Operation notes / what I learned:** 
-It works with a raster image and the mediation is algorithmic, but the result of its translation is in another representation system, which is a topographic image.
+It works with a raster image and the mediation is algorithmic, but the result of its translation is in another system of representation: the topographical image.
 
 
 **Final_status:** 
@@ -95,7 +95,7 @@ Works:: [[SI|SI]]
 **How it destroys the image:** 
 Works_on::  [[Formal|Formal]] 
 
-**Level and Richness of crisis:** 
+**Level and richness of crisis:** 
 Crisis::   [[Media|Media]] 
 
 **Decision:** 
@@ -103,7 +103,7 @@ Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]]
 
 ---
 
-### Possible Artistic Reference
+### Possible artistic reference
 
 Referente:: [[Agnes Denes|Agnes Denes]], [[Richard Tuttle|Richard Tuttle]], [[Gego|Gego]], [[[Brice Marden|[Brice Marden]], [[ [Cy Twombly| [Cy Twombly]], [[Piet Mondria|Piet Mondria]],
 

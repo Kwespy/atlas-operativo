@@ -9,14 +9,14 @@ Status:: [[Terminada|Finished]]
 
 ---
 
-## 1. Operation data
+## 1. Operation details
 
 **Internal number:** OB_18  
 **Operational regime:** [[Lista_Traduccion_Sistemas_Representacion|Representation Systems Translation List]]  
 **Source image:**  Life Photograph
 
 **Operational description:**  
-Raster photograph → tonal quantization → character matrix → typographic display on screen → screen capture as a new raster image.
+Raster photograph → tonal quantization → character matrix → typographic display on screen → screenshot as a new raster image.
 
 ---
 
@@ -28,7 +28,7 @@ Raster photograph → tonal quantization → character matrix → typographic di
 - 
 
 **Technical procedure:**  
-Raster photograph → tonal quantization → character matrix → typographic display on screen → screen capture as a new raster image.
+Raster photograph → tonal quantization → character matrix → typographic display on screen → screenshot as a new raster image.
 
 ---
 
@@ -52,40 +52,40 @@ Raster photograph → tonal quantization → character matrix → typographic di
 ![[Input_001.jpg.webp|200]]
 
 ### Step 01
-![[OB018_step01.png|200]]
+![[OB018_step01.png.webp|200]]
 
 ### Step 02
-![[OB018_step02.png|200]]
+![[OB018_step02.png.webp|200]]
 
 ### Step 03
-![[OB018_step03.png|200]]
+![[OB018_step03.png.webp|200]]
 
 ### Step 04
-![[OB018_step04.png|200]]
+![[OB018_step04.png.webp|200]]
 
 ### Step 05
-![[OB018_step05.png|200]]
+![[OB018_step05.png.webp|200]]
 
 ### Step 06
-![[OB018_step06.png|200]]
+![[OB018_step06.png.webp|200]]
 
 ### Step 07
-![[OB018_step07.png|200]]
+![[OB018_step07.png.webp|200]]
 
 ### Step 08
-![[OB018_step08.png|200]]
+![[OB018_step08.png.webp|200]]
 
 ### Step 09
-![[OB018_step09.png|200]]
+![[OB018_step09.png.webp|200]]
 
 ### Step 10
-![[OB018_step10.png|200]]
+![[OB018_step10.png.webp|200]]
 
 ### Step 11
-![[OB018_step11.png|200]]
+![[OB018_step11.png.webp|200]]
 
 ### Step 12
-![[OB018_step12.png|200]]
+![[OB018_step12.png.webp|200]]
 
 ---
 
@@ -95,13 +95,13 @@ Raster photograph → tonal quantization → character matrix → typographic di
 
 
 ### Step 12
-![[OB018_step12.png]]
+![[OB018_step12.png.webp]]
 
 ### Crisis / threshold according to my perception
 
 
 ### Step 07
-![[OB018_step07.png]]
+![[OB018_step07.png.webp]]
 
 ---
 
@@ -109,9 +109,9 @@ Raster photograph → tonal quantization → character matrix → typographic di
 
 **Main crisis:** general
 
-**The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
+**The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-the crisis is complete regarding the representation system and everything formal, the only thing that remains unchanged is the support.
+the crisis is complete regarding the representation system or everything formal, the only thing that remains unchanged is the support.
 
 ---
 
@@ -119,7 +119,7 @@ the crisis is complete regarding the representation system and everything formal
 
 
 **Operation notes / what I learned:**  
-CHATGPT cannot easily understand the image; I had to build the shape and contour in more detail so that GPT could state with 100% certainty that it was a ball. It is a shift from the raster language, which is a pixel image, to the ASCII format, which relies on the organization of characters. Then it returned to raster via the screenshot so that GPT could understand it. GPT reads it through ASCII at the beginning. Change of language
+CHATGPT cannot easily understand the image; I had to build the form and contour in more detail so that GPT could say with 100% certainty that it was a ball. It is the shift from the raster language, which is a pixel image, to the ASCII format, which is based on the organization of characters. Then it went back to raster through the screenshot so that GPT could understand it. GPT reads it via ASCII at first. Language shift
 
 
 **Final_status:** 
@@ -136,7 +136,7 @@ Selection:: [[Combinable|Combinable]] / [[Guardar|Save]]
 
 ---
 
-### Possible artistic reference
+### Potential artistic reference
 
 Reference:: [[Guillaume Apollinaire |Guillaume Apollinaire ]], [[JODI|JODI]], [[Leon Harmon & Ken Knowlton |Leon Harmon & Ken Knowlton ]], [[Vuk Ćosić|Vuk Ćosić]], [[Chuck Close|Chuck Close]]
 

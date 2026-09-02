@@ -1,28 +1,28 @@
 ---
-title: "OB_016 — Strip Displacement"
+title: "OB_016 — Stripe displacement"
 atlas_direct: true
 lang: en
 ---
 
-# OB_016_Strip_Displacement
+# OB_016_Stripe_displacement
 
 ## Status
 Status:: [[Terminada|Finished]]
 
 ---
 
-## 1. Operation Data
+## 1. Operation data
 
 **Internal number:** OB_016
 **Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
 **Source image:**  
 
 **Operational description:**  
-A script is created so that the image is altered by the displacement of vertical strips.
+A script is created so that the image is altered by the displacement of vertical stripes.
 
 ---
 
-## 2. Tools and Procedure
+## 2. Tools and procedure
 
 
 - A script is created in ChatGPT for Python and executed in the Mac Terminal
@@ -34,7 +34,7 @@ A script is created so that the image is altered by the displacement of vertical
 
 **Controlled variables:**  
 - Amount of output images resulting
-- Script variables such as strip size, quantity, and intensity.
+- Script variables such as stripe size, quantity, and intensity.
 - 
 
 **Uncontrolled / accidental variables:**  
@@ -44,34 +44,34 @@ A script is created so that the image is altered by the displacement of vertical
 
 ---
 
-## 4. Visual Sequence
+## 4. Visual sequence
 
 ### Initial image
 ![[Input_001.jpg.webp|200]]
 
 ### Step 01
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step01.jpg.webp.webp|200]]
+![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step01.jpg.webp|200]]
 
 ### Step 02
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step02.jpg.webp.webp|200]]
+![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step02.jpg.webp|200]]
 
 ### Step 03
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step03.jpg.webp.webp|200]]
+![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step03.jpg.webp|200]]
 
 ### Step 04
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step04.jpg.webp.webp|200]]
+![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step04.jpg.webp|200]]
 
 ### Step 05
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step05.jpg.webp.webp|200]]
+![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step05.jpg.webp|200]]
 
 ### Step 06
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step06.jpg.webp.webp|200]]
+![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step06.jpg.webp|200]]
 
 ### Step 07
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step07.jpg.webp.webp|200]]
+![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step07.jpg.webp|200]]
 
 ### Step 08
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step08.jpg.webp.webp|200]]
+![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step08.jpg.webp|200]]
 
 ### Step 09
 ![[OB015_step09.jpg.webp|200]]
@@ -93,7 +93,7 @@ A script is created so that the image is altered by the displacement of vertical
 
 ---
 
-## 5. Visual Selection
+## 5. Visual selection
 
 ### Crisis / threshold according to AI-assisted reading / ChatGPT
 
@@ -105,26 +105,26 @@ A script is created so that the image is altered by the displacement of vertical
 
 
 ### Step 06
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step06.jpg.webp.webp]]
+![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step06.jpg.webp]]
 
 ---
 
-## 6. Crisis and Formal-Perceptual Reading
+## 6. Crisis and formal-perceptual reading
 
 **Main crisis:** Structure, form, and contour
 
 **The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-The form contour is the first thing to be destroyed, the color remains recognizable, and the relationship between figure and ground begins to enter a crisis later on; it is there that the loss of legibility occurs when figure and ground begin to blend.
+The shape and contour are the first things to be destroyed, the color remains recognizable, and the relationship between figure and ground begins to enter crisis later on; that is when legibility is lost as figure and ground start to mix.
 
 
 ---
 
-## 7. Final Evaluation and Artistic Reference
+## 7. Final evaluation and artistic reference
 
 
 **Operation notes / what I learned:**  
-Simple operation, it is more about the image's aesthetics than a structural operation of the image.
+Simple operation, it is more about the aesthetics of the image than a structural operation of the image.
 It has a collage-like feel. Aesthetic. Kinetic painting
 
 

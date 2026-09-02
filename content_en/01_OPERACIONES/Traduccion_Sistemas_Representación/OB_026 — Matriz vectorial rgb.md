@@ -36,12 +36,12 @@ The image is reconstructed as a field of lines. Each zone generates strokes whos
 **Controlled variables:**  
 - Stroke length
 - Line thickness and density
-- Displacement intensity based on RGB values
+- Displacement intensity according to RGB values
 
 **Uncontrolled / accidental variables:**  
 - Stroke overlap and accumulation
 - Emerging shapes produced by the image's color distribution
-- Areas where line density causes the figure to disappear or reappear
+- Zones where line density makes the figure disappear or reappear
 
 
 ---
@@ -52,7 +52,7 @@ The image is reconstructed as a field of lines. Each zone generates strokes whos
 ![[input_03.jpeg.webp|200]]
 
 ### Step 01
-![[OB026_step01.png|200]]
+![[OB026_step01.png.webp|200]]
 
 ### Step 02
 ![[OB026_step02.png.webp|200]]
@@ -134,7 +134,7 @@ The image is reconstructed as a field of lines. Each zone generates strokes whos
 
 **Where the crisis occurs and the operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-the accumulation of strokes begins to break down the contours and blend figure and ground. The vegetation can still be partially recognized, but the image also starts to read as an abstract grid of lines, directions, and densities. Color loses prominence to texture, and legibility remains in an intermediate state between representation and abstraction.
+the accumulation of strokes begins to break down contours and blend figure and ground. The vegetation can still be partially recognized, but the image also starts to be read as an abstract grid of lines, directions, and densities. Color loses prominence to texture, and legibility remains in an intermediate state between representation and abstraction.
 
 ---
 
@@ -142,7 +142,7 @@ the accumulation of strokes begins to break down the contours and blend figure a
 
 
 **Operation notes / what I learned:**  
-It is another representation system because the raster image becomes a vector. That is, the vector image represents it through geometric instructions: lines, curves, polygons, coordinates, thickness, direction, color, etc. Information ceases to be expressed primarily as pixels and begins to be expressed as geometry. 
+It is another system of representation, because the raster image becomes vector-based. That is, the vector image represents it through geometric instructions: lines, curves, polygons, coordinates, thickness, direction, color, etc. information ceases to be expressed primarily as pixels and begins to be expressed as geometry. 
 
 
 
@@ -156,11 +156,11 @@ Works_on:: [[Formal|Formal]]
 Crisis:: [[Media|Medium]] 
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Save]]  
+Selection:: [[Combinable|Combinable]] / [[Guardar|Keep]]  
 
 ---
 
-### Possible artistic reference
+### Potential artistic reference
 
 Reference:: [[Mark Grotjahn|Mark Grotjahn]], [[]], [[]]
 

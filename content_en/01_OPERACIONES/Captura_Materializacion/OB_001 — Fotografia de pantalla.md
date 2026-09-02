@@ -10,18 +10,18 @@ lang: en
 Status:: [[Terminada|Finished]]
 
 
-## 1. Operation data
+## 1. Operation Data
 
 **Internal number:** OB_001  
-**Operating regime:** [[Lista_Captura_Materializacion|Lista Captura Materializacion]] 
+**Operational regime:** [[Lista_Captura_Materializacion|Lista Captura Materializacion]] 
 **Source image:** Photograph taken from life.  
 
 **Operational description:**  
-Recapture an image from the computer screen, circulating the image between photograph, screen, and a new photograph. The operation introduces optical mediation, loss of stability, visual noise, and chromatic alterations through successive recaptures.
+Recapturing an image from a computer screen, circulating the image between photography, screen, and new photograph. The operation introduces optical mediation, loss of stability, visual noise, and chromatic alterations through successive recaptures.
 
 **Tools / medium:**  
 - iPhone 12 rear camera
-- MacBook Pro 2018 digital screen
+- 2018 MacBook Pro digital screen
 - Screen photograph
 
 **Technical procedure:**  
@@ -29,8 +29,8 @@ Recapture an image from the computer screen, circulating the image between photo
 2. Send the photograph to the MacBook.
 3. Open the image on the MacBook screen.
 4. Photograph the screen with the iPhone.
-5. Send that new photograph back to the MacBook.
-6. Open it again on screen.
+5. Send this new photograph back to the MacBook.
+6. Open it on the screen again.
 7. Photograph the screen once more.
 8. Repeat the process several times until the image loses visual stability.
 
@@ -58,7 +58,7 @@ Recapture an image from the computer screen, circulating the image between photo
 
 ---
 
-## 3. Visual process
+## 3. Visual Process
 
 ### Initial image
 ![[OB001_input.jpg|200]]
@@ -294,9 +294,9 @@ Recapture an image from the computer screen, circulating the image between photo
 
 ---
 
-## 4. Visual selection
+## 4. Visual Selection
 
-### Crisis/Threshold according to AI / ChatGPT-assisted reading
+### Crisis/Threshold according to AI-assisted reading / ChatGPT
 ![[OB001_step38.jpg.webp]]
 
 ### Crisis/Threshold according to my perception
@@ -305,30 +305,30 @@ Recapture an image from the computer screen, circulating the image between photo
 ### Excess/Rupture
 ![[OB001_step76.jpg.webp|300]]
 
-## 5. Crisis and formal-perceptual reading
+## 5. Crisis and Formal-Perceptual Reading
 
 **Main crisis:** technical crisis.
 
-The operation affects the visual grammar of the image: it weakens form, contour, color, and figure/ground relationship through the recapture process between screen and camera.
+The operation affects the visual grammar of the image: it weakens form, contour, color, and figure/ground relationship through recapture between screen and camera.
 
-The ball retains recognizable traces most of the time, the contrasts between black and white are maintained, but its edges become unstable and start to merge with the background. Color loses its descriptive function and appears as technical interference. Everything turns warm-toned and RGB colors emerge, such as green, characteristic of the screen. The image enters a crisis when it can still be reconstructed as a ball, but is no longer read stably. The screen, camera, autofocus, reflections, and unforced errors act upon the image, becoming a visible part of the process. The gaze oscillates between recognizing the object and losing it in noise, stain, and interference. Texture and moiré.
+The ball retains recognizable traces most of the time, the contrasts between black and white are maintained, but its edges become unstable and begin to blend with the background. Color loses its descriptive function and appears as technical interference. Everything turns warm in tone and RGB colors emerge, such as green, inherent to the screen. The image enters a crisis when it can still be reconstructed as a ball, but is no longer read in a stable way. The screen, the camera, autofocus, reflections, and unforced errors act upon the image and become a visible part of the process. The gaze oscillates between recognizing the object and losing it in noise, stain, and interference. Texture and moiré.
 
-## 6. Final evaluation and artistic reference
+## 6. Final Evaluation and Artistic Reference
 
-**Does this operation truly put the image in crisis or does it function merely as an aesthetic effect?**  
+**Does this operation truly put the image in crisis, or does it function merely as an aesthetic effect?**  
 YES
 
 **Operation notes / what I learned:**  
-It is a long operation; many photographs are required for it to start becoming unstable. So far, it is one of the operations offering the most constitutive possibility and the one that most integrates new forms or elements into the image that were not present before.
+It is a lengthy operation; many photographs are needed for it to begin becoming unstable. So far, it is one of the ones that provides the most constitutive potential and the one that best integrates new forms or elements into the image that were not there before.
 
 
-**Final_state:** 
+**Final_status:** 
 Works:: [[SI|YES]] 
 
 **How it destroys the image:** 
 Works_on:: [[Formal|Formal]] 
 
-**Crisis level and richness:** 
+**Level and Richness of crisis:** 
 Crisis::  [[Alta|High]]
 
 **Decision:** 
@@ -336,7 +336,7 @@ Selection:: [[Combinable|Combinable]] / [[Guardar|Save]]
 
 ---
 
-### Possible artistic reference
+### Possible Artistic Reference
 
 Reference:: [[Jacqueline Humphries|Jacqueline Humphries]], [[Liz Deschenes|Liz Deschenes]], [[Christiane Baumgartner|Christiane Baumgartner]]
 **Possible works:**  

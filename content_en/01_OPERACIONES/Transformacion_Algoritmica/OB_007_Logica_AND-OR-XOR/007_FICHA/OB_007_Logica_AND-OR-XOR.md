@@ -15,10 +15,10 @@ Status:: [[Terminada|Terminada]]
 **Operational regime:** [[Lista_Transformacion_Algoritmica|Lista Transformacion Algoritmica]]
 
 **Source image:**  
-Photograph from life
+Direct photograph from life
 
 **Operational description:**  
-Prompt ChatGPT to operate on the photo using AND-OR-XOR logic until the form enters into crisis.
+Prompt to ChatGPT to successively process the photo using AND-OR-XOR logic until the form enters into crisis.
 
 ---
 
@@ -31,7 +31,7 @@ Prompt ChatGPT to operate on the photo using AND-OR-XOR logic until the form ent
 
 **Technical procedure:**  
 1. Take photo
-2. Upload it to ChatGPT via prompt
+2. Upload it into a prompt with ChatGPT
 3. 
 4. 
 5. 
@@ -42,7 +42,7 @@ Prompt ChatGPT to operate on the photo using AND-OR-XOR logic until the form ent
 
 **Controlled variables:**  
 - Photograph
-- Choice of result
+- Selection of the result
 - 
 
 **Uncontrolled / accidental variables:**  
@@ -89,30 +89,30 @@ Prompt ChatGPT to operate on the photo using AND-OR-XOR logic until the form ent
 
 ## 6. Crisis and formal-perceptual reading
 
-**Main crisis:**  The structure of the form is lost
+**Main crisis:** The structure of the form is lost
 
-The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support.
+The operation affects the visual grammar of the image: form, outline, color, figure/ground relationship, legibility, recognition, and support.
 
-The form and structure of the object enter into crisis; it is not the image that enters into crisis, but the object, losing its form and legibility. 
+The form and the structure of the object enter into crisis. It is not the image that enters into crisis, but the object, losing its form and legibility. 
 
 ---
 
 ## 7. Final evaluation and artistic reference
 
 **Question posed to the operation:**  
-Does this operation truly put the image in crisis, or does it function merely as an aesthetic effect?
+Does this operation truly put the image into crisis, or does it function merely as an aesthetic effect?
 The image does not enter into crisis; the object enters into crisis.
 
 **Operation notes / what I learned:**  
-It functions as an operation that alters the recognizable form shown by the image. The object loses its meaning, but the image remains stable.
+It functions as an operation that alters the recognition form shown by the image. The object loses its meaning, but the image remains stable.
 
 **Final_status:** 
-Works_on:: [[NO|NO]]
+Works:: [[NO|NO]]
 
 **How it destroys the image:** 
 Works_on:: [[Estetico|Estetico]]
 
-**Level and richness of crisis:** 
+**Level and Richness of crisis:** 
 Crisis::  [[Alta|Alta]]
 
 **Decision:** 
@@ -120,9 +120,9 @@ Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]]
 
 ---
 
-### Possible artistic reference
+### Potential artistic reference
 
-Referent:: [[Juan Gris|Juan Gris]], [[Pablo Picasso|Pablo Picasso]], [[El Lissitzky|El Lissitzky]] [[Barbara Kasten|Barbara Kasten]]
+Reference:: [[Juan Gris|Juan Gris]], [[Pablo Picasso|Pablo Picasso]], [[El Lissitzky|El Lissitzky]] [[Barbara Kasten|Barbara Kasten]]
 
 **Possible works:**  
 - [Juan Gris — Still Life with Checked Tablecloth, 1915](https://www.google.com/search?sca_esv=1aa2181320e8cba3&rlz=1C5CHFA_enPT1033PT1033&sxsrf=ANbL-n4VyGYsWhKQ7yjfVuKy3xWXGmnXyA:1781372230644&udm=2&fbs=ADc_l-bvyVtSnqWkPtsm5fZP6vVTUNKGLOEe29PPQ9O46lcoGexCLfV70rLHf3uTO3T1pQ-9FhJEAHb40S4ofcvGHOJ6GF6dfYrjY5oVQgxWcpLfDLRGCcdZsM3JWCNPxceYfCI5SGaZBikjuKNbIRYT1HcLjTkwsBcbeO9ctp6wU1QNTlyVfzwbc412k7kpPWtrSrT5qursNlkAoj8T46GGWoxWuHJ_yb7goPIuPKzZ0VC5b46tgcbLZ0EqON18w8RidnYygAmS&q=Juan+Gris+%E2%80%94+Still+Life+with+Checked+Tablecloth,+1915&sa=X&ved=2ahUKEwjhqZTY4ISVAxXkQ_EDHUryCcEQtKgLegQIGRAB&biw=1098&bih=851&dpr=1)

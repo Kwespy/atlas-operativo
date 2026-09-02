@@ -4,10 +4,10 @@ atlas_direct: true
 lang: en
 ---
 
-# OB_018_ASCII_Matrix
+# OB_018_Matriz_ASCII
 
 ## Status
-Status:: [[Terminada|Finished]]
+Status:: [[Terminada|Terminada]]
 
 ---
 
@@ -15,10 +15,10 @@ Status:: [[Terminada|Finished]]
 
 **Internal number:** OB_18  
 **Operational regime:** [[Lista_Traduccion_Sistemas_Representacion|Lista Traduccion Sistemas Representacion]]  
-**Source image:** Photograph from Life
+**Source image:** Natural photograph
 
 **Operational description:**  
-Raster photograph → tonal quantization → character matrix → typographic display on screen → screenshot as new raster image.
+Raster photograph → tonal quantization → character matrix → typographic display on screen → screenshot as a new raster image.
 
 ---
 
@@ -26,11 +26,11 @@ Raster photograph → tonal quantization → character matrix → typographic di
 
 **Tools / medium:**  
 - Illustrator to reduce to 3 colors
-- Illustrator to overlay text and start constructing the image using the keyboard
+- Illustrator to overlay the text and start building the image with the keyboard
 - 
 
 **Technical procedure:**  
-Raster photograph → tonal quantization → character matrix → typographic display on screen → screenshot as new raster image.
+Raster photograph → tonal quantization → character matrix → typographic display on screen → screenshot as a new raster image.
 
 ---
 
@@ -42,7 +42,7 @@ Raster photograph → tonal quantization → character matrix → typographic di
 - number of characters to simulate tones
 
 **Uncontrolled / accidental variables:**  
-- the character always produces the same tone. 
+- the character always yields the same tone.
 - 
 - 
 
@@ -54,56 +54,56 @@ Raster photograph → tonal quantization → character matrix → typographic di
 ![[Input_001.jpg.webp|200]]
 
 ### Step 01
-![[OB018_step01.png|200]]
+![[OB018_step01.png.webp|200]]
 
 ### Step 02
-![[OB018_step02.png|200]]
+![[OB018_step02.png.webp|200]]
 
 ### Step 03
-![[OB018_step03.png|200]]
+![[OB018_step03.png.webp|200]]
 
 ### Step 04
-![[OB018_step04.png|200]]
+![[OB018_step04.png.webp|200]]
 
 ### Step 05
-![[OB018_step05.png|200]]
+![[OB018_step05.png.webp|200]]
 
 ### Step 06
-![[OB018_step06.png|200]]
+![[OB018_step06.png.webp|200]]
 
 ### Step 07
-![[OB018_step07.png|200]]
+![[OB018_step07.png.webp|200]]
 
 ### Step 08
-![[OB018_step08.png|200]]
+![[OB018_step08.png.webp|200]]
 
 ### Step 09
-![[OB018_step09.png|200]]
+![[OB018_step09.png.webp|200]]
 
 ### Step 10
-![[OB018_step10.png|200]]
+![[OB018_step10.png.webp|200]]
 
 ### Step 11
-![[OB018_step11.png|200]]
+![[OB018_step11.png.webp|200]]
 
 ### Step 12
-![[OB018_step12.png|200]]
+![[OB018_step12.png.webp|200]]
 
 ---
 
 ## 5. Visual selection
 
-### Crisis / threshold according to AI / ChatGPT-assisted reading
+### Crisis / threshold according to AI-assisted reading / ChatGPT
 
 
 ### Step 12
-![[OB018_step12.png]]
+![[OB018_step12.png.webp]]
 
 ### Crisis / threshold according to my perception
 
 
 ### Step 07
-![[OB018_step07.png]]
+![[OB018_step07.png.webp]]
 
 ---
 
@@ -111,36 +111,36 @@ Raster photograph → tonal quantization → character matrix → typographic di
 
 **Main crisis:** general
 
-**The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
+**The operation affects the visual grammar of the image: shape, outline, color, figure/ground relationship, legibility, recognition, and support:**
 
-the crisis is complete due to the representation system or everything formal; the only thing that does not change is the support.
+the crisis is complete regarding the representation system or everything formal; the only thing that does not change is the support.
 
 ---
 
-## 7. Final evaluation and artistic referent
+## 7. Final evaluation and artistic reference
 
 
 **Operation notes / what I learned:**  
-ChatGPT cannot easily understand the image; I had to build the shape and contour in more detail so GPT could state, though not with 100% certainty, that it was a ball. It is the shift in language from raster—which is a pixel image—to ASCII format—which functions through character organization. Then it returned to raster via the screenshot so GPT could understand it. GPT reads it through ASCII at first. Language shift.
+CHATGPT cannot easily understand the image; I had to build the shape and outline in more detail so that GPT could state with 100% certainty that it was a ball. It is the shift from the raster language, which is a pixel image, to the ASCII format, which is based on the organization of characters. Then it returned to raster through the screenshot so that GPT could understand it. GPT reads it via ASCII at the beginning. Language shift
 
 
 **Final_status:** 
-Works:: [[SI|YES]] 
+Works:: [[SI|SI]] 
 
 **How it destroys the image:** 
 Works_on::  [[Formal|Formal]] 
 
 **Level and Richness of crisis:** 
-Crisis::  [[Media|Medium]] 
+Crisis::  [[Media|Media]] 
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Save]] 
+Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]] 
 
 ---
 
-### Possible artistic referent
+### Possible artistic reference
 
-Referent:: [[Guillaume Apollinaire |Guillaume Apollinaire ]], [[JODI|JODI]], [[Leon Harmon & Ken Knowlton |Leon Harmon & Ken Knowlton ]], [[Vuk Ćosić|Vuk Ćosić]], [[Chuck Close|Chuck Close]]
+Referente:: [[Guillaume Apollinaire |Guillaume Apollinaire ]], [[JODI|JODI]], [[Leon Harmon & Ken Knowlton |Leon Harmon & Ken Knowlton ]], [[Vuk Ćosić|Vuk Ćosić]], [[Chuck Close|Chuck Close]]
 
 **Possible works:**  
 - [Guillaume Apollinaire — La cravate et la montre](https://www.google.com/search?sca_esv=6ac0c82fe28ce797&rlz=1C5CHFA_enPT1033PT1033&sxsrf=APpeQnvoSsVi5CXs4NIrudOJd0QsrAIanw:1783113278658&udm=2&fbs=ABfTbFVE7fo27_vcY8j5eDk2L2SoROv72uIpBYurdHJhNXjr5I-uJFqOKHDkQzXNR2pVujVjYfw4_nxXlMEsKDcnqTc2rk-FgDtuj4wl-w5tLm5CKBj-kh0GCvz5m1fzviuB1XEwbVtjnnPqcJlMbpbEklMeCu-8xTX4UrrrKBsVE2K1Jcvrt176gRyglTU47mDpbPhKRQ252fuY5rmbZhnxbJnj8TGklGopG9tfF3_u9doUybDE-OnwQ-yllLe_niXANAZYsfBR&q=Guillaume+Apollinaire+%E2%80%94+La+cravate+et+la+montre&sa=X&ved=2ahUKEwiv_8XMtreVAxWXB9sEHeZPPCcQtKgLegQIHBAB&biw=1419&bih=901&dpr=2)

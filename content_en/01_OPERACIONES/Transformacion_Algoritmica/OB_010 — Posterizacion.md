@@ -4,7 +4,7 @@ atlas_direct: true
 lang: en
 ---
 
-# OB_010_Posterizacion
+# OB_010_Posterization
 
 ## Status
 Status:: [[Terminada|Finished]]
@@ -18,7 +18,7 @@ Status:: [[Terminada|Finished]]
 **Source image:** Photograph
 
 **Operational description:**  
-It is posterized so that the number of colors in the photo decreases. The image does not enter into crisis this way. It is pushed with an increase in contrast and brightness to destabilize the image.
+It is posterized so that the number of colors in the photo decreases. The image does not enter into crisis this way. It is pushed by increasing contrast and brightness to destabilize the image.
 
 ---
 
@@ -30,8 +30,8 @@ It is posterized so that the number of colors in the photo decreases. The image 
 - 
 
 **Technical procedure:**  
-1. Posterize to the maximum
-2. Increase contrast and brightness
+1. Posterized to the maximum
+2. Contrast and brightness are increased
 3. 
 4. 
 5. 
@@ -97,23 +97,23 @@ It is posterized so that the number of colors in the photo decreases. The image 
 
 ## 6. Crisis and formal-perceptual reading
 
-**Main crisis:** loss of legibility due to tones and by pushing contrast and brightness
+**Main crisis:** loss of legibility due to tones and by forcing contrast and brightness
 
-In posterization, the image enters into crisis because of the colors; form begins to be lost due to the mixing of colors, and figure and ground merge, creating passages of white. After modifying and increasing brightness and contrast, these fusions of figure and ground increase. To finally break the image, the brightness is turned up and it becomes white. It is not possible to reach black. 
+In posterization, the image enters into crisis because of the colors; form begins to dissolve due to the mixing of colors, and figure and ground merge, creating passages of white. After modifying and increasing brightness and contrast, these fusions of figure and ground increase. To finally break the image, the brightness is turned up and it becomes white. It is not possible to reach black. 
 
 ---
 
 ## 7. Final evaluation and artistic reference
 
 **Question for the operation:**  
-Does this operation truly put the image in crisis or does it only work as an aesthetic effect?
-No, if the image is pushed it can produce a crisis, but it is more aesthetic, although it still breaks it.
+Does this operation truly put the image into crisis, or does it function merely as an aesthetic effect?
+No, if the image is forced it can produce a crisis, but it is more aesthetic, though it still breaks it.
 
 **Operation notes / what I learned:**  
-Posterization by itself does not work, but it creates a good aesthetic effect; in the blacks, colors that were not there before are produced.
+Posterization on its own does not work, but I created a good aesthetic effect; colors that were not there before appear in the blacks.
 
 **Final_status:** 
-Works:: [[NO|NO]] [[Forzandola|By pushing it]]
+Works:: [[NO|NO]] [[Forzandola|By forcing it]]
 
 **How it destroys the image:** 
 Works_on:: [[Estetico|Aesthetic]] 
@@ -127,9 +127,9 @@ Selection:: [[Combinable|Combinable]]
 
 ---
 
-### Possible artistic reference
+### Potential artistic reference
 
-Referent:: [[Armando Reveron|Armando Reveron]], [[J. M. W. Turner|J. M. W. Turner]], [[[Uta Barth|[Uta Barth]], [[Claude Monet|Claude Monet]]
+Reference:: [[Armando Reveron|Armando Reveron]], [[J. M. W. Turner|J. M. W. Turner]], [[[Uta Barth|[Uta Barth]], [[Claude Monet|Claude Monet]]
 
 **Possible works:**  
 - [Armando Reveron](White Period)

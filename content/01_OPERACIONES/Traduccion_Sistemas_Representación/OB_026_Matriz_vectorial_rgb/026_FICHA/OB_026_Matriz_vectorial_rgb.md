@@ -46,7 +46,7 @@ La imagen se reconstruye como un campo de líneas. Cada zona genera trazos cuya 
 ![[input_03.jpeg.webp|200]]
 
 ### Step 01
-![[OB026_step01.png|200]]
+![[OB026_step01.png.webp|200]]
 
 ### Step 02
 ![[OB026_step02.png.webp|200]]

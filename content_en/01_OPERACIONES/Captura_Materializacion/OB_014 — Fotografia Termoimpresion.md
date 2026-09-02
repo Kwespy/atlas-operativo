@@ -7,18 +7,18 @@ lang: en
 # OB_014_Fotografia_Termoimpresion
 
 ## Status
-Status:: [[Terminada|Finished]]
+Status:: [[Terminada|Terminada]]
 
 ---
 
-## 1. Operational data
+## 1. Operation data
 
 **Internal number:** OB_14  
 **Operational regime:** [[Lista_Captura_Materializacion|Lista Captura Materializacion]]  
 **Source image:** Thermal-printed photograph
 
 **Operational description:**  
-Using an instant thermal print camera, the object is captured, and the instant photograph is re-captured using the same camera.
+Using an instant thermal print camera, the object is captured, and then the instant photograph is recaptured using the same camera.
 
 ---
 
@@ -26,12 +26,12 @@ Using an instant thermal print camera, the object is captured, and the instant p
 
 **Tools / medium:**  
 - Instant camera
-- Thermal sensitive paper
+- Thermosensitive paper
 - 
 
 **Technical procedure:**  
-1. Take a photograph
-2. Take a photograph of the photograph.
+1. Take photograph
+2. Take photograph of the photograph.
 3. 
 4. 
 5. 
@@ -43,10 +43,10 @@ Using an instant thermal print camera, the object is captured, and the instant p
 **Controlled variables:**  
 - Camera presets
 - Model composition
-- Shot orientation
+- Shooting direction
 
 **Uncontrolled / accidental variables:**  
-- The paper does not always come out straight from the cameras, which can affect the printing
+- The paper does not always come out straight from the camera, which can affect the print
 - 
 - 
 
@@ -117,20 +117,20 @@ Using an instant thermal print camera, the object is captured, and the instant p
 
 ---
 
-## 6. Crisis and formal-perceptive reading
+## 6. Crisis and formal-perceptual reading
 
-**Main crisis:** Tonal, Contour, figure-ground
+**Main crisis:** Tonal, Contour, Figure-ground
 
-**The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support.**
+**The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support.**
 
-The image, which starts in black and white, gradually loses its contour and becomes less sharp. Figure and ground blend together, creating shapes and spots around them that merge the entire background into a single plane. Depth is progressively lost, and the created spots begin to encroach upon the object. Finally, a complete image composed of irregular spots is visible. The passage through the camera ceases to be intelligible.
+The image, which starts in black and white, loses its contour and becomes less sharp. Figure and ground blend together, creating shapes and spots around it, combining the entire background into a single plane. Depth is lost, and the created spots begin to enter the object. Finally, a complete image made up of irregular spots is seen. Through passing it through the camera, it stops being understood.
 
 ---
 
-## 7. Final evaluation and artistic referent
+## 7. Final evaluation and artistic reference
 
 
-**Notes on the operation / what I learned:**  
+**Operation notes / what I learned:**  
 The operation is simple; the crisis can be reached easily. The result resembles printmaking. The spots and the lack of contour definition are powerful.
 
 
@@ -141,16 +141,16 @@ Works:: [[NO|NO]]
 Works_on::[[Formal|Formal]] 
 
 **Level and richness of crisis:** 
-Crisis::  [[Alta|High]]
+Crisis::  [[Alta|Alta]]
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Save]] 
+Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]] 
 
 ---
 
-### Possible artistic referent
+### Potential artistic reference
 
-Referent:: [[Andy Warhol|Andy Warhol]], [[Sigmar Polke|Sigmar Polke]], [[Gerhard Richter|Gerhard Richter]], [[Marlene Dumas|Marlene Dumas]]
+Reference:: [[Andy Warhol|Andy Warhol]], [[Sigmar Polke|Sigmar Polke]], [[Gerhard Richter|Gerhard Richter]], [[Marlene Dumas|Marlene Dumas]]
 
 **Possible works:**
 

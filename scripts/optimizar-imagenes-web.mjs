@@ -1,360 +1,249 @@
-import fs from "node:fs"
-import fsp from "node:fs/promises"
+#!/usr/bin/env node
+
+import fs from "node:fs/promises"
 import path from "node:path"
 import os from "node:os"
-import crypto from "node:crypto"
 import { execFile } from "node:child_process"
 import { promisify } from "node:util"
 import sharp from "sharp"
 
 const execFileAsync = promisify(execFile)
 
-const root = path.resolve(process.argv[2] ?? "")
-const cacheDirectory = path.resolve(
-  process.argv[3] ?? ".image-cache",
-)
+const ROOT = path.resolve(process.argv[2] || "")
+if (!ROOT) {
+  console.error("Uso: node optimizar-imagenes-web.mjs <carpeta>")
+  process.exit(1)
+}
 
 const MAX_SIZE = 2400
 const QUALITY = 85
 const EFFORT = 4
-
-const supportedExtensions = new Set([
-  ".jpg",
-  ".jpeg",
-  ".png",
-  ".tif",
-  ".tiff",
-  ".heic",
-  ".heif",
+const RASTER = new Set([
+  ".jpg", ".jpeg", ".png", ".tif", ".tiff", ".heic", ".heif",
 ])
 
-const heicExtensions = new Set([
-  ".heic",
-  ".heif",
-])
-
-if (!root || !fs.existsSync(root)) {
-  console.error(`No existe la carpeta: ${root}`)
-  process.exit(1)
-}
-
-async function walk(directory) {
-  const results = []
-
-  const entries = await fsp.readdir(directory, {
-    withFileTypes: true,
-  })
-
-  for (const entry of entries) {
-    if (
-      entry.name === ".git" ||
-      entry.name === ".venv" ||
-      entry.name === "node_modules" ||
-      entry.name === "__pycache__"
-    ) {
-      continue
-    }
-
-    const fullPath = path.join(directory, entry.name)
-
+async function walk(dir) {
+  const out = []
+  for (const entry of await fs.readdir(dir, { withFileTypes: true })) {
+    if (entry.name === ".DS_Store") continue
+    const full = path.join(dir, entry.name)
     if (entry.isDirectory()) {
-      results.push(...await walk(fullPath))
+      out.push(...await walk(full))
     } else if (entry.isFile()) {
-      results.push(fullPath)
+      out.push(full)
     }
   }
-
-  return results
+  return out
 }
 
-function createCacheKey(relativePath, stats) {
-  return crypto
-    .createHash("sha1")
-    .update([
-      relativePath,
-      stats.size,
-      Math.trunc(stats.mtimeMs),
-      MAX_SIZE,
-      QUALITY,
-      EFFORT,
-      "heic-sips-v2",
-    ].join("|"))
-    .digest("hex")
-}
-
-async function prepareInput(sourcePath) {
-  const extension = path
-    .extname(sourcePath)
-    .toLowerCase()
-
-  if (!heicExtensions.has(extension)) {
-    return {
-      inputPath: sourcePath,
-      cleanup: async () => {},
-    }
-  }
-
-  const temporaryPath = path.join(
-    os.tmpdir(),
-    `atlas-heic-${crypto.randomUUID()}.jpg`,
-  )
-
-  await execFileAsync(
-    "/usr/bin/sips",
-    [
-      "-s",
-      "format",
-      "jpeg",
-      sourcePath,
-      "--out",
-      temporaryPath,
-    ],
-    {
-      maxBuffer: 10 * 1024 * 1024,
-    },
-  )
-
-  return {
-    inputPath: temporaryPath,
-    cleanup: async () => {
-      await fsp.rm(temporaryPath, {
-        force: true,
-      })
-    },
-  }
-}
-
-function replaceImageName(text, oldName, newName) {
-  const variants = new Set([
-    oldName,
-    oldName.normalize("NFC"),
-    oldName.normalize("NFD"),
-    encodeURI(oldName),
-    encodeURI(oldName.normalize("NFC")),
-    encodeURI(oldName.normalize("NFD")),
+function variants(value) {
+  const values = new Set([
+    value,
+    value.normalize("NFC"),
+    value.normalize("NFD"),
   ])
-
-  let result = text
-
-  for (const variant of variants) {
-    const replacement = variant.includes("%")
-      ? encodeURI(newName)
-      : newName
-
-    result = result.split(variant).join(replacement)
+  for (const v of [...values]) {
+    try {
+      values.add(encodeURI(v))
+    } catch {}
   }
-
-  return result
+  return [...values].sort((a, b) => b.length - a.length)
 }
 
-function formatMB(bytes) {
-  return `${(bytes / 1024 / 1024).toFixed(1)} MB`
+function replaceAllLiteral(text, from, to) {
+  if (!from || from === to) return text
+  return text.split(from).join(to)
 }
 
-await fsp.mkdir(cacheDirectory, {
-  recursive: true,
-})
+function escapeRegExp(value) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+}
 
-const files = await walk(root)
-
-const images = files.filter((filePath) =>
-  supportedExtensions.has(
-    path.extname(filePath).toLowerCase(),
-  ),
+const allFiles = await walk(ROOT)
+const images = allFiles.filter((file) =>
+  RASTER.has(path.extname(file).toLowerCase()),
 )
+
+let converted = 0
+let heicConverted = 0
+let errors = 0
+let oldBytes = 0
+let webBytes = 0
 
 const conversions = []
 
-let originalBytes = 0
-let optimizedBytes = 0
-let cacheHits = 0
-let failures = 0
-let keptOriginals = 0
-let heicConverted = 0
+for (let i = 0; i < images.length; i++) {
+  const source = images[i]
+  const ext = path.extname(source).toLowerCase()
+  const oldName = path.basename(source)
+  const newName = `${oldName}.webp`
+  const target = `${source}.webp`
 
-console.log(
-  `Optimizando ${images.length} imágenes para la web...`,
-)
-
-for (let index = 0; index < images.length; index += 1) {
-  const sourcePath = images[index]
-
-  const relativePath = path
-    .relative(root, sourcePath)
-    .replaceAll(path.sep, "/")
-
-  const sourceStats = await fsp.stat(sourcePath)
-
-  const cacheKey = createCacheKey(
-    relativePath,
-    sourceStats,
-  )
-
-  const cachedPath = path.join(
-    cacheDirectory,
-    `${cacheKey}.webp`,
-  )
-
-  const targetPath = `${sourcePath}.webp`
-
-  let preparedInput = null
+  let tempInput = null
 
   try {
-    if (fs.existsSync(cachedPath)) {
-      cacheHits += 1
-    } else {
-      preparedInput = await prepareInput(sourcePath)
+    const before = await fs.stat(source)
+    oldBytes += before.size
 
-      if (
-        heicExtensions.has(
-          path.extname(sourcePath).toLowerCase(),
-        )
-      ) {
-        heicConverted += 1
-      }
+    let input = source
 
-      const temporaryOutput =
-        `${cachedPath}.tmp-${process.pid}`
-
-      await sharp(preparedInput.inputPath, {
-        failOn: "none",
-        limitInputPixels: false,
-      })
-        .rotate()
-        .resize({
-          width: MAX_SIZE,
-          height: MAX_SIZE,
-          fit: "inside",
-          withoutEnlargement: true,
-        })
-        .webp({
-          quality: QUALITY,
-          effort: EFFORT,
-          smartSubsample: true,
-          alphaQuality: 95,
-        })
-        .toFile(temporaryOutput)
-
-      await fsp.rename(
-        temporaryOutput,
-        cachedPath,
+    if (ext === ".heic" || ext === ".heif") {
+      tempInput = path.join(
+        os.tmpdir(),
+        `kwy-heic-${process.pid}-${i}.jpg`,
       )
+
+      await execFileAsync("/usr/bin/sips", [
+        "-s", "format", "jpeg",
+        source,
+        "--out", tempInput,
+      ])
+
+      input = tempInput
+      heicConverted += 1
     }
 
-    await fsp.copyFile(
-      cachedPath,
-      targetPath,
-    )
-
-    const targetStats = await fsp.stat(targetPath)
-
-    if (targetStats.size >= sourceStats.size) {
-      await fsp.rm(targetPath, {
-        force: true,
+    await sharp(input)
+      .rotate()
+      .resize({
+        width: MAX_SIZE,
+        height: MAX_SIZE,
+        fit: "inside",
+        withoutEnlargement: true,
       })
+      .webp({
+        quality: QUALITY,
+        effort: EFFORT,
+      })
+      .toFile(target)
 
-      keptOriginals += 1
-      continue
-    }
+    const after = await fs.stat(target)
+    webBytes += after.size
 
-    originalBytes += sourceStats.size
-    optimizedBytes += targetStats.size
+    // Política obligatoria: si la conversión funcionó, WebP siempre gana.
+    await fs.rm(source)
 
     conversions.push({
-      sourcePath,
-      oldName: path.basename(sourcePath),
-      newName: path.basename(targetPath),
+      oldName,
+      newName,
+      stem: path.basename(source, path.extname(source)),
     })
+
+    converted += 1
   } catch (error) {
-    failures += 1
-
-    await fsp.rm(targetPath, {
-      force: true,
-    }).catch(() => {})
-
-    console.warn(`No se pudo optimizar: ${relativePath}`)
-
-    console.warn(
-      error instanceof Error
-        ? error.message
-        : String(error),
-    )
+    errors += 1
+    console.error(`ERROR: ${source}`)
+    console.error(`  ${error.message}`)
+    try { await fs.rm(target) } catch {}
   } finally {
-    if (preparedInput) {
-      await preparedInput.cleanup()
+    if (tempInput) {
+      try { await fs.rm(tempInput) } catch {}
     }
   }
 
-  if (
-    (index + 1) % 25 === 0 ||
-    index + 1 === images.length
-  ) {
-    console.log(
-      `Procesadas ${index + 1}/${images.length}`,
-    )
+  const done = i + 1
+  if (done % 25 === 0 || done === images.length) {
+    console.log(`Procesadas ${done}/${images.length}`)
   }
 }
 
-const markdownFiles = files.filter(
-  (filePath) =>
-    path.extname(filePath).toLowerCase() === ".md",
+// Un basename se actualiza una sola vez aunque exista físicamente
+// en varias operaciones.
+const markdownConversions = new Map()
+
+for (const conversion of conversions) {
+  const key = conversion.oldName.normalize("NFC").toLowerCase()
+  const existing = markdownConversions.get(key)
+
+  if (existing && existing.newName !== conversion.newName) {
+    throw new Error(`Conflicto de conversión para ${conversion.oldName}`)
+  }
+
+  if (!existing) markdownConversions.set(key, conversion)
+}
+
+// Para wikilinks Obsidian sin extensión: solo reemplazar cuando el stem
+// conduce de forma inequívoca a un único nombre WebP.
+const stemTargets = new Map()
+
+for (const conversion of markdownConversions.values()) {
+  const key = conversion.stem.normalize("NFC").toLowerCase()
+  if (!stemTargets.has(key)) stemTargets.set(key, new Set())
+  stemTargets.get(key).add(conversion.newName)
+}
+
+console.log(
+  `Nombres únicos a actualizar en Markdown: ${markdownConversions.size}`,
+)
+
+const markdownFiles = (await walk(ROOT)).filter(
+  (file) => path.extname(file).toLowerCase() === ".md",
 )
 
 let updatedNotes = 0
 
-for (const markdownPath of markdownFiles) {
-  const originalContent = await fsp.readFile(
-    markdownPath,
-    "utf8",
-  )
+for (const md of markdownFiles) {
+  let content = await fs.readFile(md, "utf8")
+  let updated = content
 
-  let updatedContent = originalContent
+  for (const conversion of markdownConversions.values()) {
+    for (const oldVariant of variants(conversion.oldName)) {
+      const newVariant = oldVariant.includes("%")
+        ? encodeURI(conversion.newName)
+        : conversion.newName
 
-  for (const conversion of conversions) {
-    updatedContent = replaceImageName(
-      updatedContent,
-      conversion.oldName,
-      conversion.newName,
-    )
+      updated = replaceAllLiteral(updated, oldVariant, newVariant)
+    }
   }
 
-  if (updatedContent !== originalContent) {
-    await fsp.writeFile(
-      markdownPath,
-      updatedContent,
-      "utf8",
-    )
+  // ![[archivo|200]] -> ![[archivo.jpg.webp|200]]
+  // solo si ese stem tiene un único destino posible.
+  for (const [stemKey, targets] of stemTargets.entries()) {
+    if (targets.size !== 1) continue
+    const target = [...targets][0]
 
+    const stems = new Set()
+    for (const conversion of markdownConversions.values()) {
+      if (conversion.stem.normalize("NFC").toLowerCase() === stemKey) {
+        stems.add(conversion.stem)
+      }
+    }
+
+    for (const stem of stems) {
+      for (const stemVariant of variants(stem)) {
+        const re = new RegExp(
+          `!\\[\\[${escapeRegExp(stemVariant)}(\\|[^\\]]+)?\\]\\]`,
+          "g",
+        )
+        updated = updated.replace(
+          re,
+          (_match, alias = "") => `![[${target}${alias}]]`,
+        )
+      }
+    }
+  }
+
+  if (updated !== content) {
+    await fs.writeFile(md, updated, "utf8")
     updatedNotes += 1
   }
 }
 
-for (const conversion of conversions) {
-  await fsp.rm(conversion.sourcePath, {
-    force: true,
-  })
-}
-
-const savedBytes =
-  originalBytes - optimizedBytes
-
-const savingPercentage =
-  originalBytes > 0
-    ? (
-        (savedBytes / originalBytes) *
-        100
-      ).toFixed(1)
-    : "0.0"
+const mb = (bytes) => bytes / 1024 / 1024
+const saved = oldBytes - webBytes
+const pct = oldBytes ? (saved / oldBytes) * 100 : 0
 
 console.log("")
-console.log(`Convertidas a WebP: ${conversions.length}`)
+console.log(`Convertidas a WebP: ${converted}`)
 console.log(`HEIC procesadas con macOS: ${heicConverted}`)
 console.log(`Notas actualizadas: ${updatedNotes}`)
-console.log(`Recuperadas de caché: ${cacheHits}`)
-console.log(`Originales más pequeños conservados: ${keptOriginals}`)
-console.log(`Errores: ${failures}`)
-console.log(`Peso anterior: ${formatMB(originalBytes)}`)
-console.log(`Peso web: ${formatMB(optimizedBytes)}`)
-console.log(
-  `Ahorro: ${formatMB(savedBytes)} (${savingPercentage} %)`,
-)
+console.log("Política de imagen: WebP obligatorio")
+console.log("Cache permanente de imágenes: NO")
+console.log(`Errores: ${errors}`)
+console.log(`Peso anterior: ${mb(oldBytes).toFixed(1)} MB`)
+console.log(`Peso web: ${mb(webBytes).toFixed(1)} MB`)
+console.log(`Ahorro: ${mb(saved).toFixed(1)} MB (${pct.toFixed(1)} %)`)
+
+if (errors > 0) {
+  process.exitCode = 1
+}

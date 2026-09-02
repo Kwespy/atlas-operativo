@@ -2,23 +2,23 @@
 lang: en
 ---
 
-# OB_015_Described_Fragmented_Reconstructed_Image
+# OB_015_Imagen_descrita_Fragmentada_Reconstruida
 
 ## Status
-Status:: [[Terminada|Finished]]
+Status:: [[Terminada|Terminada]]
 
 ---
 
 ## 1. Operation data
 
 **Internal number:** OB_15 
-**Operating regime:** [[Lista_Traduccion_Sistemas_Representacion|Lista Traduccion Sistemas Representacion]]  
-**Source image:**  Life photograph
+**Operational regime:** [[Lista_Traduccion_Sistemas_Representacion|Lista Traduccion Sistemas Representacion]]  
+**Source image:**  Photograph from life
 
 **Operational description:**  
-ChatGPT is asked to textually describe the photograph taken from life. The description is printed to then gradually clutter and fragment the description into pieces. To give it a new order. Then with that order, the new text is uploaded so that ChatGPT creates a new image based on the new text.
+ChatGPT is asked to textually describe a photograph taken from life. The description is printed and then untangled and fragmented into pieces in order to give it a new order. Afterwards, using this new order, the text is uploaded so that ChatGPT can create a new image based on the new text.
 
-Prompt: Generate an image using only the following cluttered text as a source. Do not use prior context, do not reconstruct a logical scene if the text does not support it, and do not complete missing information. 
+Prompt: Generate an image using only the following scrambled text as a source. Do not use prior context, do not reconstruct a logical scene if the text does not support it, and do not fill in missing information. 
 
 ---
 
@@ -33,9 +33,9 @@ Prompt: Generate an image using only the following cluttered text as a source. D
 - 
 
 **Technical procedure:**  
-1. The text is printed
+1. The text is printed.
 2. It is gradually cut into phrases, words, letters, pieces.
-3. It is reassembled on a piece of paper
+3. It is reassembled on a sheet of paper.
 4. 
 5. 
 
@@ -61,28 +61,28 @@ Prompt: Generate an image using only the following cluttered text as a source. D
 ![[OB015_input.jpg.webp|200]]
 
 ### Step 01
-![[OB015_step01|200]]
+![[OB015_step01.jpg.webp|200]]
 
 ### Step 02
-![[OB015_step02.jpg.webp.webp|200]]
+![[OB015_step02.jpg.webp|200]]
 
 ### Step 03
-![[OB015_step03.jpg.webp.webp|200]]
+![[OB015_step03.jpg.webp|200]]
 
 ### Step 04
-![[OB015_step04.jpg.webp.webp|200]]
+![[OB015_step04.jpg.webp|200]]
 
 ### Step 05
-![[OB015_step05.jpg.webp.webp|200]]
+![[OB015_step05.jpg.webp|200]]
 
 ### Step 06
-![[OB015_step06.jpg.webp.webp|200]]
+![[OB015_step06.jpg.webp|200]]
 
 ### Step 07
-![[OB015_step07.jpg.webp.webp|200]]
+![[OB015_step07.jpg.webp|200]]
 
 ### Step 08
-![[OB015_step08.jpg.webp.webp|200]]
+![[OB015_step08.jpg.webp|200]]
 
 
 ---
@@ -92,24 +92,24 @@ Prompt: Generate an image using only the following cluttered text as a source. D
 ### Crisis / threshold according to AI-assisted reading / ChatGPT
 
 ### Step 08
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step08.jpg.webp.webp]]
+![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step08.jpg.webp]]
 
 ### Crisis / threshold according to my perception
 
 
 ### Step 07
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step07.jpg.webp.webp]]
+![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step07.jpg.webp]]
 
 
 ---
 
 ## 6. Crisis and formal-perceptual reading
 
-**Main crisis:** Language, reconstruction and message
+**Main crisis:** Language, reconstruction, and message
 
-**The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition and support:**
+**The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-The image appears stable with the cluttered text, only slightly affecting the arrangement of objects in the image. The image is destroyed when converted into text. And when the machine does not understand the text or cannot grasp any word, it enters a crisis, completely breaking the image. Reconstructing it non-similarly, it begins to lose certainty.
+The image appears stable with the scrambled text, only slightly affecting the arrangement of the objects in the image. The image is destroyed when converted into text. And when the machine does not understand the text or cannot grasp any word, it enters a crisis, completely breaking the image down. It reconstructs it unlike before, and certainty begins to be lost.
 
 
 ---
@@ -117,9 +117,9 @@ The image appears stable with the cluttered text, only slightly affecting the ar
 ## 7. Final evaluation and artistic reference
 
 
-**Notes on the operation / what I learned:**  
-It is an operation that, being operated by ChatGPT, will always attempt stability. Even if the text is cluttered and seems to make no sense, the AI finds order and creates a linear message. Only when the letters are unintelligible and overlap each other does the AI begin to enter crisis. Sometimes it took reference from the photo where the cut papers are located. I tested submitting only the text, and the images are quite similar.
-By entering only the text, the image becomes more stable.
+**Operation notes / what I learned:**  
+Because this operation is handled by ChatGPT, it will always attempt to reach stability; even though the text is scrambled and seems to make no sense, the A.I. finds order and creates a linear message. Only when the letters are not understood and cover one another does the A.I. begin to enter a crisis. Sometimes I take the photo where the cut papers are located as a reference. I tested putting only the text; the images are quite similar.
+By putting only the text, the image becomes more stable.
 
 
 **Final_status:** 
@@ -138,7 +138,7 @@ Selection:: [[Incierta|Incierta]]
 
 ### Possible artistic reference
 
-Reference:: [[]], [[]], [[]]
+Referente:: [[]], [[]], [[]]
 
 **Possible works:**  
 - []()

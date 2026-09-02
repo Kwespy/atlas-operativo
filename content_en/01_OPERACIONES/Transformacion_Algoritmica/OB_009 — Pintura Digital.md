@@ -13,12 +13,12 @@ Status:: [[Terminada|Finished]]
 
 ## 1. Operation data
 
-**Internal number:** OB_OB_009_Digital_Painting
+**Internal number:** OB_OB_009_Pintura_Digital
 **Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
 **Source image:** Representation from life
 
 **Operational description:**  
-Using the iPhone Freeform app, the object is rapidly represented from life, applying hatch marks and painting and drawing operations to smudge, erase, and cover the image so that it gradually disappears or enters a state of crisis.
+Using the Freeform app on an iPhone, the object is quickly represented from life; hatching, painting, and drawing operations are applied to smudge, erase, and cover the image so that it gradually disappears or enters into crisis.
 
 ---
 
@@ -30,7 +30,7 @@ Using the iPhone Freeform app, the object is rapidly represented from life, appl
 - 
 
 **Technical procedure:**  
-1. The model was painted haptically  
+1. The model was painted tactilesque  
 2. 
 3. 
 4. 
@@ -41,8 +41,8 @@ Using the iPhone Freeform app, the object is rapidly represented from life, appl
 ## 3. Variables
 
 **Controlled variables:**  
-- Colors  
-- Brushes  
+- Colors 
+- Brushes
 - Tools within the app
 
 **Uncontrolled / accidental variables:**  
@@ -118,20 +118,20 @@ Using the iPhone Freeform app, the object is rapidly represented from life, appl
 
 The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support.
 
-The image enters a crisis through colors, form, and legibility, everything except the support; it is the most pictorial one, because it gives the option to paint, but the support does not begin to fail.
+The image enters into crisis due to colors, form, and legibility, everything except the support; it is the most pictorial one, because it gives the option to paint but the support does not begin to fail.
 
 
 ---
 
 ## 7. Final evaluation and artistic reference
 
-**Question for the operation:**  
-Does this operation truly put the image in crisis or does it function merely as an aesthetic effect?
+**Question to the operation:**  
+Does this operation truly put the image in crisis, or does it function merely as an aesthetic effect?
 
-It puts the image in crisis in an aesthetic way, but not as a format image.
+It puts the image in crisis in an aesthetic way but not as a format image.
 
 **Operation notes / what I learned:**  
-It is an operation similar to painting, but you do not control it and you go faster. The feeling is good because you make something appear that was not there before. Experience and technique are required to achieve good effects.
+It is an operation similar to painting but you don't control it and you go faster. The feeling is good, because you make something appear that wasn't there before. You need experience and technique to achieve good effects.
 
 
 **Final_status:** 
@@ -148,7 +148,7 @@ Selection:: [[Combinable|Combinable]] / [[Guardar|Keep]]
 
 ---
 
-### Possible artistic reference
+### Potential artistic reference
 
 Reference:: [[David Hockney|David Hockney]], [[Jacqueline Humphries|Jacqueline Humphries]], [[Cy Twombly|Cy Twombly]]
 

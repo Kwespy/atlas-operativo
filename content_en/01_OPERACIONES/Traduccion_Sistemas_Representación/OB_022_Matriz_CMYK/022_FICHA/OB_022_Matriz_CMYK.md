@@ -13,7 +13,7 @@ Status:: [[Terminada|Finished]]
 
 **Internal number:** OB_022  
 **Operational regime:** [[Lista_Traduccion_Sistemas_Representacion|Lista Traduccion Sistemas Representacion]]  
-**Source image:** Photograph
+**Source image:**  Photograph
 
 **Operational description:**  
 The photographic image is converted into four CMYK channels, each reconstructed using a dot screen with a different angle. The dot size varies according to the amount of ink in each area, and the four channels are recomposed into a new image.
@@ -41,7 +41,7 @@ The image is converted to CMYK, a dot screen is generated for each channel, and 
 
 **Uncontrolled / accidental variables:**  
 - Emergence of moiré patterns.
-- Chromatic overlapping and interference between channels.
+- Chromatic overlap and interference between channels.
 - Irregular loss of detail in contours and transition areas.
 
 ---
@@ -162,9 +162,9 @@ The image is converted to CMYK, a dot screen is generated for each channel, and 
 
 **Main crisis:** 
 
-**The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
+**The operation affects the visual grammar of the image: shape, contour, color, figure/background relationship, legibility, recognition, and support:**
 
-The CMYK screen replaces photographic continuity with an overlapping dot structure. As the halftone size increases, the shape fragments, contours lose precision, and color separates into chromatic interferences. The figure begins to merge with the background until its recognition becomes difficult. The visual support is also transformed: the image is no longer perceived as a continuous photograph and appears as a graphic printing surface.
+The CMYK screen replaces photographic continuity with a structure of overlapping dots. As the grid size increases, the shape fragments, contours lose precision, and color separates into chromatic interference. The figure begins to blend with the background until its recognition becomes difficult. The visual support is also transformed: the image is no longer perceived as a continuous photograph and appears as a graphic printing surface.
 
 ---
 
@@ -172,7 +172,7 @@ The CMYK screen replaces photographic continuity with an overlapping dot structu
 
 
 **Operation notes / what I learned:**  
-By increasing the screen size, the image loses detail and the figure blends into the background. The halftone shifts from being a texture to dominating the image.
+By increasing the size of the grid, the image loses detail and the figure blends into the background. The screen shifts from being a texture to dominating the image.
 
 
 **Final_status:** 
@@ -189,9 +189,9 @@ Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]]
 
 ---
 
-### Potential artistic reference
+### Possible artistic reference
 
-Referent:: [[Sigmar Polke|Sigmar Polke]], [[Tauba Auerbach|Tauba Auerbach]], [[Sigmar Polke|Sigmar Polke]], [[Alain Jacquet|Alain Jacquet]], [[Roy Lichtenstein|Roy Lichtenstein]], [[Chuck Close|Chuck Close]]
+Referente:: [[Sigmar Polke|Sigmar Polke]], [[Tauba Auerbach|Tauba Auerbach]], [[Sigmar Polke|Sigmar Polke]], [[Alain Jacquet|Alain Jacquet]], [[Roy Lichtenstein|Roy Lichtenstein]], [[Chuck Close|Chuck Close]]
 
 **Possible works:**  
 - [Sigmar Polke Rasterbilder](https://www.google.com/search?q=Sigmar+Polke+Rasterbilder&udm=2)

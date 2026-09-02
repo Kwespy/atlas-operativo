@@ -2,7 +2,7 @@
 lang: en
 ---
 
-# OB_011_Portable_Scanner
+# OB_011_Scanner_Portatil
 
 ## Status
 Status:: [[Terminada|Finished]]
@@ -11,44 +11,44 @@ Status:: [[Terminada|Finished]]
 
 ## 1. Operation data
 
-**Internal number:** OB_011  
-**Operating regime:** [[Lista_Captura_Materializacion|Lista Captura Materializacion]]  
+**Internal number:** OB_011
+**Operational regime:** [[Lista_Captura_Materializacion|Lista Captura Materializacion]]  
 **Source image:** From Life  
 
 **Operational description:**  
-The original object was scanned with the portable scanner first to attempt model recognition, then free scanning began to create and use the tool in alternative ways.
+The primer object was scanned using the portable scanner to attempt model recognition, then it began to be scanned freely to create and use the tool in other ways
 
 ---
 
 ## 2. Tools and procedure
 
 **Tools / medium:**  
-- IRIScan Book  
--   
--   
+- IRIScan Book
+- 
+- 
 
 **Technical procedure:**  
-1. Model scanning  
-2.   
-3.   
-4.   
-5.   
+1. Scanning the model
+2. 
+3. 
+4. 
+5. 
 
 ---
 
 ## 3. Variables
 
 **Controlled variables:**  
-- Hand movement  
-- Image resolution  
-- Image color count  
-- Image format  
--   
+- Hand movement
+- Image resolution
+- Number of colors in the image
+- Image format
+- 
 
 **Uncontrolled / accidental variables:**  
-- It is a tool where you cannot be sure how the image will turn out, as it captures the surface image; since the model is spherical, there is a lot of space where depth is captured, resulting in darker areas. The tool is not very stable.  
--   
--   
+- It is a tool where you are not sure how the image will turn out since it captures the image by surface, and since the model is spherical there is a lot of space where depth is captured and darker areas appear. The tool is not very stable
+- 
+- 
 
 ---
 
@@ -109,38 +109,38 @@ The original object was scanned with the portable scanner first to attempt model
 
 ## 6. Crisis and formal-perceptual reading
 
-**Main crisis:** shape, fragmentation.
+**Main crisis:** form, fragmentation.
 
-The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support.
+The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support.
 
-The main crisis stems from the interruption of shape; the colors remain stable, only becoming slightly more aged. In itself, the tool cannot capture shape in its entirety or its natural structure; furthermore, by using the tool creatively, it can be operated to produce more sweeping and to alter the disorder of the object's flow and perspective.
+The main crisis is due to the interruption of the form; the colors remain stable, only becoming slightly more aged. In itself, the tool cannot capture the form in its entirety and in its natural structure. Furthermore, by using the tool creatively, it can be operated so that more scanning and disorder of the object's flow and perspective change
 
 ---
 
-## 7. Final evaluation and artistic referent
+## 7. Final evaluation and artistic reference
 
 
 **Operation notes / what I learned:**  
-The operation can be used creatively; the practitioner can use it as a free creative tool, although the creative scope is not very broad.
+The operation can be used creatively; the executor can use it as a free creation tool, however, the scope for creativity is not very broad
 
 
 **Final_status:** 
 Works:: [[SI|YES]] 
 
 **How it destroys the image:** 
-Works_on:: [[Formal|Formal]] 
+Works_on::  [[Formal|Formal]] 
 
-**Crisis level and richness:** 
-Crisis:: [[Alta|Alta]]
+**Level and richness of crisis:** 
+Crisis::  [[Alta|High]]
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]] 
+Selection:: [[Combinable|Combinable]] / [[Guardar|Save]] 
 
 ---
 
-### Possible artistic referent
+### Possible artistic reference
 
-Referent:: [[Sarah Sze|Sarah Sze]], [[Marco Breuer|Marco Breuer]], [[Gerhard Richter|Gerhard Richter]]
+Reference:: [[Sarah Sze|Sarah Sze]], [[Marco Breuer|Marco Breuer]], [[Gerhard Richter|Gerhard Richter]]
 
 **Possible works:**  
 - [Sarah Sze - Ripple "Time Zero" 2020](https://gagosian.com/exhibitions/2020/sarah-sze/)

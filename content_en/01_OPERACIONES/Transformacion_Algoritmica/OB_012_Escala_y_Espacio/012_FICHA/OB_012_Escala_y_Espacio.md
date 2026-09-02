@@ -29,7 +29,7 @@ The shapes that make up the image are distributed and scaled within the image.
 
 **Technical procedure:**  
 1. The shapes of the image are separated
-2. They are reordered
+2. They are rearranged
 3. They are scaled
 4. 
 5. 
@@ -102,11 +102,11 @@ The shapes that make up the image are distributed and scaled within the image.
 
 ## 6. Crisis and formal-perceptual reading
 
-**Main crisis:** Recognition by figure-ground-shape
+**Main crisis:** Figure-ground-form recognition
 
-The operation affects the visual grammar of the image: shape, outline, color, figure/ground relationship, legibility, recognition, and support.
+The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support.
 
-By scaling the shapes of the image and reordering them, the image can easily lose legibility. It is a simple yet very effective operation. 
+By scaling the shapes of the image and rearranging them, the image can easily lose legibility. It is a simple yet very effective operation. 
 
 ---
 
@@ -123,11 +123,11 @@ Works:: [[SI|YES]]
 **How it destroys the image:** 
 Works_on:: [[Formal|Formal]] 
 
-**Level and richness of crisis:** 
+**Level and Richness of crisis:** 
 Crisis:: [[Alta|High]]
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Save]] 
+Selection:: [[Combinable|Combinable]] / [[Guardar|Keep]] 
 
 ---
 

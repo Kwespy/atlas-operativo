@@ -1,19 +1,19 @@
 ---
-title: "OB_006 — Multiple Scale Superposition"
+title: "OB_006 — Multiple Scale Superimposition"
 atlas_direct: true
 lang: en
 ---
 
-# OB_006_Multiple_Scale_Superposition
+# OB_006_Multiple_Scale_Superimposition
 
 ## Status
-Status:: [[Terminada|Terminada]]
+Status:: [[Terminada|Finished]]
 
 ---
 
 ## 1. Operation data
 
-**Internal number:** OB_006_Multiple_Scale_Superposition  
+**Internal number:** OB_006_Multiple_Scale_Superimposition  
 **Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
 **Source image:** Photograph taken from life
 
@@ -99,7 +99,7 @@ Pending.
 
 ## 5. Visual selection
 
-### Crisis / threshold according to AI / ChatGPT assisted reading
+### Crisis / threshold according to AI-assisted reading / ChatGPT
 
 
 ![[OB006_step10.jpg.webp]]
@@ -116,40 +116,40 @@ Pending.
 **Main crisis:** Visual size
 
 
-The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support.
+The operation affects the visual grammar of the image: shape, outline, color, figure/ground relationship, legibility, recognition, and support.
 
-Object recognition collapses due to size, but the crisis does not affect the image in its shape, contour, or relationship with the background; the crisis comes from legibility and recognition due to the size and the number of images entering the same image. It is an aesthetic collapse rather than a technical one.
+Object recognition collapses due to size, but the crisis does not affect the image in its shape, outline, or relationship with the background; the crisis arises from legibility and recognition caused by the size and the quantity of images entering the same image. It is an aesthetic collapse rather than a technical one.
 
 ---
 
 ## 7. Final evaluation and artistic reference
 
-**Question to the operation:**  
+**Question for the operation:**  
 Does this operation truly put the image into crisis, or does it function merely as an aesthetic effect?
 
 The crisis is aesthetic
 
 **Operation notes / what I learned:**  
-it is a simple operation that brings no novelty or richness to the image. If done via AI, it turns out the same. It is simple. It could be combined. My recognition threshold is higher than the one assisted with AI.
+It is a simple operation that brings no novelty or richness to the image. If done via AI, it looks the same. It is simple. It could be combined. My recognition threshold is higher than the one assisted by AI.
 
 
-**Final_status:** 
-Works:: [[SI|SI]] 
+**Final_state:** 
+Works:: [[SI|YES]] 
 
 **How it destroys the image:** 
-Works_on:: [[Estetico|Estetico]] 
+Works_on:: [[Estetico|Aesthetic]] 
 
-**Level and richness of crisis:** 
-Crisis::  [[Baja|Baja]] 
+**Level and Richness of crisis:** 
+Crisis::  [[Baja|Low]] 
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]] 
+Selection:: [[Combinable|Combinable]] / [[Guardar|Keep]] 
 
 ---
 
 ### Possible artistic reference
 
-Referent:: [[David Hockney|David Hockney]], [[John Stezaker|John Stezaker]], [[Penelope Umbrico|Penelope Umbrico]], [[Lucas Blalock|Lucas Blalock]]
+Reference:: [[David Hockney|David Hockney]], [[John Stezaker|John Stezaker]], [[Penelope Umbrico|Penelope Umbrico]], [[Lucas Blalock|Lucas Blalock]]
 
 **Possible works:**  
 - [David Hockney — _Pearblossom Hwy._, 1986](https://austinkleon.com/wp-content/uploads/2020/06/pear-collage-1.jpg)

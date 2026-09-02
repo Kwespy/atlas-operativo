@@ -9,14 +9,14 @@ Status:: [[Terminada|Finished]]
 
 ---
 
-## 1. Operation data
+## 1. Operation details
 
 **Internal number:** OB_010
 **Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
 **Source image:** Photograph
 
 **Operational description:**  
-The image is posterized to reduce the number of colors. The image does not enter into crisis this way. It is forced by increasing contrast and brightness to destabilize the image.
+The image is posterized to reduce the number of colors. The image does not enter a state of crisis this way. It is forced by increasing contrast and brightness to destabilize the image.
 
 ---
 
@@ -97,18 +97,18 @@ The image is posterized to reduce the number of colors. The image does not enter
 
 **Main crisis:** loss of legibility due to tones and by forcing contrast and brightness
 
-During posterization, the image enters into crisis because of the colors; the form begins to dissolve due to the mixing of colors, and figure and ground merge, creating passages of white. After modifying and increasing the brightness and contrast, these fusions of figure and ground increase. To finally break the image, the brightness is increased until it turns white. Pure black cannot be reached. 
+During posterization, the image enters a state of crisis because of the colors; form begins to be lost due to the mixing of colors, and figure and ground merge, creating passages of white. After modifying and increasing the brightness and contrast, these fusions of figure and ground increase. To finish breaking the image, the brightness is increased until it becomes white. It is not possible to reach black. 
 
 ---
 
 ## 7. Final evaluation and artistic reference
 
 **Question for the operation:**  
-Does this operation truly put the image into crisis, or does it work only as an aesthetic effect?
-No, if the image is forced it can produce a crisis, but it is more aesthetic, though it still breaks it.
+Does this operation truly put the image in crisis or does it only function as an aesthetic effect?
+No. If the image is forced, it can produce a crisis, but it is more aesthetic, yet it still breaks it.
 
 **Operation notes / what I learned:**  
-Posterization on its own does not work, but it creates a good aesthetic effect; colors that were not there before appear in the blacks.
+Posterization on its own does not work, but it creates a good aesthetic effect; colors that were not there before are produced in the blacks.
 
 **Final_status:** 
 Works:: [[NO|NO]] [[Forzandola|By forcing it]]
@@ -116,7 +116,7 @@ Works:: [[NO|NO]] [[Forzandola|By forcing it]]
 **How it destroys the image:** 
 Works_on:: [[Estetico|Aesthetic]] 
 
-**Level of crisis:**  
+**Crisis level:**  
 Crisis:: [[Baja|Low]]
 
 **Decision:**  
@@ -125,12 +125,12 @@ Selection:: [[Combinable|Combinable]]
 
 ---
 
-### Possible artistic reference
+### Potential artistic reference
 
 Reference:: [[Armando Reveron|Armando Reveron]], [[J. M. W. Turner|J. M. W. Turner]], [[[Uta Barth|[Uta Barth]], [[Claude Monet|Claude Monet]]
 
 **Possible works:**  
-- [Armando Reveron](White Period)
+- [Armando Reveron](White period)
 
 - [Uta Barth — Ground, 1994–1997](https://artblart.com/tag/uta-barth-ground-1994-1997/)
 

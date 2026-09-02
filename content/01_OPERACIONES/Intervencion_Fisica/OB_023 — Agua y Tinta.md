@@ -78,7 +78,7 @@ La imagen se imprime con Toner. En una bandeja con agua se sumerge. Con una jeri
 ![[OB023_step09.png.webp|200]]
 
 ### Step 10
-![[OB023_step10.png.webp.webp|200]]
+![[OB023_step10.png.webp|200]]
 
 ### Step 11
 ![[OB023_step11.png.webp|200]]
@@ -106,7 +106,7 @@ La imagen se imprime con Toner. En una bandeja con agua se sumerge. Con una jeri
 
 
 ### Step 10
-![[OB023_step10.png.webp.webp]]
+![[OB023_step10.png.webp]]
 
 ---
 

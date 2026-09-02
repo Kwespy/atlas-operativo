@@ -1,15 +1,15 @@
 ---
-title: "OB_004 — RGB Channel Separation"
+title: "OB_004 — RGB channels separation"
 atlas_direct: true
 lang: en
 ---
 
-# OB_004_RGB Channel Separation
+# OB_004_RGB channels separation
 
 ## Status
 Status:: [[Terminada|Finished]]
 
-## 1. Operation Data
+## 1. Operation data
 
 **Internal number:** OB_004
 **Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
@@ -20,7 +20,7 @@ A technical photo is used, and inside A. Photoshop the RGB color channels are se
 
 ---
 
-## 2. Tools and Procedure
+## 2. Tools and procedure
 
 **Tools / medium:**  
 - iPhone 12 camera
@@ -51,7 +51,7 @@ A technical photo is used, and inside A. Photoshop the RGB color channels are se
 
 ---
 
-## 4. Visual Sequence
+## 4. Visual sequence
 
 ### Initial image
 ![[OB004_input.jpg|200]]
@@ -86,7 +86,7 @@ A technical photo is used, and inside A. Photoshop the RGB color channels are se
 
 ---
 
-## 5. Visual Selection
+## 5. Visual selection
 
 ### Crisis / threshold according to AI-assisted reading / ChatGPT
 
@@ -100,7 +100,7 @@ A technical photo is used, and inside A. Photoshop the RGB color channels are se
 
 ---
 
-## 6. Crisis and Formal-Perceptual Reading
+## 6. Crisis and formal-perceptual reading
 
 **Main crisis:** Tonal and Form
 
@@ -108,17 +108,17 @@ The operation affects the visual grammar of the image: form, outline, color, fig
 
 
 
-Color is what most affects the appearance, and through color the image destabilizes. The RGB separation creates ghost-like shapes that add noise to the image. The operation renders the image illegible when mixed with black backgrounds forced in Photoshop. It is not an operation that works on its own.
+Color is what most affects the appearance, and because of color, the image becomes destabilized. The RGB separation creates ghosts of shapes that add noise to the image. The operation makes the image illegible when you mix it with black backgrounds that are forced in Photoshop. It is not an operation that works on its own.
 
   
 
 ---
 
-## 7. Final Evaluation and Artistic Reference
+## 7. Final evaluation and artistic reference
 
 
 **Operation notes / what I learned / What I liked:**  
-Just moving the RGB channels in Photoshop does not put the image into crisis, as technically it is not possible. You have to "merge" layers and move the image along with other small tricks for the image to become unstable. It is more of an elimination of information that destabilizes the image through the technical process. It is more of a glitch aesthetic than a technical crisis of the medium. 
+Just moving the RGB channels in Photoshop does not put the image into crisis, as technically it is not possible. You have to merge layers and move the image along with other small tricks for the image to become unstable. It is more of an elimination of information that the technical process renders unstable in the image. It is more of a glitch aesthetic than a technical crisis of the medium. 
 
 What I like are the colors the image reaches, and those soft color transitions within a tonal framework.
 
@@ -139,7 +139,7 @@ Selection:: [[Combinable|Combinable]] / [[Guardar|Keep]]
 
 ---
 
-### Potential artistic reference
+### Possible artistic reference
 
 Reference:: [[Cory Arcangel|Cory Arcangel]], [[Robert Delaunay|Robert Delaunay]] [[Fernand Léger|Fernand Léger]]
 

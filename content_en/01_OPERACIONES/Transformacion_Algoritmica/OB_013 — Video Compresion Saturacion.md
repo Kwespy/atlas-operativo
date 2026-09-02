@@ -1,24 +1,24 @@
 ---
-title: "OB_013 — Video Compresion Saturacion"
+title: "OB_013 — Video Compression Saturation"
 atlas_direct: true
 lang: en
 ---
 
-# OB_013_Video_Compresion_Saturacion
+# OB_013_Video_Compression_Saturation
 
 ## Status
-Status:: [[Terminada|Terminada]] 
+Status:: [[Terminada|Finished]] 
 
 ---
 
 ## 1. Operation data
 
 **Internal number:** OB_013
-**Operating regime:** [[Lista_Transformacion_Algoritmica|Lista Transformacion Algoritmica]]  
+**Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
 **Source image:** Video
 
 **Operational description:**  
-A video of the object with movement and zoom is recorded to achieve sweeping and image deformation. Then, in the Premiere video editor, the resolution is compressed several times to destroy the image, and the contrast is turned up so that the color is not lost.
+A video of the object is recorded with movement and zoom to achieve sweeping and image deformation. Then, in the Premiere video editor, the resolution is compressed multiple times to destroy the image, and the contrast is turned up so that the color is not lost.
 
 ---
 
@@ -26,7 +26,7 @@ A video of the object with movement and zoom is recorded to achieve sweeping and
 
 **Tools / medium:**  
 - iPhone 13 camera
-- Macbook Pro 13
+- MacBook Pro 13
 - Adobe Premiere
 
 **Technical procedure:**  
@@ -46,8 +46,8 @@ A video of the object with movement and zoom is recorded to achieve sweeping and
 - 
 
 **Uncontrolled / accidental variables:**  
-- The colors that become saturated in the image; one might begin to understand, but it would be difficult.
-- Where the image will become distorted.
+- The colors that become saturated in the image; one might begin to understand them, but it would be difficult.
+- Where the image will distort.
 - 
 
 ---
@@ -111,7 +111,7 @@ A video of the object with movement and zoom is recorded to achieve sweeping and
 
 The operation affects the visual grammar of the image: form, outline, color, figure/background relationship, legibility, recognition, and support.
 
-The image begins to enter a crisis when the figure melts and mixes with the other forms. The colors change from what was represented, become saturated, and mix together.
+The image begins to enter a crisis when the figure melts and mixes with the other forms. The colors change from what was represented, become saturated, and blend together.
 
 
 ---
@@ -120,25 +120,25 @@ The image begins to enter a crisis when the figure melts and mixes with the othe
 
 
 **Operation notes / what I learned:**  
-Lowering the quality doesn't work as an operation; you just have to intensify colors and brightness so that the image doesn't turn black and white. Edges need to be readjusted. It is a rich operation, but it has to be pushed and modified to gain richness.
+Lowering the quality does not work as an operation; you just have to intensify colors and brightness so the image does not turn to black and white. Edges need to be readjusted. It is a rich operation, but it must be forced and modified to gain richness.
 
 **Final_status:** 
-Works:: [[SI|SI]] 
+Works:: [[SI|YES]] 
 
 **How it destroys the image:** 
 Works_on:: [[Formal|Formal]] 
 
 **Level and Richness of crisis:** 
-Crisis::   [[Alta|Alta]]
+Crisis::   [[Alta|High]]
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]]
+Selection:: [[Combinable|Combinable]] / [[Guardar|Keep]]
 
 ---
 
 ### Possible artistic reference
 
-Referente:: [[Jacques Perconte|Jacques Perconte]], [[Takeshi Murata|Takeshi Murata]], [[Kim Asendorf|Kim Asendorf]], [[Claude Monet|Claude Monet]]
+Reference:: [[Jacques Perconte|Jacques Perconte]], [[Takeshi Murata|Takeshi Murata]], [[Kim Asendorf|Kim Asendorf]], [[Claude Monet|Claude Monet]]
 
 **Possible works:**  
 - [Jacques Perconte](https://www.google.com/search?q=Jacques+Perconte+&sca_esv=adfdac7335d782b2&rlz=1C5CHFA_enPT1033PT1033&udm=2&biw=1600&bih=851&sxsrf=ANbL-n6h-kB2qKAp4D5bPh2zqb-zjnTsxw%3A1781374714501&ei=-p4taoiOHqnvi-gPuOupqQ0&ved=0ahUKEwiI88b46YSVAxWp9wIHHbh1KtUQ4dUDCBM&uact=5&oq=Jacques+Perconte+&gs_lp=Egtnd3Mtd2l6LWltZyIRSmFjcXVlcyBQZXJjb250ZSAyBxAjGMkCGCcyBxAAGIAEGBMyBhAAGB4YEzIGEAAYHhgTMgYQABgeGBMyBhAAGB4YEzIGEAAYHhgTMgYQABgeGBMyBhAAGB4YEzIGEAAYHhgTSOcQUK4PWK4PcAJ4AJABAJgBW6ABsQGqAQEyuAEDyAEA-AEBmAICoAJnmAMAiAYBkgcDMS4xoAfrB7IHAzAuMbgHZMIHBTAuMS4xyAcKgAgB&sclient=gws-wiz-img#sv=CAMSURoyKhBlLVFSaFp4SUE4YnhfMl9NMg5RUmhaeElBOGJ4XzJfTToOUkc3UFE5LUhGbFpEX00gBCoXCgFzEhBlLVFSaFp4SUE4YnhfMl9NGAEwARgHIJPC8KAPSggQARgBIAEoAQ)

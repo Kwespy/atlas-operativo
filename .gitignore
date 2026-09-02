@@ -1,0 +1,35 @@
+.DS_Store
+node_modules
+public
+prof
+tsconfig.tsbuildinfo
+.obsidian
+.quartz-cache
+private/
+.replit
+replit.nix
+.quartz/
+quartz/cli/tui/dist/
+
+# Python / entornos virtuales
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+.image-cache/
+
+# KWY bilingual Atlas
+.bilingual-build-en/
+backups-bilingual/
+scripts/atlas-translation-cache.json
+scripts/atlas-gemini-translation-cache.json
+
+# content_en se versiona solo como Markdown.
+content_en/**
+!content_en/**/
+!content_en/**/*.md
+quartz.config.yaml.before-collapse

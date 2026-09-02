@@ -5,7 +5,7 @@ lang: en
 # OB_006_Superposicion_Escala_Multiple
 
 ## Status
-Status:: [[Terminada|Finished]]
+Status:: [[Terminada|Terminada]]
 
 ---
 
@@ -13,7 +13,7 @@ Status:: [[Terminada|Finished]]
 
 **Internal number:** OB_006_Superposicion_Escala_Multiple  
 **Operational regime:** [[Lista_Transformacion_Algoritmica|Lista Transformacion Algoritmica]]  
-**Source image:** Photograph taken from life
+**Source image:**  Photograph taken from life
 
 **Operational description:**  
 Pending.
@@ -28,7 +28,7 @@ Pending.
 - 
 
 **Technical procedure:**  
-1. Successively copy and paste the input image
+1. Copy and paste the input image successively
 2. 
 3. 
 4. 
@@ -114,21 +114,21 @@ Pending.
 **Main crisis:** Visual size
 
 
-The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support.
+The operation affects the visual grammar of the image: form, contour, color, figure/background relationship, legibility, recognition, and support.
 
-Object recognition collapses due to size, but the crisis does not affect the image in its shape, contour, or relationship with the background; the crisis enters through legibility and recognition due to the size and the number of images that fit into the same image. It is an aesthetic collapse rather than a technical one.
+Object recognition collapses due to size, but the crisis does not affect the image in its form, contour, or relationship with the background; the crisis enters through legibility and recognition due to size and the quantity of images that fit into the same image. It is an aesthetic collapse rather than a technical one.
 
 ---
 
 ## 7. Final evaluation and artistic reference
 
 **Question for the operation:**  
-Does this operation truly put the image into crisis, or does it work merely as an aesthetic effect?
+Does this operation truly put the image into crisis, or does it function only as an aesthetic effect?
 
 The crisis is aesthetic
 
 **Operation notes / what I learned:**  
-It is a simple operation that brings no novelty or richness to the image. If done with AI, it looks the same. It is simple. It could be combined. My recognition threshold is higher than the one assisted with AI.
+It is a simple operation that brings no novelty or richness to the image. If done by AI, it turns out the same. It is simple. It could be combined. My recognition threshold is higher than the one assisted with AI.
 
 
 **Estado_final:** 

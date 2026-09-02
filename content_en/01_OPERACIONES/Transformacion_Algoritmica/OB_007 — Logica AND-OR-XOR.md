@@ -20,7 +20,7 @@ Status:: [[Terminada|Finished]]
 Direct photograph
 
 **Operational description:**  
-Prompt to ChatGPT to successively operate the photo using AND-OR-XOR logic until the form enters into crisis.
+Prompt to ChatGPT to successively process the photo using AND-OR-XOR logic until the form enters into crisis.
 
 ---
 
@@ -33,7 +33,7 @@ Prompt to ChatGPT to successively operate the photo using AND-OR-XOR logic until
 
 **Technical procedure:**  
 1. Take photo
-2. Upload it in a prompt with ChatGPT
+2. Upload it to prompt with ChatGPT
 3. 
 4. 
 5. 
@@ -44,12 +44,12 @@ Prompt to ChatGPT to successively operate the photo using AND-OR-XOR logic until
 
 **Controlled variables:**  
 - Photograph
-- Choice of result
+- Selection of result
 - 
 
 **Uncontrolled / accidental variables:**  
 - How the AI operates
-- Prompt-based only, not technical operations
+- Only via prompt, not through technical operations
 - 
 
 ---
@@ -91,11 +91,11 @@ Prompt to ChatGPT to successively operate the photo using AND-OR-XOR logic until
 
 ## 6. Crisis and formal-perceptual reading
 
-**Main crisis:** The structure of the form is lost
+**Main crisis:**  The structure of the form is lost
 
 The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support.
 
-The form and the structure of the object enter into crisis. It is not the image that enters into crisis, but the object; it loses its form and legibility. 
+The form and the structure of the object enter into crisis. It is not the image that enters into crisis, but the object; it loses its form and its legibility. 
 
 ---
 
@@ -106,7 +106,7 @@ Does this operation truly put the image into crisis, or does it function merely 
 The image does not enter into crisis; the object enters into crisis.
 
 **Operation notes / what I learned:**  
-It functions as an operation that alters the recognition of form shown by the image. The object loses its meaning, but the image remains stable.
+It functions as an operation that alters the form of recognition shown by the image. The object loses its meaning, but the image remains stable.
 
 **Final_status:** 
 Works:: [[NO|NO]]
@@ -114,7 +114,7 @@ Works:: [[NO|NO]]
 **How it destroys the image:** 
 Works_on:: [[Estetico|Aesthetic]]
 
-**Level and Richness of crisis:** 
+**Level and richness of crisis:** 
 Crisis::  [[Alta|High]]
 
 **Decision:** 
@@ -122,7 +122,7 @@ Selection:: [[Combinable|Combinable]] / [[Guardar|Save]]
 
 ---
 
-### Potential artistic reference
+### Possible artistic reference
 
 Reference:: [[Juan Gris|Juan Gris]], [[Pablo Picasso|Pablo Picasso]], [[El Lissitzky|El Lissitzky]] [[Barbara Kasten|Barbara Kasten]]
 

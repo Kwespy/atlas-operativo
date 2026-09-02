@@ -53,40 +53,40 @@ Fotografía raster → cuantización tonal → matriz de caracteres → visualiz
 ![[Input_001.jpg.webp|200]]
 
 ### Step 01
-![[OB018_step01.png|200]]
+![[OB018_step01.png.webp|200]]
 
 ### Step 02
-![[OB018_step02.png|200]]
+![[OB018_step02.png.webp|200]]
 
 ### Step 03
-![[OB018_step03.png|200]]
+![[OB018_step03.png.webp|200]]
 
 ### Step 04
-![[OB018_step04.png|200]]
+![[OB018_step04.png.webp|200]]
 
 ### Step 05
-![[OB018_step05.png|200]]
+![[OB018_step05.png.webp|200]]
 
 ### Step 06
-![[OB018_step06.png|200]]
+![[OB018_step06.png.webp|200]]
 
 ### Step 07
-![[OB018_step07.png|200]]
+![[OB018_step07.png.webp|200]]
 
 ### Step 08
-![[OB018_step08.png|200]]
+![[OB018_step08.png.webp|200]]
 
 ### Step 09
-![[OB018_step09.png|200]]
+![[OB018_step09.png.webp|200]]
 
 ### Step 10
-![[OB018_step10.png|200]]
+![[OB018_step10.png.webp|200]]
 
 ### Step 11
-![[OB018_step11.png|200]]
+![[OB018_step11.png.webp|200]]
 
 ### Step 12
-![[OB018_step12.png|200]]
+![[OB018_step12.png.webp|200]]
 
 ---
 
@@ -96,13 +96,13 @@ Fotografía raster → cuantización tonal → matriz de caracteres → visualiz
 
 
 ### Step 12
-![[OB018_step12.png]]
+![[OB018_step12.png.webp]]
 
 ### Crisis / umbral según mi percepción
 
 
 ### Step 07
-![[OB018_step07.png]]
+![[OB018_step07.png.webp]]
 
 ---
 

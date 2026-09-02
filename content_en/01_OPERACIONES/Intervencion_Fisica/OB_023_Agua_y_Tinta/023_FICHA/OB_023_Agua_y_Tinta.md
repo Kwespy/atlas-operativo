@@ -12,18 +12,18 @@ Status:: [[Terminada|Finished]]
 ## 1. Operation data
 
 **Internal number:** OB_023  
-**Operational regime:** [[Lista_Intervención_Física|Lista Intervención Física]]  
+**Operational regime:** [[Lista_Intervención_Física|Physical Intervention List]]  
 **Source image:**  
 
 **Operational description:**  
-The image is printed with toner. It is submerged in a tray with water. Drops of ink are gradually added using a syringe—Magenta-Green-Yellow-Blue-Black—and the process is recorded.
+The image is printed with toner. It is submerged in a tray of water. Drops of ink are gradually added with a syringe -Magenta-Green-Yellow-Blue-Black- and the process is recorded.
 
 ---
 
 ## 2. Tools and procedure
 
 **Tools / medium:**  
-- Image printed in toner
+- Toner-printed image
 - Water and ink
 - Container
 
@@ -33,12 +33,12 @@ The image is printed with toner. It is submerged in a tray with water. Drops of 
 ## 3. Variables
 
 **Controlled variables:**  
-- Colors and quantity of water
-- Print type
+- Colors and amount of water
+- Type of print
 - 
 
 **Uncontrolled / accidental variables:**  
-- Entropy of water with the ink
+- Entropy of water with ink
 - 
 - 
 
@@ -77,7 +77,7 @@ The image is printed with toner. It is submerged in a tray with water. Drops of 
 ![[OB023_step09.png.webp|200]]
 
 ### Step 10
-![[OB023_step10.png.webp.webp|200]]
+![[OB023_step10.png.webp|200]]
 
 ### Step 11
 ![[OB023_step11.png.webp|200]]
@@ -105,7 +105,7 @@ The image is printed with toner. It is submerged in a tray with water. Drops of 
 
 
 ### Step 10
-![[OB023_step10.png.webp.webp]]
+![[OB023_step10.png.webp]]
 
 ---
 
@@ -114,7 +114,7 @@ The image is printed with toner. It is submerged in a tray with water. Drops of 
 
 **Where the crisis occurs and the operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-The crisis occurs with the ink floating in the water covering and veiling the printed image at the bottom of the tray, affecting its entire visual grammar, to a greater extent color and figure-ground relationship. With the black, the image becomes destabilized and begins to acquire greater contrast and pictorial richness.
+The crisis occurs with the ink floating in the water, covering and veiling the printed image at the bottom of the vessel, affecting its entire visual grammar, to a greater extent color and the figure/ground relationship. With black, the image becomes destabilized and begins to have more contrast and pictorial richness. 
 
 ---
 
@@ -122,17 +122,17 @@ The crisis occurs with the ink floating in the water covering and veiling the pr
 
 
 **Operation notes / what I learned:**  
-The recording of physical operations must be done in a controlled environment; that is, light, reflection, and movement of the object must remain stable so as not to add disturbances to the recording when it is not scanned.
+The recording of physical operations must be done in a controlled environment, meaning that the light, reflection, and movement of the object must remain stable so as not to add disturbances to the recording when it is not a scanner.
 
 
-**Final_status:** 
-Works:: [[SI|SI]] ]
+**Final_state:** 
+Works:: [[SI|YES]] ]
 
 **How it destroys the image:** 
-Works_on:: [[Estetico|Estetico]] 
+Works_on:: [[Estetico|Aesthetic]] 
 
-**Level and richness of crisis:** 
-Crisis::   [[Media|Media]]
+**Level and Richness of crisis:** 
+Crisis::   [[Media|Medium]]
 
 **Decision:** 
 Selection:: [[Combinable|Combinable]]

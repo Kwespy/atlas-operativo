@@ -47,7 +47,7 @@ Los tonos que se intercambian controladamente, hay una decisión pictórica en e
 ## 4. Secuencia visual
 
 ### Imagen inicial
-![[OB019_input.png|200]]
+![[OB019_input.png.webp|200]]
 
 ### Step 01
 ![[OB019_step01.png.webp|200]]

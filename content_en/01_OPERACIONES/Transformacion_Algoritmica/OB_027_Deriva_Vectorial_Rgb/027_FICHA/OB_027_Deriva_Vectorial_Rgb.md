@@ -36,13 +36,13 @@ Each pixel moves along a trajectory determined by its chromatic information: the
 
 - Maximum displacement distance
 - Number of trajectory steps
-- Curvature intensity and conservation of the original image
+- Curvature intensity and preservation of the original image
 
 **Uncontrolled / accidental variables:**  
 
-- Pixel overlap and concentration during displacement
+- Overlap and concentration of pixels during displacement
 - Empty or sparse areas produced by pixels leaving their original positions
-- Emerging shapes, spots, and transitions determined by the specific chromatic distribution of the source image
+- Emerging shapes, spots, and transitions determined by the particular chromatic distribution of the source image
 
 
 ---
@@ -116,7 +116,7 @@ Each pixel moves along a trajectory determined by its chromatic information: the
 
 **Where the crisis occurs and the operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-Its contours begin to dissolve and blend into the background. Color remains as a trace of the figure, though it no longer corresponds to a defined shape. The figure/ground separation becomes ambiguous, and the image oscillates between a recognizable landscape and dragged chromatic masses. The digital support begins to become perceptible through the drift and accumulation of pixels.
+Its contours begin to dissolve and blend into the background. Color remains as a trace of the figure, although it no longer corresponds to a defined shape. The figure/ground separation becomes ambiguous, and the image oscillates between a recognizable landscape and dragged chromatic masses. The digital support begins to become perceptible through the drift and accumulation of pixels.
 
 
 ---
@@ -126,7 +126,7 @@ Its contours begin to dissolve and blend into the background. Color remains as a
 
 **Operation notes / what I learned:**  
 
-This operation also feels [[organica|organic]] and [[pictorica|pictorial]], and it can be controlled quite a bit. It is like wiping a cloth over the image.
+This operation also feels [[organica|organic]] and [[pictorica|pictorial]], and it can be controlled quite a bit. It is like wiping a cloth across the image.
 
 **Final_status:** 
 Works:: [[SI|YES]] 
@@ -134,7 +134,7 @@ Works:: [[SI|YES]]
 **How it destroys the image:** 
 Works_on:: [[Formal|Formal]] 
 
-**Level and richness of crisis:** 
+**Level and Richness of crisis:** 
 Crisis::   [[Alta|High]]
 
 **Decision:** 
@@ -142,7 +142,7 @@ Selection:: [[Combinable|Combinable]] / [[Guardar|Save]]
 
 ---
 
-### Possible artistic reference
+### Potential artistic reference
 
 Reference:: [[Gerhard Richter|Gerhard Richter]], [[Wilhelm Sasnal|Wilhelm Sasnal]], [[JMW Turner|JMW Turner]], [[James Whistler|James Whistler]], [[Claude Monet|Claude Monet]]
 

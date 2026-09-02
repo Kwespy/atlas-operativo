@@ -5,7 +5,7 @@ lang: en
 # OB_001 — Screen Photography
 
 ## Status
-Status:: [[Terminada|Finished]]
+Status:: [[Terminada|Terminated]]
 
 
 ## 1. Operation Data
@@ -15,7 +15,7 @@ Status:: [[Terminada|Finished]]
 **Source image:** Photograph taken from life.  
 
 **Operational description:**  
-Recapture an image from the computer screen, circulating the image between photograph, screen, and new photograph. The operation introduces optical mediation, loss of stability, visual noise, and chromatic alterations through successive recaptures.
+Recapturing an image from a computer screen, circulating the image between photograph, screen, and new photograph. The operation introduces optical mediation, loss of stability, visual noise, and chromatic alterations through successive recaptures.
 
 **Tools / medium:**  
 - iPhone 12 rear camera
@@ -28,7 +28,7 @@ Recapture an image from the computer screen, circulating the image between photo
 3. Open the image on the MacBook screen.
 4. Photograph the screen with the iPhone.
 5. Send that new photograph back to the MacBook.
-6. Open it on screen again.
+6. Open it on the screen again.
 7. Photograph the screen once more.
 8. Repeat the process several times until the image loses visual stability.
 
@@ -52,11 +52,11 @@ Recapture an image from the computer screen, circulating the image between photo
 - hand vibration
 - unforced errors
 - accidental appearance of the cursor / mouse
-- small framing variations
+- minor framing variations
 
 ---
 
-## 3. Visual process
+## 3. Visual Process
 
 ### Initial image
 ![[OB001_input.jpg|200]]
@@ -292,7 +292,7 @@ Recapture an image from the computer screen, circulating the image between photo
 
 ---
 
-## 4. Visual selection
+## 4. Visual Selection
 
 ### Crisis/Threshold according to AI-assisted reading / ChatGPT
 ![[OB001_step38.jpg.webp]]
@@ -303,40 +303,40 @@ Recapture an image from the computer screen, circulating the image between photo
 ### Excess/Rupture
 ![[OB001_step76.jpg.webp|300]]
 
-## 5. Crisis and formal-perceptual reading
+## 5. Crisis and Formal-Perceptual Reading
 
 **Main crisis:** technical crisis.
 
-The operation affects the visual grammar of the image: it weakens form, contour, color, and figure/ground relationship through the recapture between screen and camera.
+The operation affects the visual grammar of the image: it weakens shape, contour, color, and the figure/ground relationship through recapture between screen and camera.
 
-The ball retains recognizable traces most of the time, the contrasts between black and white are maintained, but its edges become unstable and begin to merge with the background. Color loses descriptive function and appears as technical interference. Everything turns to a warm hue and RGB colors appear, such as green, characteristic of the screen. The image enters crisis when it can still be reconstructed as a ball, but can no longer be read stably. The screen, camera, autofocus, reflections, and unforced errors act upon the image and become a visible part of the process. The gaze oscillates between recognizing the object and losing it in noise, stain, and interference. Texture and moiré.
+The ball retains recognizable traces most of the time; black and white contrasts are maintained, but its edges become unstable and begin to blend into the background. Color loses its descriptive function and appears as technical interference. Everything turns warm-toned, and RGB colors appear, such as green, which is intrinsic to the screen. The image enters a crisis when it can still be reconstructed as a ball, but can no longer be read in a stable manner. The screen, the camera, autofocus, reflections, and unforced errors act upon the image and become a visible part of the process. The gaze oscillates between recognizing the object and losing it in noise, stains, and interference. Texture and moiré.
 
-## 6. Final evaluation and artistic referent
+## 6. Final Evaluation and Artistic Reference
 
 **Does this operation truly put the image into crisis, or does it function merely as an aesthetic effect?**  
 YES
 
 **Operation notes / what I learned:**  
-It is a long operation; many photographs are needed for it to start becoming unstable. So far it is one of the operations offering the most constitutive possibility and the one that integrates the most new forms or elements into the image that were not there before.
+It is a long operation; many photographs are needed for it to start becoming unstable. So far, it is one of the operations that offers the greatest constitutive potential and the one that best integrates new forms or elements into the image that were not there before.
 
 
-**Final_state:** 
-Works:: [[SI|SI]] 
+**Final_status:** 
+Works:: [[SI|YES]] 
 
 **How it destroys the image:** 
 Works_on:: [[Formal|Formal]] 
 
-**Crisis level and richness:** 
-Crisis::  [[Alta|Alta]]
+**Level and Richness of crisis:** 
+Crisis::  [[Alta|High]]
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]]
+Selection:: [[Combinable|Combinable]] / [[Guardar|Save]]
 
 ---
 
-### Possible artistic referent
+### Potential artistic reference
 
-Referent:: [[Jacqueline Humphries|Jacqueline Humphries]], [[Liz Deschenes|Liz Deschenes]], [[Christiane Baumgartner|Christiane Baumgartner]]
+Referente:: [[Jacqueline Humphries|Jacqueline Humphries]], [[Liz Deschenes|Liz Deschenes]], [[Christiane Baumgartner|Christiane Baumgartner]]
 **Possible works:**  
 - [Jacqueline Humphries](https://www.artsy.net/artwork/jacqueline-humphries-1)
 

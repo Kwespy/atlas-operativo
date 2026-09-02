@@ -2,7 +2,7 @@
 lang: en
 ---
 
-# OB_021 — Image_dissolution_by_solvent
+# OB_021  — Solvent_Image_Dissolution
 
 ## Status
 Status:: [[Terminada|Finished]]
@@ -16,7 +16,7 @@ Status:: [[Terminada|Finished]]
 **Source image:** Printed photograph
 
 **Operational description:**  
-The image printed with toner on A4 paper is diluted using solvent (acetone).
+The toner-printed image on A4 paper has its ink diluted using a solvent (Acetone).
 
 ---
 
@@ -28,17 +28,17 @@ The image printed with toner on A4 paper is diluted using solvent (acetone).
 - 
 
 **Technical procedure:**  
-Acetone is poured, then rubbed with fingers and paper so that the print dissolves and mixes.
+Acetone is poured, and using fingers and a piece of paper, it is rubbed so that the print dilutes and mixes.
 
 ---
 
 ## 3. Variables
 
 **Controlled variables:**  
-Amount and quality of acetone. // Print type
+Amount and quality of acetone. // Type of print.
 
 **Uncontrolled / accidental variables:**  
-The movement and randomness of the liquid. Which color the acetone will react with.
+The movement and randomness of the liquid. Which color the acetone will act upon.
 
 ---
 
@@ -105,7 +105,7 @@ The movement and randomness of the liquid. Which color the acetone will react wi
 
 **The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-The operation affects the support; the liquid warps the paper and acts on the ink, which dissolves and mixes, causing the shape to lose structure and the figure/ground relationship to interact. Color mixes; certain colors are more susceptible to acetone; black yields easily, covering the image in grey.
+The operation affects the support; the liquid wrinkles the paper and also acts on the ink, which dilutes and mixes, causing the form to lose structure and the figure and ground to interact. Color mixes; certain colors are more susceptible to acetone, black easily starts to yield, covering the image with a grey.
 
 
 
@@ -115,7 +115,7 @@ The operation affects the support; the liquid warps the paper and acts on the in
 
 
 **Operation notes / what I learned:**  
-The photographic recording also affected the final file. Depending on the ambient light, the recording changes. It works, but it is not very malleable.
+The photographic record also affected the final archive. Depending on the ambient light, the record changes. It works but it is not very malleable.
 
 
 **Final_status:** 
@@ -125,10 +125,10 @@ Works:: [[SI|YES]]
 Works_on:: [[Formal|Formal]] 
 
 **Level and richness of crisis:** 
-Crisis:: [[Media|Medium]] 
+Crisis::   [[Media|Medium]] 
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Save]] 
+Selection:: [[Combinable|Combinable]] / [[Guardar|Keep]] 
 
 ---
 
@@ -141,4 +141,4 @@ Reference:: [[Oscar Muñoz|Oscar Muñoz]], [[Robert Rauschenberg|Robert Rauschen
 
 - [Robert Rauschenberg — _Erased de Kooning Drawing_](https://www.google.com/search?sa=X&sca_esv=44d7f0e7266e9015&sxsrf=APpeQnvvZ647l5gcWPDUQpMRlsJV2fX1Gg:1785782440801&udm=2&fbs=ABfTbFVFBV779m_5pw2JPceRadvzOqou3K1Ji3oeUCtk18CbFKcOCE0GXqQm6t5ABvqN6FPg5Cn8psKsB3w8dFVNXeD5SUKFHXnY2M331K7PA1C1FoEXvNHYlmw-MX_3G-eI8e_ZTUqqE28HTvoaSUCRQLLphllBlDTO4GqthGomq0ZDJJKqTUdrYjkCE37SZlll_Btd23_rQHQKeN7BJRTUOPM3Ug5nVQLJriKILh2SPb4Zh3TuxwHSSl7MEUuokc22UGLXJChm&q=Robert+Rauschenberg+Erased+de+Kooning+Drawing&ved=2ahUKEwjYq56AjoWWAxWBSvEDHevBIzQQtKgLegQIExAB&biw=1664&bih=892&dpr=2)
 
-- - [Antoni Tàpies — _Grey and Green Painting_](https://www.google.com/search?q=Antoni+Tapies+Grey+and+Green+Painting&udm=2)
+- - [Antoni Tapies Grey and Green Painting](https://www.google.com/search?q=Antoni+Tapies+Grey+and+Green+Painting&udm=2)

@@ -1,23 +1,23 @@
 ---
-title: "OB_003 — Degenerative Print and Scan"
+title: "OB_003 — Impresion y Scaner degenerativo"
 atlas_direct: true
 lang: en
 ---
 
 
 ## Status
-Status:: [[Terminada|Finished]]
+Status:: [[Terminada|Terminada]]
 
-# OB_003_Degenerative Print and Scan
+# OB_003_Impresion y Scaner degenerativo
 
 ## 1. Operation data
 
 **Internal number:** OB_003_
 **Operational regime:** [[Lista_Captura_Materializacion|Lista Captura Materializacion]]  
-**Source image:**  Photo taken from life
+**Source image:**  Photograph taken from life
 
 **Operational description:**  
-Print an image, then scan the print, repeat the process.
+Print image then scan the print, repeat the process.
 
 ---
 
@@ -40,15 +40,15 @@ Print an image, then scan the print, repeat the process.
 ## 3. Variables
 
 **Controlled variables:**  
-- File resolution and format
-- Paper position for scanning and printing
+- Resolution and file format
+- Position of the sheet for scanning and printing
 - Ink
 - Paper type
-- My printer is hacked, the inks are unlocked.
+- My printer is hacked, the cartridges are not locked. 
 
 **Uncontrolled / accidental variables:**  
 - Printing errors
-- My printer cartridge is faulty, the yellow does not work properly
+- My printer cartridge is bad, the yellow does not work well
 - 
 
 ---
@@ -112,33 +112,33 @@ Print an image, then scan the print, repeat the process.
 
 **Main crisis:** legibility 
 
-The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support.
+The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support.
 
-**Form / contour / figure-ground:**  
-The figure gradually loses legibility, contour, and its relationship with the background.
+**Shape / contour / figure-ground:**  
+The figure gradually loses legibility, contour, and its relationship with the background
 
 **Color / tone:**  
-The color shifts to a cool blue. (Perhaps due to the predominant color in the image).
+The color transforms into a cold blue. (Perhaps due to the predominant color of the image).
 
 **Legibility / recognition:**  
-A white veil appears over the image.
+a white veil appears on the image..
 
 **Material / support:**  
 Material and support do not change.
 
 **Perceptual effect:**  
-It gradually loses legibility; the image becomes smaller with each scan and begins to shift position.
+gradually loses legibility, the image becomes smaller with each scan and begins to shift..
 
 ---
 
 ## 7. Final evaluation and artistic reference
 
-**Question to the operation:**  
-Does this operation truly put the image in crisis, or does it work merely as an aesthetic effect?
+**Question for the operation:**  
+Does this operation truly put the image into crisis or does it function merely as an aesthetic effect?
 Yes, Crisis.
 
-**Notes on the operation / what I learned:**  
-The image tends to shrink and shift towards the upper right.
+**Operation notes / what I learned:**  
+The image tends to shrink and shift upward to the right.
 
 **Final_status:** 
 Works:: [[SI|SI]] 
@@ -146,7 +146,7 @@ Works:: [[SI|SI]]
 **How it destroys the image:** 
 Works_on:: [[Formal|Formal]] 
 
-**Level and Richness of crisis:** 
+**Level and richness of crisis:** 
 Crisis::  [[Baja|Baja]] 
 
 **Decision:** 
@@ -156,31 +156,31 @@ Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]]
 
 ### Possible artistic reference
 
-Reference:: [[Silke Otto-Knapp|Silke Otto-Knapp]], [[Armando Reveron|Armando Reveron]]
+Referente:: [[Silke Otto-Knapp|Silke Otto-Knapp]], [[Armando Reveron|Armando Reveron]]
 
 **Possible works:**  
 - Silke Otto-Knapp — Seascape, 2008
-- Armando Reverón — White period
+- Armando Reverón — white period
 
 ---
 
 ### Possible artistic reference
 
-**Reference:**
+**Referente:**
 
 Uta Barth — _Ground #42_, 1994
-Out of focus image
+Out-of-focus image
 
 Wolfgang Tillmans — _Lighter_, 2005–2008
-The veil remaining over the blue background resembles Tillmans' work in color and abstraction 
+the veil left with the blue background resembles tillmans' work because of its color and abstraction 
 
 James Welling — _Glass House_, 2006–2009
-Image with shifted color, more for an RGB displacement operation, but it also has this veil
+Image with color shifted more towards an RGB shift operation but it also has this veil
 
 Silke Otto-Knapp — Seascape, 2008
-Shares something of the image's aesthetic.
+It has something of the image's aesthetic.
 
-Armando Reverón — White period
+Armando Reverón — white period
 
 **Operational relationship:**  
 Pending.

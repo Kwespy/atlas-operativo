@@ -7,7 +7,7 @@ Status::  [[Terminada|Finished]]
 
 ---
 
-## 1. Operation Data
+## 1. Operation data
 
 **Internal number:** OB_000 + OB_000
 **Operational regime:** [[Lista_Combinaciones|Lista Combinaciones]]  
@@ -44,13 +44,13 @@ The image is reconstructed as a field of lines. Each zone generates strokes whos
 
 ---
 
-## 4. Visual Sequence
+## 4. Visual sequence
 
 ### Initial image
 ![[input_03.jpeg.webp|200]]
 
 ### Step 01
-![[OB026_step01.png|200]]
+![[OB026_step01.png.webp|200]]
 
 ### Step 02
 ![[OB026_step02.png.webp|200]]
@@ -109,7 +109,7 @@ The image is reconstructed as a field of lines. Each zone generates strokes whos
 
 ---
 
-## 5. Visual Selection
+## 5. Visual selection
 
 ### Crisis / threshold according to AI-assisted reading / ChatGPT
 
@@ -127,20 +127,20 @@ The image is reconstructed as a field of lines. Each zone generates strokes whos
 
 ---
 
-## 6. Crisis and Formal-Perceptual Reading
+## 6. Crisis and formal-perceptual reading
 
 
-**Where the crisis occurs and the operation affects the visual grammar of the image: shape, outline, color, figure/ground relationship, legibility, recognition, and support:**
+**Where the crisis occurs and the operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-the accumulation of strokes begins to dissolve outlines and blend figure and ground. The vegetation can still be partially recognized, but the image also starts to be read as an abstract grid of lines, directions, and densities. Color loses prominence against texture, and legibility remains in an intermediate state between representation and abstraction.
+the accumulation of strokes begins to undo contours and blur figure and ground. The vegetation can still be partially recognized, but the image also starts to be read as an abstract grid of lines, directions, and densities. Color loses prominence against texture, and legibility remains in an intermediate state between representation and abstraction.
 
 ---
 
-## 7. Final Evaluation and Artistic Reference
+## 7. Final evaluation and artistic reference
 
 
 **Operation notes / what I learned:**  
-It is another system of representation, because the raster image becomes vector-based. That is, the vector image represents it through geometric instructions: lines, curves, polygons, coordinates, thickness, direction, color, etc. information stops being expressed mainly as pixels and begins to be expressed as geometry. 
+It is another representation system, because the raster image becomes vector-based. That is, the vector image represents it through geometric instructions: lines, curves, polygons, coordinates, thickness, direction, color, etc. Information ceases to be expressed primarily as pixels and begins to be expressed as geometry. 
 
 
 
@@ -150,7 +150,7 @@ Works:: [[SI|SI]]
 **How it destroys the image:** 
 Works_on:: [[Formal|Formal]] 
 
-**Level and Richness of crisis:** 
+**Level and richness of crisis:** 
 Crisis:: [[Media|Media]] 
 
 **Decision:** 
@@ -158,7 +158,7 @@ Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]]
 
 ---
 
-### Possible artistic reference
+### Potential artistic reference
 
 Referente:: [[Mark Grotjahn|Mark Grotjahn]], [[]], [[]]
 

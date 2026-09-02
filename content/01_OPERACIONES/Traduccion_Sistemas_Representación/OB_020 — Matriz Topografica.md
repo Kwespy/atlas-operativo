@@ -34,7 +34,7 @@ Se crea un script para que cree linead topograficas segun volumen.
 ![[Input_001.jpg.webp|200]]
 
 ### Step 01
-![[OB020_step01.png|200]]
+![[OB020_step01.png.webp|200]]
 
 ### Step 02
 ![[OB020_step02.png.webp|200]]

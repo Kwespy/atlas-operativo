@@ -2,22 +2,22 @@
 lang: en
 ---
 
-# OB_019_Tonal_Matrix
+# OB_019_Matriz_Tonal
 
 ## Status
-Status:: [[Terminada|Finished]]
+Status:: [[Terminada|Terminada]]
 
 ---
 
 ## 1. Operation data
 
 **Internal number:** OB_019 
-**Operational regime:** [[Lista_Traduccion_Sistemas_Representacion|Representation Systems Translation List]]  
-**Source image:**  Photographed image converted into a Tonal Matrix
+**Operational regime:** [[Lista_Traduccion_Sistemas_Representacion|Lista Traduccion Sistemas Representacion]]  
+**Source image:**  Photographed image converted to Tonal Matrix
 
 **Operational description:**  
 Raster image is converted into a tonal grid, a 128x95 grid with 64 tones.
-The tone numbers are swapped.
+Tone numbers are swapped with one another.
 
 ---
 
@@ -39,14 +39,14 @@ The tone numbers are swapped.
 
 ## 3. Variables
 
-The tones are swapped in a controlled way; there is a pictorial decision involved. The number of cells and the size within the grid.
+The tones are swapped in a controlled manner; there is a pictorial decision involved in this. The number of cells and size within the grid.
 
 ---
 
 ## 4. Visual sequence
 
 ### Initial image
-![[OB019_input.png|200]]
+![[OB019_input.png.webp|200]]
 
 ### Step 01
 ![[OB019_step01.png.webp|200]]
@@ -107,9 +107,9 @@ The tones are swapped in a controlled way; there is a pictorial decision involve
 
 **Main crisis:** Tonal.
 
-**The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
+**The operation affects the visual grammar of the image: shape, outline, color, figure/ground relationship, legibility, recognition, and support:**
 
-The contour and shape of the figure enter into crisis due to the tone swapping; the contours blend together when two similar tones are placed at the edges. The background does as well when changing the tone and bringing tones together, for example, between the table and the wall.
+The outline and shape of the figure enter into crisis due to the swapping of tones; the contours blend when two similar tones are placed at the edges. The background does as well by changing the tone and bringing tones together, for example between the table and the wall.
 
 
 ---
@@ -118,26 +118,26 @@ The contour and shape of the figure enter into crisis due to the tone swapping; 
 
 
 **Operation notes / what I learned:**  
-More than just an algorithmic operation, it can be controlled; by changing the matrix to a simple tonal grid, one can decide how to resample the colors. And I need to view the past image to make more pictorial decisions, in the sense of where to swap the tones.
+More than just an algorithmic operation, it can be controlled; by changing the matrix to a simple tonal grid, one can decide how to resample the colors. And I must look at the past image to make more pictorial decisions in terms of where to swap the tones.
 
 
 **Final_status:** 
-Works:: [[SI|YES]] 
+Works:: [[SI|SI]] 
 
 **How it destroys the image:** 
 Works_on::  [[Formal|Formal]] 
 
 **Level and richness of crisis:** 
-Crisis::  [[Alta|High]]
+Crisis::  [[Alta|Alta]]
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Save]] 
+Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]] 
 
 ---
 
 ### Possible artistic reference
 
-Reference:: [[Thomas Bayrle|Thomas Bayrle]], [[Chuck Close|Chuck Close]], [[Jacques Perconte|Jacques Perconte]], [[Takeshi Murata |Takeshi Murata ]], [[Kim Asendorf|Kim Asendorf]], [[Gerhard Richter|Gerhard Richter]]
+Referente:: [[Thomas Bayrle|Thomas Bayrle]], [[Chuck Close|Chuck Close]], [[Jacques Perconte|Jacques Perconte]], [[Takeshi Murata |Takeshi Murata ]], [[Kim Asendorf|Kim Asendorf]], [[Gerhard Richter|Gerhard Richter]]
 
 
 **Possible works:**  

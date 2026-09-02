@@ -5,7 +5,7 @@ lang: en
 ---
 
 
-# OB_002 — Compression_By_Loss_Of_Resolution
+# OB_002 — Loss_Of_Resolution_Compression
 
 ## Status
 Status:: [[Terminada|Finished]]
@@ -18,7 +18,7 @@ Status:: [[Terminada|Finished]]
 **Source image:** Photograph taken from life
 
 **Operational description:**  
-Using a script that compresses the file gradually, the image lost resolution until it became pixelated.
+Using a script that gradually compresses the file, the image lost resolution until it became pixelated.
 
 ---
 
@@ -41,7 +41,7 @@ Using a script that compresses the file gradually, the image lost resolution unt
 ## 3. Variables
 
 **Controlled variables:**  
-- Number of steps that can be taken
+- Number of steps that can be performed
 -  
 - 
 
@@ -111,32 +111,32 @@ Using a script that compresses the file gradually, the image lost resolution unt
 
 **Main crisis:** resolution - technique
 
-The operation affects the visual grammar of the image: form, outline, color, figure/ground relationship, legibility, recognition, and support.
+The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support.
 
-**Form / outline / figure-ground:**  
+**Form / contour / figure-ground:**  
 The image loses form quickly, but it is not until the image is completely destroyed that the background is lost.
 
 **Color / tone:**  
-The colors remain mostly stable.
+Colors remain mostly stable.
 
 **Legibility / recognition:**  
-Legibility is what is most affected; recognition is lost due to a lack of outlines.
+Legibility is what is most affected; recognition is lost due to the lack of contours.
 
 **Material / support:**  
 Materiality and support are not visible, however, it is easily noticeable as a digital aesthetic or process.
 
 **Perceptual effect:**  
-If you squint your eyes, it is easier to recognize the object.
+Squinting your eyes makes it easier to recognize the object.
 
 ---
 
 ## 7. Final evaluation and artistic reference
 
-**Does this operation truly put the image into crisis, or does it function only as an aesthetic effect?**  
+**Does this operation truly put the image into crisis or does it function merely as an aesthetic effect?**  
 It puts the image into crisis
 
 **Operation notes / what I learned:**  
-It works, but it is an operation that can be understood as a mannerism. What surprised me was that the A.I. could recognize the low-resolution image better than I could. It puts the image into crisis but immediately opens up pictorial possibilities.
+It works, but it is an operation that can be understood as a mannerism. What surprised me was that the A.I. was able to recognize objects in low resolution better than I could. It puts the image into crisis while opening up pictorial possibilities at first glance.
 
 **Final_status:** 
 Works:: [[SI|YES]]

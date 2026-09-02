@@ -1,5 +1,5 @@
 ---
-title: "OB_023 — Water and Ink"
+title: "OB_023 — Agua y Tinta"
 atlas_direct: true
 lang: en
 ---
@@ -18,14 +18,14 @@ Status:: [[Terminada|Finished]]
 **Source image:**  
 
 **Operational description:**  
-The image is printed with toner. It is submerged in a tray with water. Drops of ink are gradually added using a syringe—Magenta-Green-Yellow-Blue-Black—and the process is recorded.
+The image is printed with Toner. It is submerged in a tray of water. Drops of ink are gradually added with a syringe -Magenta-Green-Yellow-Blue-Black- and the process is recorded.
 
 ---
 
 ## 2. Tools and procedure
 
 **Tools / medium:**  
-- Image printed in toner
+- Toner-printed image
 - Water and ink
 - Container
 
@@ -35,12 +35,12 @@ The image is printed with toner. It is submerged in a tray with water. Drops of 
 ## 3. Variables
 
 **Controlled variables:**  
-- Colors and amount of water
+- Colors and amount of Water
 - Print type
 - 
 
 **Uncontrolled / accidental variables:**  
-- Entropy of water with the ink
+- Entropy of Water with the Ink
 - 
 - 
 
@@ -79,7 +79,7 @@ The image is printed with toner. It is submerged in a tray with water. Drops of 
 ![[OB023_step09.png.webp|200]]
 
 ### Step 10
-![[OB023_step10.png.webp.webp|200]]
+![[OB023_step10.png.webp|200]]
 
 ### Step 11
 ![[OB023_step11.png.webp|200]]
@@ -97,7 +97,7 @@ The image is printed with toner. It is submerged in a tray with water. Drops of 
 
 ## 5. Visual selection
 
-### Crisis / threshold according to AI / ChatGPT-assisted reading
+### Crisis / threshold according to AI-assisted reading / ChatGPT
 
 
 ### Step 11
@@ -107,16 +107,16 @@ The image is printed with toner. It is submerged in a tray with water. Drops of 
 
 
 ### Step 10
-![[OB023_step10.png.webp.webp]]
+![[OB023_step10.png.webp]]
 
 ---
 
 ## 6. Crisis and formal-perceptual reading
 
 
-**Where the crisis occurs and the operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
+**Where the crisis occurs and the operation affects the visual grammar of the image: shape, outline, color, figure/ground relationship, legibility, recognition, and support:**
 
-The crisis occurs with the ink floating in the water, covering and veiling the printed image at the bottom of the tray, affecting its entire visual grammar, most notably color and figure/ground relationship. With the black ink, the image destabilizes and begins to acquire more contrast and pictorial richness.
+The crisis occurs with the ink floating in the water, covering and veiling the printed image at the bottom of the basin, affecting its entire visual grammar, to a greater extent color and the figure-ground relationship. With the black, the image becomes destabilized and begins to have more contrast and pictorial richness. 
 
 ---
 
@@ -124,7 +124,7 @@ The crisis occurs with the ink floating in the water, covering and veiling the p
 
 
 **Operation notes / what I learned:**  
-The recording of physical operations must take place in a controlled environment; that is, the light, reflection, and movement of the object must remain stable so as not to add disturbances to the recording when a scanner is not used.
+The recording of physical operations must take place in a controlled environment, meaning that the light, reflection, and movement of the object must remain stable so as not to add disturbances to the recording when a scanner is not used.
 
 
 **Final_status:** 
@@ -133,7 +133,7 @@ Works:: [[SI|YES]] ]
 **How it destroys the image:** 
 Works_on:: [[Estetico|Aesthetic]] 
 
-**Crisis level and richness:** 
+**Level and Richness of crisis:** 
 Crisis::   [[Media|Medium]]
 
 **Decision:** 

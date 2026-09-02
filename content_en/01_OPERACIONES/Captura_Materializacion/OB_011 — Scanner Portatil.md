@@ -4,7 +4,7 @@ atlas_direct: true
 lang: en
 ---
 
-# OB_011_Scanner_Portatil
+# OB_011_Portable_Scanner
 
 ## Status
 Status:: [[Terminada|Finished]]
@@ -14,11 +14,11 @@ Status:: [[Terminada|Finished]]
 ## 1. Operation data
 
 **Internal number:** OB_011
-**Operational regime:** [[Lista_Captura_Materializacion|Lista Captura Materializacion]]  
-**Source image:** From Life  
+**Operational regime:** [[Lista_Captura_Materializacion|Capture Materialization List]]  
+**Source image:** From life  
 
 **Operational description:**  
-The original object was scanned with the portable scanner to attempt recognition of the model, then it began to be scanned freely to create and use the tool in other ways.
+The primary object was scanned with the portable scanner to attempt model recognition, and then it began to be scanned freely to create and use the tool in other ways.
 
 ---
 
@@ -43,12 +43,12 @@ The original object was scanned with the portable scanner to attempt recognition
 **Controlled variables:**  
 - Hand movement
 - Image resolution
-- Image color count
+- Number of colors in the image
 - Image format
 - 
 
 **Uncontrolled / accidental variables:**  
-- It is a tool where you are not sure how the image will turn out, as it captures the image per surface; since the model is spherical, there is a lot of space where depth is captured and darker areas appear. The tool is not very stable.
+- It is a tool where you are never quite sure how the image will turn out, since it captures the image by surface, and because the model is spherical there is a lot of space where depth is captured and darker areas appear. The tool is not very stable.
 - 
 - 
 
@@ -115,15 +115,15 @@ The original object was scanned with the portable scanner to attempt recognition
 
 The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support.
 
-The main crisis is due to the interruption of the form; the colors remain stable, only becoming a bit more aged. By itself, the tool cannot capture the form in its entirety and in its natural structure; furthermore, by using the tool creatively, it can be operated to produce more sweeping and alteration of the flow and perspective of the object.
+The main crisis stems from the interruption of the form; the colors remain stable, only becoming slightly more aged. In itself, the tool cannot capture the form in its entirety and natural structure. Beyond that, by using the tool creatively, it can be operated to produce more scanning sweep, disorder in the object's flow, and a shift in perspective.
 
 ---
 
-## 7. Final evaluation and artistic referent
+## 7. Final evaluation and artistic reference
 
 
 **Operation notes / what I learned:**  
-The operation can be used creatively; the practitioner can use it as a free creation tool, however, the creative framework is not very broad.
+The operation can be used creatively; the executor can use it as a free creative tool, although the framework for creativity is not very broad.
 
 
 **Final_status:** 
@@ -132,7 +132,7 @@ Works:: [[SI|YES]]
 **How it destroys the image:** 
 Works_on::  [[Formal|Formal]] 
 
-**Level and Richness of crisis:** 
+**Level and richness of crisis:** 
 Crisis::  [[Alta|High]]
 
 **Decision:** 
@@ -140,9 +140,9 @@ Selection:: [[Combinable|Combinable]] / [[Guardar|Save]]
 
 ---
 
-### Possible artistic referent
+### Possible artistic reference
 
-Referent:: [[Sarah Sze|Sarah Sze]], [[Marco Breuer|Marco Breuer]], [[Gerhard Richter|Gerhard Richter]]
+Reference:: [[Sarah Sze|Sarah Sze]], [[Marco Breuer|Marco Breuer]], [[Gerhard Richter|Gerhard Richter]]
 
 **Possible works:**  
 - [Sarah Sze - Ripple "Time Zero" 2020](https://gagosian.com/exhibitions/2020/sarah-sze/)

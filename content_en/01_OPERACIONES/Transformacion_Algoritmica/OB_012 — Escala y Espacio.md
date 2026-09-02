@@ -11,18 +11,18 @@ Status:: [[Terminada|Finished]]
 
 ---
 
-## 1. Operation data
+## 1. Operation Data
 
 **Internal number:** OB___  
 **Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
-**Source image:**  Direct photograph
+**Source image:**  Photograph from life
 
 **Operational description:**  
-The shapes making up the image are distributed and scaled within the image.
+The shapes that make up the image are distributed and scaled within the image.
 
 ---
 
-## 2. Tools and procedure
+## 2. Tools and Procedure
 
 **Tools / medium:**  
 - Photoshop
@@ -53,7 +53,7 @@ The shapes making up the image are distributed and scaled within the image.
 
 ---
 
-## 4. Visual sequence
+## 4. Visual Sequence
 
 ### Initial image
 ![[Input_001.jpg.webp|200]]
@@ -89,7 +89,7 @@ The shapes making up the image are distributed and scaled within the image.
 
 ---
 
-## 5. Visual selection
+## 5. Visual Selection
 
 ### Crisis / threshold according to AI-assisted reading / ChatGPT
 
@@ -102,7 +102,7 @@ The shapes making up the image are distributed and scaled within the image.
 
 ---
 
-## 6. Crisis and formal-perceptual reading
+## 6. Crisis and Formal-Perceptual Reading
 
 **Main crisis:** Figure-ground-form recognition
 
@@ -112,7 +112,7 @@ By scaling the shapes of the image and rearranging them, the image can easily lo
 
 ---
 
-## 7. Final evaluation and artistic reference
+## 7. Final Evaluation and Artistic Reference
 
 
 **Operation notes / what I learned:**  

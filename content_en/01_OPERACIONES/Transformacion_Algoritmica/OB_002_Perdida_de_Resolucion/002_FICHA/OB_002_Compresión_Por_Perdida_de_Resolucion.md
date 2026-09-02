@@ -2,16 +2,16 @@
 lang: en
 ---
 
-# OB_002 — Compresión_Por_Perdida_de_Resolucion
+# OB_002 — Lossy_Resolution_Compression
 
 ## Status
-Status:: [[Terminada|Terminada]]
+Status:: [[Terminada|Finished]]
 
 
 ## 1. Operation data
 
 **Internal number:** OB_002  
-**Operational regime:** [[Lista_Transformacion_Algoritmica|Lista Transformacion Algoritmica]]  
+**Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
 **Source image:** Photograph taken from life
 
 **Operational description:**  
@@ -28,7 +28,7 @@ Through a script that gradually compresses the file, the image lost resolution u
 
 **Technical procedure:**  
 1. The script was created in ChatGPT
-2. Entered into Terminal
+2. Opened in Terminal
 3. 
 4. 
 5. 
@@ -39,7 +39,7 @@ Through a script that gradually compresses the file, the image lost resolution u
 
 **Controlled variables:**  
 - Number of steps that can be performed
-- 
+-  
 - 
 
 **Uncontrolled / accidental variables:**  
@@ -108,19 +108,19 @@ Through a script that gradually compresses the file, the image lost resolution u
 
 **Main crisis:** resolution - technique
 
-The operation affects the visual grammar of the image: shape, outline, color, figure/ground relationship, legibility, recognition, and support.
+The operation affects the visual grammar of the image: form, outline, color, figure/ground relationship, legibility, recognition, and support.
 
-**Shape / outline / figure-ground:**  
-The image loses its shape quickly, but it is not until the image is completely destroyed that the background is lost.
+**Form / outline / figure-ground:**  
+The image loses its form quickly, but it is not until the image is completely destroyed that the background is lost.
 
 **Color / tone:**  
-Colors remain mostly stable.
+The colors remain mostly stable.
 
 **Legibility / recognition:**  
 Legibility is what is most affected; recognition is lost due to the lack of outlines.
 
 **Material / support:**  
-Materiality and support are not visible, however, it is easily noticeable as a digital aesthetic or process.
+The materiality and support are not visible; however, it is easily noticeable as a digital aesthetic or process.
 
 **Perceptual effect:**  
 If you squint your eyes, it is easier to recognize the object.
@@ -129,30 +129,30 @@ If you squint your eyes, it is easier to recognize the object.
 
 ## 7. Final evaluation and artistic reference
 
-**Does this operation truly put the image into crisis or does it function merely as an aesthetic effect?**  
+**Does this operation truly put the image into crisis, or does it function merely as an aesthetic effect?**  
 It puts the image into crisis
 
 **Operation notes / what I learned:**  
-It works, but it is an operation that can be understood as a mannerism. What surprised me was that the A.I. was able to recognize better in low resolution than I could. It puts the image into crisis while opening up pictorial possibilities at first glance.
+It works, but it is an operation that can be understood as a mannerism. What surprised me was that the A.I. was able to recognize in low resolution better than I could. It puts the image into crisis while instantly opening up pictorial possibilities.
 
 **Final_status:** 
-Works:: [[SI|SI]]
+Works:: [[SI|YES]]
 
 **How it destroys the image:** 
 Works_on:: [[Formal|Formal]] 
 
 **Level and richness of crisis:** 
-Crisis::  [[Media|Media]]
+Crisis::  [[Media|Medium]]
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]] 
+Selection:: [[Combinable|Combinable]] / [[Guardar|Save]] 
 
 
 ---
 
 ### Possible artistic reference
 
-Referent:: [[Thomas Ruff|Thomas Ruff]] [[Rosa Menkman|Rosa Menkman]]
+Reference:: [[Thomas Ruff|Thomas Ruff]] [[Rosa Menkman|Rosa Menkman]]
 
 **Possible works:**  
 - Thomas Ruff — _jpeg_  
@@ -163,7 +163,7 @@ Referent:: [[Thomas Ruff|Thomas Ruff]] [[Rosa Menkman|Rosa Menkman]]
 
 ### Possible artistic reference
 
-**Referent:**  
+**Reference:**  
 Thomas Ruff — _jpeg_  
 Cory Arcangel 
 Rosa Menkman — glitch/compression artifacts

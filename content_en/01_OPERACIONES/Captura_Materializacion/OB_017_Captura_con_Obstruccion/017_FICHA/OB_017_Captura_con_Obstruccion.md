@@ -2,21 +2,21 @@
 lang: en
 ---
 
-# OB_017_Capture_with_Obstruction
+# OB_017_Captura_con_Obstruccion
 
 ## Status
-Status:: [[Terminada|Finished]]
+Status::  [[Terminada|Finished]]
 
 ---
 
 ## 1. Operation data
 
 **Internal number:** OB_017 
-**Operating regime:** [[Lista_Captura_Materializacion|Lista Captura Materializacion]]  
-**Source image:** Photograph
+**Operational regime:** [[Lista_Captura_Materializacion|Lista Captura Materializacion]]  
+**Source image:**  Photograph
 
 **Operational description:**  
-A glass of water is placed in front of the mobile phone camera to act as a filter and obstacle. The glass is gradually filled with water.
+A glass of water is placed in front of the mobile camera to act as a filter and obstacle. The glass is gradually filled with water.
 
 ---
 
@@ -28,7 +28,7 @@ A glass of water is placed in front of the mobile phone camera to act as a filte
 - Water
 
 **Technical procedure:**  
-1. The glass is gradually filled with water and photographs are taken continuously.
+1. The glass is gradually filled with water and photographs are taken.
 2. 
 3. 
 4. 
@@ -44,7 +44,7 @@ A glass of water is placed in front of the mobile phone camera to act as a filte
 - Ambient light
 
 **Uncontrolled / accidental variables:**  
-- Water reflections and the shapes of the glass.
+- Reflection of the water and the shapes of the glass.
 - How the image deforms
 - 
 
@@ -93,7 +93,7 @@ A glass of water is placed in front of the mobile phone camera to act as a filte
 
 ## 5. Visual selection
 
-### Crisis / threshold according to AI / ChatGPT-assisted reading
+### Crisis / threshold according to AI-assisted reading / ChatGPT
 
 ### Step 05
 ![[OB017_step05.jpeg.webp]]
@@ -108,11 +108,11 @@ A glass of water is placed in front of the mobile phone camera to act as a filte
 
 ## 6. Crisis and formal-perceptual reading
 
-**Main crisis:** Loss of recognition due to refraction and contour fragmentation.
+**Main crisis:** loss of recognition due to refraction and fragmentation of the contour.
 
 **The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-The glass itself acts as a filter that transforms shape and contour. Together, both blend the background with the figure, and legibility is lost. The colors remain unchanged.
+the glass is already a filter that transforms the shape and contour. together they mix the background with the shape and legibility is lost. The colors are maintained.
 
 
 ---
@@ -123,17 +123,17 @@ The glass itself acts as a filter that transforms shape and contour. Together, b
 
 
 **Operation notes / what I learned:**  
-It is a simple operation, and the transformation of shape is similar to what an algorithm can achieve. It is difficult to control.
+It is a simple operation, and the transformation of the shape is similar to what an algorithm can achieve. It is difficult to control.
 
 
 **Final_status:** 
-Works:: [[SI|YES]]
+Works:: [[SI|SI]]
 
 **How it destroys the image:** 
 Works_on:: [[Formal|Formal]] 
 
-**Level and Richness of crisis:** 
-Crisis:: [[Alta|High]]
+**Level and richness of crisis:** 
+Crisis::  [[Alta|High]]
 
 **Decision:** 
 Selection:: [[Combinable|Combinable]] / [[Guardar|Save]] 
@@ -142,7 +142,7 @@ Selection:: [[Combinable|Combinable]] / [[Guardar|Save]]
 
 ### Possible artistic reference
 
-Reference:: [[Daisuke Yokota|Daisuke Yokota]], [[Luc Tuymans|Luc Tuymans]]
+Referent:: [[Daisuke Yokota|Daisuke Yokota]], [[Luc Tuymans|Luc Tuymans]]
 
 **Possible works:**  
 - [Daisuke Yokota](https://www.google.com/search?q=5.+Daisuke+Yokota+paintings&sca_esv=e44b8a29c1fb6f03&rlz=1C5CHFA_enPT1033PT1033&udm=2&biw=949&bih=952&sxsrf=APpeQnvIhGrwYpejtzitH2YoMLjQs8ANrg%3A1783015280104&ei=cKdGatPrBYL06APe16uIBA&ved=0ahUKEwjT45jDybSVAxUCOnoKHd7rCkEQ4dUDCBE&uact=5&oq=5.+Daisuke+Yokota+paintings&gs_lp=Egtnd3Mtd2l6LWltZyIbNS4gRGFpc3VrZSBZb2tvdGEgcGFpbnRpbmdzSIQjUMMEWIQicAR4AJABAJgBaqABoAiqAQM5LjK4AQPIAQD4AQGYAgCgAgCYAwCIBgGSBwCgB4QBsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz-img)

@@ -110,18 +110,18 @@ In Photoshop, the exposure of the image is increased and decreased.
 
 The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support.
 
-The form is maintained, but it creates passages upon underexposing; that is, the contour and the relationship with the background mix and fuse together. Recognition is lost in that sense because the image darkens and contours are lost for defining the image, or it is overexposed and contours are likewise lost.
+The form is maintained, but it creates passages when underexposing; that is, the contour and the relationship with the background mix and fuse together. Recognition is lost in that sense because the image darkens and the contours are lost for defining the image, or it is overexposed and the contours are also lost.
 
 ---
 
 ## 7. Final evaluation and artistic reference
 
-**Does this operation truly put the image in crisis, or does it function only as an aesthetic effect?:**  
-Yes, the operation puts the image in crisis.
+**Does this operation truly put the image into crisis or does it function merely as an aesthetic effect?:**  
+Yes, the operation puts the image into crisis.
 
 
 **Operation notes / what I learned:**  
-It is a simple operation but of great utility since chiaroscuros like those of Rembrandt and Caravaggio are created, which help to control the image and give it volume. The richness of the crisis is high despite the simplicity of the operation.
+It is a simple operation but of great utility since chiaroscuro effects like those of Rembrandt and Caravaggio are created, which help to control the image and give it volume. The richness of the crisis is high despite the simplicity of the operation.
 
 
 

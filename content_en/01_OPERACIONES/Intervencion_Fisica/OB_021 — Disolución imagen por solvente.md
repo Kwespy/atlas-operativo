@@ -1,10 +1,10 @@
 ---
-title: "OB_021 — Solvent image dissolution"
+title: "OB_021 — Image dissolution by solvent"
 atlas_direct: true
 lang: en
 ---
 
-# OB_021  — Solvent_image_dissolution
+# OB_021  — Image_dissolution_by_solvent
 
 ## Status
 Status:: [[Terminada|Finished]]
@@ -14,11 +14,11 @@ Status:: [[Terminada|Finished]]
 ## 1. Operation data
 
 **Internal number:** OB_021 
-**Operating regime:** [[Lista_Intervención_Física|Lista Intervención Física]]  
+**Operational regime:** [[Lista_Intervención_Física|Physical Intervention List]]  
 **Source image:** Printed photograph
 
 **Operational description:**  
-The toner-printed image on A4 paper has its ink diluted with solvent (Acetone).
+The toner-printed image on A4 paper has its ink diluted with a solvent (Acetone).
 
 ---
 
@@ -30,17 +30,17 @@ The toner-printed image on A4 paper has its ink diluted with solvent (Acetone).
 - 
 
 **Technical procedure:**  
-Acetone is poured, and using fingers and paper it is rubbed so that the print dissolves and mixes.
+Acetone is poured; using fingers and paper, it is rubbed so that the print dilutes and mixes.
 
 ---
 
 ## 3. Variables
 
 **Controlled variables:**  
-Quantity and quality of Acetone. // Type of Print
+Quantity and quality of Acetone. // Type of print
 
 **Uncontrolled / accidental variables:**  
-The movement and randomness of the liquid. Which color the acetone acts upon.
+The movement and chance of the liquid. Which color the acetone will act upon.
 
 ---
 
@@ -107,15 +107,17 @@ The movement and randomness of the liquid. Which color the acetone acts upon.
 
 **The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-The operation affects the support; the liquid folds the paper and also acts on the ink, which dilutes and mixes, causing the form to lose structure and the figure/ground relationship to interact. Color mixes; certain colors are more susceptible to acetone, and black easily starts to yield, covering the image with a grey tone.
+The operation affects the support; the liquid wrinkles the paper and also acts on the ink, which dilutes and mixes, causing the shape to lose structure and the figure and ground to interact. Color mixes; certain colors are more susceptible to acetone, black easily begins to yield, covering the image with a grey.
+
+
 
 ---
 
-## 7. Final evaluation and artistic referent
+## 7. Final evaluation and artistic reference
 
 
 **Operation notes / what I learned:**  
-The photographic documentation also affected the final file. Depending on the ambient light, the documentation changes. It works, but it is not that malleable.
+The photographic documentation also affected the final archive. Depending on the ambient light, the documentation changes. It works, but it is not very malleable.
 
 
 **Final_status:** 
@@ -124,17 +126,17 @@ Works:: [[SI|SI]]
 **How it destroys the image:** 
 Works_on:: [[Formal|Formal]] 
 
-**Level and Richness of crisis:** 
+**Level and richness of crisis:** 
 Crisis::   [[Media|Media]] 
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]] 
+Selection:: [[Combinable|Combinable]] / [[Guardar|Save]] 
 
 ---
 
-### Possible artistic referent
+### Possible artistic reference
 
-Referent:: [[Oscar Muñoz|Oscar Muñoz]], [[Robert Rauschenberg|Robert Rauschenberg]], [[Antoni Tapies|Antoni Tapies]]
+Reference:: [[Oscar Muñoz|Oscar Muñoz]], [[Robert Rauschenberg|Robert Rauschenberg]], [[Antoni Tapies|Antoni Tapies]]
 
 **Possible works:**  
 - [Oscar Muñoz — _Narcisos in Progress_](https://www.google.com/search?q=Oscar+Mu%C3%B1oz+Narciso+in+progress&sca_esv=44d7f0e7266e9015&udm=2&biw=1664&bih=892&sxsrf=APpeQnvmFyj-wK9_4lwNt9QSUei_MM4jYA%3A1785838973933&ei=fb1xatLAOJDMi-gPv8WpoQ8&ved=0ahUKEwiS86rN4IaWAxUQ5gIHHb9iKvQQ4dUDCBE&uact=5&oq=Oscar+Mu%C3%B1oz+Narciso+in+progress&gs_lp=Egtnd3Mtd2l6LWltZyIgT3NjYXIgTXXDsW96IE5hcmNpc28gaW4gcHJvZ3Jlc3NI9hlQrgVYsxhwAXgAkAEAmAFboAG1B6oBAjExuAEDyAEA-AEBmAIBoAIEwgIHECMYyQIYJ5gDAIgGAZIHATGgB4QBsgcAuAcAwgcDMi0xyAcDgAgB&sclient=gws-wiz-img) 

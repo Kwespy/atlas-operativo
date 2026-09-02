@@ -1,10 +1,10 @@
 ---
-title: "OB_024 — Reconstruction of erroneous patches"
+title: "OB_024 — Reconstructed erroneous patches"
 atlas_direct: true
 lang: en
 ---
 
-# OB_024_Reconstruction_erroneous_patches
+# OB_024_Reconstructed_erroneous_patches
 
 ## Status
 
@@ -16,7 +16,7 @@ Status:: [Finished]
 
 **Internal number:** OB___  
 **Operational regime:** [[Transformación algorítmica|Algorithmic transformation]]  
-**Source image:** Photograph of a mountainous landscape with a tree in the foreground.
+**Source image:** Mountain landscape photograph with a foreground tree.
 
 **Operational description:**  
 The image is divided into fragments or patches. Each fragment is replaced or displaced using other areas of the same image with similar visual characteristics. Repeating the process generates a partially coherent, yet spatially incorrect reconstruction.
@@ -39,14 +39,14 @@ The image is divided into fragments or patches. Each fragment is replaced or dis
 
 - Patch size
 - Number of replaced fragments
-- Degree of similarity required between patches
+- Required degree of similarity between patches
 - Number / intensity of iterations
 
 **Uncontrolled / accidental variables:**  
 
 - Final position of the selected fragments
 - Unexpected repetitions and accumulations
-- Emerging shapes produced by local matches
+- Emerging forms produced by local matches
 
 ---
 
@@ -122,14 +122,14 @@ The image is divided into fragments or patches. Each fragment is replaced or dis
 
 **Where the crisis occurs and the operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-The operation mainly affects **shape, contour, figure/ground relationship, legibility, and recognition**. The boundaries of the tree become fragmented, and parts of the landscape occupy its interior. The image partially retains its original chromatic distribution, but loses spatial continuity. The patch grid progressively becomes visible and begins to function as a new structure of the image.
+The operation mainly affects **shape, contour, figure/ground relationship, legibility, and recognition**. The edges of the tree fragment and parts of the landscape occupy its interior. The image partially retains its original chromatic distribution, but loses spatial continuity. The patch grid progressively becomes visible and begins to function as a new structure of the image.
 
 ---
 
 ## 7. Final evaluation and artistic reference
 
 **Operation notes / what I learned:**  
-when you increase the script parameters too much, they spiral out of control and start failing, moving outside the image contours
+when you increase the script parameters too much, they run away and start failing to stay within the contours of the image
 
 **Final_status:**  
 Works:: [YES]
@@ -137,7 +137,7 @@ Works:: [YES]
 **How it destroys the image:**  
 Works_on:: [Formal]
 
-**Level and Richness of crisis:**  
+**Level and richness of crisis:**  
 Crisis:: [Medium]
 
 **Decision:**  
@@ -145,7 +145,7 @@ Selection:: [Keep] [Combinable]
 
 ---
 
-### Potential artistic reference
+### Possible artistic reference
 
 Reference:: [[Konrad Wyrebek |Konrad Wyrebek ]], [[David Hockney|David Hockney]], [[Georges Braque|Georges Braque]], [[Paul Klee|Paul Klee]], [[Chuck Close|Chuck Close]], [[Gerhard Richter|Gerhard Richter]], [[Paul Cézanne|Paul Cézanne]], 
 

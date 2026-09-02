@@ -9,27 +9,27 @@ Status:: [[Terminada|Finished]]
 
 ---
 
-## 1. Operation data
+## 1. Operation Data
 
 **Internal number:** OB_013
 **Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
 **Source image:** Video
 
 **Operational description:**  
-A video of the object is recorded with movement and zoom to achieve image blurring and deformation. Then, in the Premiere video editor, the resolution is compressed multiple times to destroy the image, and the contrast is boosted so that the color is not lost.
+A video is recorded with movement and zoom of the object to achieve motion blur and image deformation. Then, in Adobe Premiere video editor, the resolution is compressed multiple times to destroy the image, and the contrast is turned up so the color is not lost.
 
 ---
 
-## 2. Tools and procedure
+## 2. Tools and Procedure
 
 **Tools / medium:**  
 - iPhone 13 camera
-- Macbook Pro 13
+- MacBook Pro 13
 - Adobe Premiere
 
 **Technical procedure:**  
 1. Video is recorded
-2. Image is processed in software
+2. Image is worked on in software
 3. 
 4. 
 5. 
@@ -40,17 +40,17 @@ A video of the object is recorded with movement and zoom to achieve image blurri
 
 **Controlled variables:**  
 - Video capture, movement, and zoom
-- Light and set design
+- Light and scenography
 - 
 
 **Uncontrolled / accidental variables:**  
-- The colors that saturate in the image; one might begin to understand, but it would be difficult.
-- Where the image will be distorted.
+- Colors that become saturated in the image; one might begin to understand it, but it would be difficult.
+- Where the image will distort.
 - 
 
 ---
 
-## 4. Visual sequence
+## 4. Visual Sequence
 
 ### Initial image
 ![[OB013_step01.mp4|200]]
@@ -88,7 +88,7 @@ A video of the object is recorded with movement and zoom to achieve image blurri
 
 ---
 
-## 5. Visual selection
+## 5. Visual Selection
 
 ### Crisis / threshold according to AI-assisted reading / ChatGPT
 
@@ -103,22 +103,22 @@ A video of the object is recorded with movement and zoom to achieve image blurri
 
 ---
 
-## 6. Crisis and formal-perceptual reading
+## 6. Crisis and Formal-Perceptual Reading
 
-**Main crisis:** Shape, color, and background
+**Main crisis:** Form, color, and background
 
-The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support.
+The operation affects the visual grammar of the image: form, outline, color, figure/background relationship, legibility, recognition, and support.
 
-The image begins to enter into crisis when the figure melts and mixes with the other shapes. The colors change from what was represented, becoming saturated and blended.
+The image begins to enter crisis when the figure melts and mixes with the other forms. Colors depart from what is represented, become saturated, and blend.
 
 
 ---
 
-## 7. Final evaluation and artistic reference
+## 7. Final Evaluation and Artistic Reference
 
 
 **Operation notes / what I learned:**  
-Lowering the quality does not work as an operation; colors and brightness must simply be intensified so that the image does not turn into black and white. Edges must be readjusted. It is a rich operation, but it must be pushed and modified to gain richness.
+Lowering the quality does not work as an operation; you just have to intensify colors and brightness so the image doesn't turn black and white. Edges need to be readjusted. It is a rich operation, but it must be pushed and modified to gain richness.
 
 **Final_status:** 
 Works:: [[SI|YES]] 
