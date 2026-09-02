@@ -33,13 +33,11 @@ archivo = Path(sys.argv[1])
 
 if archivo.exists():
     texto = archivo.read_text(encoding="utf-8")
-
     texto_nuevo = re.sub(
         r'(?m)^[ \t]*Plugin\.TagPage\([^\n]*\),?[ \t]*\n?',
         '',
         texto
     )
-
     archivo.write_text(texto_nuevo, encoding="utf-8")
     print("Tag Index desactivado.")
 PY
@@ -89,32 +87,25 @@ if not origen.exists():
 
 destino.mkdir(parents=True, exist_ok=True)
 
-
 def ignorar(ruta):
     return any(parte in ignoradas for parte in ruta.parts)
-
 
 # Copiar imágenes y otros archivos conservando su ruta.
 # No se copian las notas dentro de las subcarpetas.
 for archivo in origen.rglob("*"):
     if not archivo.is_file():
         continue
-
     if ignorar(archivo):
         continue
-
     if archivo.name == ".DS_Store":
         continue
-
     if archivo.suffix.lower() == ".md":
         continue
 
     relativa = archivo.relative_to(origen)
     salida = destino / relativa
-
     salida.parent.mkdir(parents=True, exist_ok=True)
     shutil.copy2(archivo, salida)
-
 
 def localizar_archivo(referencia, nota):
     referencia = unquote(referencia.strip())
@@ -131,14 +122,12 @@ def localizar_archivo(referencia, nota):
 
     try:
         candidato.relative_to(origen.resolve())
-
         if candidato.exists() and candidato.is_file():
             return candidato
     except ValueError:
         pass
 
     nombre = Path(referencia).name
-
     coincidencias = [
         archivo
         for archivo in origen.rglob(nombre)
@@ -150,25 +139,20 @@ def localizar_archivo(referencia, nota):
 
     return None
 
-
 def corregir_wikilink(match, nota):
     referencia = match.group(1)
     alias = match.group(2) or ""
-
     archivo = localizar_archivo(referencia, nota)
 
     if archivo is None or archivo.suffix.lower() == ".md":
         return match.group(0)
 
     nueva_ruta = archivo.relative_to(origen).as_posix()
-
     return f"![[{nueva_ruta}{alias}]]"
-
 
 def corregir_markdown(match, nota):
     texto_alternativo = match.group(1)
     referencia = match.group(2).strip()
-
     archivo = localizar_archivo(referencia, nota)
 
     if archivo is None or archivo.suffix.lower() == ".md":
@@ -176,9 +160,7 @@ def corregir_markdown(match, nota):
 
     nueva_ruta = archivo.relative_to(origen).as_posix()
     nueva_ruta = quote(nueva_ruta, safe="/")
-
     return f"![{texto_alternativo}]({nueva_ruta})"
-
 
 notas = [
     nota
@@ -208,7 +190,6 @@ for nota in notas:
         salida = destino / f"{nombre_combinacion}_{nota.name}"
 
     salida.write_text(texto, encoding="utf-8")
-
     print(f"Nota publicada: {salida.name}")
 
 print("Combinaciones preparadas sin subcarpetas de notas.")
@@ -232,7 +213,6 @@ find "$PUBLICO" \
 
 find "$PUBLICO" -name ".DS_Store" -delete
 find "$PUBLICO" -name "*.pyc" -delete
-
 
 echo "6. Optimizando imágenes de la COPIA PÚBLICA..."
 
@@ -259,7 +239,6 @@ echo ""
 echo "Optimización terminada."
 echo "ATLAS_OPERATIVO NO fue modificado."
 
-
 echo "7. Copiando hacia Quartz/content..."
 
 mkdir -p "$QUARTZ/content"
@@ -271,7 +250,7 @@ rsync "${RSYNC_OPTS[@]}" \
 rm -rf "$QUARTZ/content 2"
 rm -rf "$QUARTZ/content/Tag Index"
 
-echo "7. Generando índices..."
+echo "8. Generando índices..."
 
 cd "$QUARTZ"
 
@@ -279,12 +258,39 @@ node scripts/generate-notas-directas.mjs
 node scripts/generate-listas-regimenes.mjs
 node scripts/generate-operaciones.mjs
 
-echo "8. Construyendo la web..."
+echo "9. Preparando traducción automática..."
 
-npx quartz build
+# Primero intenta usar una variable de entorno.
+# Si no existe, recupera la key guardada de forma segura en macOS Keychain.
+if [ -z "${GEMINI_API_KEY:-}" ]; then
+  GEMINI_API_KEY="$(
+    security find-generic-password \
+      -a "$USER" \
+      -s "KWY_GEMINI_API_KEY" \
+      -w 2>/dev/null || true
+  )"
+  export GEMINI_API_KEY
+fi
+
+if [ -z "${GEMINI_API_KEY:-}" ]; then
+  echo ""
+  echo "ERROR: no encontré GEMINI_API_KEY."
+  echo "Guárdala una sola vez en el Llavero de macOS y vuelve a ejecutar."
+  echo "No se modificó ATLAS_OPERATIVO."
+  exit 1
+fi
+
+python3 scripts/translate_atlas.py
+
+echo "10. Construyendo web bilingüe..."
+
+bash scripts/build-bilingual-site.sh
 
 echo ""
-echo "Atlas sincronizado correctamente."
+echo "Atlas sincronizado y construido correctamente."
+echo "ES: /atlas-operativo/"
+echo "EN: /atlas-operativo/en/"
 echo "Las combinaciones aparecen como notas directas."
 echo "Las carpetas FICHA, PROCESO y Materiales no aparecerán."
 echo "Tag Index fue eliminado."
+python3 scripts/prune-public-assets.py

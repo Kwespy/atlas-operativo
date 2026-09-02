@@ -11,5 +11,7 @@
 - [[OB_013_Video_Compresion_Saturacion/013_FICHA/OB_013_Video_Compresion_Correcion_Color|OB_013_Video_Compresion_Saturacion]]
 - [[OB_016_Desplazamiento_por_franjas/016_FICHA/OB_016_Desplazamiento_por_franjas|OB_016_Desplazamiento_por_franjas]]
 - [[OB_024_Reconstrucción_parches_erróneos/024_FICHA/OB_024_Reconstrucción_parches_erróneos|OB_024_Reconstrucción_parches_erróneos]]
+- [[OB_025_Saturacion_vecindad_rgb/025_FICHA/OB_025_Saturacion_vecindad_rgb|OB 025 Saturacion vecindad rgb]]
+- [[OB_027_Deriva_Vectorial_Rgb/027_FICHA/OB_027_Deriva_Vectorial_Rgb|OB 027 Deriva Vectorial Rgb]]
 <!-- AUTO-LISTA-REGIMEN:END -->
 

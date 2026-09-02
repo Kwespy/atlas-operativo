@@ -52,6 +52,11 @@ function getFamily(filePath) {
   return relative.split("/")[0] || "Sin familia"
 }
 
+function getOperationId(filePath) {
+  const match = path.basename(filePath).match(/^(OB_\d{3})/i)
+  return match ? match[1].toUpperCase() : ""
+}
+
 function cleanLabel(value = "") {
   return value.replace(/_/g, " ").trim()
 }
@@ -65,14 +70,47 @@ function getWikiLink(filePath, title) {
   return "[[" + relative + "|" + title + "]]"
 }
 
+/*
+  Una operación puede existir dos veces:
+
+  Familia/
+    OB_001 — Nombre.md                  <- preferida
+
+  Familia/
+    OB_001_Nombre/
+      001_FICHA/
+        OB_001_Nombre.md
+
+  Para el índice público usamos una sola.
+  Primero preferimos la nota directa de la familia.
+  Si no existe, usamos la ficha interna.
+*/
+function canonicalScore(filePath) {
+  const relative = path
+    .relative(operacionesDir, filePath)
+    .replace(/\\/g, "/")
+
+  const parts = relative.split("/")
+
+  // Familia/OB_001....md
+  if (parts.length === 2) return 300
+
+  // Fallback: ficha interna
+  if (/\/\d{3}_FICHA\//i.test("/" + relative)) return 200
+
+  // Cualquier otra variante
+  return 100 - parts.length
+}
+
 const files = walk(operacionesDir)
 
-const operaciones = files
+const candidatos = files
   .filter(file => /^OB_\d{3}/i.test(path.basename(file)))
   .map(file => {
     const text = fs.readFileSync(file, "utf8")
 
     return {
+      id: getOperationId(file),
       file,
       title: getTitle(text, file),
       familia: getFamily(file),
@@ -80,9 +118,27 @@ const operaciones = files
       funciona: getInlineField(text, "Funciona"),
       trabaja: getInlineField(text, "Trabaja_en_lo"),
       crisis: getInlineField(text, "Crisis"),
+      score: canonicalScore(file),
     }
   })
+  .filter(op => op.id)
   .filter(op => op.estado.includes("Terminada"))
+
+/*
+  Deduplicar por OB_###.
+*/
+const porId = new Map()
+
+for (const op of candidatos) {
+  const actual = porId.get(op.id)
+
+  if (!actual || op.score > actual.score) {
+    porId.set(op.id, op)
+  }
+}
+
+const operaciones = Array
+  .from(porId.values())
   .sort((a, b) => a.title.localeCompare(b.title, "es"))
 
 const grupos = {}
@@ -101,6 +157,7 @@ for (const familia of Object.keys(grupos).sort((a, b) => a.localeCompare(b, "es"
     lista += "- " + getWikiLink(op.file, op.title) + "\n"
 
     const datos = []
+
     if (op.trabaja) datos.push("Trabaja en: " + op.trabaja)
     if (op.crisis) datos.push("Crisis: " + op.crisis)
     if (op.funciona) datos.push("Funciona: " + op.funciona)
@@ -127,7 +184,10 @@ ${END}
 `
 }
 
-const generatedBlock = START + "\n" + lista.trim() + "\n" + END
+const generatedBlock =
+  START + "\n" +
+  lista.trim() + "\n" +
+  END
 
 if (indexText.includes(START) && indexText.includes(END)) {
   const regex = new RegExp(START + "[\\s\\S]*?" + END)
@@ -138,4 +198,8 @@ if (indexText.includes(START) && indexText.includes(END)) {
 
 fs.writeFileSync(outputFile, indexText, "utf8")
 
-console.log("Index actualizado sin sobrescribir el texto. Operaciones terminadas: " + operaciones.length)
+console.log(
+  "Index actualizado. " +
+  "Candidatos terminados encontrados: " + candidatos.length +
+  " · Operaciones únicas: " + operaciones.length
+)

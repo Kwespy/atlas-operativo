@@ -296,7 +296,7 @@ Recapturar una imagen desde la pantalla del computador, haciendo circular la ima
 ## 4. Selección visual
 
 ### Crisis/Umbral según lectura asistida por IA / ChatGPT
-![[OB001_step38.jpg.webp|300]]
+![[OB001_step38.jpg.webp]]
 
 ### Crisis/Umbral según mi percepción
 ![[OB001_step49.jpg.webp|300]]

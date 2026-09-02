@@ -22,15 +22,7 @@ ExternalPlugin.Explorer({
       node.displayName ?? "",
     ).trim()
 
-    /*
-     * Ocultar las carpetas originales:
-     * OB_001_Fotografia_de_pantalla
-     * OB_002_Perdida_de_Resolucion
-     * etc.
-     *
-     * Al ocultar la carpeta OB, también quedan ocultas
-     * automáticamente FICHA y PROCESO.
-     */
+    // Ocultar carpetas internas OB_001..., OB_002...
     if (
       node.isFolder &&
       /^OB[_\-\s]?\d+/i.test(displayName)
@@ -38,11 +30,7 @@ ExternalPlugin.Explorer({
       return false
     }
 
-    /*
-     * Ocultar las notas Lista_...
-     * Aunque su título visible sea distinto,
-     * también revisamos el slug real.
-     */
+    // Ocultar notas Lista_...
     if (
       !node.isFolder &&
       (
@@ -53,13 +41,6 @@ ExternalPlugin.Explorer({
       return false
     }
 
-    /*
-     * Mantener visibles:
-     * - 01_OPERACIONES
-     * - los cuatro regímenes
-     * - las notas directas OB_001 — ...
-     * - el resto normal de la web
-     */
     return true
   },
 

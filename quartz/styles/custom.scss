@@ -29,3 +29,30 @@ p.content-meta {
   display: none !important;
 }
 
+
+
+/* KWY MOBILE PAGE TITLE
+   Atlas Operativo / Operational Atlas queda visible
+   arriba en móvil y funciona como enlace a Home.
+*/
+@media (max-width: 800px) {
+  .sidebar.left {
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .sidebar.left .page-title {
+    display: block !important;
+    width: 100%;
+    flex: 0 0 100%;
+    margin: 0 0 0.8rem 0;
+    font-size: 1.35rem;
+    line-height: 1.15;
+  }
+
+  .sidebar.left .page-title a {
+    display: inline-block;
+    white-space: nowrap;
+    text-decoration: none;
+  }
+}
