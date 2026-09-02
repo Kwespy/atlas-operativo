@@ -98,6 +98,7 @@ rm -rf content
 mkdir -p content
 rsync -a "$STAGING/" content/
 cp scripts/home-index.md content/index.md
+cp scripts/project.md content/project.md
 
 node scripts/generate-notas-directas.mjs
 node scripts/generate-listas-regimenes.mjs
