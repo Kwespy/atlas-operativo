@@ -97,6 +97,7 @@ echo "[5/8] Regenerando content..."
 rm -rf content
 mkdir -p content
 rsync -a "$STAGING/" content/
+cp scripts/home-index.md content/index.md
 
 node scripts/generate-notas-directas.mjs
 node scripts/generate-listas-regimenes.mjs
