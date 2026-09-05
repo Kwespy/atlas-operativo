@@ -8,3 +8,8 @@
 - Se documenta la separación entre el vault de Obsidian y la web pública Quartz.
 - Se define el flujo español → traducción inglesa → publicación.
 - Se añaden las normas para agentes y colaboradores.
+
+### Fichas
+
+- Se reduce la secuencia visual de OB_001 a 15 imágenes distribuidas entre los pasos 1 y 73.
+- Se conservan todas las imágenes originales de `001_PROCESO`.
