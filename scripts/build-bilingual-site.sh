@@ -173,8 +173,19 @@ for es_file in PUBLIC.rglob("*.html"):
 }})();
 </script>"""
 
+    switcher = f"""<nav class="kwy-language-switcher" aria-label="Language">
+  <a href="{html_lib.escape(es_url)}" lang="es">ES</a>
+  <span aria-hidden="true"> / </span>
+  <a href="{html_lib.escape(en_url)}" lang="en">EN</a>
+</nav>
+<style data-kwy-language-switcher>
+.kwy-language-switcher {{ position: fixed; top: 1rem; right: 1rem; z-index: 1000; padding: .35rem .6rem; border: 1px solid var(--lightgray); border-radius: .4rem; background: var(--light); font-size: .85rem; }}
+.kwy-language-switcher a {{ color: var(--darkgray); text-decoration: none; }}
+.kwy-language-switcher a:hover {{ color: var(--secondary); text-decoration: underline; }}
+</style>"""
+
     text = es_file.read_text(encoding="utf-8")
-    text = inject_before_head_close(text, alternates + "\n" + router)
+    text = inject_before_head_close(text, alternates + "\n" + router + "\n" + switcher)
     es_file.write_text(text, encoding="utf-8")
 
 for en_file in (PUBLIC / "en").rglob("*.html"):
@@ -194,7 +205,17 @@ for en_file in (PUBLIC / "en").rglob("*.html"):
     )
 
     text = en_file.read_text(encoding="utf-8")
-    text = inject_before_head_close(text, alternates)
+    switcher = f"""<nav class="kwy-language-switcher" aria-label="Language">
+  <a href="{html_lib.escape(es_url)}" lang="es">ES</a>
+  <span aria-hidden="true"> / </span>
+  <a href="{html_lib.escape(en_url)}" lang="en">EN</a>
+</nav>
+<style data-kwy-language-switcher>
+.kwy-language-switcher {{ position: fixed; top: 1rem; right: 1rem; z-index: 1000; padding: .35rem .6rem; border: 1px solid var(--lightgray); border-radius: .4rem; background: var(--light); font-size: .85rem; }}
+.kwy-language-switcher a {{ color: var(--darkgray); text-decoration: none; }}
+.kwy-language-switcher a:hover {{ color: var(--secondary); text-decoration: underline; }}
+</style>"""
+    text = inject_before_head_close(text, alternates + "\n" + switcher)
     en_file.write_text(text, encoding="utf-8")
 
 print("✓ Router e hreflang añadidos.")
