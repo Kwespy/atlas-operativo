@@ -209,6 +209,18 @@ ${content}`
   return newFrontmatter + content.slice(match[0].length)
 }
 
+function reduceOb001VisualProcess(content) {
+  const selectedSteps = new Set([
+    "04", "09", "14", "19", "24", "29", "34", "39",
+    "44", "49", "54", "59", "64", "69", "73",
+  ])
+
+  return content.replace(
+    /(^### Step (\d{2})\r?\n!\[\[OB001_step\d{2}\.jpg\.webp\|200\]\]\r?\n?)(?=\r?\n|$)/gm,
+    (block, complete, step) => selectedSteps.has(step) ? complete : "",
+  )
+}
+
 function removePreviouslyGeneratedNotes(regimeDirectory) {
   for (const entry of fs.readdirSync(regimeDirectory, {
     withFileTypes: true,
@@ -293,6 +305,10 @@ for (const regimeDirectory of regimeDirectories) {
       content,
       title,
     )
+
+    if (/^OB_001\b/i.test(title)) {
+      content = reduceOb001VisualProcess(content)
+    }
 
     fs.writeFileSync(
       destinationFile,
