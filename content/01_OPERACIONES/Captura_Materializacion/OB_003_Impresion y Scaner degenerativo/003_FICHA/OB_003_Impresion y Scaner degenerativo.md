@@ -2,7 +2,7 @@
 ## Estado
 Estado:: [[Terminada]]
 
-# OB_003_Impresion y Scaner degenerativo
+# OB_003_Impresión y Scanner degenerativo
 
 ## 1. Datos de la operación
 
@@ -25,9 +25,9 @@ Imprimir imagen luego escanear la impresión, repetir el proceso.
 **Procedimiento técnico:**  
 1. Sacar foto
 2. Imprimir
-3. Scanear
+3. Escanear
 4. Imprimir
-5. ...
+5. Repetir el ciclo de escaneo e impresión para producir una degradación progresiva.
 
 ---
 
@@ -112,16 +112,16 @@ La operación afecta la gramática visual de la imagen: forma, contorno, color, 
 La figura va perdiendo legibilidad, contorno y su relación con el fondo
 
 **Color / tono:**  
-El color se transforma a un azul, frio. (Quizas es por el color predominante de la imagen).
+El color se transforma hacia un azul frío, quizás por el color predominante de la imagen.
 
 **Legibilidad / reconocimiento:**  
-aparece como un velo blanco en la imagen..
+Aparece como un velo blanco en la imagen.
 
 **Material / soporte:**  
 Material y soporto no cambia.
 
 **Efecto perceptivo:**  
-pierde legibilidad gradualmente, la imagen se vuelve mas pequeña  en cada scanner y empieza a moverse..
+Pierde legibilidad gradualmente; la imagen se vuelve más pequeña en cada escaneo y empieza a desplazarse.
 
 ---
 
@@ -177,4 +177,4 @@ Tiene algo de lo esteticpo de la imagen.
 Armando Reverón — etapa blanca
 
 **Relación operativa:**  
-Pendiente.
+La repetición del ciclo de impresión y escaneo introduce desplazamiento, pérdida de escala, velo y alteraciones cromáticas acumulativas. La operación trabaja sobre la degradación material de la imagen reproducida.

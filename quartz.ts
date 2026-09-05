@@ -5,8 +5,17 @@ import {
 
 import * as ExternalPlugin from "./.quartz/plugins"
 
+type ExplorerNode = {
+  slugSegment?: string
+  slugSegments?: string[]
+  displayName?: string
+  isFolder: boolean
+  data: Record<string, unknown> | null
+  children: ExplorerNode[]
+}
+
 ExternalPlugin.Explorer({
-  filterFn: (node) => {
+  filterFn: (node: ExplorerNode) => {
     const nodeWithSlug = node as typeof node & {
       slug?: string
     }

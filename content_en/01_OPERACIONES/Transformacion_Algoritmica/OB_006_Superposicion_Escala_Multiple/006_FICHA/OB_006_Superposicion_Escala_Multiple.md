@@ -16,7 +16,7 @@ Status:: [[Terminada|Terminada]]
 **Source image:**  Photograph taken from life
 
 **Operational description:**  
-Pending.
+The image is copied and successively superimposed at different scales to build a multiple composition. The accumulation of copies alters the relative size of the forms and makes recognition of the original object more difficult.
 
 ---
 
@@ -24,15 +24,14 @@ Pending.
 
 **Tools / medium:**  
 - Photoshop
-- 
-- 
+- iPhone camera
 
 **Technical procedure:**  
 1. Copy and paste the input image successively
-2. 
-3. 
-4. 
-5. 
+2. Scale and rearrange the copies within the composition.
+3. Superimpose the successive layers.
+4. Adjust the composition diagram.
+5. Evaluate the recognition threshold in the resulting sequence.
 
 ---
 
@@ -116,7 +115,7 @@ Pending.
 
 The operation affects the visual grammar of the image: form, contour, color, figure/background relationship, legibility, recognition, and support.
 
-Object recognition collapses due to size, but the crisis does not affect the image in its form, contour, or relationship with the background; the crisis enters through legibility and recognition due to size and the quantity of images that fit into the same image. It is an aesthetic collapse rather than a technical one.
+Object recognition collapses due to size. The crisis does not primarily affect form, contour, or the relationship with the background; it enters through legibility and recognition because of the size and the quantity of images within the same composition. It is an aesthetic rather than technical collapse.
 
 ---
 
@@ -128,7 +127,7 @@ Does this operation truly put the image into crisis, or does it function only as
 The crisis is aesthetic
 
 **Operation notes / what I learned:**  
-It is a simple operation that brings no novelty or richness to the image. If done by AI, it turns out the same. It is simple. It could be combined. My recognition threshold is higher than the one assisted with AI.
+It is a simple operation that does not bring much novelty or richness on its own. It can be combined with other operations. My recognition threshold is more demanding than the threshold identified with AI assistance.
 
 
 **Estado_final:** 

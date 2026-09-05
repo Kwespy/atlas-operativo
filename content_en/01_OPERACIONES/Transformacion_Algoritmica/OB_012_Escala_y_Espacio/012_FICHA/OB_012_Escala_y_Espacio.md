@@ -11,7 +11,7 @@ Status:: [[Terminada|Finished]]
 
 ## 1. Operation data
 
-**Internal number:** OB___  
+**Internal number:** OB_012  
 **Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
 **Source image:**  Direct photograph
 
@@ -30,10 +30,10 @@ The shapes that make up the image are distributed and scaled within the image.
 **Technical procedure:**  
 1. The shapes of the image are separated
 2. They are rearranged
-3. They are scaled
-4. 
-5. 
-6. 
+3. They are scaled.
+4. Compare the variations in scale and arrangement.
+5. Select the states in which recognition decreases.
+6. Record the threshold of visual crisis.
 
 ---
 
@@ -114,7 +114,7 @@ By scaling the shapes of the image and rearranging them, the image can easily lo
 
 
 **Operation notes / what I learned:**  
-Pending.
+The operation works through the alteration of scale and the spatial distribution of forms. Its main effect appears when rearrangement makes the figure and its relationship with the background difficult to recognize.
 
 
 **Final_status:** 

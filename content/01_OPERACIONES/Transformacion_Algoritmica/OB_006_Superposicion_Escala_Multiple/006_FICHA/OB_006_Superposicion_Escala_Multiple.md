@@ -12,7 +12,7 @@ Estado:: [[Terminada]]
 **Imagen de origen:**  Fotografia tomada del natural
 
 **Descripción operativa:**  
-Pendiente.
+La imagen se copia y se superpone sucesivamente a distintas escalas para construir una composición múltiple. La acumulación de copias altera el tamaño relativo de las formas y dificulta el reconocimiento del objeto original.
 
 ---
 
@@ -20,15 +20,14 @@ Pendiente.
 
 **Herramientas / medio:**  
 - Photoshop
-- 
-- 
+- Cámara del iPhone
 
 **Procedimiento técnico:**  
 1. Copiar y pegar sucesivamente la imagen input
-2. 
-3. 
-4. 
-5. 
+2. Escalar y reordenar las copias dentro de la composición.
+3. Superponer las capas sucesivas.
+4. Ajustar el diagrama de la composición.
+5. Evaluar el umbral de reconocimiento en la secuencia resultante.
 
 ---
 
@@ -107,12 +106,12 @@ Pendiente.
 
 ## 6. Crisis y lectura formal-perceptiva
 
-**Crisis principal:** Tamañp visual
+**Crisis principal:** Tamaño visual
 
 
 La operación afecta la gramática visual de la imagen: forma, contorno, color, relación figura/fondo, legibilidad, reconocimiento y soporte.
 
-El reconocimiento del objeto colapsa por el tamaño, pero la crisis no entra no afecta la imagen en la forma contorno o relacion con el fondo, la crisi entre por la legibilidad y reconocimiento por el tama{p y la cantidad de imagenees que entran en la misma imagen. Es un colapso estetico mas que por lo tecnico.
+El reconocimiento del objeto colapsa por el tamaño. La crisis no afecta principalmente la forma, el contorno o la relación con el fondo; entra por la legibilidad y el reconocimiento, debido al tamaño y a la cantidad de imágenes que entran en la misma composición. Es un colapso estético más que técnico.
 
 ---
 
@@ -124,7 +123,7 @@ El reconocimiento del objeto colapsa por el tamaño, pero la crisis no entra no 
 La crisis es estetica
 
 **Notas de la operación / qué aprendí:**  
-es una operacion simple, que no trae novedad o riqueza a la imagen. Se se hace por IA queda igual. es simple. se podira comb inar. El umbral de recon ocimeinto  el mio es mayor que asistido con la I.A
+Es una operación simple que no aporta demasiada novedad o riqueza por sí sola. Puede combinarse con otras operaciones. El umbral de reconocimiento propio es más exigente que el umbral identificado mediante asistencia de IA.
 
 
 **Estado_final:** 

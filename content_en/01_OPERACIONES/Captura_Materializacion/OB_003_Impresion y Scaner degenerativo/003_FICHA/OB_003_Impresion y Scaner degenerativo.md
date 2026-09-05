@@ -5,7 +5,7 @@ lang: en
 ## Status
 Status:: [[Terminada|Terminada]]
 
-# OB_003_Impresion y Scaner degenerativo
+# OB_003 — Degenerative Printing and Scanning
 
 ## 1. Operation data
 
@@ -28,9 +28,9 @@ Print image then scan the print, repeat the process.
 **Technical procedure:**  
 1. Take photo
 2. Print
-3. Scan
+3. Scan the print
 4. Print
-5. ...
+5. Repeat the scanning and printing cycle to produce progressive degradation.
 
 ---
 
@@ -180,4 +180,4 @@ It has something of the image's aesthetics.
 Armando Reverón — white period
 
 **Operational relationship:**  
-Pending.
+The repeated printing and scanning cycle introduces displacement, loss of scale, a veil, and cumulative color alterations. The operation works through the material degradation of the reproduced image.

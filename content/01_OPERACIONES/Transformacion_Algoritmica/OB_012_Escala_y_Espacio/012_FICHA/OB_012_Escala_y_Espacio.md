@@ -7,9 +7,9 @@ Estado:: [[Terminada]]
 
 ## 1. Datos de la operación
 
-**Número interno:** OB___  
+**Número interno:** OB_012  
 **Régimen operativo:** [[Lista_Transformacion_Algoritmica]]  
-**Imagen de origen:**  Fotografia del natural
+**Imagen de origen:**  Fotografía del natural
 
 **Descripción operativa:**  
 Las formas que componen la imagen se distribuyen y escalan dentro de la imagen.
@@ -20,16 +20,15 @@ Las formas que componen la imagen se distribuyen y escalan dentro de la imagen.
 
 **Herramientas / medio:**  
 - Photoshop
-- Camara Iphone
-- 
+- Cámara del iPhone
 
 **Procedimiento técnico:**  
 1. Se separan las formas de la imagen
 2. Se reordenan
 3. Se escalan
-4. 
-5. 
-6. 
+4. Comparar las variaciones de escala y disposición.
+5. Seleccionar los estados en los que disminuye el reconocimiento.
+6. Registrar el umbral de crisis visual.
 
 ---
 
@@ -110,7 +109,7 @@ Al escalar las formas de la imagen y reordenarlas la imagen puede perder facilme
 
 
 **Notas de la operación / qué aprendí:**  
-Pendiente.
+La operación funciona mediante la alteración de la escala y la distribución espacial de las formas. Su efecto principal aparece cuando el reordenamiento dificulta reconocer la figura y su relación con el fondo.
 
 
 **Estado_final:** 
