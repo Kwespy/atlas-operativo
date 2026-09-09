@@ -9,14 +9,14 @@ Status:: [[Terminada|Finished]]
 
 ---
 
-## 1. Operation details
+## 1. Operation data
 
 **Internal number:** OB_010
 **Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
 **Source image:** Photograph
 
 **Operational description:**  
-The image is posterized to reduce the number of colors. The image does not enter a state of crisis this way. It is forced by increasing contrast and brightness to destabilize the image.
+Posterization is applied to reduce the number of colors in the photo. The image does not enter into crisis this way. It is forced by increasing contrast and brightness to destabilize the image.
 
 ---
 
@@ -26,6 +26,8 @@ The image is posterized to reduce the number of colors. The image does not enter
 - Photoshop
 - iPhone camera
 - 
+
+**Script (2026-09 audit):** Not applicable (operation performed in Photoshop, manual tool without code export).
 
 **Technical procedure:**  
 1. Posterize to the maximum
@@ -95,20 +97,20 @@ The image is posterized to reduce the number of colors. The image does not enter
 
 ## 6. Crisis and formal-perceptual reading
 
-**Main crisis:** loss of legibility due to tones and by forcing contrast and brightness
+**Main crisis:** Loss of legibility due to tones and by forcing contrast and brightness.
 
-During posterization, the image enters a state of crisis because of the colors; form begins to be lost due to the mixing of colors, and figure and ground merge, creating passages of white. After modifying and increasing the brightness and contrast, these fusions of figure and ground increase. To finish breaking the image, the brightness is increased until it becomes white. It is not possible to reach black. 
+During posterization, the image enters into crisis because of the colors; the form begins to be lost due to the mixing of colors, and the figure and ground merge, creating passages of white. After modifying and increasing the brightness and contrast, these figure-ground unions increase. To finish breaking the image, the brightness is turned up and it becomes white. Pure black cannot be reached. 
 
 ---
 
 ## 7. Final evaluation and artistic reference
 
-**Question for the operation:**  
-Does this operation truly put the image in crisis or does it only function as an aesthetic effect?
-No. If the image is forced, it can produce a crisis, but it is more aesthetic, yet it still breaks it.
+**Question to the operation:**  
+Does this operation truly put the image in crisis or does it function merely as an aesthetic effect?
+No, if the image is forced it can produce a crisis, but it is more aesthetic, though it still breaks it.
 
 **Operation notes / what I learned:**  
-Posterization on its own does not work, but it creates a good aesthetic effect; colors that were not there before are produced in the blacks.
+Posterization by itself does not work, but it creates a good aesthetic effect; colors that were not there before are produced in the blacks.
 
 **Final_status:** 
 Works:: [[NO|NO]] [[Forzandola|By forcing it]]
@@ -130,7 +132,7 @@ Selection:: [[Combinable|Combinable]]
 Reference:: [[Armando Reveron|Armando Reveron]], [[J. M. W. Turner|J. M. W. Turner]], [[[Uta Barth|[Uta Barth]], [[Claude Monet|Claude Monet]]
 
 **Possible works:**  
-- [Armando Reveron](White period)
+- [Armando Reveron](White Period)
 
 - [Uta Barth — Ground, 1994–1997](https://artblart.com/tag/uta-barth-ground-1994-1997/)
 

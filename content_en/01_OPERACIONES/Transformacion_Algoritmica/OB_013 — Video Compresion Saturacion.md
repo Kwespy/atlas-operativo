@@ -4,30 +4,32 @@ atlas_direct: true
 lang: en
 ---
 
-# OB_013_Video_Compression_Saturation
+# OB_013_Video_Compresion_Saturacion
 
 ## Status
 Status:: [[Terminada|Finished]] 
 
 ---
 
-## 1. Operation data
+## 1. Operation Data
 
 **Internal number:** OB_013
-**Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
+**Operating regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
 **Source image:** Video
 
 **Operational description:**  
-A video of the object is recorded with movement and zoom to achieve sweeping and image deformation. Then, in the Premiere video editor, the resolution is compressed multiple times to destroy the image, and the contrast is turned up so that the color is not lost.
+A video of the object is recorded with movement and zoom to achieve motion blur and image deformation. Then, in the Premiere video editor, the resolution is compressed multiple times to destroy the image, and the contrast is turned up so that the color is not lost.
 
 ---
 
-## 2. Tools and procedure
+## 2. Tools and Procedure
 
 **Tools / medium:**  
 - iPhone 13 camera
-- MacBook Pro 13
+- Macbook Pro 13
 - Adobe Premiere
+
+**Script (2026-09 audit):** Not applicable (operation performed in Adobe Premiere, manual tool without code export).
 
 **Technical procedure:**  
 1. Video is recorded
@@ -41,18 +43,18 @@ A video of the object is recorded with movement and zoom to achieve sweeping and
 ## 3. Variables
 
 **Controlled variables:**  
-- The video capture, movement, and zoom
+- The video shot, movement, and zoom
 - Light and scenography
 - 
 
 **Uncontrolled / accidental variables:**  
-- The colors that become saturated in the image; one might begin to understand them, but it would be difficult.
+- The colors that become saturated in the image; one could try to understand them, but it would be difficult.
 - Where the image will distort.
 - 
 
 ---
 
-## 4. Visual sequence
+## 4. Visual Sequence
 
 ### Initial image
 ![[OB013_step01.mp4|200]]
@@ -90,7 +92,7 @@ A video of the object is recorded with movement and zoom to achieve sweeping and
 
 ---
 
-## 5. Visual selection
+## 5. Visual Selection
 
 ### Crisis / threshold according to AI-assisted reading / ChatGPT
 
@@ -105,22 +107,22 @@ A video of the object is recorded with movement and zoom to achieve sweeping and
 
 ---
 
-## 6. Crisis and formal-perceptual reading
+## 6. Crisis and Formal-Perceptual Reading
 
 **Main crisis:** Form, color, and background
 
-The operation affects the visual grammar of the image: form, outline, color, figure/background relationship, legibility, recognition, and support.
+The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support.
 
-The image begins to enter a crisis when the figure melts and mixes with the other forms. The colors change from what was represented, become saturated, and blend together.
+The image begins to enter crisis when the figure melts and mixes with the other forms. The colors change from what was represented, become saturated, and blend together.
 
 
 ---
 
-## 7. Final evaluation and artistic reference
+## 7. Final Evaluation and Artistic Reference
 
 
 **Operation notes / what I learned:**  
-Lowering the quality does not work as an operation; you just have to intensify colors and brightness so the image does not turn to black and white. Edges need to be readjusted. It is a rich operation, but it must be forced and modified to gain richness.
+Lowering the quality doesn't work as an operation on its own; you just have to intensify colors and brightness so the image doesn't turn black and white. Edges need to be readjusted. It is a rich operation, but it has to be forced and modified to gain richness.
 
 **Final_status:** 
 Works:: [[SI|YES]] 
@@ -132,11 +134,11 @@ Works_on:: [[Formal|Formal]]
 Crisis::   [[Alta|High]]
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Keep]]
+Selection:: [[Combinable|Combinable]] / [[Guardar|Save]]
 
 ---
 
-### Possible artistic reference
+### Potential Artistic Reference
 
 Reference:: [[Jacques Perconte|Jacques Perconte]], [[Takeshi Murata|Takeshi Murata]], [[Kim Asendorf|Kim Asendorf]], [[Claude Monet|Claude Monet]]
 
@@ -145,5 +147,5 @@ Reference:: [[Jacques Perconte|Jacques Perconte]], [[Takeshi Murata|Takeshi Mura
 
 - [Takeshi Murata](https://www.google.com/search?sca_esv=1aa2181320e8cba3&rlz=1C5CHFA_enPT1033PT1033&sxsrf=ANbL-n4Tbzpp9frn2qWjNgfVkk05nFS1Lg:1781374906344&udm=2&fbs=ADc_l-acTh1XOpH3U7bIxRVfQR5uNvvNOI1uX-wD_hP_A8xr1eQSBuZQ7xZweLWb7HV202BV9GW8MbFR7J-s35-PZqZMMvEMyDLw77cDn_xaC4jiw0N45stqcEZeIwZP75oWbD_obnOzg7B407t6wkOa2mLXiBqqtQcLEcR2SwZ7k3glb63qDY89vTb2-wDD080Sw_45zI_HbLaJI1rQR5xPr8nZT3dDvWGsbyXHoQMPkMkP8VntSaoULyWjaKVKQmlU-OlGrWVI&q=Takeshi+Murata+%E2%80%94+Monster+Movie&sa=X&ved=2ahUKEwiOiYTU6oSVAxX6ywIHHagQLgsQtKgLegQIFRAB&biw=1600&bih=851&dpr=1#sv=CAMSURoyKhBlLVhtX2JKUUFTVVlYVjNNMg5YbV9iSlFBU1VZWFYzTToOeWJ6MkpTQ3EwYkxQZ00gBCoXCgFzEhBlLVhtX2JKUUFTVVlYVjNNGAEwARgHIIaXgfcHSggQARgBIAEoAQ)
 
-- - [Kim Asendorf — Pixel Sorting works](https://www.google.com/search?sca_esv=adfdac7335d782b2&rlz=1C5CHFA_enPT1033PT1033&sxsrf=ANbL-n6aEM0yJ7pYvLo0dU256YwXezMxvA:1781375235627&udm=2&fbs=ADc_l-b3hs8Xjv0cmoTXmjiAFLyJgxO2wf5XmDrrNupwdFdd0AaDS1zZbP2BQnyT_QWlI0QuXIQQ1J8hQD_sG0snc0LIlx1fyXgFUzhQdAcz8K5UBrDj6Nc7XnYtTVi05CmArbFiq7EFgCEbLcIu2I4DhDzECByFSvmht_rrgLd6ARGw0tGoCsP4abziS8Cd8i4L1qi_Qjd6gcO6qpgGy6nhxQvWqb6xKO7TNuxV6r0hdznavKZX1CA&q=Kim+Asendorf+%E2%80%94+Pixel+Sorting+works&sa=X&ved=2ahUKEwip-oXx64SVAxX-hf0HHaABAt4QtKgLegQIExAB&biw=1600&bih=851&dpr=1)
+- [Kim Asendorf — Pixel Sorting works](https://www.google.com/search?sca_esv=adfdac7335d782b2&rlz=1C5CHFA_enPT1033PT1033&sxsrf=ANbL-n6aEM0yJ7pYvLo0dU256YwXezMxvA:1781375235627&udm=2&fbs=ADc_l-b3hs8Xjv0cmoTXmjiAFLyJgxO2wf5XmDrrNupwdFdd0AaDS1zZbP2BQnyT_QWlI0QuXIQQ1J8hQD_sG0snc0LIlx1fyXgFUzhQdAcz8K5UBrDj6Nc7XnYtTVi05CmArbFiq7EFgCEbLcIu2I4DhDzECByFSvmht_rrgLd6ARGw0tGoCsP4abziS8Cd8i4L1qi_Qjd6gcO6qpgGy6nhxQvWqb6xKO7TNuxV6r0hdznavKZX1CA&q=Kim+Asendorf+%E2%80%94+Pixel+Sorting+works&sa=X&ved=2ahUKEwip-oXx64SVAxX-hf0HHaABAt4QtKgLegQIExAB&biw=1600&bih=851&dpr=1)
 - [Claude Monet impression sunrise](https://www.google.com/search?q=claude+monet+impression+sunrise+&sca_esv=ec2bff8bd1e2ef21&rlz=1C5CHFA_enPT1033PT1033&udm=2&biw=1680&bih=1050&sxsrf=ANbL-n6FZZyxG_1LMU-BLAZEPS9dwQ9Fcw%3A1781627802160&ei=mnsxasOsCfyHxc8PxrKbmAY&ved=0ahUKEwjD4ZPimIyVAxX8Q_EDHUbZBmMQ4dUDCBM&uact=5&oq=claude+monet+impression+sunrise+&gs_lp=Egtnd3Mtd2l6LWltZyIgY2xhdWRlIG1vbmV0IGltcHJlc3Npb24gc3VucmlzZSAyBxAjGMkCGCcyBRAAGIAEMgUQABiABDIFEAAYgAQyBBAAGB4yBBAAGB4yBhAAGB4YCjIEEAAYHjIEEAAYHjIEEAAYHkiTBlCgBFigBHABeACQAQCYAVugAVuqAQExuAEDyAEA-AEBmAICoAJmwgIHEAAYgAQYE5gDAIgGAZIHAzEuMaAHyAeyBwMwLjG4B2TCBwUwLjEuMcgHCIAIAQ&sclient=gws-wiz-img)

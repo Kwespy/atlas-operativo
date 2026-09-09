@@ -2,7 +2,7 @@
 lang: en
 ---
 
-# OB_005_Desplazamiento_Exposicion
+# OB_005_Exposure_Shift
 
 ## Status
 Status:: [[Terminada|Finished]]
@@ -12,8 +12,8 @@ Status:: [[Terminada|Finished]]
 ## 1. Operation data
 
 **Internal number:** OB_005  
-**Operational regime:** [[Lista_Transformacion_Algoritmica|Lista Transformacion Algoritmica]]  
-**Source image:**  Photograph from life
+**Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
+**Source image:**  Direct photograph from life
 
 **Operational description:**  
 In Photoshop, the exposure of the image is increased and decreased.
@@ -24,8 +24,10 @@ In Photoshop, the exposure of the image is increased and decreased.
 
 **Tools / medium:**  
 - Photoshop
-- Camera photo
+- Camera photo image
 - 
+
+**Script (2026-09 audit):** Not applicable (operation performed in Photoshop, manual tool without code export).
 
 **Technical procedure:**  
 1. Increase and decrease exposure
@@ -106,48 +108,48 @@ In Photoshop, the exposure of the image is increased and decreased.
 
 ## 6. Crisis and formal-perceptual reading
 
-**Main crisis:** pending.
+**Crisis:** 
 
-The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support.
+The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support.
 
-The form is maintained, but it creates passages when underexposing; that is, the contour and the relationship with the background mix and fuse together. Recognition is lost in that sense because the image darkens and the contours are lost for defining the image, or it is overexposed and the contours are also lost.
+The shape is maintained, but it creates passages upon underexposing; that is, the contour and the relationship with the background mix and fuse together. Recognition is lost in that sense because the image darkens and the contours are lost to define the image, or it is overexposed and the contours are lost as well.
 
 ---
 
 ## 7. Final evaluation and artistic reference
 
-**Does this operation truly put the image into crisis or does it function merely as an aesthetic effect?:**  
-Yes, the operation puts the image into crisis.
+**Does this operation truly put the image in crisis, or does it only function as an aesthetic effect?:**  
+Yes, the operation puts the image in crisis.
 
 
 **Operation notes / what I learned:**  
-It is a simple operation but of great utility since chiaroscuro effects like those of Rembrandt and Caravaggio are created, which help to control the image and give it volume. The richness of the crisis is high despite the simplicity of the operation.
+It is a simple operation but of great utility, since chiaroscuro effects like those of Rembrandt and Caravaggio are created, which help to control the image and give it volume. The richness of the crisis is high despite the simplicity of the operation.
 
 
 
 **Final_status:** 
-Works:: [[SI|SI]] 
+Works:: [[SI|YES]] 
 
 **How it destroys the image:** 
-Works_on:: [[Estetico|Estetico]] 
+Works_on:: [[Estetico|Aesthetic]] 
 
-**Level and richness of crisis:** 
-Crisis::   [[Media|Media]]
+**Level and Richness of crisis:** 
+Crisis::   [[Media|Medium]]
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]] 
+Selection:: [[Combinable|Combinable]] / [[Guardar|Save]] 
 
 ---
 
 ### Possible artistic reference
 
-Referente:: [[Armando Reveron|Armando Reveron]], [[Caravaggio|Caravaggio]], [[Rembrandt|Rembrandt]], [[Hiroshi Sugimoto|Hiroshi Sugimoto]]
+Reference:: [[Armando Reveron|Armando Reveron]], [[Caravaggio|Caravaggio]], [[Rembrandt|Rembrandt]], [[Hiroshi Sugimoto|Hiroshi Sugimoto]]
 
 **Possible works:**  
-- [Caravaggio - Cabeza de Goliat](https://i.pinimg.com/736x/5b/93/4a/5b934a0522de0a804bd9617cceb3096d.jpg)
+- [Caravaggio - Head of Goliath](https://i.pinimg.com/736x/5b/93/4a/5b934a0522de0a804bd9617cceb3096d.jpg)
 
-- [Rembrandt - Autorretrato](https://cdn-0.shelleyhannafineart.com/wp-content/uploads/2023/02/640px-Rembrandt_with_gorget_workshop_of_Rembrandt_c._1629_Mauritshuis_The_Hague.jpg)
+- [Rembrandt - Self-Portrait](https://cdn-0.shelleyhannafineart.com/wp-content/uploads/2023/02/640px-Rembrandt_with_gorget_workshop_of_Rembrandt_c._1629_Mauritshuis_The_Hague.jpg)
 
-- [Armando Reveron - Etapa Blanca](https://lfranbarc.wordpress.com/wp-content/uploads/2011/01/img_0004.jpg)
+- [Armando Reveron - White Period](https://lfranbarc.wordpress.com/wp-content/uploads/2011/01/img_0004.jpg)
 
 - [Hiroshi Sugimoto — Seascapes](https://leehassall.wordpress.com/wp-content/uploads/2014/04/seascape-2.jpg)

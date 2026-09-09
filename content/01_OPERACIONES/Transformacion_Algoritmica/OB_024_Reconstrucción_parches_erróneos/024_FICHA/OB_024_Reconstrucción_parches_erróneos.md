@@ -2,13 +2,13 @@
 
 ## Estado
 
-Estado:: [Terminada]
+Estado:: [[Terminada]]
 
 ---
 
 ## 1. Datos de la operación
 
-**Número interno:** OB___  
+**Número interno:** OB_024  
 **Régimen operativo:** [[Transformación algorítmica]]  
 **Imagen de origen:** Fotografía de paisaje montañoso con árbol en primer plano.
 
@@ -26,6 +26,8 @@ La imagen se divide en fragmentos o parches. Cada fragmento es reemplazado o des
 - Comparación y reemplazo de fragmentos según similitud visual
 
 ---
+
+**Script (auditoría 2026-09):** Perdido (no recuperado en auditoría 2026-09) — la ficha menciona 'script en Python' entre las herramientas, pero el archivo no quedó guardado en el Atlas.
 
 ## 3. Variables
 
@@ -47,7 +49,7 @@ La imagen se divide en fragmentos o parches. Cada fragmento es reemplazado o des
 ## 4. Secuencia visual
 
 ### Imagen inicial
-![[input_03.png|200]]
+![[Input_003.png|200]]
 
 ### Step 01
 ![[OB24_step01.jpg.webp|200]]
@@ -132,7 +134,7 @@ Funciona:: [SI]
 Trabaja_en_lo:: [Formal]
 
 **Nivel y Riqueza de crisis:**  
-Crisis:: [Media]
+Crisis:: [[Media]]
 
 **Decisión:**  
 Seleccion:: [Guardar] [Combinabe]
@@ -155,4 +157,3 @@ Referente:: [[Konrad Wyrebek ]], [[David Hockney]], [[Georges Braque]], [[Paul K
 - [Chuck Close — pinturas tardías en retícula](https://www.google.com/search?q=Chuck+Close+grid+paintings+pixels&udm=2)
 
 - [Gerhard Richter — _1024 Farben / 4900 Colours_](Gerhard Richter 1024 Colours 4900 Colours)
-

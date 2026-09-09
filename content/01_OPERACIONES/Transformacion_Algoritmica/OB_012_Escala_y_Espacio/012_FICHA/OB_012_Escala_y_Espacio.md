@@ -21,6 +21,9 @@ Las formas que componen la imagen se distribuyen y escalan dentro de la imagen.
 **Herramientas / medio:**  
 - Photoshop
 - Cámara del iPhone
+- 
+
+**Script (auditoría 2026-09):** No aplica (operación realizada en Photoshop, herramienta manual sin exportación de código).
 
 **Procedimiento técnico:**  
 1. Se separan las formas de la imagen

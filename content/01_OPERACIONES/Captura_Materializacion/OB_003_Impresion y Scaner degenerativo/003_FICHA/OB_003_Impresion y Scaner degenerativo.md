@@ -6,7 +6,7 @@ Estado:: [[Terminada]]
 
 ## 1. Datos de la operación
 
-**Número interno:** OB_003_
+**Número interno:** OB_003
 **Régimen operativo:** [[Lista_Captura_Materializacion]]  
 **Imagen de origen:**  Fotografía tomada del natural
 
@@ -172,7 +172,7 @@ James Welling — _Glass House_, 2006–2009
 Imagen con color desplazado mas para operacion desplazamiento de RGB pero tabmien tiene este velo
 
 Silke Otto-Knapp — Seascape, 2008
-Tiene algo de lo esteticpo de la imagen.
+Tiene algo de lo estético de la imagen.
 
 Armando Reverón — etapa blanca
 

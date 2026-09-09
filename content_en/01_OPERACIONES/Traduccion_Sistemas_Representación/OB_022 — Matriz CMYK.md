@@ -18,7 +18,7 @@ Status:: [[Terminada|Finished]]
 **Source image:**  Photograph
 
 **Operational description:**  
-The photographic image is converted into four CMYK channels, each reconstructed using a dot halftone with a different angle. The dot size varies according to the amount of ink in each area, and the four channels are recomposed into a new image.
+The photographic image is converted into four CMYK channels, each reconstructed using a dot screen with a different angle. The dot size varies according to the amount of ink in each area, and the four channels are recomposed into a new image.
 
 ---
 
@@ -30,20 +30,20 @@ The photographic image is converted into four CMYK channels, each reconstructed 
 - 
 
 **Technical procedure:**  
-The image is converted to CMYK, a dot halftone is generated for each channel, and the four channels are then recomposed into a final image. Cell size, dot scale, and rotation angle of each CMYK channel. The cell size controls the loss of detail and the scale determines how much the dots expand.
+The image is converted to CMYK, a dot screen is generated for each channel, and the four channels are then recomposed into a final image. Cell size, dot scale, and rotation angle of each CMYK channel. The cell size controls the loss of detail and the scale determines how much the dots expand.
 
 ---
 
 ## 3. Variables
 
 **Controlled variables:**  
-- Halftone cell size (`cell_size`).
+- Screen cell size (`cell_size`).
 - Scale or diameter of the dots (`dot_scale`).
 - Rotation angle of each CMYK channel.
 
 **Uncontrolled / accidental variables:**  
 - Appearance of moiré patterns.
-- Chromatic overlap and interference between channels.
+- Chromatic overlapping and interference between channels.
 - Irregular loss of detail in contours and transition areas.
 
 ---
@@ -164,9 +164,9 @@ The image is converted to CMYK, a dot halftone is generated for each channel, an
 
 **Main crisis:** 
 
-**The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and medium:**
+**The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-The CMYK halftone replaces photographic continuity with a structure of overlapping dots. As the screen size increases, the shape fragments, contours lose precision, and color separates into chromatic interferences. The figure begins to merge with the background until its recognition becomes difficult. The visual medium is also transformed: the image is no longer perceived as a continuous photograph and appears as a graphic printing surface.
+The CMYK screen replaces photographic continuity with a structure of overlapping dots. As the halftone size increases, the shape fragments, contours lose precision, and color separates into chromatic interferences. The figure begins to merge with the background until its recognition becomes difficult. The visual support is also transformed: the image ceases to be perceived as a continuous photograph and appears as a graphic printing surface.
 
 ---
 
@@ -174,10 +174,10 @@ The CMYK halftone replaces photographic continuity with a structure of overlappi
 
 
 **Operation notes / what I learned:**  
-By increasing the halftone size, the image loses detail and the figure blends into the background. The screen shifts from being a texture to dominating the image.
+By increasing the size of the screen, the image loses detail and the figure blends into the background. The halftone shifts from being a texture to dominating the image.
 
 
-**Final_status:** 
+**Final_state:** 
 Works:: [[SI|SI]] 
 
 **How it destroys the image:** 
@@ -191,9 +191,9 @@ Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]]
 
 ---
 
-### Possible artistic reference
+### Potential artistic reference
 
-Referente:: [[Sigmar Polke|Sigmar Polke]], [[Tauba Auerbach|Tauba Auerbach]], [[Sigmar Polke|Sigmar Polke]], [[Alain Jacquet|Alain Jacquet]], [[Roy Lichtenstein|Roy Lichtenstein]], [[Chuck Close|Chuck Close]]
+Referent:: [[Sigmar Polke|Sigmar Polke]], [[Tauba Auerbach|Tauba Auerbach]], [[Sigmar Polke|Sigmar Polke]], [[Alain Jacquet|Alain Jacquet]], [[Roy Lichtenstein|Roy Lichtenstein]], [[Chuck Close|Chuck Close]]
 
 **Possible works:**  
 - [Sigmar Polke Rasterbilder](https://www.google.com/search?q=Sigmar+Polke+Rasterbilder&udm=2)

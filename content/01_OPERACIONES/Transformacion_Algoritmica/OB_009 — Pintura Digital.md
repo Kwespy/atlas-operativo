@@ -12,7 +12,7 @@ Estado:: [[Terminada]]
 
 ## 1. Datos de la operación
 
-**Número interno:** OB_OB_009_Pintura_Digital
+**Número interno:** OB_009
 **Régimen operativo:** [[Lista_Transformacion_Algoritmica]]  
 **Imagen de origen:**  Representación del natural
 
@@ -27,6 +27,8 @@ Con la app freeform de Ipone se representa rapidamente el objeto desde el natura
 - iphone 13
 - Freeform App
 - 
+
+**Script (auditoría 2026-09):** No aplica (operación realizada con la app Freeform del iPhone, sin salida de código exportable).
 
 **Procedimiento técnico:**  
 1. Se pinto tactilmente  el modelo

@@ -1,28 +1,28 @@
 ---
-title: "OB_016 — Stripe displacement"
+title: "OB_016 — Strip Displacement"
 atlas_direct: true
 lang: en
 ---
 
-# OB_016_Stripe_displacement
+# OB_016_Desplazamiento_por_franjas
 
 ## Status
-Status:: [[Terminada|Finished]]
+Status:: [[Terminada|Terminada]]
 
 ---
 
-## 1. Operation data
+## 1. Operation Data
 
 **Internal number:** OB_016
-**Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
+**Operational regime:** [[Lista_Transformacion_Algoritmica|Lista Transformacion Algoritmica]]  
 **Source image:**  
 
 **Operational description:**  
-A script is created so that the image is altered by the displacement of vertical stripes.
+A script is created so that the image is altered through the displacement of vertical strips.
 
 ---
 
-## 2. Tools and procedure
+## 2. Tools and Procedure
 
 
 - A script is created in ChatGPT for Python and executed in the Mac Terminal
@@ -30,11 +30,13 @@ A script is created so that the image is altered by the displacement of vertical
 
 ---
 
+**Script (2026-09 audit):** Lost (not recovered in the 2026-09 audit) — the record explicitly indicates 'a script is created in ChatGPT for Python and executed in the Mac Terminal', but the file was not saved in the Atlas.
+
 ## 3. Variables
 
 **Controlled variables:**  
-- Amount of output images resulting
-- Script variables such as stripe size, quantity, and intensity.
+- Amount of resulting image output
+- Script variables such as strip size, quantity, and intensity.
 - 
 
 **Uncontrolled / accidental variables:**  
@@ -44,7 +46,7 @@ A script is created so that the image is altered by the displacement of vertical
 
 ---
 
-## 4. Visual sequence
+## 4. Visual Sequence
 
 ### Initial image
 ![[Input_001.jpg.webp|200]]
@@ -93,7 +95,7 @@ A script is created so that the image is altered by the displacement of vertical
 
 ---
 
-## 5. Visual selection
+## 5. Visual Selection
 
 ### Crisis / threshold according to AI-assisted reading / ChatGPT
 
@@ -109,41 +111,41 @@ A script is created so that the image is altered by the displacement of vertical
 
 ---
 
-## 6. Crisis and formal-perceptual reading
+## 6. Crisis and Formal-Perceptual Reading
 
 **Main crisis:** Structure, form, and contour
 
 **The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-The shape and contour are the first things to be destroyed, the color remains recognizable, and the relationship between figure and ground begins to enter crisis later on; that is when legibility is lost as figure and ground start to mix.
+The shape and contour are the first things to be destroyed, the color remains recognizable, and the relationship between figure and ground begins to enter into crisis further along; it is there that the loss of legibility occurs when figure and ground begin to blend.
 
 
 ---
 
-## 7. Final evaluation and artistic reference
+## 7. Final Evaluation and Artistic Reference
 
 
 **Operation notes / what I learned:**  
 Simple operation, it is more about the aesthetics of the image than a structural operation of the image.
-It has a collage-like feel. Aesthetic. Kinetic painting
+It has a collage feel. Aesthetic. Kinetic painting
 
 
 **Final_status:** 
-Works:: [[SI|YES]] 
+Works:: [[SI|SI]] 
 
 **How it destroys the image:** 
-Works_on:: [[Estetico|Aesthetic]]
+Works_on:: [[Estetico|Estetico]]
 
 **Level and Richness of crisis:** 
-Crisis::  [[Media|Medium]] 
+Crisis::  [[Media|Media]] 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Save]]
+Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]]
 
 ---
 
 ### Possible artistic reference
 
-Reference:: [[Bridget Riley|Bridget Riley]], [[Carlos Cruz-Diez |Carlos Cruz-Diez ]], [[Victor Vasarely|Victor Vasarely]]
+Referente:: [[Bridget Riley|Bridget Riley]], [[Carlos Cruz-Diez |Carlos Cruz-Diez ]], [[Victor Vasarely|Victor Vasarely]]
 
 **Possible works:**  
 - [Bridget Riley — optical paintings](https://www.google.com/search?q=Bridget+Riley+%E2%80%94+pinturas+%C3%B3pticas%0D%0A&sca_esv=9e14c540528a302f&rlz=1C5CHFA_enPT1033PT1033&udm=2&biw=948&bih=901&sxsrf=APpeQnsyB5r0sex9FncToadywYvM6FIT_Q%3A1782844454135&ei=JgxEatHyB4OEi-gPzee_4A8&ved=0ahUKEwjRnYOTza-VAxUDwgIHHc3zD_wQ4dUDCBE&uact=5&oq=Bridget+Riley+%E2%80%94+pinturas+%C3%B3pticas%0D%0A&gs_lp=Egtnd3Mtd2l6LWltZyIkQnJpZGdldCBSaWxleSDigJQgcGludHVyYXMgw7NwdGljYXMKSJsGUPwDWPwDcAN4AJABAJgBAKABAKoBALgBA8gBAPgBAvgBAZgCAKACAJgDAIgGAZIHAKAHALIHALgHAMIHAMgHAIAIAQ&sclient=gws-wiz-img)

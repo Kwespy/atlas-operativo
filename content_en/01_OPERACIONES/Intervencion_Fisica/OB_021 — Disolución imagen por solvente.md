@@ -15,7 +15,7 @@ Status:: [[Terminada|Finished]]
 
 **Internal number:** OB_021 
 **Operational regime:** [[Lista_Intervención_Física|Physical Intervention List]]  
-**Source image:** Printed photograph
+**Source image:**  Printed photograph
 
 **Operational description:**  
 The toner-printed image on A4 paper has its ink diluted with a solvent (Acetone).
@@ -30,7 +30,7 @@ The toner-printed image on A4 paper has its ink diluted with a solvent (Acetone)
 - 
 
 **Technical procedure:**  
-Acetone is poured; using fingers and paper, it is rubbed so that the print dilutes and mixes.
+Acetone is poured, and using fingers and paper, it is rubbed so that the print dilutes and mixes.
 
 ---
 
@@ -105,9 +105,9 @@ The movement and chance of the liquid. Which color the acetone will act upon.
 
 **Main crisis:** 
 
-**The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
+**The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-The operation affects the support; the liquid wrinkles the paper and also acts on the ink, which dilutes and mixes, causing the shape to lose structure and the figure and ground to interact. Color mixes; certain colors are more susceptible to acetone, black easily begins to yield, covering the image with a grey.
+The operation affects the support; the liquid wrinkles the paper and also acts on the ink, which dilutes and mixes, causing the form to lose structure and the figure-ground to interact. Color mixes; certain colors are more susceptible to acetone, black easily begins to yield, covering the image in gray.
 
 
 
@@ -121,20 +121,20 @@ The photographic documentation also affected the final archive. Depending on the
 
 
 **Final_status:** 
-Works:: [[SI|SI]] 
+Works:: [[SI|YES]] 
 
 **How it destroys the image:** 
 Works_on:: [[Formal|Formal]] 
 
-**Level and richness of crisis:** 
-Crisis::   [[Media|Media]] 
+**Level and Richness of crisis:** 
+Crisis::   [[Media|Medium]] 
 
 **Decision:** 
 Selection:: [[Combinable|Combinable]] / [[Guardar|Save]] 
 
 ---
 
-### Possible artistic reference
+### Potential artistic reference
 
 Reference:: [[Oscar Muñoz|Oscar Muñoz]], [[Robert Rauschenberg|Robert Rauschenberg]], [[Antoni Tapies|Antoni Tapies]]
 

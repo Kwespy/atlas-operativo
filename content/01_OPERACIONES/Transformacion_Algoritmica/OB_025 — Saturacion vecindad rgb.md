@@ -10,7 +10,7 @@ Estado::  [[Terminada]]
 
 ## 1. Datos de la operación
 
-**Número interno:** OB_000 + OB_000
+**Número interno:** OB_025
 **Régimen operativo:** [[Lista_Combinaciones]]  
 **Imagen de origen:**  Fotografia Digital
 
@@ -46,7 +46,7 @@ La distribución inicial de colores y la proximidad entre píxeles de la imagen 
 ## 4. Secuencia visual
 
 ### Imagen inicial
-![[input_03.jpeg.webp]]
+![[Input_003.jpeg]]
 
 ### Step 01
 ![[OB025_step01.jpg.webp|200]]

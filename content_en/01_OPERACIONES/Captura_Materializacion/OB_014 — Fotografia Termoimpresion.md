@@ -1,5 +1,5 @@
 ---
-title: "OB_014 — Thermal Print Photography"
+title: "OB_014 — Thermal-Print Photography"
 atlas_direct: true
 lang: en
 ---
@@ -11,18 +11,18 @@ Status:: [[Terminada|Terminada]]
 
 ---
 
-## 1. Operation data
+## 1. Operation Data
 
-**Internal number:** OB_14  
+**Internal number:** OB_014  
 **Operational regime:** [[Lista_Captura_Materializacion|Lista Captura Materializacion]]  
 **Source image:** Thermal-printed photograph
 
 **Operational description:**  
-Using an instant thermal print camera, the object is captured, and then the instant photograph is recaptured using the same camera.
+Using a thermal print instant camera, the object is captured, and the instant photograph is re-captured using the same camera.
 
 ---
 
-## 2. Tools and procedure
+## 2. Tools and Procedure
 
 **Tools / medium:**  
 - Instant camera
@@ -31,7 +31,7 @@ Using an instant thermal print camera, the object is captured, and then the inst
 
 **Technical procedure:**  
 1. Take photograph
-2. Take photograph of the photograph.
+2. Take a photograph of the photograph.
 3. 
 4. 
 5. 
@@ -43,16 +43,16 @@ Using an instant thermal print camera, the object is captured, and then the inst
 **Controlled variables:**  
 - Camera presets
 - Model composition
-- Shooting direction
+- Direction of the shot
 
 **Uncontrolled / accidental variables:**  
-- The paper does not always come out straight from the camera, which can affect the print
+- The paper does not always come out straight from the cameras, which can affect the print
 - 
 - 
 
 ---
 
-## 4. Visual sequence
+## 4. Visual Sequence
 
 ### Initial image
 ![[Input_014.jpg.webp|200]]
@@ -101,7 +101,7 @@ Using an instant thermal print camera, the object is captured, and then the inst
 
 ---
 
-## 5. Visual selection
+## 5. Visual Selection
 
 ### Crisis / threshold according to AI-assisted reading / ChatGPT
 
@@ -117,21 +117,21 @@ Using an instant thermal print camera, the object is captured, and then the inst
 
 ---
 
-## 6. Crisis and formal-perceptual reading
+## 6. Crisis and Formal-Perceptual Reading
 
-**Main crisis:** Tonal, Contour, Figure-ground
+**Main crisis:** Tonal, Outline, figure-ground
 
-**The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support.**
+**The operation affects the visual grammar of the image: shape, outline, color, figure/ground relationship, legibility, recognition, and support.**
 
-The image, which starts in black and white, loses its contour and becomes less sharp. Figure and ground blend together, creating shapes and spots around it, combining the entire background into a single plane. Depth is lost, and the created spots begin to enter the object. Finally, a complete image made up of irregular spots is seen. Through passing it through the camera, it stops being understood.
+The image, which starts in black and white, loses its outline and becomes less sharp. Figure and ground blend together, creating shapes and patches around it, combining the entire background into a single plane. Depth is lost, and the created patches move into the object. Finally, a complete image made up of irregular patches is visible. Through the transfer via the camera, it stops being understood.
 
 ---
 
-## 7. Final evaluation and artistic reference
+## 7. Final Evaluation and Artistic Reference
 
 
 **Operation notes / what I learned:**  
-The operation is simple; the crisis can be reached easily. The result resembles printmaking. The spots and the lack of contour definition are powerful.
+The operation is simple; crisis can be reached easily. The result resembles printmaking. The patches and the lack of outline definition are powerful.
 
 
 **Final_status:** 
@@ -140,7 +140,7 @@ Works:: [[NO|NO]]
 **How it destroys the image:** 
 Works_on::[[Formal|Formal]] 
 
-**Level and richness of crisis:** 
+**Level and Richness of crisis:** 
 Crisis::  [[Alta|Alta]]
 
 **Decision:** 
@@ -148,9 +148,9 @@ Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]]
 
 ---
 
-### Potential artistic reference
+### Possible Artistic Reference
 
-Reference:: [[Andy Warhol|Andy Warhol]], [[Sigmar Polke|Sigmar Polke]], [[Gerhard Richter|Gerhard Richter]], [[Marlene Dumas|Marlene Dumas]]
+Referente:: [[Andy Warhol|Andy Warhol]], [[Sigmar Polke|Sigmar Polke]], [[Gerhard Richter|Gerhard Richter]], [[Marlene Dumas|Marlene Dumas]]
 
 **Possible works:**
 

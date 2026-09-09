@@ -5,54 +5,54 @@ lang: en
 ## Status
 Status:: [[Terminada|Terminada]]
 
-# OB_003 — Degenerative Printing and Scanning
+# OB_003_Impresión y Scanner degenerativo
 
-## 1. Operation data
+## 1. Datos de la operación
 
-**Internal number:** OB_003_
-**Operational regime:** [[Lista_Captura_Materializacion|Lista Captura Materializacion]]  
-**Source image:**  Photograph taken from life
+**Número interno:** OB_003
+**Régimen operativo:** [[Lista_Captura_Materializacion|Lista Captura Materializacion]]  
+**Imagen de origen:**  Fotografía tomada del natural
 
-**Operational description:**  
-Print image then scan the print, repeat the process.
+**Descripción operativa:**  
+Imprimir imagen luego escanear la impresión, repetir el proceso.
 
 ---
 
-## 2. Tools and procedure
+## 2. Herramientas y procedimiento
 
-**Tools / medium:**  
-- Iphone 12 front camera
-- Epson WorkForce printer and scanner
+**Herramientas / medio:**  
+- Camara delantera Iphone 12
+- Impresora y scanner Epson WorkForce
 - Macbook pro 2018
 
-**Technical procedure:**  
-1. Take photo
-2. Print
-3. Scan the print
-4. Print
-5. Repeat the scanning and printing cycle to produce progressive degradation.
+**Procedimiento técnico:**  
+1. Sacar foto
+2. Imprimir
+3. Escanear
+4. Imprimir
+5. Repetir el ciclo de escaneo e impresión para producir una degradación progresiva.
 
 ---
 
 ## 3. Variables
 
-**Controlled variables:**  
-- Resolution and file format
-- Position of the sheet for scanning and printing
-- Ink
-- Paper type
-- My printer is hacked, the ink cartridges have no security chips. 
+**Variables controladas:**  
+- Resolucion  y formato del archivo
+- Posición de la hoja para el escaneo y impresión
+- Tinta
+- Tipo papel
+- Mi impresora esta hackeada, las tintas no tienen seguro. 
 
-**Uncontrolled / accidental variables:**  
-- Printing errors
-- My printer cartridge is bad, the yellow does not work well
+**Variables no controladas / accidentales:**  
+- Errores de impresión
+- El catridge de mi impresora esta malo, el amarillo no funciona bien
 - 
 
 ---
 
-## 4. Visual sequence
+## 4. Secuencia visual
 
-### Initial image
+### Imagen inicial
 ![[OB003_input.jpg|200]]
 
 ### Step 01
@@ -91,93 +91,93 @@ Print image then scan the print, repeat the process.
 
 ---
 
-## 5. Visual selection
+## 5. Selección visual
 
-### Crisis / threshold according to AI-assisted reading / ChatGPT
+### Crisis / umbral según lectura asistida por IA / ChatGPT
 
 
 ![[OB003_Step09.jpg.webp]]
 
-### Crisis / threshold according to my perception
+### Crisis / umbral según mi percepción
 
 ![[OB003_Step07.jpg.webp]]
 
 
 ---
 
-## 6. Crisis and formal-perceptual reading
+## 6. Crisis y lectura formal-perceptiva
 
-**Main crisis:** legibility 
+**Crisis principal:** legibilidad 
 
-The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support.
+La operación afecta la gramática visual de la imagen: forma, contorno, color, relación figura/fondo, legibilidad, reconocimiento y soporte.
 
-**Shape / contour / figure-ground:**  
-The figure progressively loses legibility, contour, and its relationship with the ground.
+**Forma / contorno / figura-fondo:**  
+La figura va perdiendo legibilidad, contorno y su relación con el fondo
 
-**Color / tone:**  
-The color transforms into a cold blue. (Perhaps due to the predominant color of the image).
+**Color / tono:**  
+El color se transforma hacia un azul frío, quizás por el color predominante de la imagen.
 
-**Legibility / recognition:**  
-a white veil appears on the image.
+**Legibilidad / reconocimiento:**  
+Aparece como un velo blanco en la imagen.
 
-**Material / support:**  
-Material and support do not change.
+**Material / soporte:**  
+Material y soporto no cambia.
 
-**Perceptual effect:**  
-gradually loses legibility, the image becomes smaller with each scan and starts to move.
+**Efecto perceptivo:**  
+Pierde legibilidad gradualmente; la imagen se vuelve más pequeña en cada escaneo y empieza a desplazarse.
 
 ---
 
-## 7. Final evaluation and artistic reference
+## 7. Evaluación final y referente artístico
 
-**Question for the operation:**  
-Does this operation truly put the image into crisis or does it function merely as an aesthetic effect?
-Yes, Crisis.
+**Pregunta a la operación:**  
+¿Esta operación pone realmente en crisis la imagen o funciona solo como efecto estético?
+Sí, Crisis.
 
-**Operation notes / what I learned:**  
-The image tends to shrink and move towards the top right.
+**Notas de la operación / qué aprendí:**  
+La imagen tiende a achicarse y mover hacia arriba a la derecha.
 
-**Final_status:** 
+**Estado_final:** 
 Works:: [[SI|SI]] 
 
-**How it destroys the image:** 
+**Como destruye la imagen:** 
 Works_on:: [[Formal|Formal]] 
 
-**Level and richness of crisis:** 
+**Nivel y Riqueza de crisis:** 
 Crisis::  [[Baja|Baja]] 
 
-**Decision:** 
+**Decisión:** 
 Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]] 
 
 ---
 
-### Possible artistic reference
+### Referente artístico posible
 
 Referente:: [[Silke Otto-Knapp|Silke Otto-Knapp]], [[Armando Reveron|Armando Reveron]]
 
-**Possible works:**  
+**Obras posibles:**  
 - Silke Otto-Knapp — Seascape, 2008
-- Armando Reverón — white period
+- Armando Reverón — etapa blanca
 
 ---
 
-### Possible artistic reference
+### Referente artístico posible
 
-**Reference:**
+**Referente:**
 
 Uta Barth — _Ground #42_, 1994
-Out-of-focus image
+Imagen fuera de foco
 
 Wolfgang Tillmans — _Lighter_, 2005–2008
-the veil left with the blue background resembles Tillmans' work due to its color and abstraction 
+el velo qiue queda con el fondo azul se parece al trabajo de tillmans por su color y abstraccion 
 
 James Welling — _Glass House_, 2006–2009
-Image with displaced color closer to an RGB shift operation, but it also has this veil
+Imagen con color desplazado mas para operacion desplazamiento de RGB pero tabmien tiene este velo
 
 Silke Otto-Knapp — Seascape, 2008
-It has something of the image's aesthetics.
+Tiene algo de lo estético de la imagen.
 
-Armando Reverón — white period
+Armando Reverón — etapa blanca
 
-**Operational relationship:**  
-The repeated printing and scanning cycle introduces displacement, loss of scale, a veil, and cumulative color alterations. The operation works through the material degradation of the reproduced image.
+**Relación operativa:**  
+La repetición del ciclo de impresión y escaneo introduce desplazamiento, pérdida de escala, velo y alteraciones cromáticas acumulativas. La operación trabaja sobre la degradación material de la imagen reproducida.

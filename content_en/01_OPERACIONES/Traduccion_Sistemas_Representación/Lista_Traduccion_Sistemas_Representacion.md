@@ -9,4 +9,6 @@ lang: en
 - [[OB_020_Matriz_Topografica/020_FICHA/OB_020_Matriz_Topografica|OB_020_Matriz_Topografica]]
 - [[OB_022_Matriz_CMYK/022_FICHA/OB_022_Matriz_CMYK|OB_022_Matriz_CMYK]]
 - [[OB_026_Matriz_vectorial_rgb/026_FICHA/OB_026_Matriz_vectorial_rgb|OB 026 Matriz vectorial rgb]]
+- [[OB_028_Despiece_Numerado/028_FICHA/OB_028_Despiece_Numerado|OB_028_Despiece_Numerado]]
+- [[OB_029_Barrido_Oscilatorio_por_Luminancia/029_FICHA/OB_029_Barrido_Oscilatorio_por_Luminancia|OB_029_Barrido_Oscilatorio_por_Luminancia]]
 <!-- AUTO-LISTA-REGIMEN:END -->

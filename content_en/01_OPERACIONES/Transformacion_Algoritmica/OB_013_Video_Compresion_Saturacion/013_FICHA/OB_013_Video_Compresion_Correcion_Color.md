@@ -5,31 +5,33 @@ lang: en
 # OB_013_Video_Compresion_Saturacion
 
 ## Status
-Status:: [[Terminada|Finished]] 
+Status:: [[Terminada|Terminada]] 
 
 ---
 
-## 1. Operation Data
+## 1. Operation data
 
 **Internal number:** OB_013
-**Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
+**Operational regime:** [[Lista_Transformacion_Algoritmica|Lista Transformacion Algoritmica]]  
 **Source image:** Video
 
 **Operational description:**  
-A video is recorded with movement and zoom of the object to achieve motion blur and image deformation. Then, in Adobe Premiere video editor, the resolution is compressed multiple times to destroy the image, and the contrast is turned up so the color is not lost.
+A video of the object is recorded with movement and zoom to achieve image blurring and deformation. Then, in the Premiere video editor, the resolution is compressed multiple times to destroy the image, and the contrast is increased so that color is not lost.
 
 ---
 
-## 2. Tools and Procedure
+## 2. Tools and procedure
 
 **Tools / medium:**  
 - iPhone 13 camera
-- MacBook Pro 13
+- Macbook Pro 13
 - Adobe Premiere
 
+**Script (2026-09 audit):** Not applicable (operation performed in Adobe Premiere, manual tool with no code export).
+
 **Technical procedure:**  
-1. Video is recorded
-2. Image is worked on in software
+1. Record video
+2. Process image in software
 3. 
 4. 
 5. 
@@ -39,18 +41,18 @@ A video is recorded with movement and zoom of the object to achieve motion blur 
 ## 3. Variables
 
 **Controlled variables:**  
-- Video capture, movement, and zoom
-- Light and scenography
+- The video shot, movement, and zoom
+- Light and set design
 - 
 
 **Uncontrolled / accidental variables:**  
-- Colors that become saturated in the image; one might begin to understand it, but it would be difficult.
+- The colors that become saturated in the image; one might try to understand it, but it would be difficult.
 - Where the image will distort.
 - 
 
 ---
 
-## 4. Visual Sequence
+## 4. Visual sequence
 
 ### Initial image
 ![[OB013_step01.mp4|200]]
@@ -88,7 +90,7 @@ A video is recorded with movement and zoom of the object to achieve motion blur 
 
 ---
 
-## 5. Visual Selection
+## 5. Visual selection
 
 ### Crisis / threshold according to AI-assisted reading / ChatGPT
 
@@ -103,40 +105,40 @@ A video is recorded with movement and zoom of the object to achieve motion blur 
 
 ---
 
-## 6. Crisis and Formal-Perceptual Reading
+## 6. Crisis and formal-perceptual reading
 
 **Main crisis:** Form, color, and background
 
 The operation affects the visual grammar of the image: form, outline, color, figure/background relationship, legibility, recognition, and support.
 
-The image begins to enter crisis when the figure melts and mixes with the other forms. Colors depart from what is represented, become saturated, and blend.
+The image begins to enter crisis when the figure melts and mixes with the other forms. The colors shift from what is represented, become saturated, and blend together.
 
 
 ---
 
-## 7. Final Evaluation and Artistic Reference
+## 7. Final evaluation and artistic reference
 
 
 **Operation notes / what I learned:**  
-Lowering the quality does not work as an operation; you just have to intensify colors and brightness so the image doesn't turn black and white. Edges need to be readjusted. It is a rich operation, but it must be pushed and modified to gain richness.
+Lowering the quality does not work as an operation on its own; colors and brightness must be intensified so that the image does not turn into black and white. Edges must be readjusted. It is a rich operation, but it needs to be pushed and modified to gain richness.
 
 **Final_status:** 
-Works:: [[SI|YES]] 
+Works:: [[SI|SI]] 
 
 **How it destroys the image:** 
 Works_on:: [[Formal|Formal]] 
 
-**Level and Richness of crisis:** 
-Crisis::   [[Alta|High]]
+**Level and richness of crisis:** 
+Crisis::   [[Alta|Alta]]
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Save]]
+Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]]
 
 ---
 
 ### Possible artistic reference
 
-Reference:: [[Jacques Perconte|Jacques Perconte]], [[Takeshi Murata|Takeshi Murata]], [[Kim Asendorf|Kim Asendorf]], [[Claude Monet|Claude Monet]]
+Referente:: [[Jacques Perconte|Jacques Perconte]], [[Takeshi Murata|Takeshi Murata]], [[Kim Asendorf|Kim Asendorf]], [[Claude Monet|Claude Monet]]
 
 **Possible works:**  
 - [Jacques Perconte](https://www.google.com/search?q=Jacques+Perconte+&sca_esv=adfdac7335d782b2&rlz=1C5CHFA_enPT1033PT1033&udm=2&biw=1600&bih=851&sxsrf=ANbL-n6h-kB2qKAp4D5bPh2zqb-zjnTsxw%3A1781374714501&ei=-p4taoiOHqnvi-gPuOupqQ0&ved=0ahUKEwiI88b46YSVAxWp9wIHHbh1KtUQ4dUDCBM&uact=5&oq=Jacques+Perconte+&gs_lp=Egtnd3Mtd2l6LWltZyIRSmFjcXVlcyBQZXJjb250ZSAyBxAjGMkCGCcyBxAAGIAEGBMyBhAAGB4YEzIGEAAYHhgTMgYQABgeGBMyBhAAGB4YEzIGEAAYHhgTMgYQABgeGBMyBhAAGB4YEzIGEAAYHhgTSOcQUK4PWK4PcAJ4AJABAJgBW6ABsQGqAQEyuAEDyAEA-AEBmAICoAJnmAMAiAYBkgcDMS4xoAfrB7IHAzAuMbgHZMIHBTAuMS4xyAcKgAgB&sclient=gws-wiz-img#sv=CAMSURoyKhBlLVFSaFp4SUE4YnhfMl9NMg5RUmhaeElBOGJ4XzJfTToOUkc3UFE5LUhGbFpEX00gBCoXCgFzEhBlLVFSaFp4SUE4YnhfMl9NGAEwARgHIJPC8KAPSggQARgBIAEoAQ)

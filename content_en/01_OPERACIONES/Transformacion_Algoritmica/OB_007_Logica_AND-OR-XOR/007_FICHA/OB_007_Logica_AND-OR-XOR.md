@@ -5,17 +5,17 @@ lang: en
 # OB_007_Logica_AND-OR-XOR
 
 ## Status
-Status:: [[Terminada|Terminada]]
+Status:: [[Terminada|Finished]]
 
 ---
 
 ## 1. Operation data
 
-**Internal number:** OB_007_Logica_AND-OR-XOR
-**Operational regime:** [[Lista_Transformacion_Algoritmica|Lista Transformacion Algoritmica]]
+**Internal number:** OB_007
+**Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]
 
 **Source image:**  
-Direct photograph from life
+Direct photograph
 
 **Operational description:**  
 Prompt to ChatGPT to successively process the photo using AND-OR-XOR logic until the form enters into crisis.
@@ -29,9 +29,11 @@ Prompt to ChatGPT to successively process the photo using AND-OR-XOR logic until
 - ChatGPT
 - 
 
+**Script (2026-09 audit):** Unverified — the sheet indicates that a prompt was used on ChatGPT with the photo; it remains unclear whether this executed and discarded an actual script or if it was direct image generation/editing. To be confirmed by the author.
+
 **Technical procedure:**  
 1. Take photo
-2. Upload it into a prompt with ChatGPT
+2. Upload it in a prompt with ChatGPT
 3. 
 4. 
 5. 
@@ -42,12 +44,12 @@ Prompt to ChatGPT to successively process the photo using AND-OR-XOR logic until
 
 **Controlled variables:**  
 - Photograph
-- Selection of the result
+- Selection of result
 - 
 
 **Uncontrolled / accidental variables:**  
-- How the AI operates
-- Prompt-based only, not technical operations
+- How the A.I. operates
+- Via prompt only, not through technical operations
 - 
 
 ---
@@ -89,38 +91,38 @@ Prompt to ChatGPT to successively process the photo using AND-OR-XOR logic until
 
 ## 6. Crisis and formal-perceptual reading
 
-**Main crisis:** The structure of the form is lost
+**Main crisis:**  The structure of the form is lost
 
-The operation affects the visual grammar of the image: form, outline, color, figure/ground relationship, legibility, recognition, and support.
+The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support.
 
-The form and the structure of the object enter into crisis. It is not the image that enters into crisis, but the object, losing its form and legibility. 
+The form and structure of the object enter into crisis; it is not the image that enters into crisis, but the object, which loses its form and legibility. 
 
 ---
 
 ## 7. Final evaluation and artistic reference
 
-**Question posed to the operation:**  
+**Question for the operation:**  
 Does this operation truly put the image into crisis, or does it function merely as an aesthetic effect?
 The image does not enter into crisis; the object enters into crisis.
 
 **Operation notes / what I learned:**  
-It functions as an operation that alters the recognition form shown by the image. The object loses its meaning, but the image remains stable.
+It functions as an operation that alters the form of recognition shown by the image. The object loses meaning, but the image remains stable.
 
 **Final_status:** 
 Works:: [[NO|NO]]
 
 **How it destroys the image:** 
-Works_on:: [[Estetico|Estetico]]
+Works_on:: [[Estetico|Aesthetic]]
 
-**Level and Richness of crisis:** 
-Crisis::  [[Alta|Alta]]
+**Level and richness of crisis:** 
+Crisis::  [[Alta|High]]
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]]
+Selection:: [[Combinable|Combinable]] / [[Guardar|Save]]
 
 ---
 
-### Potential artistic reference
+### Possible artistic reference
 
 Reference:: [[Juan Gris|Juan Gris]], [[Pablo Picasso|Pablo Picasso]], [[El Lissitzky|El Lissitzky]] [[Barbara Kasten|Barbara Kasten]]
 

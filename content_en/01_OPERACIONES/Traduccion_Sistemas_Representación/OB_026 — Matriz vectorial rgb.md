@@ -11,8 +11,8 @@ Status::  [[Terminada|Finished]]
 
 ## 1. Operation data
 
-**Internal number:** OB_000 + OB_000
-**Operational regime:** [[Lista_Combinaciones|Combinations List]]  
+**Internal number:** OB_026
+**Operational regime:** [[Lista_Combinaciones|Combination List]]  
 **Source image:** Digital photograph 
 
 **Operational description:**  
@@ -39,9 +39,9 @@ The image is reconstructed as a field of lines. Each zone generates strokes whos
 - Displacement intensity according to RGB values
 
 **Uncontrolled / accidental variables:**  
-- Stroke overlap and accumulation
+- Overlap and accumulation of strokes
 - Emerging shapes produced by the image's color distribution
-- Zones where line density makes the figure disappear or reappear
+- Areas where line density makes the figure disappear or reappear
 
 
 ---
@@ -49,7 +49,7 @@ The image is reconstructed as a field of lines. Each zone generates strokes whos
 ## 4. Visual sequence
 
 ### Initial image
-![[input_03.jpeg.webp|200]]
+![[Input_003.jpeg|200]]
 
 ### Step 01
 ![[OB026_step01.png.webp|200]]
@@ -132,9 +132,9 @@ The image is reconstructed as a field of lines. Each zone generates strokes whos
 ## 6. Crisis and formal-perceptual reading
 
 
-**Where the crisis occurs and the operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
+**Where the crisis occurs and the operation affects the visual grammar of the image: shape, outline, color, figure/ground relationship, legibility, recognition, and support:**
 
-the accumulation of strokes begins to break down contours and blend figure and ground. The vegetation can still be partially recognized, but the image also starts to be read as an abstract grid of lines, directions, and densities. Color loses prominence to texture, and legibility remains in an intermediate state between representation and abstraction.
+the accumulation of strokes begins to undo the outlines and blend figure and ground. The vegetation can still be partially recognized, but the image also starts to be read as an abstract grid of lines, directions, and densities. Color loses prominence against texture, and legibility remains in an intermediate state between representation and abstraction.
 
 ---
 
@@ -142,7 +142,7 @@ the accumulation of strokes begins to break down contours and blend figure and g
 
 
 **Operation notes / what I learned:**  
-It is another system of representation, because the raster image becomes vector-based. That is, the vector image represents it through geometric instructions: lines, curves, polygons, coordinates, thickness, direction, color, etc. information ceases to be expressed primarily as pixels and begins to be expressed as geometry. 
+It is another system of representation, because the raster image becomes vector-based. That is, the vector image represents it through geometric instructions: lines, curves, polygons, coordinates, thickness, direction, color, etc. Information ceases to be expressed primarily as pixels and begins to be expressed as geometry. 
 
 
 
@@ -156,11 +156,11 @@ Works_on:: [[Formal|Formal]]
 Crisis:: [[Media|Medium]] 
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Keep]]  
+Selection:: [[Combinable|Combinable]] / [[Guardar|Save]]  
 
 ---
 
-### Potential artistic reference
+### Possible artistic reference
 
 Reference:: [[Mark Grotjahn|Mark Grotjahn]], [[]], [[]]
 

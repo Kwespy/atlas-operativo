@@ -11,31 +11,33 @@ Status:: [[Terminada|Finished]]
 
 ---
 
-## 1. Operation Data
+## 1. Operation data
 
-**Internal number:** OB___  
+**Internal number:** OB_012  
 **Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
-**Source image:**  Photograph from life
+**Source image:**  Direct photograph
 
 **Operational description:**  
 The shapes that make up the image are distributed and scaled within the image.
 
 ---
 
-## 2. Tools and Procedure
+## 2. Tools and procedure
 
 **Tools / medium:**  
 - Photoshop
 - iPhone camera
 - 
 
+**Script (2026-09 audit):** Not applicable (operation performed in Photoshop, manual tool with no code export).
+
 **Technical procedure:**  
 1. The shapes are separated from the image
 2. They are rearranged
 3. They are scaled
-4. 
-5. 
-6. 
+4. Compare variations in scale and arrangement.
+5. Select the states where recognition decreases.
+6. Record the visual crisis threshold.
 
 ---
 
@@ -53,7 +55,7 @@ The shapes that make up the image are distributed and scaled within the image.
 
 ---
 
-## 4. Visual Sequence
+## 4. Visual sequence
 
 ### Initial image
 ![[Input_001.jpg.webp|200]]
@@ -89,7 +91,7 @@ The shapes that make up the image are distributed and scaled within the image.
 
 ---
 
-## 5. Visual Selection
+## 5. Visual selection
 
 ### Crisis / threshold according to AI-assisted reading / ChatGPT
 
@@ -102,21 +104,21 @@ The shapes that make up the image are distributed and scaled within the image.
 
 ---
 
-## 6. Crisis and Formal-Perceptual Reading
+## 6. Crisis and formal-perceptual reading
 
 **Main crisis:** Figure-ground-form recognition
 
-The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support.
+The operation affects the visual grammar of the image: form, outline, color, figure/ground relationship, legibility, recognition, and support.
 
 By scaling the shapes of the image and rearranging them, the image can easily lose legibility. It is a simple yet very effective operation. 
 
 ---
 
-## 7. Final Evaluation and Artistic Reference
+## 7. Final evaluation and artistic reference
 
 
 **Operation notes / what I learned:**  
-Pending.
+The operation works by altering the scale and spatial distribution of the shapes. Its main effect appears when the rearrangement makes it difficult to recognize the figure and its relationship with the background.
 
 
 **Final_status:** 
@@ -125,11 +127,11 @@ Works:: [[SI|YES]]
 **How it destroys the image:** 
 Works_on:: [[Formal|Formal]] 
 
-**Level and Richness of crisis:** 
+**Level and richness of crisis:** 
 Crisis:: [[Alta|High]]
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Save]] 
+Selection:: [[Combinable|Combinable]] / [[Guardar|Keep]] 
 
 ---
 

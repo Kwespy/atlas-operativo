@@ -29,6 +29,8 @@ Se crea script para que la imagen se vaya alterando por desplazamiento de franja
 
 ---
 
+**Script (auditoría 2026-09):** Perdido (no recuperado en auditoría 2026-09) — la ficha indica explícitamente 'se crea script en ChatGPT para Python y se ejecuta en el Terminal del Mac', pero el archivo no quedó guardado en el Atlas.
+
 ## 3. Variables
 
 **Variables controladas:**  

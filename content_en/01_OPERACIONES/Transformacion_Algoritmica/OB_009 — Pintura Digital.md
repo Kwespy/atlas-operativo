@@ -13,12 +13,12 @@ Status:: [[Terminada|Finished]]
 
 ## 1. Operation data
 
-**Internal number:** OB_OB_009_Pintura_Digital
+**Internal number:** OB_009
 **Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
-**Source image:** Representation from life
+**Source image:**  Representation from life
 
 **Operational description:**  
-Using the Freeform app on an iPhone, the object is quickly represented from life; hatching, painting, and drawing operations are applied to smudge, erase, and cover the image so that it gradually disappears or enters into crisis.
+Using the iPhone Freeform app, the object is quickly represented from life, applying scribbles, painting, and drawing operations to smudge, erase, and cover the image so that it gradually disappears or enters a state of crisis.
 
 ---
 
@@ -29,8 +29,10 @@ Using the Freeform app on an iPhone, the object is quickly represented from life
 - Freeform App
 - 
 
+**Script (2026-09 audit):** Not applicable (operation performed using the iPhone Freeform app, with no exportable code output).
+
 **Technical procedure:**  
-1. The model was painted tactilesque  
+1. The model was painted haptically
 2. 
 3. 
 4. 
@@ -46,7 +48,7 @@ Using the Freeform app on an iPhone, the object is quickly represented from life
 - Tools within the app
 
 **Uncontrolled / accidental variables:**  
-- Some finger responses to the screen
+- Certain finger responses to the screen
 - 
 - 
 
@@ -118,7 +120,7 @@ Using the Freeform app on an iPhone, the object is quickly represented from life
 
 The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support.
 
-The image enters into crisis due to colors, form, and legibility, everything except the support; it is the most pictorial one, because it gives the option to paint but the support does not begin to fail.
+The image enters into crisis through colors, form, and legibility, everything except the support; it is the most pictorial one, because it gives the option to paint but the support does not begin to fail.
 
 
 ---
@@ -128,10 +130,10 @@ The image enters into crisis due to colors, form, and legibility, everything exc
 **Question to the operation:**  
 Does this operation truly put the image in crisis, or does it function merely as an aesthetic effect?
 
-It puts the image in crisis in an aesthetic way but not as a format image.
+It puts the image in crisis in an aesthetic way, but not as a format image.
 
 **Operation notes / what I learned:**  
-It is an operation similar to painting but you don't control it and you go faster. The feeling is good, because you make something appear that wasn't there before. You need experience and technique to achieve good effects.
+It is an operation similar to painting, but less controlled and faster. The feeling is good because you make something appear that was not there before. Experience and technique are required to achieve good effects.
 
 
 **Final_status:** 
@@ -140,7 +142,7 @@ Works:: [[SI|YES]]
 **How it destroys the image:** 
 Works_on:: [[Estetico|Aesthetic]] 
 
-**Level and Richness of crisis:** 
+**Level and richness of crisis:** 
 Crisis::  [[Media|Medium]]
 
 **Decision:** 
@@ -148,7 +150,7 @@ Selection:: [[Combinable|Combinable]] / [[Guardar|Keep]]
 
 ---
 
-### Potential artistic reference
+### Possible artistic reference
 
 Reference:: [[David Hockney|David Hockney]], [[Jacqueline Humphries|Jacqueline Humphries]], [[Cy Twombly|Cy Twombly]]
 

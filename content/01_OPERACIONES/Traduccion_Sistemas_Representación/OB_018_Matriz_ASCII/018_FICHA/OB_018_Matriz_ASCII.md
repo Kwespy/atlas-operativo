@@ -7,7 +7,7 @@ Estado:: [[Terminada]]
 
 ## 1. Datos de la operación
 
-**Número interno:** OB_18  
+**Número interno:** OB_018  
 **Régimen operativo:** [[Lista_Traduccion_Sistemas_Representacion]]  
 **Imagen de origen:**  Fotografía del Natural
 
@@ -20,8 +20,10 @@ Fotografía raster → cuantización tonal → matriz de caracteres → visualiz
 
 **Herramientas / medio:**  
 -  Illustrator para bajar a 3 colores
-- I illustrator para superponer el texto y empezar a armar la imagen con el teclado
+- Illustrator para superponer el texto y empezar a armar la imagen con el teclado
 - 
+
+**Script (auditoría 2026-09):** No aplica (operación realizada en Illustrator, herramienta manual sin exportación de código).
 
 **Procedimiento técnico:**  
 Fotografía raster → cuantización tonal → matriz de caracteres → visualización tipográfica en pantalla → captura de pantalla como nueva imagen raster.

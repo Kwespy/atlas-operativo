@@ -7,7 +7,7 @@ Estado:: [[Terminada]]
 
 ## 1. Datos de la operación
 
-**Número interno:** OB_007_Logica_AND-OR-XOR
+**Número interno:** OB_007
 **Régimen operativo:** [[Lista_Transformacion_Algoritmica]]
 
 **Imagen de origen:**  
@@ -24,6 +24,8 @@ Prompt a Chatgpt que vaya operando la foto con logica AND-OR-XOR hasta que la fo
 - Camara Iphone 13
 - ChatGpt
 - 
+
+**Script (auditoría 2026-09):** Sin verificar — la ficha indica que se usó un prompt a ChatGPT sobre la foto; no queda claro si eso ejecutó y descartó un script real o si fue generación/edición directa de imagen. A confirmar por el autor.
 
 **Procedimiento técnico:**  
 1. Tomar Foto

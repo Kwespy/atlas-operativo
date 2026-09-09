@@ -14,12 +14,12 @@ Status:: [[Terminada|Finished]]
 ## 1. Operation data
 
 **Internal number:** OB_019 
-**Operational regime:** [[Lista_Traduccion_Sistemas_Representacion|Representation Systems Translation List]]  
-**Source image:** Photographed image converted to a Tonal Matrix
+**Operational regime:** [[Lista_Traduccion_Sistemas_Representacion|Lista Traduccion Sistemas Representacion]]  
+**Source image:**  Photographed image converted into a Tonal Matrix
 
 **Operational description:**  
-Raster image converted into a tonal grid, 128x95 grid with 64 tones.
-Tone numbers are swapped sequentially.
+Raster image is converted into a tonal grid, a 128x95 grid of 64 tones.
+The tone numbers are swapped.
 
 ---
 
@@ -31,7 +31,7 @@ Tone numbers are swapped sequentially.
 - 
 
 **Technical procedure:**  
-1. tones are swapped in groups of three and the script is executed
+1. tones are swapped in groups of three and the script is run
 2. 
 3. 
 4. 
@@ -41,7 +41,7 @@ Tone numbers are swapped sequentially.
 
 ## 3. Variables
 
-The tones are swapped in a controlled manner; there is a pictorial decision involved in this. The number of cells and size within the grid.
+The tones are swapped in a controlled manner; there is a pictorial decision involved in this. The number of cells and the size of the grid.
 
 ---
 
@@ -111,7 +111,7 @@ The tones are swapped in a controlled manner; there is a pictorial decision invo
 
 **The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-The contour and shape of the figure enter into crisis due to the swapping of tones; the contours blend when two similar tones are placed at the edges. The background does as well by changing the tone and bringing together tones from, for example, the table and the wall.
+The contour and shape of the figure enter into crisis due to the tone swapping; the contours blend together when two similar tones are placed at the edges. The background does as well when changing tones and bringing together tones from, for example, the table and the wall.
 
 
 ---
@@ -120,11 +120,11 @@ The contour and shape of the figure enter into crisis due to the swapping of ton
 
 
 **Operation notes / what I learned:**  
-More than just an algorithmic operation can be controlled; by changing the matrix to a simple tonal grid, one can decide how to resample the colors. And I must look at the past image to make more pictorial decisions, in terms of where to swap the tones.
+It is possible to control more than just an algorithmic operation; by changing the matrix to a simple tonal grid, one can decide how to resample the colors. And I need to view the past image to make more pictorial decisions, in the sense of where to swap the tones.
 
 
-**Final_status:** 
-Works:: [[SI|YES]] 
+**Final_state:** 
+Works:: [[SI|SI]] 
 
 **How it destroys the image:** 
 Works_on::  [[Formal|Formal]] 
@@ -133,13 +133,13 @@ Works_on::  [[Formal|Formal]]
 Crisis::  [[Alta|High]]
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Save]] 
+Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]] 
 
 ---
 
 ### Possible artistic reference
 
-Reference:: [[Thomas Bayrle|Thomas Bayrle]], [[Chuck Close|Chuck Close]], [[Jacques Perconte|Jacques Perconte]], [[Takeshi Murata |Takeshi Murata ]], [[Kim Asendorf|Kim Asendorf]], [[Gerhard Richter|Gerhard Richter]]
+Referente:: [[Thomas Bayrle|Thomas Bayrle]], [[Chuck Close|Chuck Close]], [[Jacques Perconte|Jacques Perconte]], [[Takeshi Murata |Takeshi Murata ]], [[Kim Asendorf|Kim Asendorf]], [[Gerhard Richter|Gerhard Richter]]
 
 
 **Possible works:**  

@@ -12,12 +12,12 @@ Estado:: [[Terminada]]
 
 ## 1. Datos de la operación
 
-**Número interno:** OB_15 
+**Número interno:** OB_015 
 **Régimen operativo:** [[Lista_Traduccion_Sistemas_Representacion]]  
 **Imagen de origen:**  Fotografía del natural
 
 **Descripción operativa:**  
-Se le pide a Chatgpt que describa textualmente la foto obtenida del natural. Se imprime la descripcion para luego ir desordando y fragmentando en pedazos la descripcion. Para darle nuevo orden. Luego con ese orden se sube el nuevo texto para que Chatgpt cree nuevamente un imagen segun el texto nuevo.
+Se le pide a ChatGPT que describa textualmente la foto obtenida del natural. Se imprime la descripción para luego ir desordenando y fragmentando en pedazos la descripción, con el fin de darle un nuevo orden. Luego se sube el texto reorganizado para que ChatGPT cree nuevamente una imagen según el texto nuevo.
 
 Prompt: Genera una imagen usando únicamente el siguiente texto desordenado como fuente. No uses contexto previo, no reconstruyas una escena lógica si el texto no la sostiene, y no completes información faltante. 
 
@@ -33,9 +33,11 @@ Prompt: Genera una imagen usando únicamente el siguiente texto desordenado como
 - Papel
 - 
 
+**Script (auditoría 2026-09):** No aplica (operación analógica: impresión, recorte y fotografía; ChatGPT se usó solo para generar la descripción textual, no código).
+
 **Procedimiento técnico:**  
 1. Se Imprime el texto
-2. Se corta gradualmente en frases, palabra, letras, pesazos.
+2. Se corta gradualmente en frases, palabras, letras y pedazos.
 3. Se vuelve a unir en un papel
 4. 
 5. 

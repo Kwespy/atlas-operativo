@@ -28,6 +28,8 @@ Se posteriza para que la cantidad de colores de la foto baje. La imagen no entra
 - Camara del Iphone
 - 
 
+**Script (auditoría 2026-09):** No aplica (operación realizada en Photoshop, herramienta manual sin exportación de código).
+
 **Procedimiento técnico:**  
 1. Se Posteriza al Maximo
 2. Se suben los contrastes y el brillo

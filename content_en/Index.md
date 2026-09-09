@@ -18,12 +18,12 @@ Instead of stabilizing or optimizing the image, the Atlas pushes it toward state
 ## OPERATIONS  
   
 <!-- OPERACIONES_AUTO_START -->
-### Capture and Materialization
+### Capture Materialization
 
 - [[01_OPERACIONES/Captura_Materializacion/OB_001 — Fotografia de pantalla|OB_001 — Screen photography]]
   Works on: Formal · Crisis: High · Works: YES
 
-- [[01_OPERACIONES/Captura_Materializacion/OB_003 — Impresion y Scaner degenerativo|OB_003_Impresion y Scaner degenerativo]]
+- [[01_OPERACIONES/Captura_Materializacion/OB_003 — Impresion y Scaner degenerativo|OB_003_Impresión y Scanner degenerativo]]
   Works on: Formal · Crisis: Low · Works: YES
 
 - [[01_OPERACIONES/Captura_Materializacion/OB_011 — Scanner Portatil|OB_011_Scanner_Portatil]]
@@ -45,7 +45,7 @@ Instead of stabilizing or optimizing the image, the Atlas pushes it toward state
   Works on: Aesthetic · Crisis: Medium · Works: YES ]
 
 
-### Translation of Systems of Representation
+### Representation Systems Translation
 
 - [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_026 — Matriz vectorial rgb|OB 026 — Matriz vectorial rgb]]
   Works on: Formal · Crisis: Medium · Works: YES
@@ -108,5 +108,5 @@ Instead of stabilizing or optimizing the image, the Atlas pushes it toward state
   Works on: Aesthetic · Crisis: Medium · Works: YES
 
 - [[01_OPERACIONES/Transformacion_Algoritmica/OB_024 — Reconstrucción parches erróneos|OB_024_Reconstrucción_parches_erróneos]]
-  Works on: [Formal] · Crisis: [Medium] · Works: [YES]
+  Works on: [Formal] · Crisis: Medium · Works: [YES]
 <!-- OPERACIONES_AUTO_END -->

@@ -7,7 +7,7 @@ lang: en
 # OB_017_Captura_con_Obstruccion
 
 ## Status
-Status::  [[Terminada|Terminada]]
+Status::  [[Terminada|Finished]]
 
 ---
 
@@ -18,19 +18,19 @@ Status::  [[Terminada|Terminada]]
 **Source image:**  Photograph
 
 **Operational description:**  
-A glass of water is placed in front of the mobile phone camera to act as a filter and obstacle. The glass is gradually filled with water.
+A glass of water is placed in front of the mobile phone camera to act as a filter and obstruction. The glass is gradually filled with water.
 
 ---
 
 ## 2. Tools and procedure
 
 **Tools / medium:**  
-- Photo camera
+- Camera
 - Glass
 - Water
 
 **Technical procedure:**  
-1. The glass is gradually filled with water and photographs are taken of it.
+1. The glass is gradually filled with water and photographs are taken.
 2. 
 3. 
 4. 
@@ -46,7 +46,7 @@ A glass of water is placed in front of the mobile phone camera to act as a filte
 - Ambient light
 
 **Uncontrolled / accidental variables:**  
-- Reflection of the water and the shapes of the glass.
+- Water reflection and the shapes of the glass.
 - How the image deforms
 - 
 
@@ -110,11 +110,11 @@ A glass of water is placed in front of the mobile phone camera to act as a filte
 
 ## 6. Crisis and formal-perceptual reading
 
-**Main crisis:** loss of recognition due to refraction and contour fragmentation.
+**Main crisis:** loss of recognition due to refraction and fragmentation of the contour.
 
 **The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-the glass is already a filter that transforms the shape and the contour. both together mix the background with the shape and legibility is lost. the colors remain.
+the glass is already a filter that transforms the shape and the contour. both together mix the background with the shape and legibility is lost. the colors are maintained.
 
 
 ---
@@ -144,7 +144,7 @@ Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]]
 
 ### Possible artistic reference
 
-Referent:: [[Daisuke Yokota|Daisuke Yokota]], [[Luc Tuymans|Luc Tuymans]]
+Referente:: [[Daisuke Yokota|Daisuke Yokota]], [[Luc Tuymans|Luc Tuymans]]
 
 **Possible works:**  
 - [Daisuke Yokota](https://www.google.com/search?q=5.+Daisuke+Yokota+paintings&sca_esv=e44b8a29c1fb6f03&rlz=1C5CHFA_enPT1033PT1033&udm=2&biw=949&bih=952&sxsrf=APpeQnvIhGrwYpejtzitH2YoMLjQs8ANrg%3A1783015280104&ei=cKdGatPrBYL06APe16uIBA&ved=0ahUKEwjT45jDybSVAxUCOnoKHd7rCkEQ4dUDCBE&uact=5&oq=5.+Daisuke+Yokota+paintings&gs_lp=Egtnd3Mtd2l6LWltZyIbNS4gRGFpc3VrZSBZb2tvdGEgcGFpbnRpbmdzSIQjUMMEWIQicAR4AJABAJgBaqABoAiqAQM5LjK4AQPIAQD4AQGYAgCgAgCYAwCIBgGSBwCgB4QBsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz-img)

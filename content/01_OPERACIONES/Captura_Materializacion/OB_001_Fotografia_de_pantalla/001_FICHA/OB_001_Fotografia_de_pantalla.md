@@ -18,6 +18,8 @@ Recapturar una imagen desde la pantalla del computador, haciendo circular la ima
 - Pantalla digital MacBook Pro 2018
 - Fotografía de pantalla
 
+**Nota de materiales:** cada paso del proceso se conserva en dos formatos, .HEIC (original de cámara del iPhone) y .jpg (copia de compatibilidad para visualización). Es una decisión de conservación, no una duplicación accidental.
+
 **Procedimiento técnico:**  
 1. Tomar una fotografía del objeto natural.
 2. Enviar la fotografía al MacBook.
@@ -55,7 +57,7 @@ Recapturar una imagen desde la pantalla del computador, haciendo circular la ima
 ## 3. Proceso visual
 
 ### Imagen inicial
-![[OB001_input.jpg|200]]
+![[Input_001.jpg.webp|200]]
 
 
 
@@ -211,6 +213,7 @@ Seleccion:: [[Combinable]] / [[Guardar]]
 ### Referente artístico posible
 
 Referente:: [[Jacqueline Humphries]], [[Liz Deschenes]], [[Christiane Baumgartner]]
+
 **Obras posibles:**  
 - [Jacqueline Humphries](https://www.artsy.net/artwork/jacqueline-humphries-1)
 

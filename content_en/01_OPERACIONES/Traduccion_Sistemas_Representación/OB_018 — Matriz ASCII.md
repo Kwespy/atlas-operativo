@@ -7,15 +7,15 @@ lang: en
 # OB_018_Matriz_ASCII
 
 ## Status
-Status:: [[Terminada|Terminada]]
+Status:: [[Terminada|Finished]]
 
 ---
 
 ## 1. Operation data
 
-**Internal number:** OB_18  
+**Internal number:** OB_018  
 **Operational regime:** [[Lista_Traduccion_Sistemas_Representacion|Lista Traduccion Sistemas Representacion]]  
-**Source image:** Natural photograph
+**Source image:**  Photograph from life
 
 **Operational description:**  
 Raster photograph → tonal quantization → character matrix → typographic display on screen → screenshot as a new raster image.
@@ -25,9 +25,11 @@ Raster photograph → tonal quantization → character matrix → typographic di
 ## 2. Tools and procedure
 
 **Tools / medium:**  
-- Illustrator to reduce to 3 colors
-- Illustrator to overlay the text and start building the image with the keyboard
+-  Illustrator to reduce to 3 colors
+- Illustrator to overlay the text and begin building the image using the keyboard
 - 
+
+**Script (2026-09 audit):** Not applicable (operation performed in Illustrator, manual tool without code export).
 
 **Technical procedure:**  
 Raster photograph → tonal quantization → character matrix → typographic display on screen → screenshot as a new raster image.
@@ -37,12 +39,12 @@ Raster photograph → tonal quantization → character matrix → typographic di
 ## 3. Variables
 
 **Controlled variables:**  
-- photograph
+-  photograph
 - number of colors
 - number of characters to simulate tones
 
 **Uncontrolled / accidental variables:**  
-- the character always yields the same tone.
+- the character always yields the same tone. 
 - 
 - 
 
@@ -111,9 +113,9 @@ Raster photograph → tonal quantization → character matrix → typographic di
 
 **Main crisis:** general
 
-**The operation affects the visual grammar of the image: shape, outline, color, figure/ground relationship, legibility, recognition, and support:**
+**The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-the crisis is complete regarding the representation system or everything formal; the only thing that does not change is the support.
+the crisis is complete regarding the representation system or everything formal, the only thing that does not change is the support.
 
 ---
 
@@ -121,7 +123,7 @@ the crisis is complete regarding the representation system or everything formal;
 
 
 **Operation notes / what I learned:**  
-CHATGPT cannot easily understand the image; I had to build the shape and outline in more detail so that GPT could state with 100% certainty that it was a ball. It is the shift from the raster language, which is a pixel image, to the ASCII format, which is based on the organization of characters. Then it returned to raster through the screenshot so that GPT could understand it. GPT reads it via ASCII at the beginning. Language shift
+CHATGPT cannot easily understand the image; I had to build the shape and contour in more detail so that GPT could say with 100% certainty that it was a ball. It is a shift from the raster language, which is a pixel image, to the ASCII format, which is based on the organization of characters. Then it returned to raster through the screenshot and so that GPT could understand it. GPT reads it via ASCII at the beginning. Change of language
 
 
 **Final_status:** 
@@ -130,17 +132,17 @@ Works:: [[SI|SI]]
 **How it destroys the image:** 
 Works_on::  [[Formal|Formal]] 
 
-**Level and Richness of crisis:** 
-Crisis::  [[Media|Media]] 
+**Level and richness of crisis:** 
+Crisis::  [[Media|Medium]] 
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]] 
+Selection:: [[Combinable|Combinable]] / [[Guardar|Keep]] 
 
 ---
 
 ### Possible artistic reference
 
-Referente:: [[Guillaume Apollinaire |Guillaume Apollinaire ]], [[JODI|JODI]], [[Leon Harmon & Ken Knowlton |Leon Harmon & Ken Knowlton ]], [[Vuk Ćosić|Vuk Ćosić]], [[Chuck Close|Chuck Close]]
+Referent:: [[Guillaume Apollinaire |Guillaume Apollinaire ]], [[JODI|JODI]], [[Leon Harmon & Ken Knowlton |Leon Harmon & Ken Knowlton ]], [[Vuk Ćosić|Vuk Ćosić]], [[Chuck Close|Chuck Close]]
 
 **Possible works:**  
 - [Guillaume Apollinaire — La cravate et la montre](https://www.google.com/search?sca_esv=6ac0c82fe28ce797&rlz=1C5CHFA_enPT1033PT1033&sxsrf=APpeQnvoSsVi5CXs4NIrudOJd0QsrAIanw:1783113278658&udm=2&fbs=ABfTbFVE7fo27_vcY8j5eDk2L2SoROv72uIpBYurdHJhNXjr5I-uJFqOKHDkQzXNR2pVujVjYfw4_nxXlMEsKDcnqTc2rk-FgDtuj4wl-w5tLm5CKBj-kh0GCvz5m1fzviuB1XEwbVtjnnPqcJlMbpbEklMeCu-8xTX4UrrrKBsVE2K1Jcvrt176gRyglTU47mDpbPhKRQ252fuY5rmbZhnxbJnj8TGklGopG9tfF3_u9doUybDE-OnwQ-yllLe_niXANAZYsfBR&q=Guillaume+Apollinaire+%E2%80%94+La+cravate+et+la+montre&sa=X&ved=2ahUKEwiv_8XMtreVAxWXB9sEHeZPPCcQtKgLegQIHBAB&biw=1419&bih=901&dpr=2)

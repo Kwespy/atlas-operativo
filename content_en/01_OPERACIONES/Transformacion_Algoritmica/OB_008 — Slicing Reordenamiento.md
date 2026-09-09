@@ -11,25 +11,27 @@ Status:: [[Terminada|Terminada]]
 
 ---
 
-## 1. Operation Data
+## 1. Operation data
 
-**Internal number:** OB_008_Slicing_Reordenamiento
+**Internal number:** OB_008
 **Operational regime:** [[Lista_Transformacion_Algoritmica|Lista Transformacion Algoritmica]]  
 
 **Source image:**  
 Photograph from life
 
 **Operational description:**  
-The photograph was used with a prompt in ChatGPT to perform the slicing and rearrangement operation.
+The photograph was used with a prompt in ChatGPT to perform the Slicing and Reordering operation.
 
 ---
 
-## 2. Tools and Procedure
+## 2. Tools and procedure
 
 **Tools / medium:**  
 - iPhone camera
 - ChatGPT
 - 
+
+**Script (2026-09 audit):** Unverified — the record indicates that a prompt was used on ChatGPT regarding the photograph; it remains unclear whether this executed and discarded an actual script or if it was direct image generation/editing. To be confirmed by the author.
 
 **Technical procedure:**  
 1. Prompt
@@ -44,7 +46,7 @@ The photograph was used with a prompt in ChatGPT to perform the slicing and rear
 
 **Controlled variables:**  
 - Photograph
-- Prompt words
+- Prompt wording
 - 
 
 **Uncontrolled / accidental variables:**  
@@ -54,7 +56,7 @@ The photograph was used with a prompt in ChatGPT to perform the slicing and rear
 
 ---
 
-## 4. Visual Sequence
+## 4. Visual sequence
 
 ### Initial image
 ![[OB008_input.jpg|200]]
@@ -85,7 +87,7 @@ The photograph was used with a prompt in ChatGPT to perform the slicing and rear
 
 ---
 
-## 5. Visual Selection
+## 5. Visual selection
 
 ### Crisis / threshold according to AI-assisted reading / ChatGPT
 
@@ -97,26 +99,26 @@ The photograph was used with a prompt in ChatGPT to perform the slicing and rear
 
 ---
 
-## 6. Crisis and Formal-Perceptual Reading
+## 6. Crisis and formal-perceptual reading
 
 **Main crisis:** Crisis of recognition of the image's object
 
 The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support.
 
-Legibility is lost because the object is destroyed and opened up into pieces. The destruction and the crisis look very orderly and aesthetic. It always displays well, with a certain strange layout pleasing to the eye.
+Legibility is gradually lost because the object becomes destroyed and broken into pieces. The destruction and the crisis look very orderly and aesthetic. It always presents itself well, with a certain strange layout that is pleasing to the eye.
 
 
 ---
 
-## 7. Final Evaluation and Artistic Reference
+## 7. Final evaluation and artistic reference
 
 **Question for the operation:**  
-Does this operation truly put the image into crisis, or does it function merely as an aesthetic effect?
+Does this operation truly put the image in crisis, or does it function only as an aesthetic effect?
 
-The crisis is aesthetic, of form rather than of the image.
+The crisis is aesthetic, of the form, not of the image.
 
 **Operation notes / what I learned:**  
-With general A.I. tools, the crisis enters through the aesthetics of form. These are visual operations that break the form and meaning of the image, but it is not the image itself that enters into crisis. The image in general as a digital object.
+With A.I. tools, the crisis enters through the aesthetics of form. These are visual operations that break the form and meaning of the image, but it is not the image that enters into crisis. The image in general as a digital object.
 
 **Final_status:** 
 Works:: [[NO|NO]]
@@ -124,7 +126,7 @@ Works:: [[NO|NO]]
 **How it destroys the image:** 
 Works_on:: [[Estetico|Estetico]]
 
-**Level and Richness of crisis:** 
+**Level and richness of crisis:** 
 Crisis::  [[Alta|Alta]]
 
 **Decision:** 

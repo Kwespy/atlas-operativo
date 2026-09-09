@@ -3,19 +3,19 @@ lang: en
 ---
 
 ## Status
-Status::  [[Terminada|Finished]]
+Status::  [[Terminada|Terminada]]
 
 ---
 
-## 1. Operation data
+## 1. Operation Data
 
 **Internal number:** OB_027
-**Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
-**Source image:**  Digital Photograph
+**Operational regime:** [[Lista_Transformacion_Algoritmica|Lista Transformacion Algoritmica]]  
+**Source image:**  Digital Photography
 
 **Operational description:**  
 
-Each pixel moves along a trajectory determined by its chromatic information: the RGB proportion defines the direction, the brightness determines the distance, and the saturation modifies the curvature. The accumulation of these trajectories produces a progressive drift of the original image.
+Each pixel moves along a trajectory determined by its chromatic information: the RGB proportion defines the direction, brightness determines the distance, and saturation modifies the curvature. The accumulation of these trajectories produces a progressive drift of the original image.
 
 ---
 
@@ -40,17 +40,17 @@ Each pixel moves along a trajectory determined by its chromatic information: the
 
 **Uncontrolled / accidental variables:**  
 
-- Overlap and concentration of pixels during displacement
+- Pixel overlap and concentration during displacement
 - Empty or sparse areas produced by pixels leaving their original positions
-- Emerging shapes, spots, and transitions determined by the particular chromatic distribution of the source image
+- Emerging shapes, stains, and transitions determined by the particular chromatic distribution of the source image
 
 
 ---
 
-## 4. Visual sequence
+## 4. Visual Sequence
 
 ### Initial image
-![[input_03.jpeg.webp|200]]
+![[Input_003.jpeg|200]]
 
 ### Step 01
 ![[OB027_step01.png.webp|200]]
@@ -92,7 +92,7 @@ Each pixel moves along a trajectory determined by its chromatic information: the
 
 ---
 
-## 5. Visual selection
+## 5. Visual Selection
 
 ### Crisis / threshold according to AI-assisted reading / ChatGPT
 
@@ -111,7 +111,7 @@ Each pixel moves along a trajectory determined by its chromatic information: the
 
 ---
 
-## 6. Crisis and formal-perceptual reading
+## 6. Crisis and Formal-Perceptual Reading
 
 
 **Where the crisis occurs and the operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
@@ -121,28 +121,28 @@ Its contours begin to dissolve and blend into the background. Color remains as a
 
 ---
 
-## 7. Final evaluation and artistic reference
+## 7. Final Evaluation and Artistic Reference
 
 
 **Operation notes / what I learned:**  
 
-This operation also feels [[organica|organic]] and [[pictorica|pictorial]], and it can be controlled quite a bit. It is like wiping a cloth across the image.
+This operation also feels [[organica|organica]] and [[pictorica|pictorica]] and can be handled quite a bit. It is like wiping a rag across the image.
 
 **Final_status:** 
-Works:: [[SI|YES]] 
+Works:: [[SI|SI]] 
 
 **How it destroys the image:** 
 Works_on:: [[Formal|Formal]] 
 
-**Level and Richness of crisis:** 
-Crisis::   [[Alta|High]]
+**Level and richness of crisis:** 
+Crisis::   [[Alta|Alta]]
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Save]] 
+Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]] 
 
 ---
 
-### Potential artistic reference
+### Potential Artistic Reference
 
 Reference:: [[Gerhard Richter|Gerhard Richter]], [[Wilhelm Sasnal|Wilhelm Sasnal]], [[JMW Turner|JMW Turner]], [[James Whistler|James Whistler]], [[Claude Monet|Claude Monet]]
 

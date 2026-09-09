@@ -9,11 +9,11 @@ Status:: [[Terminada|Finished]]
 
 ---
 
-## 1. Operation details
+## 1. Operation data
 
-**Internal number:** OB_18  
+**Internal number:** OB_018  
 **Operational regime:** [[Lista_Traduccion_Sistemas_Representacion|Representation Systems Translation List]]  
-**Source image:**  Life Photograph
+**Source image:** From-life photograph
 
 **Operational description:**  
 Raster photograph → tonal quantization → character matrix → typographic display on screen → screenshot as a new raster image.
@@ -24,8 +24,10 @@ Raster photograph → tonal quantization → character matrix → typographic di
 
 **Tools / medium:**  
 - Illustrator to reduce to 3 colors
-- Illustrator to overlay the text and start building the image using the keyboard
+- Illustrator to overlay text and start assembling the image using the keyboard
 - 
+
+**Script (2026-09 audit):** Not applicable (operation performed in Illustrator, manual tool with no code export).
 
 **Technical procedure:**  
 Raster photograph → tonal quantization → character matrix → typographic display on screen → screenshot as a new raster image.
@@ -36,11 +38,11 @@ Raster photograph → tonal quantization → character matrix → typographic di
 
 **Controlled variables:**  
 - photograph
-- number of colors
-- number of characters to simulate tones
+- amount of colors
+- amount of characters to simulate tones
 
 **Uncontrolled / accidental variables:**  
-- the character always produces the same tone. 
+- the character always yields the same tone.
 - 
 - 
 
@@ -109,9 +111,9 @@ Raster photograph → tonal quantization → character matrix → typographic di
 
 **Main crisis:** general
 
-**The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support:**
+**The operation affects the image's visual grammar: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-the crisis is complete regarding the representation system or everything formal, the only thing that remains unchanged is the support.
+the crisis is complete in terms of the representation system or everything formal, the only thing that does not change is the support.
 
 ---
 
@@ -119,7 +121,7 @@ the crisis is complete regarding the representation system or everything formal,
 
 
 **Operation notes / what I learned:**  
-CHATGPT cannot easily understand the image; I had to build the form and contour in more detail so that GPT could say with 100% certainty that it was a ball. It is the shift from the raster language, which is a pixel image, to the ASCII format, which is based on the organization of characters. Then it went back to raster through the screenshot so that GPT could understand it. GPT reads it via ASCII at first. Language shift
+CHATGPT cannot understand the image easily, I had to build a more detailed shape and contour so that GPT could say with 100% certainty that it was a ball. It is the shift from the raster language, which is a pixel image, to the ASCII format, which is based on the organization of characters. Then it returned to raster through the screenshot and so that GPT could understand it. GPT reads it through ASCII at the beginning. Language shift
 
 
 **Final_status:** 

@@ -5,24 +5,24 @@ lang: en
 # OB_020_Matriz_Topografica
 
 ## Status
-Status:: [[Terminada|Finished]]
+Status:: [[Terminada|Terminada]]
 
 ---
 
 ## 1. Operation data
 
-**Internal number:** OB_20  
+**Internal number:** OB_020  
 **Operational regime:** [[Lista_Traduccion_Sistemas_Representacion|Lista Traduccion Sistemas Representacion]]  
 **Source image:**  Photograph
 
 **Operational description:**  
-A script is created to generate topographical lines according to volume.
+A script is created to generate topographic lines based on volume.
 
 ---
 
 ## 2. Tools, procedure, and Variables
 
- A script is created that first recognizes the sphere and then the background. The variables are the number of lines used to create the volume of the image. It is not possible to control where the lines will pass.
+ A script is created that first recognizes the sphere and then the background. The variables are the number of lines used to create the volume of the image. You cannot control where the lines will pass.
 
 
 ---
@@ -74,9 +74,9 @@ A script is created to generate topographical lines according to volume.
 
 ## 6. Crisis and formal-perceptual reading
 
-**The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support:**
+**The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-The crisis is due to the amount of lines; the form, contour, and its relationship with the background are gradually lost. Color disappears, and only form is worked on.
+The crisis is due to the amount of lines; the shape, the contour, and their relationship with the background are gradually lost. Color disappears, work is done only on form.
 
 
 
@@ -86,7 +86,7 @@ The crisis is due to the amount of lines; the form, contour, and its relationshi
 
 
 **Operation notes / what I learned:** 
-It works with a raster image and the mediation is algorithmic, but the result of its translation is in another system of representation: the topographical image.
+It works with a raster image and the mediation is algorithmic, but the result of its translation is in another representation system, which is a topographic image.
 
 
 **Final_status:** 
@@ -95,7 +95,7 @@ Works:: [[SI|SI]]
 **How it destroys the image:** 
 Works_on::  [[Formal|Formal]] 
 
-**Level and richness of crisis:** 
+**Level and Richness of crisis:** 
 Crisis::   [[Media|Media]] 
 
 **Decision:** 

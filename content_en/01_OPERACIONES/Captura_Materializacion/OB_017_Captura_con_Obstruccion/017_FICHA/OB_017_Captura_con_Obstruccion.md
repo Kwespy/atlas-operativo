@@ -16,14 +16,14 @@ Status::  [[Terminada|Finished]]
 **Source image:**  Photograph
 
 **Operational description:**  
-A glass of water is placed in front of the mobile camera to act as a filter and obstacle. The glass is gradually filled with water.
+A glass of water is placed in front of the mobile phone camera to act as a filter and obstruction. The glass is gradually filled with water.
 
 ---
 
 ## 2. Tools and procedure
 
 **Tools / medium:**  
-- Camera
+- Photo camera
 - Glass
 - Water
 
@@ -44,7 +44,7 @@ A glass of water is placed in front of the mobile camera to act as a filter and 
 - Ambient light
 
 **Uncontrolled / accidental variables:**  
-- Reflection of the water and the shapes of the glass.
+- Water reflection and the shapes of the glass.
 - How the image deforms
 - 
 
@@ -108,7 +108,7 @@ A glass of water is placed in front of the mobile camera to act as a filter and 
 
 ## 6. Crisis and formal-perceptual reading
 
-**Main crisis:** loss of recognition due to refraction and fragmentation of the contour.
+**Main crisis:** loss of recognition due to refraction and contour fragmentation.
 
 **The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
@@ -126,23 +126,23 @@ the glass is already a filter that transforms the shape and contour. together th
 It is a simple operation, and the transformation of the shape is similar to what an algorithm can achieve. It is difficult to control.
 
 
-**Final_status:** 
+**Final_state:** 
 Works:: [[SI|SI]]
 
 **How it destroys the image:** 
 Works_on:: [[Formal|Formal]] 
 
-**Level and richness of crisis:** 
-Crisis::  [[Alta|High]]
+**Level and Richness of crisis:** 
+Crisis::  [[Alta|Alta]]
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Save]] 
+Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]] 
 
 ---
 
 ### Possible artistic reference
 
-Referent:: [[Daisuke Yokota|Daisuke Yokota]], [[Luc Tuymans|Luc Tuymans]]
+Referente:: [[Daisuke Yokota|Daisuke Yokota]], [[Luc Tuymans|Luc Tuymans]]
 
 **Possible works:**  
 - [Daisuke Yokota](https://www.google.com/search?q=5.+Daisuke+Yokota+paintings&sca_esv=e44b8a29c1fb6f03&rlz=1C5CHFA_enPT1033PT1033&udm=2&biw=949&bih=952&sxsrf=APpeQnvIhGrwYpejtzitH2YoMLjQs8ANrg%3A1783015280104&ei=cKdGatPrBYL06APe16uIBA&ved=0ahUKEwjT45jDybSVAxUCOnoKHd7rCkEQ4dUDCBE&uact=5&oq=5.+Daisuke+Yokota+paintings&gs_lp=Egtnd3Mtd2l6LWltZyIbNS4gRGFpc3VrZSBZb2tvdGEgcGFpbnRpbmdzSIQjUMMEWIQicAR4AJABAJgBaqABoAiqAQM5LjK4AQPIAQD4AQGYAgCgAgCYAwCIBgGSBwCgB4QBsgcAuAcAwgcAyAcAgAgB&sclient=gws-wiz-img)

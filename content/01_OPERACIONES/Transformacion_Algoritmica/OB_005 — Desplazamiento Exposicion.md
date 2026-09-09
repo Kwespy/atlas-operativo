@@ -14,7 +14,7 @@ Estado:: [[Terminada]]
 
 **Número interno:** OB_005  
 **Régimen operativo:** [[Lista_Transformacion_Algoritmica]]  
-**Imagen de origen:**  Fotogafia del natural
+**Imagen de origen:**  Fotografía del natural
 
 **Descripción operativa:**  
 En photoshop a la imagen se le sube exposicion y se le baja
@@ -27,6 +27,8 @@ En photoshop a la imagen se le sube exposicion y se le baja
 - Photoshop
 - Imagen de Camera de Foto
 - 
+
+**Script (auditoría 2026-09):** No aplica (operación realizada en Photoshop, herramienta manual sin exportación de código).
 
 **Procedimiento técnico:**  
 1. Subir y bajar exposicion
@@ -107,7 +109,7 @@ En photoshop a la imagen se le sube exposicion y se le baja
 
 ## 6. Crisis y lectura formal-perceptiva
 
-**Crisis principal:** pendiente.
+**Crisis:** 
 
 La operación afecta la gramática visual de la imagen: forma, contorno, color, relación figura/fondo, legibilidad, reconocimiento y soporte.
 

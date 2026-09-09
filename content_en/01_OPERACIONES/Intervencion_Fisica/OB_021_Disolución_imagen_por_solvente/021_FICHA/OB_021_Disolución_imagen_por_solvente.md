@@ -2,7 +2,7 @@
 lang: en
 ---
 
-# OB_021  — Solvent_Image_Dissolution
+# OB_021  — Solvent_image_dissolution
 
 ## Status
 Status:: [[Terminada|Finished]]
@@ -16,7 +16,7 @@ Status:: [[Terminada|Finished]]
 **Source image:** Printed photograph
 
 **Operational description:**  
-The toner-printed image on A4 paper has its ink diluted using a solvent (Acetone).
+The toner-printed image on A4 paper has its ink diluted with a solvent (Acetone).
 
 ---
 
@@ -28,17 +28,17 @@ The toner-printed image on A4 paper has its ink diluted using a solvent (Acetone
 - 
 
 **Technical procedure:**  
-Acetone is poured, and using fingers and a piece of paper, it is rubbed so that the print dilutes and mixes.
+Acetone is poured, rubbed with fingers and paper so that the print dilutes and mixes.
 
 ---
 
 ## 3. Variables
 
 **Controlled variables:**  
-Amount and quality of acetone. // Type of print.
+Quantity and quality of Acetone. // Type of print
 
 **Uncontrolled / accidental variables:**  
-The movement and randomness of the liquid. Which color the acetone will act upon.
+The movement and chance of the liquid. Which color the acetone will act upon.
 
 ---
 
@@ -105,7 +105,7 @@ The movement and randomness of the liquid. Which color the acetone will act upon
 
 **The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-The operation affects the support; the liquid wrinkles the paper and also acts on the ink, which dilutes and mixes, causing the form to lose structure and the figure and ground to interact. Color mixes; certain colors are more susceptible to acetone, black easily starts to yield, covering the image with a grey.
+The operation affects the support, the liquid wrinkles the paper and also acts on the ink, which dilutes and mixes, causing the form to lose structure and the figure-ground to interact. Color mixes; certain colors are more susceptible to acetone, black easily begins to yield, covering the image with a gray tone.
 
 
 
@@ -115,7 +115,7 @@ The operation affects the support; the liquid wrinkles the paper and also acts o
 
 
 **Operation notes / what I learned:**  
-The photographic record also affected the final archive. Depending on the ambient light, the record changes. It works but it is not very malleable.
+The photographic documentation also affected the final archive. Depending on the ambient light, the documentation changes. It works, but it is not very malleable.
 
 
 **Final_status:** 

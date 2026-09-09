@@ -22,7 +22,7 @@ En lugar de estabilizar u optimizar la imagen, el Atlas la empuja hacia estados 
 - [[01_OPERACIONES/Captura_Materializacion/OB_001 — Fotografia de pantalla|OB_001 — Fotografía de pantalla]]
   Trabaja en: Formal · Crisis: Alta · Funciona: SI
 
-- [[01_OPERACIONES/Captura_Materializacion/OB_003 — Impresion y Scaner degenerativo|OB_003_Impresion y Scaner degenerativo]]
+- [[01_OPERACIONES/Captura_Materializacion/OB_003 — Impresion y Scaner degenerativo|OB_003_Impresión y Scanner degenerativo]]
   Trabaja en: Formal · Crisis: Baja · Funciona: SI
 
 - [[01_OPERACIONES/Captura_Materializacion/OB_011 — Scanner Portatil|OB_011_Scanner_Portatil]]
@@ -107,5 +107,5 @@ En lugar de estabilizar u optimizar la imagen, el Atlas la empuja hacia estados 
   Trabaja en: Estetico · Crisis: Media · Funciona: SI
 
 - [[01_OPERACIONES/Transformacion_Algoritmica/OB_024 — Reconstrucción parches erróneos|OB_024_Reconstrucción_parches_erróneos]]
-  Trabaja en: [Formal] · Crisis: [Media] · Funciona: [SI]
+  Trabaja en: [Formal] · Crisis: Media · Funciona: [SI]
 <!-- OPERACIONES_AUTO_END -->

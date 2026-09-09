@@ -5,18 +5,18 @@ lang: en
 ---
 
 ## Status
-Status::  [[Terminada|Finished]]
+Status::  [[Terminada|Terminada]]
 
 ---
 
 ## 1. Operation Data
 
-**Internal number:** OB_000 + OB_000
-**Operational regime:** [[Lista_Combinaciones|Combinations List]]  
-**Source image:** Digital Photography
+**Internal number:** OB_025
+**Operational regime:** [[Lista_Combinaciones|Lista Combinaciones]]  
+**Source image:**  Digital Photography
 
 **Operational description:**  
-The script groups neighboring pixels with similar RGB values and increases their saturation according to the size and presence of each group, progressively driving the image toward a crisis of legibility.
+The script groups neighboring pixels with similar RGB values and increases their saturation according to the size and presence of each group, progressively pushing the image toward a crisis of legibility.
 
 ---
 
@@ -33,13 +33,13 @@ The script groups neighboring pixels with similar RGB values and increases their
 ## 3. Variables
 
 **Controlled variables:**  
-- Number of divisions or RGB bins.
+- Quantity of RGB divisions or _bins_.
 - Minimum size of pixel groups.
-- Saturation intensity and degree of unification between similar colors.
+- Saturation intensity and degree of unification among similar colors.
 
 **Uncontrolled / accidental variables:**  
 
-The initial color distribution and proximity between pixels in the source image, which determines which groups are formed and where the zones of highest saturation appear.
+The initial distribution of colors and the proximity between pixels in the source image, which determines which groups are formed and where the areas of highest saturation appear.
 
 
 ---
@@ -47,7 +47,7 @@ The initial color distribution and proximity between pixels in the source image,
 ## 4. Visual Sequence
 
 ### Initial image
-![[input_03.jpeg.webp]]
+![[Input_003.jpeg]]
 
 ### Step 01
 ![[OB025_step01.jpg.webp|200]]
@@ -165,25 +165,25 @@ Saturation begins to dominate over the original information: contours weaken, ce
 
 **Operation notes / what I learned:**  
 
-This operation yields a pictorial result and does not feel like a fully digital operation.
+This operation produces a pictorial result and does not feel like a fully digital operation.
 A script can be built following a logic and it can be articulated to be more complex and have a more complex logic as well.
 
 
 **Final_status:** 
-Works:: [[SI|YES]] 
+Works:: [[SI|SI]] 
 
 **How it destroys the image:** 
 Works_on::  [[Formal|Formal]] 
 
 **Level and Richness of crisis:** 
-Crisis::  [[Alta|High]]
+Crisis::  [[Alta|Alta]]
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Save]] / [[Tesis|Thesis]]
+Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]] / [[Tesis|Tesis]]
 
 ---
 
-### Potential Artistic Reference
+### Possible Artistic Reference
 
 Reference:: [[Vincent van Gogh|Vincent van Gogh]], [[Andre Derain|Andre Derain]], [[Maurice de Vlaminck|Maurice de Vlaminck]], [[Ernst Ludwig Kirchner|Ernst Ludwig Kirchner]], [[Daniel Richter|Daniel Richter]],
 

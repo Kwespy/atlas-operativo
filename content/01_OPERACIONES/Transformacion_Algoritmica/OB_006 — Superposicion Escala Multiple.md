@@ -12,9 +12,9 @@ Estado:: [[Terminada]]
 
 ## 1. Datos de la operación
 
-**Número interno:** OB_006_Superposicion_Escala_Multiple  
+**Número interno:** OB_006  
 **Régimen operativo:** [[Lista_Transformacion_Algoritmica]]  
-**Imagen de origen:**  Fotografia tomada del natural
+**Imagen de origen:**  Fotografía tomada del natural
 
 **Descripción operativa:**  
 La imagen se copia y se superpone sucesivamente a distintas escalas para construir una composición múltiple. La acumulación de copias altera el tamaño relativo de las formas y dificulta el reconocimiento del objeto original.
@@ -26,6 +26,8 @@ La imagen se copia y se superpone sucesivamente a distintas escalas para constru
 **Herramientas / medio:**  
 - Photoshop
 - Cámara del iPhone
+
+**Script (auditoría 2026-09):** No aplica (operación realizada en Photoshop, herramienta manual sin exportación de código).
 
 **Procedimiento técnico:**  
 1. Copiar y pegar sucesivamente la imagen input
@@ -40,13 +42,12 @@ La imagen se copia y se superpone sucesivamente a distintas escalas para constru
 
 **Variables controladas:**  
 - El diagrama de la composición
-- 
-- 
+- Escala de las copias
+- Cantidad y disposición de las imágenes superpuestas
 
 **Variables no controladas / accidentales:**  
-- 
-- 
-- 
+- Variaciones producidas por la composición de las capas
+- Cambios perceptivos en el umbral de reconocimiento
 
 ---
 
@@ -125,7 +126,7 @@ El reconocimiento del objeto colapsa por el tamaño. La crisis no afecta princip
 **Pregunta a la operación:**  
 ¿Esta operación pone realmente en crisis la imagen o funciona solo como efecto estético?
 
-La crisis es estetica
+La crisis es estética.
 
 **Notas de la operación / qué aprendí:**  
 Es una operación simple que no aporta demasiada novedad o riqueza por sí sola. Puede combinarse con otras operaciones. El umbral de reconocimiento propio es más exigente que el umbral identificado mediante asistencia de IA.

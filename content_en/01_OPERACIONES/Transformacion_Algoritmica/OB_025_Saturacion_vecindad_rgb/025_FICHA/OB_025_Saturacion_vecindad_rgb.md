@@ -3,18 +3,18 @@ lang: en
 ---
 
 ## Status
-Status::  [[Terminada|Terminada]]
+Status::  [[Terminada|Finished]]
 
 ---
 
 ## 1. Operation data
 
-**Internal number:** OB_000 + OB_000
-**Operational regime:** [[Lista_Combinaciones|Lista Combinaciones]]  
-**Source image:**  Digital Photograph
+**Internal number:** OB_025
+**Operational regime:** [[Lista_Combinaciones|Combination List]]  
+**Source image:**  Digital Photography
 
 **Operational description:**  
-The script groups neighboring pixels with similar RGB values and increases their saturation according to the size and presence of each group, progressively pushing the image toward a crisis of legibility.
+The script groups neighboring pixels with similar RGB values and increases their saturation according to the size and presence of each group, progressively driving the image toward a crisis of legibility.
 
 ---
 
@@ -31,9 +31,9 @@ The script groups neighboring pixels with similar RGB values and increases their
 ## 3. Variables
 
 **Controlled variables:**  
-- Number of RGB divisions or _bins_.
+- Quantity of RGB divisions or _bins_.
 - Minimum size of pixel groups.
-- Saturation intensity and degree of unification between similar colors.
+- Saturation intensity and degree of unification among similar colors.
 
 **Uncontrolled / accidental variables:**  
 
@@ -45,7 +45,7 @@ The initial color distribution and proximity between pixels in the source image,
 ## 4. Visual sequence
 
 ### Initial image
-![[input_03.jpeg.webp]]
+![[Input_003.jpeg]]
 
 ### Step 01
 ![[OB025_step01.jpg.webp|200]]
@@ -153,7 +153,7 @@ The initial color distribution and proximity between pixels in the source image,
 
 **Where the crisis occurs and the operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-Saturation begins to override the original information: contours weaken, certain figure and ground areas blur together, and the landscape remains at an intermediate point between recognition and abstraction. **Color** is the main element causing the loss of legibility, while the digital support remains unchanged.
+Saturation begins to dominate over the original information: contours weaken, certain figure and ground areas become confused, and the landscape remains at an intermediate point between recognition and abstraction. **Color** is the main element causing the loss of legibility, while the digital support remains unchanged.
 
 
 ---
@@ -163,21 +163,21 @@ Saturation begins to override the original information: contours weaken, certain
 
 **Operation notes / what I learned:**  
 
-This operation produces a pictorial result and does not feel like a completely digital operation.
+This operation produces a pictorial result and does not feel like a fully digital operation.
 A script can be built following a logic and it can be articulated to be more complex and have a more complex logic as well.
 
 
-**Final_status:** 
-Works:: [[SI|SI]] 
+**Final_state:** 
+Works:: [[SI|YES]] 
 
 **How it destroys the image:** 
 Works_on::  [[Formal|Formal]] 
 
 **Level and richness of crisis:** 
-Crisis::  [[Alta|Alta]]
+Crisis::  [[Alta|High]]
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]] / [[Tesis|Tesis]]
+Selection:: [[Combinable|Combinable]] / [[Guardar|Save]] / [[Tesis|Thesis]]
 
 ---
 

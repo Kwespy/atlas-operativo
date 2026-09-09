@@ -5,7 +5,7 @@ lang: en
 # OB_011_Scanner_Portatil
 
 ## Status
-Status:: [[Terminada|Finished]]
+Status:: [[Terminada|Terminada]]
 
 ---
 
@@ -13,10 +13,10 @@ Status:: [[Terminada|Finished]]
 
 **Internal number:** OB_011
 **Operational regime:** [[Lista_Captura_Materializacion|Lista Captura Materializacion]]  
-**Source image:** From Life  
+**Source image:** From life  
 
 **Operational description:**  
-The primer object was scanned using the portable scanner to attempt model recognition, then it began to be scanned freely to create and use the tool in other ways
+The first object was scanned with the portable scanner to attempt a model recognition, then it began to be scanned freely to create and use the tool in other ways
 
 ---
 
@@ -39,10 +39,10 @@ The primer object was scanned using the portable scanner to attempt model recogn
 ## 3. Variables
 
 **Controlled variables:**  
-- Hand movement
-- Image resolution
-- Number of colors in the image
-- Image format
+- The movement of the hand
+- The image resolution
+- The number of colors in the image
+- The image format
 - 
 
 **Uncontrolled / accidental variables:**  
@@ -113,7 +113,7 @@ The primer object was scanned using the portable scanner to attempt model recogn
 
 The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support.
 
-The main crisis is due to the interruption of the form; the colors remain stable, only becoming slightly more aged. In itself, the tool cannot capture the form in its entirety and in its natural structure. Furthermore, by using the tool creatively, it can be operated so that more scanning and disorder of the object's flow and perspective change
+The main crisis is due to the interruption of the form; the colors remain stable, only becoming slightly more aged. In itself, the tool cannot capture the form in its totality and natural structure; furthermore, by using the tool creatively, one can operate so that more scanning and disorder of the object's flow and perspective change
 
 ---
 
@@ -125,22 +125,22 @@ The operation can be used creatively; the executor can use it as a free creation
 
 
 **Final_status:** 
-Works:: [[SI|YES]] 
+Works:: [[SI|SI]] 
 
 **How it destroys the image:** 
 Works_on::  [[Formal|Formal]] 
 
 **Level and richness of crisis:** 
-Crisis::  [[Alta|High]]
+Crisis::  [[Alta|Alta]]
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Save]] 
+Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]] 
 
 ---
 
 ### Possible artistic reference
 
-Reference:: [[Sarah Sze|Sarah Sze]], [[Marco Breuer|Marco Breuer]], [[Gerhard Richter|Gerhard Richter]]
+Referent:: [[Sarah Sze|Sarah Sze]], [[Marco Breuer|Marco Breuer]], [[Gerhard Richter|Gerhard Richter]]
 
 **Possible works:**  
 - [Sarah Sze - Ripple "Time Zero" 2020](https://gagosian.com/exhibitions/2020/sarah-sze/)

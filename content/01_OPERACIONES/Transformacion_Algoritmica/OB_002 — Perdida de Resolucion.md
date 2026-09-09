@@ -28,12 +28,10 @@ Por un script que comprime el archivo gradualmente, la imagen fue perdiendo reso
 -  App Terminal / Script
 -  ChatGPT / Code
 
+**Script (auditoría 2026-09):** Perdido (no recuperado en auditoría 2026-09) — la ficha indica que se creó y ejecutó un script en Terminal con ayuda de ChatGPT/Code, pero el archivo no quedó guardado en el Atlas.
+
 **Procedimiento técnico:**  
-1.  Se creo el script en Chatgpt
-2.  Se ingreso a Terminal
-3. 
-4. 
-5. 
+1.  Se creo script 
 
 ---
 

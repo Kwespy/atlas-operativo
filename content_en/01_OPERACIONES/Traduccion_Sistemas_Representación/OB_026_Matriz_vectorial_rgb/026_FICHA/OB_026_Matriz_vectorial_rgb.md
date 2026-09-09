@@ -3,13 +3,13 @@ lang: en
 ---
 
 ## Status
-Status::  [[Terminada|Finished]]
+Status::  [[Terminada|Terminada]]
 
 ---
 
 ## 1. Operation data
 
-**Internal number:** OB_000 + OB_000
+**Internal number:** OB_026
 **Operational regime:** [[Lista_Combinaciones|Lista Combinaciones]]  
 **Source image:**  Digital photograph 
 
@@ -47,7 +47,7 @@ The image is reconstructed as a field of lines. Each zone generates strokes whos
 ## 4. Visual sequence
 
 ### Initial image
-![[input_03.jpeg.webp|200]]
+![[Input_003.jpeg|200]]
 
 ### Step 01
 ![[OB026_step01.png.webp|200]]
@@ -130,9 +130,9 @@ The image is reconstructed as a field of lines. Each zone generates strokes whos
 ## 6. Crisis and formal-perceptual reading
 
 
-**Where the crisis occurs and the operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
+**Where the crisis occurs and the operation affects the image's visual grammar: form, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-the accumulation of strokes begins to undo contours and blur figure and ground. The vegetation can still be partially recognized, but the image also starts to be read as an abstract grid of lines, directions, and densities. Color loses prominence against texture, and legibility remains in an intermediate state between representation and abstraction.
+the accumulation of strokes begins to dissolve the contours and blend figure and background. The vegetation can still be partially recognized, but the image also starts to be read as an abstract grid of lines, directions, and densities. Color loses prominence to texture, and legibility remains in an intermediate state between representation and abstraction.
 
 ---
 
@@ -140,7 +140,7 @@ the accumulation of strokes begins to undo contours and blur figure and ground. 
 
 
 **Operation notes / what I learned:**  
-It is another representation system, because the raster image becomes vector-based. That is, the vector image represents it through geometric instructions: lines, curves, polygons, coordinates, thickness, direction, color, etc. Information ceases to be expressed primarily as pixels and begins to be expressed as geometry. 
+It is another system of representation, because the raster image becomes vector-based. That is, the vector image represents it through geometric instructions: lines, curves, polygons, coordinates, thickness, direction, color, etc. Information ceases to be expressed mainly as pixels and begins to be expressed as geometry. 
 
 
 
@@ -150,7 +150,7 @@ Works:: [[SI|SI]]
 **How it destroys the image:** 
 Works_on:: [[Formal|Formal]] 
 
-**Level and richness of crisis:** 
+**Level and Richness of crisis:** 
 Crisis:: [[Media|Media]] 
 
 **Decision:** 
@@ -160,7 +160,7 @@ Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]]
 
 ### Potential artistic reference
 
-Referente:: [[Mark Grotjahn|Mark Grotjahn]], [[]], [[]]
+Reference:: [[Mark Grotjahn|Mark Grotjahn]], [[]], [[]]
 
 **Possible works:**  
 - [Mark Grotjahn — Untitled ](https://search.brave.com/images?q=2.+Mark+Grotjahn+%E2%80%94+Untitled+&source=images)

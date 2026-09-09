@@ -46,7 +46,7 @@ Cada píxel se desplaza siguiendo una trayectoria determinada por su informació
 ## 4. Secuencia visual
 
 ### Imagen inicial
-![[input_03.jpeg.webp|200]]
+![[Input_003.jpeg|200]]
 
 ### Step 01
 ![[OB027_step01.png.webp|200]]

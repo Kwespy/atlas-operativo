@@ -2,25 +2,25 @@
 lang: en
 ---
 
-# OB_016_Strip_Shift
+# OB_016_Strip_Displacement
 
 ## Status
 Status:: [[Terminada|Finished]]
 
 ---
 
-## 1. Operation data
+## 1. Operation Data
 
 **Internal number:** OB_016
 **Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
 **Source image:**  
 
 **Operational description:**  
-A script is created so that the image is altered through the displacement of vertical strips.
+A script is created so that the image is progressively altered through vertical strip displacement.
 
 ---
 
-## 2. Tools and procedure
+## 2. Tools and Procedure
 
 
 - A script is created in ChatGPT for Python and executed in the Mac Terminal.
@@ -28,21 +28,23 @@ A script is created so that the image is altered through the displacement of ver
 
 ---
 
+**Script (2026-09 audit):** Lost (not recovered in the 2026-09 audit) — the record explicitly states 'a script is created in ChatGPT for Python and executed in the Mac Terminal', but the file was not saved in the Atlas.
+
 ## 3. Variables
 
 **Controlled variables:**  
-- Amount of resulting image output
-- Script variables such as strip size, quantity, and intensity
+- Amount of output images generated as a result
+- Script variables such as strip size, quantity, and intensity.
 - 
 
 **Uncontrolled / accidental variables:**  
-- How the script will work on the image 
+- How the script will work on the image. 
 - 
 - 
 
 ---
 
-## 4. Visual sequence
+## 4. Visual Sequence
 
 ### Initial image
 ![[Input_001.jpg.webp|200]]
@@ -91,9 +93,9 @@ A script is created so that the image is altered through the displacement of ver
 
 ---
 
-## 5. Visual selection
+## 5. Visual Selection
 
-### Crisis / threshold according to AI-assisted reading / ChatGPT
+### Crisis / threshold according to AI / ChatGPT-assisted reading
 
 
 ### Step 09
@@ -107,23 +109,23 @@ A script is created so that the image is altered through the displacement of ver
 
 ---
 
-## 6. Crisis and formal-perceptual reading
+## 6. Crisis and Formal-Perceptual Reading
 
-**Main crisis:** Structure, form, and contour
+**Main crisis:** Structure, shape, and contour
 
-**The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support:**
+**The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-The shape and contour are the first things to be destroyed; the color remains recognizable and the relationship between figure and ground begins to enter into crisis later on. That is when the loss of legibility occurs as the figure and ground start to blend together.
+The shape and contour are the first things destroyed, the color remains recognizable, and the relationship between figure and ground begins to enter into crisis further along; that is when the loss of legibility occurs as the figure and ground start to blend together.
 
 
 ---
 
-## 7. Final evaluation and artistic reference
+## 7. Final Evaluation and Artistic Reference
 
 
 **Operation notes / what I learned:**  
 Simple operation, it is more about the image's aesthetics than a structural operation of the image.
-It has a collage feel. Aesthetic. Kinetic painting.
+It has a collage feel to it. Aesthetic. Kinetic painting.
 
 
 **Final_status:** 
@@ -139,7 +141,7 @@ Selection:: [[Combinable|Combinable]] / [[Guardar|Save]]
 
 ---
 
-### Possible artistic reference
+### Potential artistic reference
 
 Reference:: [[Bridget Riley|Bridget Riley]], [[Carlos Cruz-Diez |Carlos Cruz-Diez ]], [[Victor Vasarely|Victor Vasarely]]
 

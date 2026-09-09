@@ -1,22 +1,22 @@
 ---
-title: "OB_004 — RGB channels separation"
+title: "OB_004 — Separación canales RGB"
 atlas_direct: true
 lang: en
 ---
 
-# OB_004_RGB channels separation
+# OB_004_RGB channel separation
 
 ## Status
-Status:: [[Terminada|Finished]]
+Status:: [[Terminada|Terminada]]
 
 ## 1. Operation data
 
 **Internal number:** OB_004
-**Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
+**Operational regime:** [[Lista_Transformacion_Algoritmica|Lista Transformacion Algoritmica]]  
 **Source image:**  Direct photograph
 
 **Operational description:**  
-A technical photo is used, and inside A. Photoshop the RGB color channels are separated. An image of this is created and then another image is placed on top to perform the same operation. 
+A technical photo is used, and inside A. Photoshop, the RGB color channels are separated. An image of this is created and then another image is placed on top to perform the same operation. 
 
 ---
 
@@ -27,6 +27,8 @@ A technical photo is used, and inside A. Photoshop the RGB color channels are se
 - A. Photoshop
 - 
 - 
+
+**Script (2026-09 audit):** Not applicable (operation performed in Photoshop, manual tool without code export).
 
 **Technical procedure:**  
 1. Adobe Photoshop
@@ -104,11 +106,11 @@ A technical photo is used, and inside A. Photoshop the RGB color channels are se
 
 **Main crisis:** Tonal and Form
 
-The operation affects the visual grammar of the image: form, outline, color, figure/ground relationship, legibility, recognition, and support:
+The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support:
 
 
 
-Color is what most affects the appearance, and because of color, the image becomes destabilized. The RGB separation creates ghosts of shapes that add noise to the image. The operation makes the image illegible when you mix it with black backgrounds that are forced in Photoshop. It is not an operation that works on its own.
+Color is what most affects the appearance, and because of color the image becomes destabilized. the RGB separation creates shape ghosts that add noise to the image. The operation makes the image illegible when you mix it with black backgrounds that are forced in Photoshop. It is not an operation that works on its own.
 
   
 
@@ -118,30 +120,30 @@ Color is what most affects the appearance, and because of color, the image becom
 
 
 **Operation notes / what I learned / What I liked:**  
-Just moving the RGB channels in Photoshop does not put the image into crisis, as technically it is not possible. You have to merge layers and move the image along with other small tricks for the image to become unstable. It is more of an elimination of information that the technical process renders unstable in the image. It is more of a glitch aesthetic than a technical crisis of the medium. 
+Just moving the RGB channels in Photoshop does not put the image into crisis, since technically it is not possible. You have to "merge" layers and move the image and other small tricks for the image to become unstable. It is more of an elimination of information that the technical process renders unstable in the image. It is more of a glitch aesthetic than a technical crisis of the technique. 
 
-What I like are the colors the image reaches, and those soft color transitions within a tonal framework.
+What I like is the colors the image reaches, and those soft color steps within a tonal frame.
 
 
 
 **Final_status:** 
-Works::  [[Forzandola|Forcing it]]
+Works::  [[Forzandola|Forzandola]]
 
 **How it destroys the image:** 
-Works_on:: [[Estetico|Aesthetic]] 
+Works_on:: [[Estetico|Estetico]] 
 
 **Level and Richness of crisis:** 
-Crisis::   [[Media|Medium]]
+Crisis::   [[Media|Media]]
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Keep]] 
+Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]] 
 
 
 ---
 
 ### Possible artistic reference
 
-Reference:: [[Cory Arcangel|Cory Arcangel]], [[Robert Delaunay|Robert Delaunay]] [[Fernand Léger|Fernand Léger]]
+Referent:: [[Cory Arcangel|Cory Arcangel]], [[Robert Delaunay|Robert Delaunay]] [[Fernand Léger|Fernand Léger]]
 
 **Possible works:**  
 -  [Cory Arcangel — _Photoshop CS: 110 by 72 inches, 300 DPI, RGB, square pixels…_, 2012](https://d7hftxdivxxvm.cloudfront.net/?height=741&quality=85&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FveA4ecjHlCU_EfQ0E8H_Gw%2Flarger.jpg&width=445)

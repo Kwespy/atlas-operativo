@@ -8,32 +8,32 @@ lang: en
 ## Status
 Status:: [[Terminada|Terminada]]
 
-# OB_003_Impresion y Scaner degenerativo
+# OB_003_Degenerative Print and Scanner
 
-## 1. Operation data
+## 1. Operation Data
 
-**Internal number:** OB_003_
+**Internal number:** OB_003
 **Operational regime:** [[Lista_Captura_Materializacion|Lista Captura Materializacion]]  
-**Source image:**  Photograph taken from life
+**Source image:** Photograph taken from life
 
 **Operational description:**  
-Print image then scan the print, repeat the process.
+Print an image, then scan the print, repeat the process.
 
 ---
 
-## 2. Tools and procedure
+## 2. Tools and Procedure
 
 **Tools / medium:**  
 - iPhone 12 front camera
 - Epson WorkForce printer and scanner
-- Macbook Pro 2018
+- 2018 Macbook Pro
 
 **Technical procedure:**  
 1. Take photo
 2. Print
 3. Scan
 4. Print
-5. ...
+5. Repeat the scanning and printing cycle to produce progressive degradation.
 
 ---
 
@@ -41,10 +41,10 @@ Print image then scan the print, repeat the process.
 
 **Controlled variables:**  
 - Resolution and file format
-- Position of the sheet for scanning and printing
+- Sheet position for scanning and printing
 - Ink
 - Paper type
-- My printer is hacked, the cartridges are not locked. 
+- My printer is hacked, the ink cartridges are not locked. 
 
 **Uncontrolled / accidental variables:**  
 - Printing errors
@@ -53,7 +53,7 @@ Print image then scan the print, repeat the process.
 
 ---
 
-## 4. Visual sequence
+## 4. Visual Sequence
 
 ### Initial image
 ![[OB003_input.jpg|200]]
@@ -94,7 +94,7 @@ Print image then scan the print, repeat the process.
 
 ---
 
-## 5. Visual selection
+## 5. Visual Selection
 
 ### Crisis / threshold according to AI-assisted reading / ChatGPT
 
@@ -108,33 +108,33 @@ Print image then scan the print, repeat the process.
 
 ---
 
-## 6. Crisis and formal-perceptual reading
+## 6. Crisis and Formal-Perceptual Reading
 
 **Main crisis:** legibility 
 
 The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support.
 
 **Shape / contour / figure-ground:**  
-The figure gradually loses legibility, contour, and its relationship with the background
+The figure gradually loses legibility, contour, and its relationship with the ground.
 
 **Color / tone:**  
-The color transforms into a cold blue. (Perhaps due to the predominant color of the image).
+The color transforms toward a cold blue, perhaps due to the predominant color of the image.
 
 **Legibility / recognition:**  
-a white veil appears on the image..
+A white veil appears over the image.
 
 **Material / support:**  
 Material and support do not change.
 
 **Perceptual effect:**  
-gradually loses legibility, the image becomes smaller with each scan and begins to shift..
+Gradually loses legibility; the image becomes smaller with each scan and begins to shift.
 
 ---
 
-## 7. Final evaluation and artistic reference
+## 7. Final Evaluation and Artistic Reference
 
 **Question for the operation:**  
-Does this operation truly put the image into crisis or does it function merely as an aesthetic effect?
+Does this operation truly put the image into crisis, or does it function merely as an aesthetic effect?
 Yes, Crisis.
 
 **Operation notes / what I learned:**  
@@ -146,7 +146,7 @@ Works:: [[SI|SI]]
 **How it destroys the image:** 
 Works_on:: [[Formal|Formal]] 
 
-**Level and richness of crisis:** 
+**Level and Richness of crisis:** 
 Crisis::  [[Baja|Baja]] 
 
 **Decision:** 
@@ -154,9 +154,9 @@ Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]]
 
 ---
 
-### Possible artistic reference
+### Possible Artistic Reference
 
-Referente:: [[Silke Otto-Knapp|Silke Otto-Knapp]], [[Armando Reveron|Armando Reveron]]
+Referent:: [[Silke Otto-Knapp|Silke Otto-Knapp]], [[Armando Reveron|Armando Reveron]]
 
 **Possible works:**  
 - Silke Otto-Knapp — Seascape, 2008
@@ -164,23 +164,23 @@ Referente:: [[Silke Otto-Knapp|Silke Otto-Knapp]], [[Armando Reveron|Armando Rev
 
 ---
 
-### Possible artistic reference
+### Possible Artistic Reference
 
-**Referente:**
+**Referent:**
 
 Uta Barth — _Ground #42_, 1994
 Out-of-focus image
 
 Wolfgang Tillmans — _Lighter_, 2005–2008
-the veil left with the blue background resembles tillmans' work because of its color and abstraction 
+the veil left with the blue background resembles Tillmans' work due to its color and abstraction 
 
 James Welling — _Glass House_, 2006–2009
-Image with color shifted more towards an RGB shift operation but it also has this veil
+Image with color shifted more toward an RGB displacement operation, but it also has this veil
 
 Silke Otto-Knapp — Seascape, 2008
-It has something of the image's aesthetic.
+Has something of the image's aesthetic.
 
 Armando Reverón — white period
 
 **Operational relationship:**  
-Pending.
+The repetition of the print and scan cycle introduces displacement, scale loss, veiling, and cumulative chromatic alterations. The operation works on the material degradation of the reproduced image.

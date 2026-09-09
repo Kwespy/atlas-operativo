@@ -12,7 +12,7 @@ Estado:: [[Terminada]]
 
 ## 1. Datos de la operación
 
-**Número interno:** OB_14  
+**Número interno:** OB_014  
 **Régimen operativo:** [[Lista_Captura_Materializacion]]  
 **Imagen de origen:**  Fotografia termo-impresa
 
@@ -30,7 +30,7 @@ Con una cámara instantánea de impresión térmica, se captura el objeto y se v
 
 **Procedimiento técnico:**  
 1. Hacer Fotografia
-2. Hacer Fotogafia de la Fotografia.
+2. Hacer fotografía de la fotografía.
 3. 
 4. 
 5. 

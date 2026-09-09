@@ -11,29 +11,31 @@ Status:: [[Terminada|Finished]]
 
 ---
 
-## 1. Operation data
+## 1. Operation Data
 
-**Internal number:** OB_007_Logica_AND-OR-XOR
+**Internal number:** OB_007
 **Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]
 
 **Source image:**  
-Direct photograph
+Photograph from life
 
 **Operational description:**  
-Prompt to ChatGPT to successively process the photo using AND-OR-XOR logic until the form enters into crisis.
+Prompt to ChatGPT to iteratively operate on the photo using AND-OR-XOR logic until the form enters into crisis.
 
 ---
 
-## 2. Tools and procedure
+## 2. Tools and Procedure
 
 **Tools / medium:**  
 - iPhone 13 camera
 - ChatGPT
 - 
 
+**Script (2026-09 audit):** Unverified — the log indicates that a prompt was used on ChatGPT with the photo; it remains unclear whether this executed and discarded an actual script or if it was direct image generation/editing. To be confirmed by the author.
+
 **Technical procedure:**  
 1. Take photo
-2. Upload it to prompt with ChatGPT
+2. Upload it to ChatGPT via prompt
 3. 
 4. 
 5. 
@@ -44,17 +46,17 @@ Prompt to ChatGPT to successively process the photo using AND-OR-XOR logic until
 
 **Controlled variables:**  
 - Photograph
-- Selection of result
+- Choice of result
 - 
 
 **Uncontrolled / accidental variables:**  
-- How the AI operates
-- Only via prompt, not through technical operations
+- How the A.I. operates
+- Via prompt only, not through technical operations
 - 
 
 ---
 
-## 4. Visual sequence
+## 4. Visual Sequence
 
 ### Initial image
 ![[OB007_input.jpg|200]]
@@ -76,7 +78,7 @@ Prompt to ChatGPT to successively process the photo using AND-OR-XOR logic until
 
 ---
 
-## 5. Visual selection
+## 5. Visual Selection
 
 ### Crisis / threshold according to AI-assisted reading / ChatGPT
 
@@ -89,17 +91,17 @@ Prompt to ChatGPT to successively process the photo using AND-OR-XOR logic until
 
 ---
 
-## 6. Crisis and formal-perceptual reading
+## 6. Crisis and Formal-Perceptual Reading
 
 **Main crisis:**  The structure of the form is lost
 
-The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support.
+The operation affects the visual grammar of the image: form, outline, color, figure/ground relationship, legibility, recognition, and support.
 
-The form and the structure of the object enter into crisis. It is not the image that enters into crisis, but the object; it loses its form and its legibility. 
+The form and structure of the object enter into crisis. It is not the image that enters into crisis, but the object; it loses its form and legibility. 
 
 ---
 
-## 7. Final evaluation and artistic reference
+## 7. Final Evaluation and Artistic Referent
 
 **Question for the operation:**  
 Does this operation truly put the image into crisis, or does it function merely as an aesthetic effect?
@@ -114,17 +116,17 @@ Works:: [[NO|NO]]
 **How it destroys the image:** 
 Works_on:: [[Estetico|Aesthetic]]
 
-**Level and richness of crisis:** 
+**Level and Richness of crisis:** 
 Crisis::  [[Alta|High]]
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Save]]
+Selection:: [[Combinable|Combinable]] / [[Guardar|Store]]
 
 ---
 
-### Possible artistic reference
+### Possible artistic referent
 
-Reference:: [[Juan Gris|Juan Gris]], [[Pablo Picasso|Pablo Picasso]], [[El Lissitzky|El Lissitzky]] [[Barbara Kasten|Barbara Kasten]]
+Referent:: [[Juan Gris|Juan Gris]], [[Pablo Picasso|Pablo Picasso]], [[El Lissitzky|El Lissitzky]] [[Barbara Kasten|Barbara Kasten]]
 
 **Possible works:**  
 - [Juan Gris — Still Life with Checked Tablecloth, 1915](https://www.google.com/search?sca_esv=1aa2181320e8cba3&rlz=1C5CHFA_enPT1033PT1033&sxsrf=ANbL-n4VyGYsWhKQ7yjfVuKy3xWXGmnXyA:1781372230644&udm=2&fbs=ADc_l-bvyVtSnqWkPtsm5fZP6vVTUNKGLOEe29PPQ9O46lcoGexCLfV70rLHf3uTO3T1pQ-9FhJEAHb40S4ofcvGHOJ6GF6dfYrjY5oVQgxWcpLfDLRGCcdZsM3JWCNPxceYfCI5SGaZBikjuKNbIRYT1HcLjTkwsBcbeO9ctp6wU1QNTlyVfzwbc412k7kpPWtrSrT5qursNlkAoj8T46GGWoxWuHJ_yb7goPIuPKzZ0VC5b46tgcbLZ0EqON18w8RidnYygAmS&q=Juan+Gris+%E2%80%94+Still+Life+with+Checked+Tablecloth,+1915&sa=X&ved=2ahUKEwjhqZTY4ISVAxXkQ_EDHUryCcEQtKgLegQIGRAB&biw=1098&bih=851&dpr=1)

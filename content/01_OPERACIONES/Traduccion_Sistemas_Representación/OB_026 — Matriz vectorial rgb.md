@@ -10,7 +10,7 @@ Estado::  [[Terminada]]
 
 ## 1. Datos de la operación
 
-**Número interno:** OB_000 + OB_000
+**Número interno:** OB_026
 **Régimen operativo:** [[Lista_Combinaciones]]  
 **Imagen de origen:**  Fotografia digital 
 
@@ -48,7 +48,7 @@ La imagen se reconstruye como un campo de líneas. Cada zona genera trazos cuya 
 ## 4. Secuencia visual
 
 ### Imagen inicial
-![[input_03.jpeg.webp|200]]
+![[Input_003.jpeg|200]]
 
 ### Step 01
 ![[OB026_step01.png.webp|200]]

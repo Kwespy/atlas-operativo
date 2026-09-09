@@ -1,10 +1,10 @@
 ---
-title: "OB_006 — Multiple Scale Superimposition"
+title: "OB_006 — Multiple Scale Superposition"
 atlas_direct: true
 lang: en
 ---
 
-# OB_006_Multiple_Scale_Superimposition
+# OB_006_Multiple_Scale_Superposition
 
 ## Status
 Status:: [[Terminada|Finished]]
@@ -13,12 +13,12 @@ Status:: [[Terminada|Finished]]
 
 ## 1. Operation data
 
-**Internal number:** OB_006_Multiple_Scale_Superimposition  
+**Internal number:** OB_006  
 **Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
 **Source image:** Photograph taken from life
 
 **Operational description:**  
-Pending.
+The image is copied and successively superimposed at different scales to construct a multiple composition. The accumulation of copies alters the relative size of the forms and makes recognition of the original object difficult.
 
 ---
 
@@ -26,15 +26,16 @@ Pending.
 
 **Tools / medium:**  
 - Photoshop
-- 
-- 
+- iPhone camera
+
+**Script (2026-09 audit):** Not applicable (operation performed in Photoshop, manual tool without code export).
 
 **Technical procedure:**  
-1. Successively copy and paste the input image
-2. 
-3. 
-4. 
-5. 
+1. Copy and paste the input image successively.
+2. Scale and rearrange the copies within the composition.
+3. Superimpose the successive layers.
+4. Adjust the composition diagram.
+5. Evaluate the recognition threshold in the resulting sequence.
 
 ---
 
@@ -42,13 +43,12 @@ Pending.
 
 **Controlled variables:**  
 - The composition diagram
-- 
-- 
+- Scale of the copies
+- Quantity and arrangement of the superimposed images
 
 **Uncontrolled / accidental variables:**  
-- 
-- 
-- 
+- Variations produced by layer composition
+- Perceptual changes in the recognition threshold
 
 ---
 
@@ -116,9 +116,9 @@ Pending.
 **Main crisis:** Visual size
 
 
-The operation affects the visual grammar of the image: shape, outline, color, figure/ground relationship, legibility, recognition, and support.
+The operation affects the visual grammar of the image: form, outline, color, figure/ground relationship, legibility, recognition, and support.
 
-Object recognition collapses due to size, but the crisis does not affect the image in its shape, outline, or relationship with the background; the crisis arises from legibility and recognition caused by the size and the quantity of images entering the same image. It is an aesthetic collapse rather than a technical one.
+Recognition of the object collapses due to size. The crisis does not primarily affect form, outline, or the relationship with the ground; it enters through legibility and recognition, due to the size and the number of images entering the same composition. It is an aesthetic collapse rather than a technical one.
 
 ---
 
@@ -127,13 +127,13 @@ Object recognition collapses due to size, but the crisis does not affect the ima
 **Question for the operation:**  
 Does this operation truly put the image into crisis, or does it function merely as an aesthetic effect?
 
-The crisis is aesthetic
+The crisis is aesthetic.
 
 **Operation notes / what I learned:**  
-It is a simple operation that brings no novelty or richness to the image. If done via AI, it looks the same. It is simple. It could be combined. My recognition threshold is higher than the one assisted by AI.
+It is a simple operation that does not contribute much novelty or richness on its own. It can be combined with other operations. My own recognition threshold is more demanding than the threshold identified via AI assistance.
 
 
-**Final_state:** 
+**Final_status:** 
 Works:: [[SI|YES]] 
 
 **How it destroys the image:** 
@@ -143,7 +143,7 @@ Works_on:: [[Estetico|Aesthetic]]
 Crisis::  [[Baja|Low]] 
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Keep]] 
+Selection:: [[Combinable|Combinable]] / [[Guardar|Save]] 
 
 ---
 

@@ -23,6 +23,8 @@ Se graba un video con movimiento y zoom del objeto, para lograr barrido y diform
 - Macbook pro 13
 - Adobe Premier
 
+**Script (auditoría 2026-09):** No aplica (operación realizada en Adobe Premiere, herramienta manual sin exportación de código).
+
 **Procedimiento técnico:**  
 1. Se graba video
 2. Se trabaja imagen en software

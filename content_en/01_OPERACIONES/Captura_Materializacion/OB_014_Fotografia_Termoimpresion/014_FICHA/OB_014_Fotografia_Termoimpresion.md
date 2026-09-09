@@ -11,7 +11,7 @@ Status:: [[Terminada|Terminada]]
 
 ## 1. Operation data
 
-**Internal number:** OB_14  
+**Internal number:** OB_014  
 **Operational regime:** [[Lista_Captura_Materializacion|Lista Captura Materializacion]]  
 **Source image:** Thermo-printed photograph
 
@@ -41,10 +41,10 @@ Using an instant thermal printing camera, the object is captured, and the instan
 **Controlled variables:**  
 - Camera presets
 - Model composition
-- Shooting direction
+- Direction of the shot
 
 **Uncontrolled / accidental variables:**  
-- The paper does not always come out straight from the cameras, which can affect the print
+- The paper does not always come out straight from the camera, which can affect the print
 - 
 - 
 
@@ -117,11 +117,11 @@ Using an instant thermal printing camera, the object is captured, and the instan
 
 ## 6. Crisis and formal-perceptual reading
 
-**Main crisis:** Tonal, Contour, Figure-ground
+**Main crisis:** Tonal, Contour, figure-ground
 
-**The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and medium.**
+**The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support.**
 
-The image, which starts in black and white, loses its contour and becomes less sharp. Figure and ground blend together, creating shapes and spots around it, combining the entire background into a single plane. Depth is lost, and the spots that are created enter the object. Finally, a complete image made up of irregular spots can be seen. Passing it through the camera makes it stop being understood.
+The image, which starts in black and white, loses its contour and becomes less sharp. Figure and ground blend together, creating shapes and spots around them, combining the entire background into a single plane. Depth is lost, and the created spots begin to enter the object. Finally, a complete image made up of irregular spots is visible. Through the passage of the camera, it ceases to be understood.
 
 ---
 

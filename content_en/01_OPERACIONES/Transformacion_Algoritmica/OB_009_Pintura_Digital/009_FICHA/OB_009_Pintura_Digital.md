@@ -11,12 +11,12 @@ Status:: [[Terminada|Finished]]
 
 ## 1. Operation data
 
-**Internal number:** OB_OB_009_Digital_Painting
+**Internal number:** OB_009
 **Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
 **Source image:** Representation from life
 
 **Operational description:**  
-Using the iPhone Freeform app, the object is quickly represented from life. Scribbles, painting operations, and drawing are applied to mess up, erase, and cover the image so that it gradually disappears or enters a state of crisis.
+Using the iPhone's Freeform app, the object is quickly represented from life; scribbles, painting, and drawing operations are applied to mess up, erase, and cover the image so that it gradually disappears or enters a state of crisis.
 
 ---
 
@@ -27,8 +27,10 @@ Using the iPhone Freeform app, the object is quickly represented from life. Scri
 - Freeform App
 - 
 
+**Script (2026-09 audit):** Not applicable (operation performed using the iPhone's Freeform app, without exportable code output).
+
 **Technical procedure:**  
-1. The model was painted tactilely
+1. The model was painted haptically  
 2. 
 3. 
 4. 
@@ -39,12 +41,12 @@ Using the iPhone Freeform app, the object is quickly represented from life. Scri
 ## 3. Variables
 
 **Controlled variables:**  
-- Colors 
-- Brushes
+- Colors  
+- Brushes  
 - Tools within the app
 
 **Uncontrolled / accidental variables:**  
-- Some finger responses to the screen
+- Certain finger responses to the screen  
 - 
 - 
 
@@ -114,9 +116,9 @@ Using the iPhone Freeform app, the object is quickly represented from life. Scri
 
 **Main crisis:** Pictorial crisis
 
-The operation affects the visual grammar of the image: shape, outline, color, figure/ground relationship, legibility, recognition, and support.
+The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support.
 
-The image enters into crisis due to colors, shape, and legibility, everything except the support. It is the most pictorial one, because it gives the option to paint but the support does not start to fail.
+The image enters into crisis due to colors, shape, and legibility, everything except the support; it is the most pictorial one, because it offers the option to paint, but the support does not begin to fail.
 
 
 ---
@@ -124,12 +126,12 @@ The image enters into crisis due to colors, shape, and legibility, everything ex
 ## 7. Final evaluation and artistic reference
 
 **Question for the operation:**  
-Does this operation truly put the image in crisis or does it function merely as an aesthetic effect?
+Does this operation truly put the image in crisis, or does it function merely as an aesthetic effect?
 
 It puts the image in crisis in an aesthetic way, but not as a format image.
 
 **Operation notes / what I learned:**  
-It is an operation similar to painting, but you do not control it and you go faster. The feeling is good because you make something appear that wasn't there before. You need experience and technique to achieve good effects.
+It is an operation similar to painting, but you do not control it and you go faster. The feeling is good because you make something appear that was not there before. You need experience and technique to achieve good effects.
 
 
 **Final_status:** 
@@ -138,7 +140,7 @@ Works:: [[SI|YES]]
 **How it destroys the image:** 
 Works_on:: [[Estetico|Aesthetic]] 
 
-**Level and Richness of crisis:** 
+**Level and richness of crisis:** 
 Crisis::  [[Media|Medium]]
 
 **Decision:** 

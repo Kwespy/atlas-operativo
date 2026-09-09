@@ -7,12 +7,12 @@ Estado:: [[Terminada]]
 
 ## 1. Datos de la operación
 
-**Número interno:** OB_20  
+**Número interno:** OB_020  
 **Régimen operativo:** [[Lista_Traduccion_Sistemas_Representacion]]  
 **Imagen de origen:**  Fotografia
 
 **Descripción operativa:**  
-Se crea un script para que cree linead topograficas segun volumen.
+Se crea un script para que genere líneas topográficas según el volumen.
 
 ---
 

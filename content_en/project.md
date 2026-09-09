@@ -5,28 +5,28 @@ lang: en
 
 # About the project
 
-The Operational Atlas gathers operational processes designed to investigate how a technical image is destabilized when subjected to different regimes of transformation.
+The Operational Atlas gathers operational processes designed to investigate how a technical image is destabilized when subjected to different transformation regimes.
 
-## Four regimes of transformation
+## Four transformation regimes
 
 **ALGORITHMIC TRANSFORMATION**  
 Operations carried out using software, generative models, compression, automation, or computational processing. The image is modified through rules, calculations, parameters, or systems that reorganize its visual information.
 
 **CAPTURE AND MATERIALIZATION**  
-Operations in which an image is recaptured, printed, scanned, photographed, or transferred between devices and surfaces. Each change of medium introduces losses, interferences, material variations, and new conditions of visibility.
+Operations in which an image is recaptured, printed, scanned, photographed, or transferred between devices and surfaces. Each change of support introduces losses, interferences, material variations, and new conditions of visibility.
 
 **TRANSLATION BETWEEN REPRESENTATION SYSTEMS**  
-Operations that shift an image between different languages or forms of coding, such as image, text, data, instruction, diagram, or generated image. The transformation occurs in the transition between systems that do not preserve the original information in an equivalent manner.
+Operations that shift an image between different languages or forms of coding, such as image, text, data, instruction, diagram, or generated image. The transformation occurs in the step between systems that do not equivalently preserve the original information.
 
 **DIRECT MATERIAL INTERVENTION**  
-Operations performed physically on the image, its medium, or its surface through painting, drawing, cutting, overlapping, erasure, folding, transfer, or manual manipulation. The transformation incorporates bodily action, matter, and the resistance of the medium.
+Operations performed physically on the image, its support, or its surface through painting, drawing, cutting, superposition, erasure, folding, transfer, or manual manipulation. The transformation incorporates bodily action, matter, and the resistance of the support.
 
 ---
 
-The aim of the Atlas is to build an operational repertoire that allows for the comparison, documentation, and selection of transformations capable of driving the image toward open and productive states, interrupting pre-codified visual configurations and opening up new perceptual experiences and distinct modes of image construction.
+The objective of the Atlas is to build an operational repertoire that allows comparing, documenting, and selecting transformations capable of leading the image toward open and productive states, interrupting already encoded visual configurations and opening up new perceptual experiences and different modes of image construction.
 
-In these states, its form, color, contour, space, recognition, and perception may enter into crisis, as well as its very condition as an image: what information it communicates, how it circulates, what system processes it, and in what form it reappears.
+In these states, their form, color, contour, space, recognition, and perception may enter into crisis, but also their very condition as an image: what information it communicates, how it circulates, what system processes it, and under what form it appears again.
 
-Against technologies oriented toward stabilizing, optimizing, and making images recognizable, the Atlas uses transformation as a way to open them up to new questions, relations, and possibilities of production.
+Opposing technologies oriented toward stabilizing, optimizing, and making images recognizable, the Atlas uses transformation as a way to open them up to new questions, relations, and production possibilities.
 
 [← BACK TO THE ATLAS](./)

@@ -27,6 +27,8 @@ Su utiliza una foto técnica y dentro de A. Photoshop se van separando los canal
 - 
 - 
 
+**Script (auditoría 2026-09):** No aplica (operación realizada en Photoshop, herramienta manual sin exportación de código).
+
 **Procedimiento técnico:**  
 1. Adobe photoshop
 2. Separar RGB

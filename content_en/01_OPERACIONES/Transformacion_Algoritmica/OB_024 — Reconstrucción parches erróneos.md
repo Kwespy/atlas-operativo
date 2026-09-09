@@ -8,15 +8,15 @@ lang: en
 
 ## Status
 
-Status:: [Finished]
+Status:: [[Terminada|Finished]]
 
 ---
 
 ## 1. Operation data
 
-**Internal number:** OB___  
+**Internal number:** OB_024  
 **Operational regime:** [[Transformación algorítmica|Algorithmic transformation]]  
-**Source image:** Mountain landscape photograph with a foreground tree.
+**Source image:** Mountain landscape photograph with a tree in the foreground.
 
 **Operational description:**  
 The image is divided into fragments or patches. Each fragment is replaced or displaced using other areas of the same image with similar visual characteristics. Repeating the process generates a partially coherent, yet spatially incorrect reconstruction.
@@ -33,27 +33,29 @@ The image is divided into fragments or patches. Each fragment is replaced or dis
 
 ---
 
+**Script (2026-09 audit):** Lost (not recovered in the 2026-09 audit) — the sheet mentions a 'Python script' among the tools, but the file was not saved in the Atlas.
+
 ## 3. Variables
 
 **Controlled variables:**  
 
 - Patch size
 - Number of replaced fragments
-- Required degree of similarity between patches
+- Degree of required similarity between patches
 - Number / intensity of iterations
 
 **Uncontrolled / accidental variables:**  
 
 - Final position of the selected fragments
 - Unexpected repetitions and accumulations
-- Emerging forms produced by local matches
+- Emerging shapes produced by local matches
 
 ---
 
 ## 4. Visual sequence
 
 ### Initial image
-![[input_03.png|200]]
+![[Input_003.png|200]]
 
 ### Step 01
 ![[OB24_step01.jpg.webp|200]]
@@ -120,34 +122,34 @@ The image is divided into fragments or patches. Each fragment is replaced or dis
 
 ## 6. Crisis and formal-perceptual reading
 
-**Where the crisis occurs and the operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
+**Where the crisis occurs and the operation affects the visual grammar of the image: shape, contour, figure/ground relationship, legibility, recognition, and support:**
 
-The operation mainly affects **shape, contour, figure/ground relationship, legibility, and recognition**. The edges of the tree fragment and parts of the landscape occupy its interior. The image partially retains its original chromatic distribution, but loses spatial continuity. The patch grid progressively becomes visible and begins to function as a new structure of the image.
+The operation mainly affects **shape, contour, figure/ground relationship, legibility, and recognition**. The boundaries of the tree become fragmented, and parts of the landscape occupy its interior. The image partially retains its original chromatic distribution, but loses spatial continuity. The patch grid gradually becomes visible and begins to function as a new structure of the image.
 
 ---
 
 ## 7. Final evaluation and artistic reference
 
 **Operation notes / what I learned:**  
-when you increase the script parameters too much, they run away and start failing to stay within the contours of the image
+when you increase the script parameters too much, they escape and start failing to work, stepping outside the contours of the image
 
-**Final_status:**  
+**Estado_final:**  
 Works:: [YES]
 
 **How it destroys the image:**  
 Works_on:: [Formal]
 
 **Level and richness of crisis:**  
-Crisis:: [Medium]
+Crisis:: [[Media|Medium]]
 
 **Decision:**  
-Selection:: [Keep] [Combinable]
+Selection:: [Save] [Combinable]
 
 ---
 
 ### Possible artistic reference
 
-Reference:: [[Konrad Wyrebek |Konrad Wyrebek ]], [[David Hockney|David Hockney]], [[Georges Braque|Georges Braque]], [[Paul Klee|Paul Klee]], [[Chuck Close|Chuck Close]], [[Gerhard Richter|Gerhard Richter]], [[Paul Cézanne|Paul Cézanne]], 
+Referente:: [[Konrad Wyrebek |Konrad Wyrebek ]], [[David Hockney|David Hockney]], [[Georges Braque|Georges Braque]], [[Paul Klee|Paul Klee]], [[Chuck Close|Chuck Close]], [[Gerhard Richter|Gerhard Richter]], [[Paul Cézanne|Paul Cézanne]], 
 
 **Possible works:**  
 - [Konrad Wyrebek — _Data Error_](https://www.google.com/search?q=Konrad+Wyrebek+Data+Error+paintings&udm=2)
@@ -158,6 +160,6 @@ Reference:: [[Konrad Wyrebek |Konrad Wyrebek ]], [[David Hockney|David Hockney]]
 
 - [Paul Klee — _Clarification_ and mosaic-like paintings](https://www.google.com/search?q=Paul+Klee+Clarification+1932+mosaic&udm=2)
 
-- [Chuck Close — late grid-based paintings](https://www.google.com/search?q=Chuck+Close+grid+paintings+pixels&udm=2)
+- [Chuck Close — late grid paintings](https://www.google.com/search?q=Chuck+Close+grid+paintings+pixels&udm=2)
 
 - [Gerhard Richter — _1024 Farben / 4900 Colours_](Gerhard Richter 1024 Colours 4900 Colours)

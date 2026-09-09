@@ -6,18 +6,18 @@ lang: en
 
 ## Status
 
-Status:: [Finished]
+Status:: [[Terminada|Finished]]
 
 ---
 
-## 1. Operation details
+## 1. Operation data
 
-**Internal number:** OB___  
+**Internal number:** OB_024  
 **Operational regime:** [[Transformación algorítmica|Algorithmic transformation]]  
 **Source image:** Photograph of a mountain landscape with a tree in the foreground.
 
 **Operational description:**  
-The image is divided into fragments or patches. Each fragment is replaced or displaced using other areas of the same image with similar visual characteristics. Repeating the process generates a partially coherent, yet spatially incorrect reconstruction.
+The image is divided into fragments or patches. Each fragment is replaced or displaced using other areas of the same image with similar visual characteristics. The repetition of the process generates a partially coherent, but spatially incorrect, reconstruction.
 
 ---
 
@@ -31,13 +31,15 @@ The image is divided into fragments or patches. Each fragment is replaced or dis
 
 ---
 
+**Script (2026-09 audit):** Lost (not recovered in the 2026-09 audit) — the file mentions a 'Python script' among the tools, but the file was not saved in the Atlas.
+
 ## 3. Variables
 
 **Controlled variables:**  
 
 - Patch size
 - Number of replaced fragments
-- Required degree of similarity between patches
+- Degree of similarity required between patches
 - Number / intensity of iterations
 
 **Uncontrolled / accidental variables:**  
@@ -51,7 +53,7 @@ The image is divided into fragments or patches. Each fragment is replaced or dis
 ## 4. Visual sequence
 
 ### Initial image
-![[input_03.png|200]]
+![[Input_003.png|200]]
 
 ### Step 01
 ![[OB24_step01.jpg.webp|200]]
@@ -120,14 +122,14 @@ The image is divided into fragments or patches. Each fragment is replaced or dis
 
 **Where the crisis occurs and the operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-The operation mainly affects **shape, contour, figure/ground relationship, legibility, and recognition**. The boundaries of the tree fragment and parts of the landscape end up occupying its interior. The image partially retains its original chromatic distribution, but loses spatial continuity. The patch grid progressively becomes visible and begins to function as a new structure of the image.
+The operation mainly affects **shape, contour, figure/ground relationship, legibility, and recognition**. The boundaries of the tree are fragmented, and parts of the landscape occupy its interior. The image partially retains its original chromatic distribution, but loses spatial continuity. The patch grid progressively becomes visible and begins to function as a new structure of the image.
 
 ---
 
 ## 7. Final evaluation and artistic reference
 
 **Operation notes / what I learned:**  
-when you increase the script parameters too much, they escape and start to malfunction, moving outside the contours of the image
+when you increase the script parameters too much, they escape and start malfunctioning, moving outside the contours of the image
 
 **Final_status:**  
 Works:: [YES]
@@ -136,7 +138,7 @@ Works:: [YES]
 Works_on:: [Formal]
 
 **Level and richness of crisis:**  
-Crisis:: [Medium]
+Crisis:: [[Media|Medium]]
 
 **Decision:**  
 Selection:: [Save] [Combinable]
@@ -156,6 +158,6 @@ Reference:: [[Konrad Wyrebek |Konrad Wyrebek ]], [[David Hockney|David Hockney]]
 
 - [Paul Klee — _Clarification_ and mosaic-like paintings](https://www.google.com/search?q=Paul+Klee+Clarification+1932+mosaic&udm=2)
 
-- [Chuck Close — late grid paintings](https://www.google.com/search?q=Chuck+Close+grid+paintings+pixels&udm=2)
+- [Chuck Close — late grid-based paintings](https://www.google.com/search?q=Chuck+Close+grid+paintings+pixels&udm=2)
 
 - [Gerhard Richter — _1024 Farben / 4900 Colours_](Gerhard Richter 1024 Colours 4900 Colours)

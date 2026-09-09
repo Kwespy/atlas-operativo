@@ -7,7 +7,7 @@ Estado:: [[Terminada]]
 
 ## 1. Datos de la operación
 
-**Número interno:** OB_008_Slicing_Reordenamiento
+**Número interno:** OB_008
 **Régimen operativo:** [[Lista_Transformacion_Algoritmica]]  
 
 **Imagen de origen:**  
@@ -24,6 +24,8 @@ Se ocupo la fotografia con un prompt en Chatgpt para que hiciera la operacion Sl
 - Camara Iphone
 - ChatGpt
 - 
+
+**Script (auditoría 2026-09):** Sin verificar — la ficha indica que se usó un prompt a ChatGPT sobre la foto; no queda claro si eso ejecutó y descartó un script real o si fue generación/edición directa de imagen. A confirmar por el autor.
 
 **Procedimiento técnico:**  
 1. Prompt

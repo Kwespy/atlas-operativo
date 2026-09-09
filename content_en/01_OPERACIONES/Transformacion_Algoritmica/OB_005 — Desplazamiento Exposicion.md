@@ -15,7 +15,7 @@ Status:: [[Terminada|Finished]]
 
 **Internal number:** OB_005  
 **Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
-**Source image:**  Photograph from life
+**Source image:** Photograph from life
 
 **Operational description:**  
 In Photoshop, the exposure of the image is increased and decreased.
@@ -26,8 +26,10 @@ In Photoshop, the exposure of the image is increased and decreased.
 
 **Tools / medium:**  
 - Photoshop
-- Camera photograph
+- Camera photograph image
 - 
+
+**Script (2026-09 audit):** Not applicable (operation performed in Photoshop, manual tool with no code export).
 
 **Technical procedure:**  
 1. Increase and decrease exposure
@@ -108,22 +110,22 @@ In Photoshop, the exposure of the image is increased and decreased.
 
 ## 6. Crisis and formal-perceptual reading
 
-**Main crisis:** pending.
+**Crisis:** 
 
-The operation affects the visual grammar of the image: form, contour, color, figure/ground relationship, legibility, recognition, and support.
+The operation affects the visual grammar of the image: shape, outline, color, figure/ground relationship, legibility, recognition, and support.
 
-The form is maintained, but it creates passages when underexposing, meaning the contour and the relationship with the background mix and fuse together. Recognition is therefore lost because the image darkens and the contours that define the image are lost, or it is overexposed and the contours are also lost.
+The shape is maintained, but it creates passages at the moment of underexposing; that is, the outline and the relationship with the background mix and fuse together. Recognition is lost in that sense because the image darkens and the outlines are lost to define the image, or they are overexposed and the outlines are lost there too.
 
 ---
 
 ## 7. Final evaluation and artistic reference
 
-**Does this operation truly put the image in crisis, or does it function only as an aesthetic effect?:**  
-Yes, the operation puts the image in crisis.
+**Does this operation truly put the image into crisis or does it only function as an aesthetic effect?:**  
+Yes, the operation puts the image into crisis.
 
 
 **Operation notes / what I learned:**  
-It is a simple operation but of great utility, since chiaroscuro effects like those of Rembrandt and Caravaggio are created, which help to control the image and give it volume. The richness of the crisis is high despite the simplicity of the operation.
+It is a simple operation but of great utility since chiaroscuros like those of Rembrandt and Caravaggio are created, which help to control the image and give it volume. The richness of the crisis is high despite the simplicity of the operation.
 
 
 
@@ -133,7 +135,7 @@ Works:: [[SI|YES]]
 **How it destroys the image:** 
 Works_on:: [[Estetico|Aesthetic]] 
 
-**Level and richness of crisis:** 
+**Level and Richness of crisis:** 
 Crisis::   [[Media|Medium]]
 
 **Decision:** 
@@ -141,11 +143,11 @@ Selection:: [[Combinable|Combinable]] / [[Guardar|Save]]
 
 ---
 
-### Possible artistic reference
+### Potential artistic reference
 
 Reference:: [[Armando Reveron|Armando Reveron]], [[Caravaggio|Caravaggio]], [[Rembrandt|Rembrandt]], [[Hiroshi Sugimoto|Hiroshi Sugimoto]]
 
-**Possible works:**  
+**Potential works:**  
 - [Caravaggio - Head of Goliath](https://i.pinimg.com/736x/5b/93/4a/5b934a0522de0a804bd9617cceb3096d.jpg)
 
 - [Rembrandt - Self-Portrait](https://cdn-0.shelleyhannafineart.com/wp-content/uploads/2023/02/640px-Rembrandt_with_gorget_workshop_of_Rembrandt_c._1629_Mauritshuis_The_Hague.jpg)

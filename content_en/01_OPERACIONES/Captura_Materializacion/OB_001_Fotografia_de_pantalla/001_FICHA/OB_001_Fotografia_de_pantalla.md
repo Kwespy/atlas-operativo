@@ -5,7 +5,7 @@ lang: en
 # OB_001 — Screen Photography
 
 ## Status
-Status:: [[Terminada|Terminated]]
+Status:: [[Terminada|Finished]]
 
 
 ## 1. Operation Data
@@ -15,12 +15,14 @@ Status:: [[Terminada|Terminated]]
 **Source image:** Photograph taken from life.  
 
 **Operational description:**  
-Recapturing an image from a computer screen, circulating the image between photograph, screen, and new photograph. The operation introduces optical mediation, loss of stability, visual noise, and chromatic alterations through successive recaptures.
+Recapturing an image from the computer screen, circulating the image between photography, screen, and new photography. The operation introduces optical mediation, loss of stability, visual noise, and chromatic alterations through successive recaptures.
 
 **Tools / medium:**  
 - iPhone 12 rear camera
 - MacBook Pro 2018 digital screen
 - Screen photograph
+
+**Material note:** each step of the process is preserved in two formats, .HEIC (original iPhone camera file) and .jpg (compatibility copy for viewing). This is a conservation decision, not an accidental duplication.
 
 **Technical procedure:**  
 1. Take a photograph of the natural object.
@@ -28,7 +30,7 @@ Recapturing an image from a computer screen, circulating the image between photo
 3. Open the image on the MacBook screen.
 4. Photograph the screen with the iPhone.
 5. Send that new photograph back to the MacBook.
-6. Open it on the screen again.
+6. Open it again on the screen.
 7. Photograph the screen once more.
 8. Repeat the process several times until the image loses visual stability.
 
@@ -59,7 +61,7 @@ Recapturing an image from a computer screen, circulating the image between photo
 ## 3. Visual Process
 
 ### Initial image
-![[OB001_input.jpg|200]]
+![[Input_001.jpg.webp|200]]
 
 
 
@@ -185,17 +187,17 @@ Recapturing an image from a computer screen, circulating the image between photo
 
 **Main crisis:** technical crisis.
 
-The operation affects the visual grammar of the image: it weakens shape, contour, color, and the figure/ground relationship through recapture between screen and camera.
+The operation affects the visual grammar of the image: it weakens form, contour, color, and the figure/background relationship through recapture between screen and camera.
 
-The ball retains recognizable traces most of the time; black and white contrasts are maintained, but its edges become unstable and begin to blend into the background. Color loses its descriptive function and appears as technical interference. Everything turns warm-toned, and RGB colors appear, such as green, which is intrinsic to the screen. The image enters a crisis when it can still be reconstructed as a ball, but can no longer be read in a stable manner. The screen, the camera, autofocus, reflections, and unforced errors act upon the image and become a visible part of the process. The gaze oscillates between recognizing the object and losing it in noise, stains, and interference. Texture and moiré.
+The ball retains recognizable traces most of the time, the contrasts between black and white are maintained, but its edges become unstable and begin to blend with the background. Color loses its descriptive function and appears as technical interference. Everything turns warm in color and RGB colors appear, such as green, inherent to the screen. The image enters a crisis when it can still be reconstructed as a ball, but is no longer read in a stable manner. The screen, the camera, autofocus, reflections, and unforced errors act upon the image and become a visible part of the process. The gaze oscillates between recognizing the object and losing it in noise, smudge, and interference. Texture and moiré.
 
 ## 6. Final Evaluation and Artistic Reference
 
-**Does this operation truly put the image into crisis, or does it function merely as an aesthetic effect?**  
+**Does this operation truly put the image into crisis or does it function merely as an aesthetic effect?**  
 YES
 
 **Operation notes / what I learned:**  
-It is a long operation; many photographs are needed for it to start becoming unstable. So far, it is one of the operations that offers the greatest constitutive potential and the one that best integrates new forms or elements into the image that were not there before.
+It is a long operation; many photographs are needed for it to begin to become unstable. So far, it is one of the ones that provides the most constitutive potential and the one that best integrates new forms or elements into the image that were not there before.
 
 
 **Final_status:** 
@@ -208,13 +210,14 @@ Works_on:: [[Formal|Formal]]
 Crisis::  [[Alta|High]]
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Save]]
+Selection:: [[Combinable|Combinable]] / [[Guardar|Keep]]
 
 ---
 
-### Potential artistic reference
+### Potential Artistic Reference
 
-Referente:: [[Jacqueline Humphries|Jacqueline Humphries]], [[Liz Deschenes|Liz Deschenes]], [[Christiane Baumgartner|Christiane Baumgartner]]
+Reference:: [[Jacqueline Humphries|Jacqueline Humphries]], [[Liz Deschenes|Liz Deschenes]], [[Christiane Baumgartner|Christiane Baumgartner]]
+
 **Possible works:**  
 - [Jacqueline Humphries](https://www.artsy.net/artwork/jacqueline-humphries-1)
 

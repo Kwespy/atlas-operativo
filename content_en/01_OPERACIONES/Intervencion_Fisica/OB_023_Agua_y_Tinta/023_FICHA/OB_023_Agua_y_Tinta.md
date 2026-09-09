@@ -16,14 +16,14 @@ Status:: [[Terminada|Finished]]
 **Source image:**  
 
 **Operational description:**  
-The image is printed with toner. It is submerged in a tray of water. Drops of ink are gradually added with a syringe -Magenta-Green-Yellow-Blue-Black- and the process is recorded.
+The image is printed with toner. It is submerged in a tray of water. Drops of ink are gradually added using a syringe -Magenta-Green-Yellow-Blue-Black- and the process is recorded.
 
 ---
 
 ## 2. Tools and procedure
 
 **Tools / medium:**  
-- Toner-printed image
+- Image printed in toner
 - Water and ink
 - Container
 
@@ -38,7 +38,7 @@ The image is printed with toner. It is submerged in a tray of water. Drops of in
 - 
 
 **Uncontrolled / accidental variables:**  
-- Entropy of water with ink
+- Entropy of water with the ink
 - 
 - 
 
@@ -114,7 +114,7 @@ The image is printed with toner. It is submerged in a tray of water. Drops of in
 
 **Where the crisis occurs and the operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
 
-The crisis occurs with the ink floating in the water, covering and veiling the printed image at the bottom of the vessel, affecting its entire visual grammar, to a greater extent color and the figure/ground relationship. With black, the image becomes destabilized and begins to have more contrast and pictorial richness. 
+The crisis occurs with the ink floating in the water, covering and veiling the printed image at the bottom of the basin, affecting its entire visual grammar, to a greater extent color and the figure/ground relationship. With the black ink, the image becomes destabilized and begins to have more contrast and pictorial richness. 
 
 ---
 
@@ -122,16 +122,16 @@ The crisis occurs with the ink floating in the water, covering and veiling the p
 
 
 **Operation notes / what I learned:**  
-The recording of physical operations must be done in a controlled environment, meaning that the light, reflection, and movement of the object must remain stable so as not to add disturbances to the recording when it is not a scanner.
+The recording of physical operations must take place in a controlled environment, meaning that the light, reflection, and movement of the object must remain stable so that they do not add disturbances to the recording when a scanner is not used.
 
 
-**Final_state:** 
+**Final_status:** 
 Works:: [[SI|YES]] ]
 
 **How it destroys the image:** 
 Works_on:: [[Estetico|Aesthetic]] 
 
-**Level and Richness of crisis:** 
+**Level and richness of crisis:** 
 Crisis::   [[Media|Medium]]
 
 **Decision:** 

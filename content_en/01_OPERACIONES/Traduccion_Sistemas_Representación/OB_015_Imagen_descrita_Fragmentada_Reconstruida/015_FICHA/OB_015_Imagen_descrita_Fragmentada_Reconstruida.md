@@ -2,23 +2,23 @@
 lang: en
 ---
 
-# OB_015_Imagen_descrita_Fragmentada_Reconstruida
+# OB_015_Described_Fragmented_Reconstructed_Image
 
 ## Status
-Status:: [[Terminada|Terminada]]
+Status:: [[Terminada|Finished]]
 
 ---
 
 ## 1. Operation data
 
-**Internal number:** OB_15 
-**Operational regime:** [[Lista_Traduccion_Sistemas_Representacion|Lista Traduccion Sistemas Representacion]]  
-**Source image:**  Photograph from life
+**Internal number:** OB_015 
+**Operational regime:** [[Lista_Traduccion_Sistemas_Representacion|Representation Systems Translation List]]  
+**Source image:**  Direct observation photograph
 
 **Operational description:**  
-ChatGPT is asked to textually describe a photograph taken from life. The description is printed and then untangled and fragmented into pieces in order to give it a new order. Afterwards, using this new order, the text is uploaded so that ChatGPT can create a new image based on the new text.
+ChatGPT is asked to textually describe a photo obtained from direct observation. The description is printed out and then disordered and fragmented into pieces in order to give it a new order. Then the reorganized text is uploaded so that ChatGPT creates a new image based on the new text.
 
-Prompt: Generate an image using only the following scrambled text as a source. Do not use prior context, do not reconstruct a logical scene if the text does not support it, and do not fill in missing information. 
+Prompt: Generate an image using only the following disordered text as a source. Do not use prior context, do not reconstruct a logical scene if the text does not support it, and do not complete missing information. 
 
 ---
 
@@ -32,10 +32,12 @@ Prompt: Generate an image using only the following scrambled text as a source. D
 - Paper
 - 
 
+**Script (2026-09 audit):** Not applicable (analog operation: printing, cutting, and photography; ChatGPT was used only to generate the textual description, not code).
+
 **Technical procedure:**  
-1. The text is printed.
-2. It is gradually cut into phrases, words, letters, pieces.
-3. It is reassembled on a sheet of paper.
+1. The text is printed
+2. It is gradually cut into phrases, words, letters, and pieces.
+3. It is reassembled on a piece of paper
 4. 
 5. 
 
@@ -107,9 +109,9 @@ Prompt: Generate an image using only the following scrambled text as a source. D
 
 **Main crisis:** Language, reconstruction, and message
 
-**The operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
+**The operation affects the visual grammar of the image: shape, outline, color, figure/ground relationship, legibility, recognition, and support:**
 
-The image appears stable with the scrambled text, only slightly affecting the arrangement of the objects in the image. The image is destroyed when converted into text. And when the machine does not understand the text or cannot grasp any word, it enters a crisis, completely breaking the image down. It reconstructs it unlike before, and certainty begins to be lost.
+The image appears stable with the disordered text, it only slightly affects the arrangement of the objects in the image. The image is destroyed when converted into text. And when the machine does not understand the text or cannot grasp any words, it enters a crisis, totally breaking the image down. It reconstructs it not similarly, it begins to lose certainty.
 
 
 ---
@@ -118,7 +120,7 @@ The image appears stable with the scrambled text, only slightly affecting the ar
 
 
 **Operation notes / what I learned:**  
-Because this operation is handled by ChatGPT, it will always attempt to reach stability; even though the text is scrambled and seems to make no sense, the A.I. finds order and creates a linear message. Only when the letters are not understood and cover one another does the A.I. begin to enter a crisis. Sometimes I take the photo where the cut papers are located as a reference. I tested putting only the text; the images are quite similar.
+Being operated by ChatGPT, it is an operation that will always strive for stability; even though the text is disordered and seems to make no sense, the A.I. finds order and creates a linear message. Only when the letters are not understood and cover one another does the A.I. begin to enter a crisis. Sometimes I take reference from the photo where the cut papers are located. I tested putting only the text, the images are quite similar.
 By putting only the text, the image becomes more stable.
 
 
@@ -129,16 +131,16 @@ Works:: [[NO|NO]]
 Works_on:: [[Formal|Formal]] 
 
 **Level and Richness of crisis:** 
-Crisis::  [[Baja|Baja]]
+Crisis::  [[Baja|Low]]
 
 **Decision:** 
-Selection:: [[Incierta|Incierta]]
+Selection:: [[Incierta|Uncertain]]
 
 ---
 
 ### Possible artistic reference
 
-Referente:: [[]], [[]], [[]]
+Reference:: [[]], [[]], [[]]
 
 **Possible works:**  
 - []()

@@ -13,11 +13,11 @@ Status::  [[Terminada|Terminada]]
 
 **Internal number:** OB_027
 **Operational regime:** [[Lista_Transformacion_Algoritmica|Algorithmic Transformation List]]  
-**Source image:** Digital Photograph
+**Source image:** Digital Photography
 
 **Operational description:**  
 
-Each pixel shifts along a trajectory determined by its chromatic information: the RGB proportion defines the direction, brightness determines the distance, and saturation modifies the curvature. The accumulation of these trajectories produces a progressive drift of the original image.
+Each pixel shifts along a trajectory determined by its chromatic information: the RGB proportion defines the direction, the brightness determines the distance, and the saturation modifies the curvature. The accumulation of these trajectories produces a progressive drift of the original image.
 
 ---
 
@@ -38,12 +38,12 @@ Each pixel shifts along a trajectory determined by its chromatic information: th
 
 - Maximum displacement distance
 - Number of trajectory steps
-- Intensity of curvature and conservation of the original image
+- Intensity of curvature and preservation of the original image
 
 **Uncontrolled / accidental variables:**  
 
 - Overlap and concentration of pixels during displacement
-- Empty or sparsely dense areas produced by pixels leaving their original positions
+- Empty or sparse areas produced by pixels leaving their original positions
 - Emerging shapes, stains, and transitions determined by the particular chromatic distribution of the source image
 
 
@@ -52,7 +52,7 @@ Each pixel shifts along a trajectory determined by its chromatic information: th
 ## 4. Visual sequence
 
 ### Initial image
-![[input_03.jpeg.webp|200]]
+![[Input_003.jpeg|200]]
 
 ### Step 01
 ![[OB027_step01.png.webp|200]]
@@ -116,9 +116,9 @@ Each pixel shifts along a trajectory determined by its chromatic information: th
 ## 6. Crisis and formal-perceptual reading
 
 
-**Where the crisis occurs and the operation affects the visual grammar of the image: shape, contour, color, figure/ground relationship, legibility, recognition, and support:**
+**Where the crisis occurs and the operation affects the visual grammar of the image: shape, outline, color, figure/ground relationship, legibility, recognition, and support:**
 
-Its contours begin to dissolve and blend into the background. Color remains as an indication of the figure, although it ceases to correspond to a defined form. The figure/ground separation becomes ambiguous, and the image oscillates between a recognizable landscape and dragged chromatic masses. The digital support begins to become perceptible through the drift and accumulation of pixels.
+Its outlines begin to dissolve and blend into the background. Color remains as a trace of the figure, although it no longer corresponds to a defined form. The figure/ground separation becomes ambiguous, and the image oscillates between a recognizable landscape and dragged chromatic masses. The digital support begins to become perceptible through the drift and accumulation of pixels.
 
 
 ---
@@ -128,23 +128,23 @@ Its contours begin to dissolve and blend into the background. Color remains as a
 
 **Operation notes / what I learned:**  
 
-This operation also feels [[organica|organic]] and [[pictorica|pictorial]], and it can be handled quite a bit. It is like passing a rag over the image.
+This operation also feels [[organica|organic]] and [[pictorica|pictorial]], and it can be handled quite a bit. It is like wiping a cloth across the image.
 
 **Final_status:** 
-Works:: [[SI|SI]] 
+Works:: [[SI|YES]] 
 
 **How it destroys the image:** 
 Works_on:: [[Formal|Formal]] 
 
 **Level and Richness of crisis:** 
-Crisis::   [[Alta|Alta]]
+Crisis::   [[Alta|High]]
 
 **Decision:** 
-Selection:: [[Combinable|Combinable]] / [[Guardar|Guardar]] 
+Selection:: [[Combinable|Combinable]] / [[Guardar|Save]] 
 
 ---
 
-### Potential artistic reference
+### Possible artistic reference
 
 Reference:: [[Gerhard Richter|Gerhard Richter]], [[Wilhelm Sasnal|Wilhelm Sasnal]], [[JMW Turner|JMW Turner]], [[James Whistler|James Whistler]], [[Claude Monet|Claude Monet]]
 
