@@ -74,6 +74,18 @@ patch_config "es-ES" "kwespy.github.io/atlas-operativo" "Atlas Operativo"
 KWY_LANG=es node quartz/bootstrap-cli.mjs build -d content -o "$OUT"
 
 echo
+echo "1b. Copiando archivos de verificacion sueltos (ej. Google Search Console)..."
+# Quartz le saca la extension .html a archivos sueltos en content/ (los trata como paginas,
+# ver quartz/util/path.test.ts: slugifyFilePath convierte "index.html" -> "index"). Los
+# archivos de verificacion de servicios externos necesitan su nombre exacto con extension,
+# asi que se copian aparte, directo a la raiz del sitio publicado, despues del build.
+for vf in "$ES_CONTENT"/google*.html; do
+  [ -e "$vf" ] || continue
+  cp "$vf" "$OUT/$(basename "$vf")"
+  echo "   ✓ $(basename "$vf")"
+done
+
+echo
 echo "2. Preparando fuente EN con los mismos assets..."
 rm -rf "$EN_BUILD"
 rsync -a "$ES_CONTENT/" "$EN_BUILD/"
