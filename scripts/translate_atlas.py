@@ -413,12 +413,44 @@ def main():
     DEST.mkdir(parents=True, exist_ok=True)
     cache = load_cache()
 
+    only_ids = None
+    if len(sys.argv) == 3 and sys.argv[1] == "--only-operations":
+        only_ids = set(Path(sys.argv[2]).read_text(encoding="utf-8").splitlines())
+    elif len(sys.argv) != 1:
+        raise SystemExit("Uso: translate_atlas.py [--only-operations MANIFEST_IDS]")
+
     md_files, expected = copy_assets_and_collect_markdown()
+    touched_regimes = set()
+    if only_ids is not None:
+        for _, _, rel in md_files:
+            parts = rel.parts
+            if len(parts) < 3 or parts[0] != "01_OPERACIONES":
+                continue
+            match = re.match(r"^OB[_-]?(\d{3})(?:\D|$)", parts[2], re.I)
+            if match and match.group(1) in only_ids:
+                touched_regimes.add(parts[1])
 
     unchanged = []
     pending = []
 
     for src, dst, rel in md_files:
+        if only_ids is not None:
+            parts = rel.parts
+            operation = None
+            if parts[0] == "01_OPERACIONES":
+                for part in parts[1:]:
+                    operation = re.match(r"^OB[_-]?(\d{3})(?:\D|$)", part, re.I)
+                    if operation:
+                        break
+            is_index = rel.as_posix() == "index.md"
+            is_regime_list = (
+                parts[0] == "01_OPERACIONES"
+                and len(parts) == 3
+                and parts[1] in touched_regimes
+                and rel.name.lower().startswith("lista_")
+            )
+            if not (operation and operation.group(1) in only_ids) and not is_index and not is_regime_list:
+                continue
         original = src.read_text(encoding="utf-8")
         h = text_hash(original)
         key = rel.as_posix()
@@ -435,7 +467,7 @@ def main():
     print("Modo: Gemini Free Tier / secuencial")
     print()
 
-    new_cache = {key: h for key, h in unchanged}
+    new_cache = dict(cache) if only_ids is not None else {key: h for key, h in unchanged}
 
     for number, (src, dst, rel, original, h) in enumerate(pending, start=1):
         key = rel.as_posix()
@@ -460,7 +492,8 @@ def main():
         if number < len(pending):
             time.sleep(DELAY_SECONDS)
 
-    remove_stale(expected)
+    if only_ids is None:
+        remove_stale(expected)
     save_cache(new_cache)
 
     print()

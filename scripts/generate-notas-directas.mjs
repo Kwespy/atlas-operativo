@@ -2,6 +2,10 @@ import fs from "node:fs"
 import path from "node:path"
 
 const OPERACIONES = path.resolve("content", "01_OPERACIONES")
+const onlyNewManifest = process.env.KWY_NEW_OPERATIONS_MANIFEST
+const onlyNew = onlyNewManifest
+  ? new Set(fs.readFileSync(onlyNewManifest, "utf8").trim().split(/\s+/).filter(Boolean))
+  : null
 
 function getMarkdownFiles(directory) {
   if (!fs.existsSync(directory)) return []
@@ -250,7 +254,7 @@ const regimeDirectories = fs
   .map((entry) => path.join(OPERACIONES, entry.name))
 
 for (const regimeDirectory of regimeDirectories) {
-  removePreviouslyGeneratedNotes(regimeDirectory)
+  if (!onlyNew) removePreviouslyGeneratedNotes(regimeDirectory)
 
   const operationDirectories = fs
     .readdirSync(regimeDirectory, { withFileTypes: true })
@@ -268,6 +272,8 @@ for (const regimeDirectory of regimeDirectories) {
   let regimeTotal = 0
 
   for (const operation of operationDirectories) {
+    const number = operation.name.match(/^OB[_-]?(\d{3})(?:\D|$)/i)?.[1]
+    if (onlyNew && !onlyNew.has(number)) continue
     const operationDirectory = path.join(
       regimeDirectory,
       operation.name,

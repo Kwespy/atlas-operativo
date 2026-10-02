@@ -122,7 +122,7 @@ const candidatos = files
     }
   })
   .filter(op => op.id)
-  .filter(op => op.estado.includes("Terminada"))
+  .filter(op => op.estado.includes("Terminada") || op.estado.includes("En revisión"))
 
 /*
   Deduplicar por OB_###.

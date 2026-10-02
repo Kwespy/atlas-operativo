@@ -44,6 +44,8 @@ Instead of stabilizing or optimizing the image, the Atlas pushes it toward state
 - [[01_OPERACIONES/Intervencion_Fisica/OB_023 — Agua y Tinta|OB_023 — Agua_y_Tinta]]
   Works on: Aesthetic · Crisis: Medium · Works: YES ]
 
+- [[01_OPERACIONES/Intervencion_Fisica/OB_031 — Perforacion luminica progresiva|OB_031 — Progressive light perforation]]
+  Works_on: Configurative · Crisis: Low · Works: YES
 
 ### Representation Systems Translation
 
@@ -65,6 +67,8 @@ Instead of stabilizing or optimizing the image, the Atlas pushes it toward state
 - [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_022 — Matriz CMYK|OB_022_Matriz_CMYK]]
   Works on: Aesthetic Formal · Crisis: Medium · Works: YES
 
+- [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_033 — Dibujo Ciego Progresivo|OB_033_Progressive_Blind_Drawing]]
+  Works_on: Configurative · Crisis: Pending · Works: Pending
 
 ### Algorithmic Transformation
 
@@ -109,4 +113,11 @@ Instead of stabilizing or optimizing the image, the Atlas pushes it toward state
 
 - [[01_OPERACIONES/Transformacion_Algoritmica/OB_024 — Reconstrucción parches erróneos|OB_024_Reconstrucción_parches_erróneos]]
   Works on: [Formal] · Crisis: Medium · Works: [YES]
+
+- [[01_OPERACIONES/Transformacion_Algoritmica/OB_030 — Desfase Profundidad|OB_030_Depth_Offset]]
+  Works_on: Apparent · Crisis: Low · Works: YES
+
+- [[01_OPERACIONES/Transformacion_Algoritmica/OB_032 — Propagacion Lateral Desde Borde|OB_032_Lateral_Propagation_From_Edge]]
+  Works_on: Configurative · Crisis: Medium · Works: YES
+
 <!-- OPERACIONES_AUTO_END -->

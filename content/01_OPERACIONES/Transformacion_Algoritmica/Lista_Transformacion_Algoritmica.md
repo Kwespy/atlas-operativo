@@ -13,5 +13,7 @@
 - [[OB_024_Reconstrucción_parches_erróneos/024_FICHA/OB_024_Reconstrucción_parches_erróneos|OB_024_Reconstrucción_parches_erróneos]]
 - [[OB_025_Saturacion_vecindad_rgb/025_FICHA/OB_025_Saturacion_vecindad_rgb|OB 025 Saturacion vecindad rgb]]
 - [[OB_027_Deriva_Vectorial_Rgb/027_FICHA/OB_027_Deriva_Vectorial_Rgb|OB 027 Deriva Vectorial Rgb]]
+- [[OB_030_Desfase_Profundidad/030_FICHA/OB_030_Desfase_Profundidad|OB_030_Desfase_Profundidad]]
+- [[OB_032_Propagacion_Lateral_Desde_Borde/032_FICHA/OB_032_Propagacion_Lateral_Desde_Borde|OB_032_Propagacion_Lateral_Desde_Borde]]
 <!-- AUTO-LISTA-REGIMEN:END -->
 

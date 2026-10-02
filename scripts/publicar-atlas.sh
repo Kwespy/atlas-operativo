@@ -1,6 +1,11 @@
 #!/bin/bash
 set -euo pipefail
 
+if [ "$#" -gt 1 ] || { [ "$#" -eq 1 ] && [ "$1" != "--plan" ]; }; then
+  echo "Uso: bash scripts/publicar-atlas.sh [--plan]"
+  exit 2
+fi
+
 BASE="/Users/kwy/Library/Mobile Documents/iCloud~md~obsidian/Documents"
 MASTER="$BASE/ATLAS_OPERATIVO"
 QUARTZ="$BASE/ATLAS_WEB_QUARTZ"
@@ -31,6 +36,20 @@ export PATH="/usr/bin:/bin:/usr/sbin:/sbin:/opt/homebrew/bin:/usr/local/bin:${PA
 cd "$QUARTZ"
 
 [ "$(git branch --show-current)" = "v5" ] || { echo "ERROR: branch no es v5"; exit 1; }
+[ -z "$(git diff --cached --name-only)" ] || { echo "ERROR: hay cambios ya preparados en Git; revísalos antes de publicar"; exit 1; }
+[ -z "$(git status --porcelain -- content content_en)" ] || { echo "ERROR: content/ o content_en/ tienen cambios locales pendientes"; exit 1; }
+
+echo "[1/8] Detectando operaciones nuevas..."
+MANIFEST="$TMPROOT/operaciones-nuevas.txt"
+python3 scripts/seleccionar-operaciones-nuevas.py "$MASTER" "$QUARTZ/content" "$STAGING" "$MANIFEST"
+if [ ! -s "$MANIFEST" ]; then
+  echo "No hay operaciones nuevas para publicar."
+  exit 0
+fi
+if [ "${1:-}" = "--plan" ]; then
+  echo "Plan listo. No se ha publicado nada."
+  exit 0
+fi
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"
@@ -40,17 +59,17 @@ fi
 [ "$(node -p 'process.versions.node')" = "22.16.0" ] || { echo "ERROR: se requiere Node 22.16.0"; exit 1; }
 
 if [ ! -d node_modules ]; then
-  echo "[1/8] Instalando dependencias..."
+  echo "[2/8] Instalando dependencias..."
   npm ci
 else
-  echo "[1/8] Dependencias listas."
+  echo "[2/8] Dependencias listas."
 fi
 
 if [ ! -d .quartz ]; then
-  echo "[2/8] Instalando plugins Quartz..."
+  echo "[3/8] Instalando plugins Quartz..."
   node quartz/bootstrap-cli.mjs plugin install --concurrency 4
 else
-  echo "[2/8] Plugins Quartz listos."
+  echo "[3/8] Plugins Quartz listos."
 fi
 
 if [ -z "${GEMINI_API_KEY:-}" ]; then
@@ -59,31 +78,14 @@ if [ -z "${GEMINI_API_KEY:-}" ]; then
 fi
 [ -n "${GEMINI_API_KEY:-}" ] || { echo "ERROR: falta GEMINI_API_KEY en Keychain"; exit 1; }
 
-echo "[3/8] Seleccionando Markdown + assets referenciados..."
-mkdir -p "$STAGING/01_OPERACIONES" "$IMG_CACHE"
-
-rsync -a \
-  --exclude=".venv/" \
-  --exclude="venv/" \
-  --exclude="__pycache__/" \
-  --exclude=".git/" \
-  --exclude=".obsidian/" \
-  --exclude="node_modules/" \
-  --include="*/" \
-  --include="*.md" \
-  --exclude="*" \
-  "$MASTER/01_OPERACIONES/" \
-  "$STAGING/01_OPERACIONES/"
-
-python3 scripts/copiar-assets-fichas.py "$MASTER" "$STAGING"
-python3 scripts/preparar-combinaciones.py \
-  "$MASTER/02_COMBINACIONES" \
-  "$STAGING/02_COMBINACIONES"
+echo "[4/8] Copiando recursos referenciados por las fichas nuevas..."
+mkdir -p "$IMG_CACHE"
+python3 scripts/copiar-assets-fichas.py "$MASTER" "$STAGING" "$MANIFEST"
 
 find "$STAGING" -name ".DS_Store" -delete
 find "$STAGING" -name "*.pyc" -delete
 
-echo "[4/8] Convirtiendo imágenes seleccionadas a WebP..."
+echo "[5/8] Convirtiendo imágenes nuevas a WebP..."
 node scripts/optimizar-imagenes-web.mjs "$STAGING" "$IMG_CACHE"
 
 RAW="$(find "$STAGING" -type f \( \
@@ -93,17 +95,13 @@ RAW="$(find "$STAGING" -type f \( \
 \) -print -quit)"
 [ -z "$RAW" ] || { echo "ERROR: raster original en staging: $RAW"; exit 1; }
 
-echo "[5/8] Regenerando content..."
-rm -rf content
-mkdir -p content
-rsync -a "$STAGING/" content/
-cp scripts/home-index.md content/index.md
-cp scripts/project.md content/project.md
+echo "[6/8] Incorporando solo las operaciones nuevas..."
+rsync -a --ignore-existing "$STAGING/" content/
 
-node scripts/generate-notas-directas.mjs
+KWY_NEW_OPERATIONS_MANIFEST="$MANIFEST" node scripts/generate-notas-directas.mjs
 node scripts/generate-listas-regimenes.mjs
 node scripts/generate-operaciones.mjs
-python3 scripts/prune-public-assets.py
+python3 scripts/conservar-indices-previos.py es "$MANIFEST"
 
 RAW="$(find content -type f \( \
   -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o \
@@ -112,22 +110,22 @@ RAW="$(find content -type f \( \
 \) -print -quit)"
 [ -z "$RAW" ] || { echo "ERROR: raster original llegó a content: $RAW"; exit 1; }
 
-echo "[6/8] Traduciendo ES → EN..."
-rm -rf content_en
-python3 scripts/translate_atlas.py
+echo "[7/8] Traduciendo operaciones nuevas e índices ES → EN..."
+python3 scripts/translate_atlas.py --only-operations "$MANIFEST"
+python3 scripts/conservar-indices-previos.py en "$MANIFEST"
 
 ES_MD="$(find content -type f -name "*.md" | wc -l | tr -d " ")"
 EN_MD="$(find content_en -type f -name "*.md" | wc -l | tr -d " ")"
-EN_ASSETS="$(find content_en -type f ! -name "*.md" | wc -l | tr -d " ")"
+EN_ASSETS="$(find content_en -type f ! -name "*.md" ! -name ".DS_Store" | wc -l | tr -d " ")"
 
 [ "$ES_MD" -gt 0 ] || { echo "ERROR: content sin Markdown"; exit 1; }
 [ "$ES_MD" = "$EN_MD" ] || { echo "ERROR: ES=$ES_MD EN=$EN_MD"; exit 1; }
 [ "$EN_ASSETS" = "0" ] || { echo "ERROR: content_en contiene assets"; exit 1; }
 
-echo "[7/8] Construyendo ES + EN..."
+echo "[8/8] Construyendo ES + EN..."
 KWY_OUT="$BUILD" bash scripts/build-bilingual-site.sh
 
-ES_HTML="$(find "$BUILD" -path "$BUILD/en" -prune -o -type f -name "*.html" -print | wc -l | tr -d " ")"
+ES_HTML="$(find "$BUILD" -path "$BUILD/en" -prune -o -type f -name "*.html" ! -name "google*.html" -print | wc -l | tr -d " ")"
 EN_HTML="$(find "$BUILD/en" -type f -name "*.html" | wc -l | tr -d " ")"
 
 [ "$ES_HTML" -gt 0 ] || { echo "ERROR: build ES vacío"; exit 1; }
@@ -148,20 +146,22 @@ if bad:
     raise SystemExit(1)
 '
 
-echo "[8/8] Git + GitHub..."
+echo "Publicando cambios validados en GitHub..."
 git add -A -- content content_en
 git add -- \
-  .gitignore \
   scripts/publicar-atlas.sh \
+  scripts/seleccionar-operaciones-nuevas.py \
+  scripts/conservar-indices-previos.py \
   scripts/copiar-assets-fichas.py \
-  scripts/preparar-combinaciones.py \
-  scripts/optimizar-imagenes-web.mjs
+  scripts/generate-notas-directas.mjs \
+  scripts/generate-operaciones.mjs \
+  scripts/translate_atlas.py
 
 BAD="$(git diff --cached --name-only --diff-filter=AM -- content | grep -Ei '\.(jpg|jpeg|png|heic|heif|tif|tiff)$' || true)"
 [ -z "$BAD" ] || { echo "ERROR: raster original staged"; echo "$BAD"; exit 1; }
 
 if ! git diff --cached --quiet; then
-  git commit -m "Simplificar publicación del Atlas"
+  git commit -m "Publicar operaciones nuevas del Atlas"
   git push origin v5
 else
   echo "Git: no hay cambios nuevos."

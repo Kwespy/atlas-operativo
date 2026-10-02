@@ -5,12 +5,16 @@ import re
 import shutil
 import sys
 
-if len(sys.argv) != 3:
-    raise SystemExit("Uso: copiar-assets-fichas.py MASTER STAGING")
+if len(sys.argv) not in (3, 4):
+    raise SystemExit("Uso: copiar-assets-fichas.py MASTER STAGING [MANIFEST_IDS]")
 
 MASTER = Path(sys.argv[1]).resolve()
 STAGING = Path(sys.argv[2]).resolve()
 OPERACIONES = MASTER / "01_OPERACIONES"
+ONLY_IDS = (
+    set(Path(sys.argv[3]).read_text(encoding="utf-8").splitlines())
+    if len(sys.argv) == 4 else None
+)
 
 IGNORADAS = {
     ".venv", "venv", "__pycache__", ".git",
@@ -58,6 +62,12 @@ def resolve_asset(raw: str, note: Path):
     if low.startswith(("http://", "https://", "data:", "mailto:", "/")):
         return None
 
+    # Algunas fichas escriben la ruta completa del vault en sus embeds.
+    if reference.startswith("ATLAS_OPERATIVO/"):
+        candidate = (MASTER / reference.removeprefix("ATLAS_OPERATIVO/")).resolve()
+        if candidate.is_file() and candidate.is_relative_to(MASTER) and not ignorar(candidate):
+            return candidate
+
     direct = (note.parent / reference).resolve()
     try:
         direct.relative_to(MASTER)
@@ -68,6 +78,11 @@ def resolve_asset(raw: str, note: Path):
 
     ref_path = Path(reference)
     operation_dir = note.parent.parent
+
+    # Los inputs compartidos tienen una ubicación canónica.
+    shared_input = MASTER / "04_INPUTS" / ref_path.name
+    if ref_path.name.lower().startswith("input_") and shared_input.is_file():
+        return shared_input
 
     # Obsidian permite embeds sin extensión, por ejemplo ![[OB015_step01]].
     if not ref_path.suffix:
@@ -111,6 +126,9 @@ if not OPERACIONES.is_dir():
 fichas = []
 for regime in sorted(p for p in OPERACIONES.iterdir() if p.is_dir() and not ignorar(p)):
     for operation in sorted(p for p in regime.iterdir() if p.is_dir() and not ignorar(p)):
+        match = re.match(r"^OB[_-]?(\d{3})(?:\D|$)", operation.name, re.IGNORECASE)
+        if ONLY_IDS is not None and (not match or match.group(1) not in ONLY_IDS):
+            continue
         note = find_ficha(operation)
         if note:
             fichas.append(note)
@@ -146,6 +164,9 @@ for note in fichas:
 
 for ref, note in warnings:
     print(f"ADVERTENCIA: no resuelto: {ref} <- {note}")
+
+if ONLY_IDS is not None and warnings:
+    raise SystemExit(f"ERROR: {len(warnings)} recursos de operaciones nuevas sin resolver")
 
 print(f"Fichas analizadas: {len(fichas)}")
 print(f"Assets de fichas copiados: {len(copied)}")

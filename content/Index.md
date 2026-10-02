@@ -43,6 +43,8 @@ En lugar de estabilizar u optimizar la imagen, el Atlas la empuja hacia estados 
 - [[01_OPERACIONES/Intervencion_Fisica/OB_023 — Agua y Tinta|OB_023 — Agua_y_Tinta]]
   Trabaja en: Estetico · Crisis: Media · Funciona: SI ]
 
+- [[01_OPERACIONES/Intervencion_Fisica/OB_031 — Perforacion luminica progresiva|OB_031 — Perforación lumínica progresiva]]
+  Trabaja en: Configurativo · Crisis: Baja · Funciona: SI
 
 ### Traduccion Sistemas Representación
 
@@ -64,6 +66,8 @@ En lugar de estabilizar u optimizar la imagen, el Atlas la empuja hacia estados 
 - [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_022 — Matriz CMYK|OB_022_Matriz_CMYK]]
   Trabaja en: Estetico Formal · Crisis: Media · Funciona: SI
 
+- [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_033 — Dibujo Ciego Progresivo|OB_033_Dibujo_Ciego_Progresivo]]
+  Trabaja en: Configurativo · Crisis: Pendiente · Funciona: Pendiente
 
 ### Transformacion Algoritmica
 
@@ -108,4 +112,11 @@ En lugar de estabilizar u optimizar la imagen, el Atlas la empuja hacia estados 
 
 - [[01_OPERACIONES/Transformacion_Algoritmica/OB_024 — Reconstrucción parches erróneos|OB_024_Reconstrucción_parches_erróneos]]
   Trabaja en: [Formal] · Crisis: Media · Funciona: [SI]
+
+- [[01_OPERACIONES/Transformacion_Algoritmica/OB_030 — Desfase Profundidad|OB_030_Desfase_Profundidad]]
+  Trabaja en: Aparencial · Crisis: Baja · Funciona: SI
+
+- [[01_OPERACIONES/Transformacion_Algoritmica/OB_032 — Propagacion Lateral Desde Borde|OB_032_Propagacion_Lateral_Desde_Borde]]
+  Trabaja en: Configurativo · Crisis: Media · Funciona: SI
+
 <!-- OPERACIONES_AUTO_END -->

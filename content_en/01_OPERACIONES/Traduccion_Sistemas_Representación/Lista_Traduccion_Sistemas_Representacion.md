@@ -11,4 +11,5 @@ lang: en
 - [[OB_026_Matriz_vectorial_rgb/026_FICHA/OB_026_Matriz_vectorial_rgb|OB 026 Matriz vectorial rgb]]
 - [[OB_028_Despiece_Numerado/028_FICHA/OB_028_Despiece_Numerado|OB_028_Despiece_Numerado]]
 - [[OB_029_Barrido_Oscilatorio_por_Luminancia/029_FICHA/OB_029_Barrido_Oscilatorio_por_Luminancia|OB_029_Barrido_Oscilatorio_por_Luminancia]]
+- [[OB_033_Dibujo_Ciego_Progresivo/033_FICHA/OB_033_Dibujo_Ciego_Progresivo|OB_033_Dibujo_Ciego_Progresivo]]
 <!-- AUTO-LISTA-REGIMEN:END -->
