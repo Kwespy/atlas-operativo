@@ -46,6 +46,9 @@ En lugar de estabilizar u optimizar la imagen, el Atlas la empuja hacia estados 
 - [[01_OPERACIONES/Intervencion_Fisica/OB_031 — Perforacion luminica progresiva|OB_031 — Perforación lumínica progresiva]]
   Trabaja en: Configurativo · Crisis: Baja · Funciona: SI
 
+- [[01_OPERACIONES/Intervencion_Fisica/OB_034 — Collage Manual Con Reescaneo Sucesivo|OB_034 — Collage manual con reescaneo sucesivo]]
+  Trabaja en: Configurativo · Crisis: Pendiente · Funciona: Pendiente
+
 ### Traduccion Sistemas Representación
 
 - [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_026 — Matriz vectorial rgb|OB 026 — Matriz vectorial rgb]]

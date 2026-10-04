@@ -47,6 +47,9 @@ Instead of stabilizing or optimizing the image, the Atlas pushes it toward state
 - [[01_OPERACIONES/Intervencion_Fisica/OB_031 — Perforacion luminica progresiva|OB_031 — Progressive light perforation]]
   Works_on: Configurative · Crisis: Low · Works: YES
 
+- [[01_OPERACIONES/Intervencion_Fisica/OB_034 — Collage Manual Con Reescaneo Sucesivo|OB_034 — Manual collage with successive rescanning]]
+  Works on: Configurative · Crisis: Pending · Works: Pending
+
 ### Representation Systems Translation
 
 - [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_026 — Matriz vectorial rgb|OB 026 — Matriz vectorial rgb]]
