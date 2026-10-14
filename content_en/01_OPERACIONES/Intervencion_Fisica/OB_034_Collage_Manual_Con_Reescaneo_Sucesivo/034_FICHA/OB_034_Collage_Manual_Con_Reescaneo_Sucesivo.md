@@ -36,7 +36,7 @@ The choice and placement of each fragment are manual decisions. They are not det
 4. Continue adding fragments and scanning successive states.
 5. When useful, print a scan of the collage and use parts of this new print as material for another layer.
 
-The supplied folder contains six scans dated between 2 and 4 October 2026. The process remains open: new states may be added. The filenames establish an order for the records, but do not in themselves document which print each cutout came from or how many times a scan was reprinted.
+The supplied folder contains nine scans dated between 2 and 5 October 2026. The process remains open: new states may be added. The filenames establish an order for the records, but do not in themselves document which print each cutout came from or how many times a scan was reprinted.
 
 **Script:** Not applicable. The operation is manual; the scanner records material and returns it to the process.
 
@@ -55,45 +55,20 @@ The supplied folder contains six scans dated between 2 and 4 October 2026. The p
 **Uncontrolled / accidental variables:**
 - Edges, slight misalignments, and shadows produced by overlapping paper.
 - Tonal and chromatic changes introduced by printing and scanning.
-- The exact source of each fragment in the six current records: this has not been documented.
+- The exact source of each fragment in the nine current records: this has not been documented.
 
 ---
 
 ## 4. Visual sequence
 
-The six files are numbered according to the date and time in their original filenames, not as a proven causal chain. The second is a scan of the portrait without cutouts, recorded after the first collage in this folder; it retains its chronological position. The shared digital portrait is shown separately as the source image.
+The nine files are numbered according to the date and time in their original filenames, not as a proven causal chain. The second is a scan of the portrait without cutouts, recorded after the first collage in this folder; it retains its chronological position. The shared digital portrait is shown separately as the source image.
 
-### Source image
-![[Input_005.jpeg.webp|200]]
-
-### Step 01 — 2 October, 21:44
-![[OB034_step01.jpg.webp|200]]
-
-### Step 02 — 2 October, 21:48; print without cutouts
-![[OB034_step02.jpg.webp|200]]
-
-### Step 03 — 2 October, 22:01
-![[OB034_step03.jpg.webp|200]]
-
-### Step 04 — 2 October, 22:22
-![[OB034_step04.jpg.webp|200]]
-
-### Step 05 — 3 October, 15:01
-![[OB034_step05.jpg.webp|200]]
-
-### Step 06 — 4 October, 20:39
-![[OB034_step06.jpg.webp|200]]
-
-**Correspondence with the original scans:**
-
-| Step | Original file in `Corte Collage` |
-| --- | --- |
-| 01 | `img20261002_21440641.jpg` |
-| 02 | `img20261002_21480905.jpg` |
-| 03 | `img20261002_22015727.jpg` |
-| 04 | `img20261002_22220792.jpg` |
-| 05 | `img20261003_15013410.jpg` |
-| 06 | `img20261004_20395547.jpg` |
+|                                                       |                                                       |                                                       |
+| ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
+| Source image<br>![[Input_005.jpeg.webp\|180]]          | Step 01 — 2 Oct., 21:44<br>![[OB034_step02.jpg.webp\|180]] | Step 02 — 2 Oct., 21:48<br>![[OB034_step01.jpg.webp\|180]] |
+| Step 03 — 2 Oct., 22:01<br>![[OB034_step03.jpg.webp\|180]] | Step 04 — 2 Oct., 22:22<br>![[OB034_step04.jpg.webp\|180]] | Step 05 — 3 Oct., 15:01<br>![[OB034_step05.jpg.webp\|180]] |
+| Step 06 — 4 Oct., 20:39<br>![[OB034_step06.jpg.webp\|180]] | Step 07 — 4 Oct., 21:17<br>![[OB034_step07.jpg.webp\|180]] | Step 08 — 5 Oct., 17:42<br>![[OB034_step08.jpg.webp\|180]] |
+| Step 09 — 5 Oct., 17:57<br>![[OB034_step09.jpg.webp\|180]] |                                                       |                                                       |
 
 ---
 

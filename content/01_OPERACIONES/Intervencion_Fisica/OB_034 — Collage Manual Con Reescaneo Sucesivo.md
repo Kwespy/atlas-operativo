@@ -1,5 +1,5 @@
 ---
-title: "OB_034 — Collage manual con reescaneo sucesivo"
+title: "OB_034 — Collage Manual Con Reescaneo Sucesivo"
 atlas_direct: true
 ---
 
@@ -14,7 +14,7 @@ Estado:: [[En revisión]]
 
 **Número interno:** OB_034  
 **Régimen operativo:** [[Lista_Intervención_Física]]  
-**Imagen de origen:** [[Input_005.jpeg.webp]] — retrato frontal impreso en papel.
+**Imagen de origen:** [[ATLAS_OPERATIVO/04_INPUTS/Input_005.jpeg]] — retrato frontal impreso en papel.
 
 **Descripción operativa:**  
 Se recortan partes de una impresión del retrato y se pegan sobre otra impresión de la misma imagen. El collage se escanea; después se pueden añadir nuevos recortes y volver a escanearlo. Un escaneo del collage también puede imprimirse, recortarse y pegarse de nuevo sobre la composición. Así, cada retorno del escáner convierte una disposición material de papel en una nueva superficie disponible para cortar y superponer.
@@ -37,7 +37,7 @@ La selección y la ubicación de cada fragmento son decisiones manuales. No las 
 4. Continuar pegando fragmentos y escaneando los estados sucesivos.
 5. Cuando interesa, imprimir un escaneo del collage y usar partes de esa nueva impresión como material para otra capa.
 
-La carpeta recibida contiene seis escaneos, fechados entre el 2 y el 4 de octubre de 2026. El proceso sigue abierto: pueden incorporarse nuevos estados. Los nombres de los archivos permiten ordenar los registros, pero no documentan por sí solos de qué impresión procede cada recorte ni cuántas veces se reimprimió un escaneo.
+La carpeta recibida contiene nueve escaneos, fechados entre el 2 y el 5 de octubre de 2026. El proceso sigue abierto: pueden incorporarse nuevos estados. Los nombres de los archivos permiten ordenar los registros, pero no documentan por sí solos de qué impresión procede cada recorte ni cuántas veces se reimprimió un escaneo.
 
 **Script:** No aplica. La operación es manual; el escáner registra y devuelve material al proceso.
 
@@ -56,45 +56,20 @@ La carpeta recibida contiene seis escaneos, fechados entre el 2 y el 4 de octubr
 **Variables no controladas / accidentales:**
 - Bordes, pequeñas desalineaciones y sombras producidas por el papel superpuesto.
 - Cambios tonales y cromáticos introducidos por impresión y escaneo.
-- Procedencia exacta de cada fragmento en los seis registros actuales: no está documentada.
+- Procedencia exacta de cada fragmento en los nueve registros actuales: no está documentada.
 
 ---
 
 ## 4. Secuencia visual
 
-Los seis archivos se numeran por la fecha y hora de sus nombres originales, no como una cadena causal demostrada. El segundo es un escaneo del retrato sin recortes, registrado después del primer collage de esta carpeta; se conserva en su posición cronológica. El retrato digital compartido se muestra aparte como imagen de origen.
+Los nueve archivos se numeran por la fecha y hora de sus nombres originales, no como una cadena causal demostrada. El segundo es un escaneo del retrato sin recortes, registrado después del primer collage de esta carpeta; se conserva en su posición cronológica. El retrato digital compartido se muestra aparte como imagen de origen.
 
-### Imagen de origen
-![[Input_005.jpeg.webp|200]]
-
-### Step 01 — 2 de octubre, 21:44
-![[OB034_step01.jpg.webp|200]]
-
-### Step 02 — 2 de octubre, 21:48; impresión sin recortes
-![[OB034_step02.jpg.webp|200]]
-
-### Step 03 — 2 de octubre, 22:01
-![[OB034_step03.jpg.webp|200]]
-
-### Step 04 — 2 de octubre, 22:22
-![[OB034_step04.jpg.webp|200]]
-
-### Step 05 — 3 de octubre, 15:01
-![[OB034_step05.jpg.webp|200]]
-
-### Step 06 — 4 de octubre, 20:39
-![[OB034_step06.jpg.webp|200]]
-
-**Correspondencia con los escaneos originales:**
-
-| Step | Archivo original en `Corte Collage` |
-| --- | --- |
-| 01 | `img20261002_21440641.jpg` |
-| 02 | `img20261002_21480905.jpg` |
-| 03 | `img20261002_22015727.jpg` |
-| 04 | `img20261002_22220792.jpg` |
-| 05 | `img20261003_15013410.jpg` |
-| 06 | `img20261004_20395547.jpg` |
+|                                                       |                                                       |                                                       |
+| ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
+| Imagen de origen<br>![[Input_005.jpeg.webp\|180]]          | Step 01 — 2 oct., 21:44<br>![[OB034_step02.jpg.webp\|180]] | Step 02 — 2 oct., 21:48<br>![[OB034_step01.jpg.webp\|180]] |
+| Step 03 — 2 oct., 22:01<br>![[OB034_step03.jpg.webp\|180]] | Step 04 — 2 oct., 22:22<br>![[OB034_step04.jpg.webp\|180]] | Step 05 — 3 oct., 15:01<br>![[OB034_step05.jpg.webp\|180]] |
+| Step 06 — 4 oct., 20:39<br>![[OB034_step06.jpg.webp\|180]] | Step 07 — 4 oct., 21:17<br>![[OB034_step07.jpg.webp\|180]] | Step 08 — 5 oct., 17:42<br>![[OB034_step08.jpg.webp\|180]] |
+| Step 09 — 5 oct., 17:57<br>![[OB034_step09.jpg.webp\|180]] |                                                       |                                                       |
 
 ---
 
