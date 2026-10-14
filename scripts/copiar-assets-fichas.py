@@ -48,6 +48,10 @@ def find_ficha(operation_dir: Path):
 
 def normalize_reference(raw: str) -> str:
     ref = unquote(raw.strip())
+    # En tablas Markdown las fichas escapan el separador de alias de Obsidian:
+    # ![[archivo.jpg\|180]]. Para localizar el archivo hay que normalizarlo
+    # antes de separar el alias.
+    ref = ref.replace(r"\|", "|")
     if "|" in ref:
         ref = ref.split("|", 1)[0].strip()
     if "#" in ref:

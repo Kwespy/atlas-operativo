@@ -72,6 +72,9 @@ En lugar de estabilizar u optimizar la imagen, el Atlas la empuja hacia estados 
 - [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_033 — Dibujo Ciego Progresivo|OB_033_Dibujo_Ciego_Progresivo]]
   Trabaja en: Configurativo · Crisis: Pendiente · Funciona: Pendiente
 
+- [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_035 — Arcimboldo en Reticula Facial|OB_035 — Arcimboldo en retícula facial]]
+  Trabaja en: Pendiente · Crisis: Pendiente · Funciona: Pendiente
+
 ### Transformacion Algoritmica
 
 - [[01_OPERACIONES/Transformacion_Algoritmica/OB_025 — Saturacion vecindad rgb|OB 025 — Saturacion vecindad rgb]]

@@ -73,6 +73,9 @@ Instead of stabilizing or optimizing the image, the Atlas pushes it toward state
 - [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_033 — Dibujo Ciego Progresivo|OB_033_Progressive_Blind_Drawing]]
   Works_on: Configurative · Crisis: Pending · Works: Pending
 
+- [[01_OPERACIONES/Traduccion_Sistemas_Representación/OB_035 — Arcimboldo en Reticula Facial|OB_035 — Arcimboldo in facial grid]]
+  Works on: Pending · Crisis: Pending · Works: Pending
+
 ### Algorithmic Transformation
 
 - [[01_OPERACIONES/Transformacion_Algoritmica/OB_025 — Saturacion vecindad rgb|OB 025 — Saturacion vecindad rgb]]

@@ -12,4 +12,5 @@ lang: en
 - [[OB_028_Despiece_Numerado/028_FICHA/OB_028_Despiece_Numerado|OB_028_Despiece_Numerado]]
 - [[OB_029_Barrido_Oscilatorio_por_Luminancia/029_FICHA/OB_029_Barrido_Oscilatorio_por_Luminancia|OB_029_Barrido_Oscilatorio_por_Luminancia]]
 - [[OB_033_Dibujo_Ciego_Progresivo/033_FICHA/OB_033_Dibujo_Ciego_Progresivo|OB_033_Dibujo_Ciego_Progresivo]]
+- [[OB_035_Arcimboldo_en_Reticula_Facial/035_FICHA/OB_035_Arcimboldo_en_Reticula_Facial|OB_035 — Arcimboldo en retícula facial]]
 <!-- AUTO-LISTA-REGIMEN:END -->
