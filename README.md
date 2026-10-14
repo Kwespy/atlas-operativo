@@ -34,10 +34,23 @@ Antes de eliminar cualquier archivo cuya recuperación o regeneración sea incie
 1. Se ordena y revisa el contenido canónico en español en `ATLAS_OPERATIVO`.
 2. Se comprueba que fotos, vídeos y demás materiales importantes siguen localizables.
 3. Se prepara la copia española en Quartz.
-3. Se genera o actualiza la traducción inglesa.
-4. Se comprueban enlaces, imágenes, fichas e índices.
-5. Se construye la web.
-6. Se revisa el resultado y se publica.
+4. Se genera o actualiza la traducción inglesa.
+5. Se comprueban enlaces, imágenes, fichas e índices.
+6. Se construye la web.
+7. Se revisa el resultado y se publica.
+
+## Incorporación de una operación nueva
+
+Las operaciones se prueban primero sin número en `ATLAS_OPERATIVO/05_NO_CLASIFICADAS/`. Pasan al Atlas como `OB_NNN` solo cuando el autor lo confirma. El procedimiento completo está en `ATLAS_OPERATIVO/AGENTS.md`, sección "Paso de una operación no clasificada al Atlas". En resumen:
+
+1. Se asigna el siguiente `OB_NNN` libre y el régimen.
+2. Se copian las salidas a `NNN_PROCESO/resultados/` como `OBNNN_step01…`, en orden cronológico. Los parámetros de cada una quedan en los metadatos EXIF de la imagen.
+3. `NNN_PROCESO/codigo/` guarda solo el script, adaptado a su nueva ubicación. Todo lo escrito va en la ficha (`NNN_FICHA/`).
+4. Se actualizan los inventarios y se prueba el script desde su lugar definitivo.
+5. Tras verificar la copia, se elimina el experimento de `05_NO_CLASIFICADAS`.
+6. La operación queda `En revisión` hasta que el autor elige la imagen de crisis.
+
+La operación llega a la web en la siguiente publicación, siguiendo el flujo anterior.
 
 ## Estado inicial
 

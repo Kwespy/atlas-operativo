@@ -39,7 +39,8 @@ Cada ficha debe conservar, cuando sea aplicable, su descripción, herramientas, 
 - Las listas incluyen las operaciones existentes.
 - Los enlaces internos apuntan a páginas válidas.
 - Las imágenes y vídeos enlazados existen.
-- No quedan marcadores accidentales como `OB___`, `OB_000`, `Pending`, `TODO` o listas vacías sin justificar.
+- No quedan marcadores accidentales como `OB___`, `OB_000`, `TODO` o listas vacías sin justificar.
+- `Pendiente` / `Pending` **sí se puede publicar**: una ficha `En revisión` sale a la web con sus campos pendientes (imagen de crisis según el autor, `Crisis`, `Seleccion`, `Referente`) marcados como tales. No es un error, es el estado real de la operación.
 - La versión inglesa corresponde a la versión española.
 - El sitio se construye correctamente.
 
