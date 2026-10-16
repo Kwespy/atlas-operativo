@@ -17,7 +17,7 @@ def external(ref):
     return r.startswith(("http://", "https://", "data:", "mailto:", "/"))
 
 def resolve(ref, note):
-    ref = unquote(ref.strip()).split("#", 1)[0].strip()
+    ref = unquote(ref.strip()).rstrip("\\").replace(r"\|", "|").split("#", 1)[0].strip()
     if not ref or external(ref):
         return None
 

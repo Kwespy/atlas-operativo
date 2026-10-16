@@ -16,11 +16,11 @@ Status:: [[Terminada|Finished]]
 **Source image:** Digital photograph
 
 **Operational description:**  
-Each pixel is shifted by a distance proportional to its estimated depth in a fixed direction. It is a false parallax: it pretends that the photograph has volume and that the camera is moving sideways, but the depth does not come from any spatial measurement — it is inferred from the image itself, from its luminance or from where it is in focus.
+Each pixel is displaced by a distance proportional to its estimated depth, in a fixed direction. It is a false parallax: it pretends that the photograph has volume and that the camera is shifting sideways, but the depth does not come from any measurement of space — it is inferred from the image itself, from its luminance or where it is in focus.
 
-Since pixels of equal depth move together, with large amplitudes the image folds back onto itself and the iso-lines of the map become visible: serpentine bands and concentric rings appear, the photograph reorganized as a contour map.
+Since pixels of equal depth move together, with large amplitudes the image folds back onto itself and the iso-lines of the map become visible: winding bands and concentric rings appear, the photograph reorganized as a contour map.
 
-The color is never altered: no value changes, only its location.
+The color is not altered at any time: no value changes, only its location.
 
 ---
 
@@ -47,10 +47,10 @@ The color is never altered: no value changes, only its location.
 
 1. Read the photograph and convert it to luminance.
 2. Build a depth map from that luminance (bright areas are taken as distant, following atmospheric haze) or from local detail (in-focus areas are taken as close).
-3. Blur the map with a Gaussian filter, which defines the size of the resulting bands.
-4. Optionally quantize the map into steps to separate the image into discrete layers.
-5. Shift each pixel by a distance proportional to its depth, in a fixed direction.
-6. Fill in what the shift leaves out of frame using reflection.
+3. Blur the map with a Gaussian, which defines the size of the resulting bands.
+4. Optionally quantize the map into steps, to separate the image into discrete layers.
+5. Displace each pixel by a distance proportional to its depth, in a fixed direction.
+6. Fill in what the displacement leaves out of frame using reflection.
 7. Preserve the original dimensions of the image.
 
 **Controlled variables:**
@@ -59,7 +59,7 @@ The color is never altered: no value changes, only its location.
 - Displacement direction in degrees
 - Depth origin (luminance, inverted luminance, sharpness)
 - Depth map smoothing (sigma)
-- Map quantization levels
+- Map quantization into levels
 - Interpolation and border mode
 
 **Uncontrolled / accidental variables:**
@@ -67,16 +67,16 @@ The color is never altered: no value changes, only its location.
 - Appearance of concentric rings where the map has local maxima
 - Folding of the image onto itself
 - Areas that are emptied and filled via reflection
-- Ambiguous reading between photograph and topographic chart
-- Collision of different materials dragged into the same band
+- Ambiguous reading between a photograph and a topographic chart
+- Collision of distinct materials dragged into the same band
 
 ---
 
 ## 4. Visual sequence
 
-The file uses only the results produced with the tree image. The ball tests are kept inside `030_PROCESO/resultados/PELOTA_fuera_de_secuencia`, but are not part of this sequence.
+The entry uses only the results produced with the tree image. The ball tests are kept inside `030_PROCESO/resultados/PELOTA_fuera_de_secuencia`, but are not part of this sequence.
 
-Steps 01–10 constitute the historical sweep of August 7, 2026, of increasing amplitude. Steps 11–13 correspond to the reconstructed script and carry their documented parameters.
+Steps 01–10 are the historical sweep from August 7, 2026, of increasing amplitude. Steps 11–13 correspond to the reconstructed script and carry their documented parameters.
 
 ### Step 01
 ![[OB030_step01.jpg.webp|200]]
@@ -137,9 +137,9 @@ Steps 01–10 constitute the historical sweep of August 7, 2026, of increasing a
 
 **The operation affects the surface, tone, contour, figure-ground, legibility, and support of the image:**
 
-The overall organization survives: the sky at the top, the tree mass in the center, the ground at the bottom, and the colors exactly where they were, because no color value is modified. What is lost is the correspondence between the matter and what it describes: each zone becomes a web of bands that no longer accounts for what was there.
+The overall organization survives: the sky at the top, the mass of the tree in the center, the ground at the bottom, and the colors exactly where they were, because no color value is modified. What is lost is the correspondence between the matter and what it describes: each zone becomes a weave of bands that no longer accounts for what was there.
 
-The crisis appears when the eye reads a subject and a topographic chart at the same time and cannot decide which of the two it is looking at. The image begins to report on its own light distribution instead of reporting on the scene: the visible bands are the iso-lines of this particular photograph's depth map, and no other image would produce the same ones.
+The crisis appears when the eye reads a subject and a topographic chart at the same time and cannot decide which of the two it is looking at. The image shifts to reporting on its own light distribution rather than reporting on the scene: the visible bands are the iso-lines of this particular photograph's depth map, and no other image would produce the same ones.
 
 The contour erodes without being erased: it does not disappear, it stretches and folds, and at the local maxima of the map it closes in on itself forming rings.
 
@@ -147,16 +147,16 @@ The contour erodes without being erased: it does not disappear, it stretches and
 
 ## 7. Final evaluation and artistic reference
 
-**Notes on the operation / what I learned:**  
-Depth can be manufactured from the image itself and still function as a deformation structure. The result does not depend on the depth being correct, but on it being consistent: it is enough for pixels of equal value to move together for cartography to appear.
+**Operation notes / what I learned:**  
+Depth can be manufactured from the image itself and function identically as a deformation structure. The result does not depend on the depth being correct, but on it being consistent: it is enough for pixels of equal value to move together for cartography to appear.
 
-The original script for this operation was lost and had to be reconstructed by measuring the displacement field of the historical outputs. That left a methodological lesson: without the script and without the parameters in the filename, a result is not reproducible even if the image is preserved.
+The original script for this operation was lost and had to be reconstructed by measuring the displacement field of the historical outputs. That left a methodological lesson: without the script and without the parameters in the file name, a result is not reproducible even if the image is preserved.
 
 **Final_status:**  
 Works:: [[SI|YES]]
 
 **How it destroys the image:**  
-Works_on:: [[Aparencial|Apparitional]]
+Works_on:: [[Aparencial|Apparent]]
 
 **Level and richness of crisis:**  
 Crisis:: [[Baja|Low]]
