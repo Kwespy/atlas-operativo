@@ -60,21 +60,10 @@ Prompt a Chatgpt que vaya operando la foto con logica AND-OR-XOR hasta que la fo
 ### Imagen inicial
 ![[OB007_input.jpg|200]]
 
-### Step 01
-![[OB007_step01.png.webp|200]]
-
-### Step 02
-![[OB007_step02.png.webp|200]]
-
-### Step 03
-![[OB007_step03.png.webp|200]]
-
-### Step 04
-![[OB007_step04.png.webp|200]]
-
-### Step 05
-![[OB007_step05.png.webp|200]]
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB007_step01.png.webp\|200]] | Step 02<br>![[OB007_step02.png.webp\|200]] | Step 03<br>![[OB007_step03.png.webp\|200]] |
+| Step 04<br>![[OB007_step04.png.webp\|200]] | Step 05<br>![[OB007_step05.png.webp\|200]] |  |
 ---
 
 ## 5. Selección visual

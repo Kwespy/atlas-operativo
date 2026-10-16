@@ -74,45 +74,13 @@ La ficha utiliza únicamente los resultados realizados con la imagen del árbol.
 
 Los steps 01–10 son el barrido histórico del 7 de agosto de 2026, de amplitud creciente. Los steps 11–13 corresponden al script reconstruido y llevan sus parámetros documentados.
 
-### Step 01
-![[OB030_step01.jpg.webp|200]]
-
-### Step 02
-![[OB030_step02.jpg.webp|200]]
-
-### Step 03
-![[OB030_step03.jpg.webp|200]]
-
-### Step 04
-![[OB030_step04.jpg.webp|200]]
-
-### Step 05
-![[OB030_step05.jpg.webp|200]]
-
-### Step 06
-![[OB030_step06.jpg.webp|200]]
-
-### Step 07
-![[OB030_step07.jpg.webp|200]]
-
-### Step 08
-![[OB030_step08.jpg.webp|200]]
-
-### Step 09
-![[OB030_step09.jpg.webp|200]]
-
-### Step 10
-![[OB030_step10.jpg.webp|200]]
-
-### Step 11
-![[OB030_step11.jpeg.webp|200]]
-
-### Step 12
-![[OB030_step12.jpeg.webp|200]]
-
-### Step 13
-![[OB030_step13.jpeg.webp|200]]
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB030_step01.jpg.webp\|200]] | Step 02<br>![[OB030_step02.jpg.webp\|200]] | Step 03<br>![[OB030_step03.jpg.webp\|200]] |
+| Step 04<br>![[OB030_step04.jpg.webp\|200]] | Step 05<br>![[OB030_step05.jpg.webp\|200]] | Step 06<br>![[OB030_step06.jpg.webp\|200]] |
+| Step 07<br>![[OB030_step07.jpg.webp\|200]] | Step 08<br>![[OB030_step08.jpg.webp\|200]] | Step 09<br>![[OB030_step09.jpg.webp\|200]] |
+| Step 10<br>![[OB030_step10.jpg.webp\|200]] | Step 11<br>![[OB030_step11.jpeg.webp\|200]] | Step 12<br>![[OB030_step12.jpeg.webp\|200]] |
+| Step 13<br>![[OB030_step13.jpeg.webp\|200]] |  |  |
 ---
 
 ## 5. Selección visual

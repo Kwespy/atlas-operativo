@@ -48,43 +48,12 @@ The tones are swapped in a controlled way; there is a pictorial decision in this
 ### Initial image
 ![[OB019_input.png.webp|200]]
 
-### Step 01
-![[OB019_step01.png.webp|200]]
-
-### Step 02
-![[OB019_step02.png.webp|200]]
-
-### Step 03
-![[OB019_step03.png.webp|200]]
-
-### Step 04
-![[OB019_step04.png.webp|200]]
-
-### Step 05
-![[OB019_step05.png.webp|200]]
-
-### Step 06
-![[OB019_step06.png.webp|200]]
-
-### Step 07
-![[OB019_step07.png.webp|200]]
-
-### Step 08
-![[OB019_step08.png.webp|200]]
-
-### Step 09
-![[OB019_step09.png.webp|200]]
-
-### Step 10
-![[OB019_step10.png.webp|200]]
-
-### Step 11
-![[OB019_step11.png.webp|200]]
-
-### Step 12
-![[OB019_step12.png.webp|200]]
-
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB019_step01.png.webp\|200]] | Step 02<br>![[OB019_step02.png.webp\|200]] | Step 03<br>![[OB019_step03.png.webp\|200]] |
+| Step 04<br>![[OB019_step04.png.webp\|200]] | Step 05<br>![[OB019_step05.png.webp\|200]] | Step 06<br>![[OB019_step06.png.webp\|200]] |
+| Step 07<br>![[OB019_step07.png.webp\|200]] | Step 08<br>![[OB019_step08.png.webp\|200]] | Step 09<br>![[OB019_step09.png.webp\|200]] |
+| Step 10<br>![[OB019_step10.png.webp\|200]] | Step 11<br>![[OB019_step11.png.webp\|200]] | Step 12<br>![[OB019_step12.png.webp\|200]] |
 ---
 
 ## 5. Visual selection

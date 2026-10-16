@@ -68,60 +68,14 @@ Aunque el procedimiento se ejecuta mediante un algoritmo, el régimen principal 
 
 La ficha utiliza únicamente los resultados históricos realizados con la imagen de la pelota. Las pruebas del árbol se conservan dentro de `029_PROCESO/resultados`, pero no forman parte de esta secuencia.
 
-### Step 01
-![[OB029_step01.png.webp|200]]
-
-### Step 02
-![[OB029_step02.png.webp|200]]
-
-### Step 03
-![[OB029_step03.png.webp|200]]
-
-### Step 04
-![[OB029_step04.png.webp|200]]
-
-### Step 05
-![[OB029_step05.png.webp|200]]
-
-### Step 06
-![[OB029_step06.png.webp|200]]
-
-### Step 07
-![[OB029_step07.png.webp|200]]
-
-### Step 08
-![[OB029_step08.png.webp|200]]
-
-### Step 09
-![[OB029_step09.png.webp|200]]
-
-### Step 10
-![[OB029_step10.png.webp|200]]
-
-### Step 11
-![[OB029_step11.png.webp|200]]
-
-### Step 12
-![[OB029_step12.png.webp|200]]
-
-### Step 13
-![[OB029_step13.png.webp|200]]
-
-### Step 14
-![[OB029_step14.png.webp|200]]
-
-### Step 15
-![[OB029_step15.png.webp|200]]
-
-### Step 16
-![[OB029_step16.png.webp|200]]
-
-### Step 17
-![[OB029_step17.png.webp|200]]
-
-### Step 18
-![[OB029_step18.png.webp|200]]
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB029_step01.png.webp\|200]] | Step 02<br>![[OB029_step02.png.webp\|200]] | Step 03<br>![[OB029_step03.png.webp\|200]] |
+| Step 04<br>![[OB029_step04.png.webp\|200]] | Step 05<br>![[OB029_step05.png.webp\|200]] | Step 06<br>![[OB029_step06.png.webp\|200]] |
+| Step 07<br>![[OB029_step07.png.webp\|200]] | Step 08<br>![[OB029_step08.png.webp\|200]] | Step 09<br>![[OB029_step09.png.webp\|200]] |
+| Step 10<br>![[OB029_step10.png.webp\|200]] | Step 11<br>![[OB029_step11.png.webp\|200]] | Step 12<br>![[OB029_step12.png.webp\|200]] |
+| Step 13<br>![[OB029_step13.png.webp\|200]] | Step 14<br>![[OB029_step14.png.webp\|200]] | Step 15<br>![[OB029_step15.png.webp\|200]] |
+| Step 16<br>![[OB029_step16.png.webp\|200]] | Step 17<br>![[OB029_step17.png.webp\|200]] | Step 18<br>![[OB029_step18.png.webp\|200]] |
 ---
 
 ## 5. Selección visual

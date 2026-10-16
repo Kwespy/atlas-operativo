@@ -48,81 +48,17 @@ La distribución inicial de colores y la proximidad entre píxeles de la imagen 
 ### Imagen inicial
 ![[Input_003.jpeg]]
 
-### Step 01
-![[OB025_step01.jpg.webp|200]]
-
-### Step 02
-![[OB025_step02.jpg.webp|200]]
-
-### Step 03
-![[OB025_step03.jpg.webp|200]]
-
-### Step 04
-![[OB025_step04.jpg.webp|200]]
-
-### Step 05
-![[OB025_step05.jpg.webp|200]]
-
-### Step 06
-![[OB025_step06.jpg.webp|200]]
-
-### Step 07
-![[OB025_step07.jpg.webp|200]]
-
-### Step 08
-![[OB025_step08.jpg.webp|200]]
-
-### Step 09
-![[OB025_step09.jpg.webp|200]]
-
-### Step 10
-![[OB025_step10.jpg.webp|200]]
-
-### Step 11
-![[OB025_step11.jpg.webp|200]]
-
-### Step 12
-![[OB025_step12.jpg.webp|200]]
-
-### Step 13
-![[OB025_step13.jpg.webp|200]]
-
-### Step 14
-![[OB025_step14.jpg.webp|200]]
-
-### Step 15
-![[OB025_step15.jpg.webp|200]]
-
-### Step 16
-![[OB025_step16.jpg.webp|200]]
-
-### Step 17
-![[OB025_step17.jpg.webp|200]]
-
-### Step 18
-![[OB025_step18.jpg.webp|200]]
-
-### Step 19
-![[OB025_step19.jpg.webp|200]]
-
-### Step 20
-![[OB025_step20.jpg.webp|200]]
-
-### Step 21
-![[OB025_step21.jpg.webp|200]]
-
-### Step 22
-![[OB025_step22.jpg.webp|200]]
-
-### Step 23
-![[OB025_step23.jpg.webp|200]]
-
-### Step 24
-![[OB025_step24.jpg.webp|200]]
-
-### Step 25
-![[OB025_step25.jpg.webp|200]]
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB025_step01.jpg.webp\|200]] | Step 02<br>![[OB025_step02.jpg.webp\|200]] | Step 03<br>![[OB025_step03.jpg.webp\|200]] |
+| Step 04<br>![[OB025_step04.jpg.webp\|200]] | Step 05<br>![[OB025_step05.jpg.webp\|200]] | Step 06<br>![[OB025_step06.jpg.webp\|200]] |
+| Step 07<br>![[OB025_step07.jpg.webp\|200]] | Step 08<br>![[OB025_step08.jpg.webp\|200]] | Step 09<br>![[OB025_step09.jpg.webp\|200]] |
+| Step 10<br>![[OB025_step10.jpg.webp\|200]] | Step 11<br>![[OB025_step11.jpg.webp\|200]] | Step 12<br>![[OB025_step12.jpg.webp\|200]] |
+| Step 13<br>![[OB025_step13.jpg.webp\|200]] | Step 14<br>![[OB025_step14.jpg.webp\|200]] | Step 15<br>![[OB025_step15.jpg.webp\|200]] |
+| Step 16<br>![[OB025_step16.jpg.webp\|200]] | Step 17<br>![[OB025_step17.jpg.webp\|200]] | Step 18<br>![[OB025_step18.jpg.webp\|200]] |
+| Step 19<br>![[OB025_step19.jpg.webp\|200]] | Step 20<br>![[OB025_step20.jpg.webp\|200]] | Step 21<br>![[OB025_step21.jpg.webp\|200]] |
+| Step 22<br>![[OB025_step22.jpg.webp\|200]] | Step 23<br>![[OB025_step23.jpg.webp\|200]] | Step 24<br>![[OB025_step24.jpg.webp\|200]] |
+| Step 25<br>![[OB025_step25.jpg.webp\|200]] |  |  |
 ---
 
 ## 5. Selección visual

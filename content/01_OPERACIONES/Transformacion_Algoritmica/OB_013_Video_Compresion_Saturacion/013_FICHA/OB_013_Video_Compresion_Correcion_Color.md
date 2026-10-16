@@ -53,37 +53,12 @@ Se graba un video con movimiento y zoom del objeto, para lograr barrido y diform
 ### Imagen inicial
 ![[OB013_step01.mp4|200]]
 
-### Step 01
-![[OB013_step02.mp4|200]]
-
-### Step 02
-![[OB013_step03.mp4|200|200]]
-
-### Step 03
-![[OB013_step04.mp4|200|200]]
-
-### Step 04
-![[OB013_step05.mp4|200|200]]
-
-### Step 05
-![[OB013_step06.mp4|200|200]]
-
-### Step 06
-![[OB013_step07.mp4|200|200]]
-
-### Step 07
-![[OB013_step08.mp4|200|200]]
-
-### Step 08
-![[OB013_step09.mp4|200|200]]
-
-### Step 09
-![[OB013_step10.mp4|200|200]]
-
-### Step 10
-![[OB013_step11.mp4]]
-
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB013_step02.mp4\|200]] | Step 02<br>![[OB013_step03.mp4\|200\|200]] | Step 03<br>![[OB013_step04.mp4\|200\|200]] |
+| Step 04<br>![[OB013_step05.mp4\|200\|200]] | Step 05<br>![[OB013_step06.mp4\|200\|200]] | Step 06<br>![[OB013_step07.mp4\|200\|200]] |
+| Step 07<br>![[OB013_step08.mp4\|200\|200]] | Step 08<br>![[OB013_step09.mp4\|200\|200]] | Step 09<br>![[OB013_step10.mp4\|200\|200]] |
+| Step 10<br>![[OB013_step11.mp4]] |  |  |
 ---
 
 ## 5. Selección visual

@@ -47,37 +47,12 @@ The movement and chance of the liquid. Which color the acetone will act upon.
 ### Initial image
 ![[Input_001.jpg.webp|200]]
 
-### Step 01
-![[OB021_step01.png.webp|200]]
-
-### Step 02
-![[OB021_step02.png.webp|200]]
-
-### Step 03
-![[OB021_step03.png.webp|200]]
-
-### Step 04
-![[OB021_step04.png.webp|200]]
-
-### Step 05
-![[OB021_step05.png.webp|200]]
-
-### Step 06
-![[OB021_step06.png.webp|200]]
-
-### Step 07
-![[OB021_step07.png.webp|200]]
-
-### Step 08
-![[OB021_step08.png.webp|200]]
-
-### Step 09
-![[OB021_step09.png.webp|200]]
-
-### Step 10
-![[OB021_step10.png.webp|200]]
-
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB021_step01.png.webp\|200]] | Step 02<br>![[OB021_step02.png.webp\|200]] | Step 03<br>![[OB021_step03.png.webp\|200]] |
+| Step 04<br>![[OB021_step04.png.webp\|200]] | Step 05<br>![[OB021_step05.png.webp\|200]] | Step 06<br>![[OB021_step06.png.webp\|200]] |
+| Step 07<br>![[OB021_step07.png.webp\|200]] | Step 08<br>![[OB021_step08.png.webp\|200]] | Step 09<br>![[OB021_step09.png.webp\|200]] |
+| Step 10<br>![[OB021_step10.png.webp\|200]] |  |  |
 ---
 
 ## 5. Visual selection

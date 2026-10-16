@@ -77,54 +77,14 @@ The mediation is algorithmic, but the primary regime is one of translation: the 
 ### Initial image
 ![[Input_003.jpeg|200]]
 
-### Step 01
-![[OB028_step01.jpg.webp|200]]
-
-### Step 02
-![[OB028_step02.jpg.webp|200]]
-
-### Step 03
-![[OB028_step03.jpg.webp|200]]
-
-### Step 04
-![[OB028_step04.jpg.webp|200]]
-
-### Step 05
-![[OB028_step05.jpg.webp|200]]
-
-### Step 06
-![[OB028_step06.jpg.webp|200]]
-
-### Step 07
-![[OB028_step07.jpg.webp|200]]
-
-### Step 08
-![[OB028_step08.jpg.webp|200]]
-
-### Step 09
-![[OB028_step09.jpg.webp|200]]
-
-### Step 10
-![[OB028_step10.jpg.webp|200]]
-
-### Step 11
-![[OB028_step11.jpg.webp|200]]
-
-### Step 12
-![[OB028_step12.jpg.webp|200]]
-
-### Step 13
-![[OB028_step13.jpg.webp|200]]
-
-### Step 14
-![[OB028_step14.jpg.webp|200]]
-
-### Step 15
-![[OB028_step15.jpg.webp|200]]
-
-### Step 16
-![[OB028_step16.jpg.webp|200]]
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB028_step01.jpg.webp\|200]] | Step 02<br>![[OB028_step02.jpg.webp\|200]] | Step 03<br>![[OB028_step03.jpg.webp\|200]] |
+| Step 04<br>![[OB028_step04.jpg.webp\|200]] | Step 05<br>![[OB028_step05.jpg.webp\|200]] | Step 06<br>![[OB028_step06.jpg.webp\|200]] |
+| Step 07<br>![[OB028_step07.jpg.webp\|200]] | Step 08<br>![[OB028_step08.jpg.webp\|200]] | Step 09<br>![[OB028_step09.jpg.webp\|200]] |
+| Step 10<br>![[OB028_step10.jpg.webp\|200]] | Step 11<br>![[OB028_step11.jpg.webp\|200]] | Step 12<br>![[OB028_step12.jpg.webp\|200]] |
+| Step 13<br>![[OB028_step13.jpg.webp\|200]] | Step 14<br>![[OB028_step14.jpg.webp\|200]] | Step 15<br>![[OB028_step15.jpg.webp\|200]] |
+| Step 16<br>![[OB028_step16.jpg.webp\|200]] |  |  |
 ---
 
 ## 5. Visual selection

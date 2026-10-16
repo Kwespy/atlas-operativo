@@ -56,43 +56,12 @@ The primary object was scanned with the portable scanner to attempt model recogn
 
 ## 4. Visual sequence
 
-### Step 01
-![[OB011_step01.JPG.webp|200]]
-
-### Step 02
-![[OB011_step02.JPG.webp|200]]
-
-### Step 03
-![[OB011_step03.JPG.webp|200]]
-
-### Step 04
-![[OB011_step04.JPG.webp|200]]
-
-### Step 05
-![[OB011_step05.JPG.webp|200]]
-
-### Step 06
-![[OB011_step06.JPG.webp|200]]
-
-### Step 07
-![[OB011_step07.JPG.webp|200]]
-
-### Step 08
-![[OB011_step08.JPG.webp|200]]
-
-### Step 09
-![[OB011_step09.JPG.webp|200]]
-
-### Step 10
-![[OB011_step10.JPG.webp|200]]
-
-### Step 11
-![[OB011_step11.JPG.webp|200]]
-
-### Step 12
-![[OB011_step12.JPG.webp|200]]
-
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB011_step01.JPG.webp\|200]] | Step 02<br>![[OB011_step02.JPG.webp\|200]] | Step 03<br>![[OB011_step03.JPG.webp\|200]] |
+| Step 04<br>![[OB011_step04.JPG.webp\|200]] | Step 05<br>![[OB011_step05.JPG.webp\|200]] | Step 06<br>![[OB011_step06.JPG.webp\|200]] |
+| Step 07<br>![[OB011_step07.JPG.webp\|200]] | Step 08<br>![[OB011_step08.JPG.webp\|200]] | Step 09<br>![[OB011_step09.JPG.webp\|200]] |
+| Step 10<br>![[OB011_step10.JPG.webp\|200]] | Step 11<br>![[OB011_step11.JPG.webp\|200]] | Step 12<br>![[OB011_step12.JPG.webp\|200]] |
 ---
 
 ## 5. Visual selection

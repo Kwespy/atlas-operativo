@@ -51,51 +51,13 @@ La imagen se divide en fragmentos o parches. Cada fragmento es reemplazado o des
 ### Imagen inicial
 ![[Input_003.png|200]]
 
-### Step 01
-![[OB24_step01.jpg.webp|200]]
-
-### Step 02
-![[OB24_step02.jpg.webp|200]]
-
-### Step 03
-![[OB24_step03.jpg.webp|200]]
-
-### Step 04
-![[OB24_step04.jpg.webp|200]]
-
-### Step 05
-![[OB24_step05.jpg.webp|200]]
-
-### Step 06
-![[OB24_step06.jpg.webp|200]]
-
-### Step 07
-![[OB24_step07.jpg.webp|200]]
-
-### Step 08
-![[OB24_step08.jpg.webp|200]]
-
-### Step 09
-![[OB24_step09.jpg.webp|200]]
-
-### Step 10
-![[OB24_step10.jpg.webp|200]]
-
-### Step 11
-![[OB24_step11.jpg.webp|200]]
-
-### Step 12
-![[OB24_step12.jpg.webp|200]]
-
-### Step 13
-![[OB24_step13.jpg.webp|200]]
-
-### Step 14
-![[OB24_step14.jpg.webp|200]]
-
-### Step 15
-![[OB24_step15.jpg.webp|200]]
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB24_step01.jpg.webp\|200]] | Step 02<br>![[OB24_step02.jpg.webp\|200]] | Step 03<br>![[OB24_step03.jpg.webp\|200]] |
+| Step 04<br>![[OB24_step04.jpg.webp\|200]] | Step 05<br>![[OB24_step05.jpg.webp\|200]] | Step 06<br>![[OB24_step06.jpg.webp\|200]] |
+| Step 07<br>![[OB24_step07.jpg.webp\|200]] | Step 08<br>![[OB24_step08.jpg.webp\|200]] | Step 09<br>![[OB24_step09.jpg.webp\|200]] |
+| Step 10<br>![[OB24_step10.jpg.webp\|200]] | Step 11<br>![[OB24_step11.jpg.webp\|200]] | Step 12<br>![[OB24_step12.jpg.webp\|200]] |
+| Step 13<br>![[OB24_step13.jpg.webp\|200]] | Step 14<br>![[OB24_step14.jpg.webp\|200]] | Step 15<br>![[OB24_step15.jpg.webp\|200]] |
 ---
 
 ## 5. Selección visual

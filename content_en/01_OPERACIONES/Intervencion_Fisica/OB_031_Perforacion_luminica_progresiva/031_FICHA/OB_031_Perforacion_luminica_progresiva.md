@@ -53,46 +53,13 @@ Perforate the print cumulatively with the tip of the pencil. After each section 
 ### Initial image
 ![[Input_001.jpg.webp|200]]
 
-### Step 01
-![[OB031_step01.jpeg.webp|200]]
-
-### Step 02
-![[OB031_step02.jpeg.webp|200]]
-
-### Step 03
-![[OB031_step03.jpeg.webp|200]]
-
-### Step 04
-![[OB031_step04.jpeg.webp|200]]
-
-### Step 05
-![[OB031_step05.jpeg.webp|200]]
-
-### Step 06
-![[OB031_step06.jpeg.webp|200]]
-
-### Step 07
-![[OB031_step07.jpeg.webp|200]]
-
-### Step 08
-![[OB031_step08.jpeg.webp|200]]
-
-### Step 09
-![[OB031_step09.jpeg.webp|200]]
-
-### Step 10
-![[OB031_step10.jpeg.webp|200]]
-
-### Step 11
-![[OB031_step11.jpeg.webp|200]]
-
-### Step 12
-![[OB031_step12.jpeg.webp|200]]
-
-### Step 13
-![[OB031_step13.jpeg.webp|200]]
-
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB031_step01.jpeg.webp\|200]] | Step 02<br>![[OB031_step02.jpeg.webp\|200]] | Step 03<br>![[OB031_step03.jpeg.webp\|200]] |
+| Step 04<br>![[OB031_step04.jpeg.webp\|200]] | Step 05<br>![[OB031_step05.jpeg.webp\|200]] | Step 06<br>![[OB031_step06.jpeg.webp\|200]] |
+| Step 07<br>![[OB031_step07.jpeg.webp\|200]] | Step 08<br>![[OB031_step08.jpeg.webp\|200]] | Step 09<br>![[OB031_step09.jpeg.webp\|200]] |
+| Step 10<br>![[OB031_step10.jpeg.webp\|200]] | Step 11<br>![[OB031_step11.jpeg.webp\|200]] | Step 12<br>![[OB031_step12.jpeg.webp\|200]] |
+| Step 13<br>![[OB031_step13.jpeg.webp\|200]] |  |  |
 ---
 
 ## 5. Visual selection

@@ -57,40 +57,12 @@ Imprimir imagen luego escanear la impresión, repetir el proceso.
 ### Imagen inicial
 ![[OB003_input.jpg|200]]
 
-### Step 01
-![[OB003_Step01.jpg.webp|200]]
-
-### Step 02
-![[OB003_Step02.jpg.webp|200]]
-
-### Step 03
-![[OB003_Step03.jpg.webp|200]]
-
-### Step 04
-![[OB003_Step04.jpg.webp|200]]
-
-### Step 05
-![[OB003_Step05.jpg.webp|200]]
-
-### Step 06
-![[OB003_Step06.jpg.webp|200]]
-
-### Step 07
-![[OB003_Step07.jpg.webp|200]]
-
-### Step 08
-![[OB003_Step08.jpg.webp|200]]
-
-### Step 09
-![[OB003_Step09.jpg.webp|200]]
-
-### Step 10
-![[OB003_Step10.jpg.webp|200]]
-
-### Step 11
-![[OB003_Step11.jpg.webp|200]]
-
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB003_Step01.jpg.webp\|200]] | Step 02<br>![[OB003_Step02.jpg.webp\|200]] | Step 03<br>![[OB003_Step03.jpg.webp\|200]] |
+| Step 04<br>![[OB003_Step04.jpg.webp\|200]] | Step 05<br>![[OB003_Step05.jpg.webp\|200]] | Step 06<br>![[OB003_Step06.jpg.webp\|200]] |
+| Step 07<br>![[OB003_Step07.jpg.webp\|200]] | Step 08<br>![[OB003_Step08.jpg.webp\|200]] | Step 09<br>![[OB003_Step09.jpg.webp\|200]] |
+| Step 10<br>![[OB003_Step10.jpg.webp\|200]] | Step 11<br>![[OB003_Step11.jpg.webp\|200]] |  |
 ---
 
 ## 5. Selección visual

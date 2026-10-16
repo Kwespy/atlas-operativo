@@ -57,34 +57,11 @@ Su utiliza una foto técnica y dentro de A. Photoshop se van separando los canal
 ### Imagen inicial
 ![[OB004_input.jpg|200]]
 
-### Step 01
-![[OB004_Step01.jpg.webp|200]]
-
-### Step 02
-![[OB004_Step02.jpg.webp|200]]
-
-### Step 03
-![[OB004_Step03.jpg.webp|200]]
-
-### Step 04
-![[OB004_Step04.jpg.webp|200]]
-
-### Step 05
-![[OB004_Step05.jpg.webp|200]]
-
-### Step 06
-![[OB004_Step06.jpg.webp|200]]
-
-### Step 07
-![[OB004_Step07.jpg.webp|200]]
-
-### Step 08
-![[OB004_Step08.jpg.webp|200]]
-
-### Step 09
-![[OB004_Step09.jpg.webp|200]]
-
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB004_Step01.jpg.webp\|200]] | Step 02<br>![[OB004_Step02.jpg.webp\|200]] | Step 03<br>![[OB004_Step03.jpg.webp\|200]] |
+| Step 04<br>![[OB004_Step04.jpg.webp\|200]] | Step 05<br>![[OB004_Step05.jpg.webp\|200]] | Step 06<br>![[OB004_Step06.jpg.webp\|200]] |
+| Step 07<br>![[OB004_Step07.jpg.webp\|200]] | Step 08<br>![[OB004_Step08.jpg.webp\|200]] | Step 09<br>![[OB004_Step09.jpg.webp\|200]] |
 ---
 
 ## 5. Selección visual

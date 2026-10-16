@@ -49,48 +49,13 @@ The image is printed with toner. It is submerged in a tray of water. Drops of in
 ### Initial image
 ![[Input_001.jpg.webp|200]]
 
-### Step 01
-![[OB023_step01.png.webp|200]]
-
-### Step 02
-![[OB023_step02.png.webp|200]]
-
-### Step 03
-![[OB023_step03.png.webp|200]]
-
-### Step 04
-![[OB023_step04.png.webp|200]]
-
-### Step 05
-![[OB023_step05.png.webp|200]]
-
-### Step 06
-![[OB023_step06.png.webp|200]]
-
-### Step 07
-![[OB023_step07.png.webp|200]]
-
-### Step 08
-![[OB023_step08.png.webp|200]]
-
-### Step 09
-![[OB023_step09.png.webp|200]]
-
-### Step 10
-![[OB023_step10.png.webp|200]]
-
-### Step 11
-![[OB023_step11.png.webp|200]]
-
-### Step 12
-![[OB023_step12.png.webp|200]]
-
-### Step 13
-![[OB023_step13.png.webp|200]]
-
-### Step 14
-![[OB023_step14.png.webp|200]]
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB023_step01.png.webp\|200]] | Step 02<br>![[OB023_step02.png.webp\|200]] | Step 03<br>![[OB023_step03.png.webp\|200]] |
+| Step 04<br>![[OB023_step04.png.webp\|200]] | Step 05<br>![[OB023_step05.png.webp\|200]] | Step 06<br>![[OB023_step06.png.webp\|200]] |
+| Step 07<br>![[OB023_step07.png.webp\|200]] | Step 08<br>![[OB023_step08.png.webp\|200]] | Step 09<br>![[OB023_step09.png.webp\|200]] |
+| Step 10<br>![[OB023_step10.png.webp\|200]] | Step 11<br>![[OB023_step11.png.webp\|200]] | Step 12<br>![[OB023_step12.png.webp\|200]] |
+| Step 13<br>![[OB023_step13.png.webp\|200]] | Step 14<br>![[OB023_step14.png.webp\|200]] |  |
 ---
 
 ## 5. Visual selection

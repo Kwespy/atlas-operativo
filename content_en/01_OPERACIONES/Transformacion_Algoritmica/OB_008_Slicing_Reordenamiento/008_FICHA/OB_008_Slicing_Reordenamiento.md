@@ -59,30 +59,11 @@ The photograph was used with a prompt in ChatGPT to perform the Slicing and Rear
 ### Initial image
 ![[OB008_input.jpg|200]]
 
-### Step 01
-![[OB008_step01.png.webp|200]]
-
-### Step 02
-![[OB008_step02.png.webp|200]]
-
-### Step 03
-![[OB008_step03.png.webp|200]]
-
-### Step 04
-![[OB008_step04.png.webp|200]]
-
-### Step 05
-![[OB008_step05.png.webp|200]]
-
-### Step 06
-![[OB008_step06.png.webp|200]]
-
-### Step 07
-![[OB008_step07.png.webp|200]]
-
-### Step 08
-![[OB008_step08.png.webp|200]]
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB008_step01.png.webp\|200]] | Step 02<br>![[OB008_step02.png.webp\|200]] | Step 03<br>![[OB008_step03.png.webp\|200]] |
+| Step 04<br>![[OB008_step04.png.webp\|200]] | Step 05<br>![[OB008_step05.png.webp\|200]] | Step 06<br>![[OB008_step06.png.webp\|200]] |
+| Step 07<br>![[OB008_step07.png.webp\|200]] | Step 08<br>![[OB008_step08.png.webp\|200]] |  |
 ---
 
 ## 5. Visual selection

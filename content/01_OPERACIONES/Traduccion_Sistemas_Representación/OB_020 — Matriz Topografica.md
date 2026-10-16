@@ -33,28 +33,11 @@ Se crea un script para que genere líneas topográficas según el volumen.
 ### Imagen inicial
 ![[Input_001.jpg.webp|200]]
 
-### Step 01
-![[OB020_step01.png.webp|200]]
-
-### Step 02
-![[OB020_step02.png.webp|200]]
-
-### Step 03
-![[OB020_step03.png.webp|200]]
-
-### Step 04
-![[OB020_step04.png.webp|200]]
-
-### Step 05
-![[OB020_step05.png.webp|200]]
-
-### Step 06
-![[OB020_step06.png.webp|200]]
-
-### Step 07
-![[OB020_step07.png.webp|200]]
-
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB020_step01.png.webp\|200]] | Step 02<br>![[OB020_step02.png.webp\|200]] | Step 03<br>![[OB020_step03.png.webp\|200]] |
+| Step 04<br>![[OB020_step04.png.webp\|200]] | Step 05<br>![[OB020_step05.png.webp\|200]] | Step 06<br>![[OB020_step06.png.webp\|200]] |
+| Step 07<br>![[OB020_step07.png.webp\|200]] |  |  |
 ---
 
 ## 5. Selección visual

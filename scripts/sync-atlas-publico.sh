@@ -281,6 +281,7 @@ if [ -z "${GEMINI_API_KEY:-}" ]; then
 fi
 
 python3 scripts/translate_atlas.py
+node scripts/organizar-rejillas-proceso.mjs
 
 echo "10. Construyendo web bilingüe..."
 

@@ -80,45 +80,13 @@ The file uses exclusively the results made with the tree image. The ball tests a
 
 Steps 01–10 are the historical sweep of August 7, 2026, of increasing amplitude. Steps 11–13 correspond to the reconstructed script and carry their documented parameters.
 
-### Step 01
-![[OB030_step01.jpg.webp|200]]
-
-### Step 02
-![[OB030_step02.jpg.webp|200]]
-
-### Step 03
-![[OB030_step03.jpg.webp|200]]
-
-### Step 04
-![[OB030_step04.jpg.webp|200]]
-
-### Step 05
-![[OB030_step05.jpg.webp|200]]
-
-### Step 06
-![[OB030_step06.jpg.webp|200]]
-
-### Step 07
-![[OB030_step07.jpg.webp|200]]
-
-### Step 08
-![[OB030_step08.jpg.webp|200]]
-
-### Step 09
-![[OB030_step09.jpg.webp|200]]
-
-### Step 10
-![[OB030_step10.jpg.webp|200]]
-
-### Step 11
-![[OB030_step11.jpeg.webp|200]]
-
-### Step 12
-![[OB030_step12.jpeg.webp|200]]
-
-### Step 13
-![[OB030_step13.jpeg.webp|200]]
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB030_step01.jpg.webp\|200]] | Step 02<br>![[OB030_step02.jpg.webp\|200]] | Step 03<br>![[OB030_step03.jpg.webp\|200]] |
+| Step 04<br>![[OB030_step04.jpg.webp\|200]] | Step 05<br>![[OB030_step05.jpg.webp\|200]] | Step 06<br>![[OB030_step06.jpg.webp\|200]] |
+| Step 07<br>![[OB030_step07.jpg.webp\|200]] | Step 08<br>![[OB030_step08.jpg.webp\|200]] | Step 09<br>![[OB030_step09.jpg.webp\|200]] |
+| Step 10<br>![[OB030_step10.jpg.webp\|200]] | Step 11<br>![[OB030_step11.jpeg.webp\|200]] | Step 12<br>![[OB030_step12.jpeg.webp\|200]] |
+| Step 13<br>![[OB030_step13.jpeg.webp\|200]] |  |  |
 ---
 
 ## 5. Visual selection

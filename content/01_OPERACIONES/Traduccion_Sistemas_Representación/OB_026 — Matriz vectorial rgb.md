@@ -50,64 +50,15 @@ La imagen se reconstruye como un campo de líneas. Cada zona genera trazos cuya 
 ### Imagen inicial
 ![[Input_003.jpeg|200]]
 
-### Step 01
-![[OB026_step01.png.webp|200]]
-
-### Step 02
-![[OB026_step02.png.webp|200]]
-
-### Step 03
-![[OB026_step03.png.webp|200]]
-
-### Step 04
-![[OB026_step04.png.webp|200]]
-
-### Step 05
-![[OB026_step05.png.webp|200]]
-
-### Step 06
-![[OB026_step06.png.webp|200]]
-
-### Step 07
-![[OB026_step07.png.webp|200]]
-
-### Step 08
-![[OB026_step08.png.webp|200]]
-
-### Step 09
-![[OB026_step09.png.webp|200]]
-
-### Step 10
-![[OB026_step10.png.webp|200]]
-
-### Step 11
-![[OB026_step11.png.webp|200]]
-
-### Step 12
-![[OB026_step12.png.webp|200]]
-
-### Step 13
-![[OB026_step13.png.webp|200]]
-
-### Step 14
-![[OB026_step14.png.webp|200]]
-
-### Step 15
-![[OB026_step15.png.webp|200]]
-
-### Step 16
-![[OB026_step16.png.webp|200]]
-
-### Step 17
-![[OB026_step17.png.webp|200]]
-
-### Step 18
-![[OB026_step18.png.webp|200]]
-
-### Step 19
-![[OB026_step19.png.webp|200]]
-
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB026_step01.png.webp\|200]] | Step 02<br>![[OB026_step02.png.webp\|200]] | Step 03<br>![[OB026_step03.png.webp\|200]] |
+| Step 04<br>![[OB026_step04.png.webp\|200]] | Step 05<br>![[OB026_step05.png.webp\|200]] | Step 06<br>![[OB026_step06.png.webp\|200]] |
+| Step 07<br>![[OB026_step07.png.webp\|200]] | Step 08<br>![[OB026_step08.png.webp\|200]] | Step 09<br>![[OB026_step09.png.webp\|200]] |
+| Step 10<br>![[OB026_step10.png.webp\|200]] | Step 11<br>![[OB026_step11.png.webp\|200]] | Step 12<br>![[OB026_step12.png.webp\|200]] |
+| Step 13<br>![[OB026_step13.png.webp\|200]] | Step 14<br>![[OB026_step14.png.webp\|200]] | Step 15<br>![[OB026_step15.png.webp\|200]] |
+| Step 16<br>![[OB026_step16.png.webp\|200]] | Step 17<br>![[OB026_step17.png.webp\|200]] | Step 18<br>![[OB026_step18.png.webp\|200]] |
+| Step 19<br>![[OB026_step19.png.webp\|200]] |  |  |
 ---
 
 ## 5. Selección visual

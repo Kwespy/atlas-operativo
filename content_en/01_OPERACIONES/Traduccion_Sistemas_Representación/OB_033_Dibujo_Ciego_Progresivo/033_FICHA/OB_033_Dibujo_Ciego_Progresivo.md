@@ -65,45 +65,13 @@ The steps follow the order in which they were drawn: from no observation (step 0
 ### Initial image
 ![[Input_001.jpg.webp|200]]
 
-### Step 01
-![[OB033_step01.jpg.webp|200]]
-
-### Step 02
-![[OB033_step02.jpg.webp|200]]
-
-### Step 03
-![[OB033_step03.jpg.webp|200]]
-
-### Step 04
-![[OB033_step04.jpg.webp|200]]
-
-### Step 05
-![[OB033_step05.jpg.webp|200]]
-
-### Step 06
-![[OB033_step06.jpg.webp|200]]
-
-### Step 07
-![[OB033_step07.jpg.webp|200]]
-
-### Step 08
-![[OB033_step08.jpg.webp|200]]
-
-### Step 09
-![[OB033_step09.jpg.webp|200]]
-
-### Step 10
-![[OB033_step10.jpg.webp|200]]
-
-### Step 11
-![[OB033_step11.jpg.webp|200]]
-
-### Step 12
-![[OB033_step12.jpg.webp|200]]
-
-### Step 13
-![[OB033_step13.jpg.webp|200]]
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB033_step01.jpg.webp\|200]] | Step 02<br>![[OB033_step02.jpg.webp\|200]] | Step 03<br>![[OB033_step03.jpg.webp\|200]] |
+| Step 04<br>![[OB033_step04.jpg.webp\|200]] | Step 05<br>![[OB033_step05.jpg.webp\|200]] | Step 06<br>![[OB033_step06.jpg.webp\|200]] |
+| Step 07<br>![[OB033_step07.jpg.webp\|200]] | Step 08<br>![[OB033_step08.jpg.webp\|200]] | Step 09<br>![[OB033_step09.jpg.webp\|200]] |
+| Step 10<br>![[OB033_step10.jpg.webp\|200]] | Step 11<br>![[OB033_step11.jpg.webp\|200]] | Step 12<br>![[OB033_step12.jpg.webp\|200]] |
+| Step 13<br>![[OB033_step13.jpg.webp\|200]] |  |  |
 ---
 
 ## 5. Visual selection

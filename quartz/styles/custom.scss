@@ -29,6 +29,26 @@ p.content-meta {
   display: none !important;
 }
 
+/* Secuencias de proceso: las fichas usan una rejilla de tres miniaturas,
+   igual que las fichas consultadas en el Atlas original. */
+article table:has(tbody td img):has(tbody td:nth-child(3)):not(:has(tbody td:nth-child(4))) {
+  width: 100%;
+  table-layout: fixed;
+}
+
+article table:has(tbody td img):has(tbody td:nth-child(3)):not(:has(tbody td:nth-child(4))) td {
+  width: 33.333%;
+  vertical-align: top;
+  text-align: center;
+}
+
+article table:has(tbody td img):has(tbody td:nth-child(3)):not(:has(tbody td:nth-child(4))) td img {
+  width: min(100%, 200px);
+  max-width: 200px;
+  height: auto;
+  margin: 0.35rem auto 0;
+}
+
 
 
 /* KWY MOBILE PAGE TITLE

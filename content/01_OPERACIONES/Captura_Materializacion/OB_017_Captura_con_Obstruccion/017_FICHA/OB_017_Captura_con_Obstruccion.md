@@ -51,40 +51,12 @@ Delante de la camara del movil se pone un vaso con agua para que actue como filt
 ### Imagen inicial
 ![[Input_001.jpg.webp|200]]
 
-### Step 01
-![[OB017_step01.jpeg.webp|200]]
-
-### Step 02
-![[OB017_step02.jpeg.webp|200]]
-
-### Step 03
-![[OB017_step03.jpeg.webp|200]]
-
-### Step 04
-![[OB017_step04.jpeg.webp|200]]
-
-### Step 05
-![[OB017_step05.jpeg.webp|200]]
-
-### Step 06
-![[OB017_step06.jpeg.webp|200]]
-
-### Step 07
-![[OB017_step07.jpeg.webp|200]]
-
-### Step 08
-![[OB017_step08.jpeg.webp|200]]
-
-### Step 09
-![[OB017_step09.jpeg.webp|200]]
-
-### Step 10
-![[OB017_step10.jpeg.webp|200]]
-
-### Step 11
-![[OB017_step11.jpeg.webp|200]]
-
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB017_step01.jpeg.webp\|200]] | Step 02<br>![[OB017_step02.jpeg.webp\|200]] | Step 03<br>![[OB017_step03.jpeg.webp\|200]] |
+| Step 04<br>![[OB017_step04.jpeg.webp\|200]] | Step 05<br>![[OB017_step05.jpeg.webp\|200]] | Step 06<br>![[OB017_step06.jpeg.webp\|200]] |
+| Step 07<br>![[OB017_step07.jpeg.webp\|200]] | Step 08<br>![[OB017_step08.jpeg.webp\|200]] | Step 09<br>![[OB017_step09.jpeg.webp\|200]] |
+| Step 10<br>![[OB017_step10.jpeg.webp\|200]] | Step 11<br>![[OB017_step11.jpeg.webp\|200]] |  |
 ---
 
 ## 5. Selección visual

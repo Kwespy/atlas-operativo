@@ -50,48 +50,13 @@ Se crea script para que la imagen se vaya alterando por desplazamiento de franja
 ### Imagen inicial
 ![[Input_001.jpg.webp|200]]
 
-### Step 01
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step01.jpg.webp|200]]
-
-### Step 02
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step02.jpg.webp|200]]
-
-### Step 03
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step03.jpg.webp|200]]
-
-### Step 04
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step04.jpg.webp|200]]
-
-### Step 05
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step05.jpg.webp|200]]
-
-### Step 06
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step06.jpg.webp|200]]
-
-### Step 07
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step07.jpg.webp|200]]
-
-### Step 08
-![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step08.jpg.webp|200]]
-
-### Step 09
-![[OB015_step09.jpg.webp|200]]
-
-### Step 10
-![[OB015_step10.jpg.webp|200]]
-
-### Step 11
-![[OB015_step11.jpg.webp|200]]
-
-### Step 12
-![[OB015_step12.jpg.webp|200]]
-
-### Step 13
-![[OB015_step13.jpg.webp|200]]
-
-### Step 14
-![[OB015_step14.jpg.webp|200]]
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step01.jpg.webp\|200]] | Step 02<br>![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step02.jpg.webp\|200]] | Step 03<br>![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step03.jpg.webp\|200]] |
+| Step 04<br>![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step04.jpg.webp\|200]] | Step 05<br>![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step05.jpg.webp\|200]] | Step 06<br>![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step06.jpg.webp\|200]] |
+| Step 07<br>![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step07.jpg.webp\|200]] | Step 08<br>![[01_OPERACIONES/Transformacion_Algoritmica/OB_016_Desplazamiento_por_franjas/016_PROCESO/OB015_step08.jpg.webp\|200]] | Step 09<br>![[OB015_step09.jpg.webp\|200]] |
+| Step 10<br>![[OB015_step10.jpg.webp\|200]] | Step 11<br>![[OB015_step11.jpg.webp\|200]] | Step 12<br>![[OB015_step12.jpg.webp\|200]] |
+| Step 13<br>![[OB015_step13.jpg.webp\|200]] | Step 14<br>![[OB015_step14.jpg.webp\|200]] |  |
 ---
 
 ## 5. Selección visual

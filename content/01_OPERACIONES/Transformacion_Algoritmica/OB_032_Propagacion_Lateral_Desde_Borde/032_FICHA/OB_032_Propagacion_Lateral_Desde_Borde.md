@@ -79,57 +79,14 @@ Los steps 01–02 prueban el arrastre horizontal con trazas cortas. Los steps 03
 ### Imagen inicial
 ![[Input_005.jpeg.webp|200]]
 
-### Step 01
-![[OB032_step01.jpeg.webp|200]]
-
-### Step 02
-![[OB032_step02.jpeg.webp|200]]
-
-### Step 03
-![[OB032_step03.jpeg.webp|200]]
-
-### Step 04
-![[OB032_step04.jpeg.webp|200]]
-
-### Step 05
-![[OB032_step05.jpeg.webp|200]]
-
-### Step 06
-![[OB032_step06.jpeg.webp|200]]
-
-### Step 07
-![[OB032_step07.jpeg.webp|200]]
-
-### Step 08
-![[OB032_step08.jpeg.webp|200]]
-
-### Step 09
-![[OB032_step09.jpeg.webp|200]]
-
-### Step 10
-![[OB032_step10.jpeg.webp|200]]
-
-### Step 11
-![[OB032_step11.jpeg.webp|200]]
-
-### Step 12
-![[OB032_step12.jpeg.webp|200]]
-
-### Step 13
-![[OB032_step13.jpeg.webp|200]]
-
-### Step 14
-![[OB032_step14.jpeg.webp|200]]
-
-### Step 15
-![[OB032_step15.jpeg.webp|200]]
-
-### Step 16
-![[OB032_step16.jpeg.webp|200]]
-
-### Step 17
-![[OB032_step17.jpeg.webp|200]]
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB032_step01.jpeg.webp\|200]] | Step 02<br>![[OB032_step02.jpeg.webp\|200]] | Step 03<br>![[OB032_step03.jpeg.webp\|200]] |
+| Step 04<br>![[OB032_step04.jpeg.webp\|200]] | Step 05<br>![[OB032_step05.jpeg.webp\|200]] | Step 06<br>![[OB032_step06.jpeg.webp\|200]] |
+| Step 07<br>![[OB032_step07.jpeg.webp\|200]] | Step 08<br>![[OB032_step08.jpeg.webp\|200]] | Step 09<br>![[OB032_step09.jpeg.webp\|200]] |
+| Step 10<br>![[OB032_step10.jpeg.webp\|200]] | Step 11<br>![[OB032_step11.jpeg.webp\|200]] | Step 12<br>![[OB032_step12.jpeg.webp\|200]] |
+| Step 13<br>![[OB032_step13.jpeg.webp\|200]] | Step 14<br>![[OB032_step14.jpeg.webp\|200]] | Step 15<br>![[OB032_step15.jpeg.webp\|200]] |
+| Step 16<br>![[OB032_step16.jpeg.webp\|200]] | Step 17<br>![[OB032_step17.jpeg.webp\|200]] |  |
 ---
 
 ## 5. Selección visual

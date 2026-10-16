@@ -54,43 +54,12 @@ Por un script que comprime el archivo gradualmente, la imagen fue perdiendo reso
 ### Imagen inicial
 ![[OB002_input.jpg|200]]
 
-### Step 01
-![[OB002_step01.jpg.webp|200]]
-
-### Step 02
-![[OB002_step02.jpg.webp|200]]
-
-### Step 03
-![[OB002_step03.jpg.webp|200]]
-
-### Step 04
-![[OB002_step04.jpg.webp|200]]
-
-### Step 05
-![[OB002_step05.jpg.webp|200]]
-
-### Step 06
-![[OB002_step06.jpg.webp|200]]
-
-### Step 07
-![[OB002_step07.jpg.webp|200]]
-
-### Step 08
-![[OB002_step08.jpg.webp|200]]
-
-### Step 09
-![[OB002_step09.jpg.webp|200]]
-
-### Step 10
-![[OB002_step10.jpg.webp|200]]
-
-### Step 11
-![[OB002_step11.jpg.webp|200]]
-
-### Step 12
-![[OB002_step12.jpg.webp|200]]
-
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB002_step01.jpg.webp\|200]] | Step 02<br>![[OB002_step02.jpg.webp\|200]] | Step 03<br>![[OB002_step03.jpg.webp\|200]] |
+| Step 04<br>![[OB002_step04.jpg.webp\|200]] | Step 05<br>![[OB002_step05.jpg.webp\|200]] | Step 06<br>![[OB002_step06.jpg.webp\|200]] |
+| Step 07<br>![[OB002_step07.jpg.webp\|200]] | Step 08<br>![[OB002_step08.jpg.webp\|200]] | Step 09<br>![[OB002_step09.jpg.webp\|200]] |
+| Step 10<br>![[OB002_step10.jpg.webp\|200]] | Step 11<br>![[OB002_step11.jpg.webp\|200]] | Step 12<br>![[OB002_step12.jpg.webp\|200]] |
 ---
 
 ## 5. Selección visual

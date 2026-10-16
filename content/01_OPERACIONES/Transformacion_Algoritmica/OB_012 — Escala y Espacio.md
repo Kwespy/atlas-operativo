@@ -59,35 +59,11 @@ Las formas que componen la imagen se distribuyen y escalan dentro de la imagen.
 ### Imagen inicial
 ![[Input_001.jpg.webp|200]]
 
-### Step 01
-![[OB012_step01.jpg.webp|200]]
-
-### Step 02
-![[OB012_step02.jpg.webp|200]]
-
-### Step 03
-![[OB012_step03.jpg.webp|200]]
-
-### Step 04
-![[OB012_step04.jpg.webp|200]]
-
-### Step 05
-![[OB012_step05.jpg.webp|200]]
-
-### Step 06
-![[OB012_step06.jpg.webp|200]]
-
-### Step 07
-![[OB012_step07.jpg.webp|200]]
-
-### Step 08
-![[OB012_step08.jpg.webp|200]]
-
-### Step 09
-![[OB012_step09.jpg.webp|200]]
-
-
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB012_step01.jpg.webp\|200]] | Step 02<br>![[OB012_step02.jpg.webp\|200]] | Step 03<br>![[OB012_step03.jpg.webp\|200]] |
+| Step 04<br>![[OB012_step04.jpg.webp\|200]] | Step 05<br>![[OB012_step05.jpg.webp\|200]] | Step 06<br>![[OB012_step06.jpg.webp\|200]] |
+| Step 07<br>![[OB012_step07.jpg.webp\|200]] | Step 08<br>![[OB012_step08.jpg.webp\|200]] | Step 09<br>![[OB012_step09.jpg.webp\|200]] |
 ---
 
 ## 5. Selección visual

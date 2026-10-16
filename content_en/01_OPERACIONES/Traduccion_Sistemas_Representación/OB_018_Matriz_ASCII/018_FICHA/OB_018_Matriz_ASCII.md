@@ -53,42 +53,12 @@ Raster photograph → tonal quantization → character matrix → typographic di
 ### Initial image
 ![[Input_001.jpg.webp|200]]
 
-### Step 01
-![[OB018_step01.png.webp|200]]
-
-### Step 02
-![[OB018_step02.png.webp|200]]
-
-### Step 03
-![[OB018_step03.png.webp|200]]
-
-### Step 04
-![[OB018_step04.png.webp|200]]
-
-### Step 05
-![[OB018_step05.png.webp|200]]
-
-### Step 06
-![[OB018_step06.png.webp|200]]
-
-### Step 07
-![[OB018_step07.png.webp|200]]
-
-### Step 08
-![[OB018_step08.png.webp|200]]
-
-### Step 09
-![[OB018_step09.png.webp|200]]
-
-### Step 10
-![[OB018_step10.png.webp|200]]
-
-### Step 11
-![[OB018_step11.png.webp|200]]
-
-### Step 12
-![[OB018_step12.png.webp|200]]
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB018_step01.png.webp\|200]] | Step 02<br>![[OB018_step02.png.webp\|200]] | Step 03<br>![[OB018_step03.png.webp\|200]] |
+| Step 04<br>![[OB018_step04.png.webp\|200]] | Step 05<br>![[OB018_step05.png.webp\|200]] | Step 06<br>![[OB018_step06.png.webp\|200]] |
+| Step 07<br>![[OB018_step07.png.webp\|200]] | Step 08<br>![[OB018_step08.png.webp\|200]] | Step 09<br>![[OB018_step09.png.webp\|200]] |
+| Step 10<br>![[OB018_step10.png.webp\|200]] | Step 11<br>![[OB018_step11.png.webp\|200]] | Step 12<br>![[OB018_step12.png.webp\|200]] |
 ---
 
 ## 5. Visual selection

@@ -113,6 +113,7 @@ RAW="$(find content -type f \( \
 echo "[7/8] Traduciendo operaciones nuevas e índices ES → EN..."
 python3 scripts/translate_atlas.py --only-operations "$MANIFEST"
 python3 scripts/conservar-indices-previos.py en "$MANIFEST"
+node scripts/organizar-rejillas-proceso.mjs
 
 ES_MD="$(find content -type f -name "*.md" | wc -l | tr -d " ")"
 EN_MD="$(find content_en -type f -name "*.md" | wc -l | tr -d " ")"
@@ -154,6 +155,7 @@ git add -- \
   scripts/conservar-indices-previos.py \
   scripts/copiar-assets-fichas.py \
   scripts/generate-notas-directas.mjs \
+  scripts/organizar-rejillas-proceso.mjs \
   scripts/generate-operaciones.mjs \
   scripts/translate_atlas.py
 

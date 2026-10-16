@@ -57,45 +57,13 @@ Using the iPhone's Freeform app, the object is quickly represented from life; sc
 ### Initial image
 ![[OB009_input.jpg|200]]
 
-### Step 01
-![[OB009_Step01.jpg.webp|200]]
-
-### Step 02
-![[OB009_Step02.jpg.webp|200]]
-
-### Step 03
-![[OB009_Step03.jpg.webp|200]]
-
-### Step 04
-![[OB009_Step04.jpg.webp|200]]
-
-### Step 05
-![[OB009_Step05.jpg.webp|200]]
-
-### Step 06
-![[OB009_Step06.jpg.webp|200]]
-
-### Step 07
-![[OB009_Step07.jpg.webp|200]]
-
-### Step 08
-![[OB009_Step08.jpg.webp|200]]
-
-### Step 09
-![[OB009_Step09.jpg.webp|200]]
-
-### Step 10
-![[OB009_Step10.jpg.webp|200]]
-
-### Step 11
-![[OB009_Step11.jpg.webp|200]]
-
-### Step 12
-![[OB009_Step12.jpg.webp|200]]
-
-### Step 13
-![[OB009_Step13.jpg.webp|200]]
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB009_Step01.jpg.webp\|200]] | Step 02<br>![[OB009_Step02.jpg.webp\|200]] | Step 03<br>![[OB009_Step03.jpg.webp\|200]] |
+| Step 04<br>![[OB009_Step04.jpg.webp\|200]] | Step 05<br>![[OB009_Step05.jpg.webp\|200]] | Step 06<br>![[OB009_Step06.jpg.webp\|200]] |
+| Step 07<br>![[OB009_Step07.jpg.webp\|200]] | Step 08<br>![[OB009_Step08.jpg.webp\|200]] | Step 09<br>![[OB009_Step09.jpg.webp\|200]] |
+| Step 10<br>![[OB009_Step10.jpg.webp\|200]] | Step 11<br>![[OB009_Step11.jpg.webp\|200]] | Step 12<br>![[OB009_Step12.jpg.webp\|200]] |
+| Step 13<br>![[OB009_Step13.jpg.webp\|200]] |  |  |
 ---
 
 ## 5. Visual selection

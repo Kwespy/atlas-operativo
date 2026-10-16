@@ -57,33 +57,11 @@ In Photoshop, the exposure of the image is increased and decreased.
 ### Initial image
 ![[Input_001.jpg.webp|200]]
 
-### Step 01
-![[OB005_step01.jpg.webp|200]]
-
-### Step 02
-![[OB005_step02.jpg.webp|200]]
-
-### Step 03
-![[OB005_step03.jpg.webp|200]]
-
-### Step 04
-![[OB005_step04.jpg.webp|200]]
-
-### Step 05
-![[OB005_step05.jpg.webp|200]]
-
-### Step 06
-![[OB005_step06.jpg.webp|200]]
-
-### Step 07
-![[OB005_step07.jpg.webp|200]]
-
-### Step 08
-![[OB005_step08.jpg.webp|200]]
-
-### Step 09
-![[OB005_step09.jpg.webp|200]]
-
+| | | |
+| --- | --- | --- |
+| Step 01<br>![[OB005_step01.jpg.webp\|200]] | Step 02<br>![[OB005_step02.jpg.webp\|200]] | Step 03<br>![[OB005_step03.jpg.webp\|200]] |
+| Step 04<br>![[OB005_step04.jpg.webp\|200]] | Step 05<br>![[OB005_step05.jpg.webp\|200]] | Step 06<br>![[OB005_step06.jpg.webp\|200]] |
+| Step 07<br>![[OB005_step07.jpg.webp\|200]] | Step 08<br>![[OB005_step08.jpg.webp\|200]] | Step 09<br>![[OB005_step09.jpg.webp\|200]] |
 ---
 
 ## 5. Visual selection
